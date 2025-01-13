@@ -1,0 +1,215 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "El Rápido",
+    "cuisine": ["Comida Cubana", "Comida Americana"],
+    "description": "El Rápido es un restaurante en el municipio Cerro, La Habana, que ofrece una selección de platos cubanos y americanos en un ambiente informal. Con su rápida atención y servicio eficiente, es el lugar perfecto para una comida rápida y deliciosa.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "07:30",
+        "close": "19:30"
+      },
+      "tuesday": {
+        "open": "07:30",
+        "close": "19:30"
+      },
+      "wednesday": {
+        "open": "07:30",
+        "close": "19:30"
+      },
+      "thursday": {
+        "open": "07:30",
+        "close": "19:30"
+      },
+      "friday": {
+        "open": "07:30",
+        "close": "19:30"
+      },
+      "saturday": {
+        "open": "07:30",
+        "close": "19:30"
+      },
+      "sunday": {
+        "open": "07:30",
+        "close": "19:30"
+      }
+    },
+    "address": null,
+    "municipality": "Cerro",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.11835682709935,
+      "longitude": -82.3775341306507
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Comida Cubana", "Comida Americana"],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": [],
+      "children": true,
+      "pets": null,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": ["Desayuno", "Almuerzo"],
+    "advantages": ["Accesible"],
+    "highlights": ["Servicio rápido"]
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Platos Principales",
+              "items": [
+                {
+                  "name": "Rapi Perro",
+                  "price": 220,
+                  "essential_ingredients": ["pan", "salchicha"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pan con Tortilla Natural",
+                  "price": 300,
+                  "essential_ingredients": ["pan", "tortilla"],
+                  "allergy_info": ["gluten", "huevo"]
+                },
+                {
+                  "name": "Bocadito de Jamón y Queso",
+                  "price": 300,
+                  "essential_ingredients": ["pan", "jamón", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Bocadito de Chorizo y Queso",
+                  "price": 300,
+                  "essential_ingredients": ["pan", "chorizo", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pan con Tortilla c/Jamón",
+                  "price": 360,
+                  "essential_ingredients": ["pan", "tortilla", "jamón"],
+                  "allergy_info": ["gluten", "huevo"]
+                },
+                {
+                  "name": "Pan con Tortilla c/Chorizo",
+                  "price": 360,
+                  "essential_ingredients": ["pan", "tortilla", "chorizo"],
+                  "allergy_info": ["gluten", "huevo"]
+                },
+                {
+                  "name": "Pan con Tortilla c/Cebolla",
+                  "price": 360,
+                  "essential_ingredients": ["pan", "tortilla", "cebolla"],
+                  "allergy_info": ["gluten", "huevo"]
+                },
+                {
+                  "name": "Papas Fritas (200g)",
+                  "price": 360,
+                  "essential_ingredients": ["papas", "aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Spaghetti Napoles",
+                  "price": 380,
+                  "essential_ingredients": ["spaghetti", "salsa napolitana"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Croquetas Caseras (15u)",
+                  "price": 400,
+                  "essential_ingredients": ["harina", "leche", "jamón"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pan con Tortilla c/Queso Gouda",
+                  "price": 400,
+                  "essential_ingredients": ["pan", "tortilla", "queso gouda"],
+                  "allergy_info": ["gluten", "huevo", "lactosa"]
+                },
+                {
+                  "name": "Rapi Perro Jumbo",
+                  "price": 420,
+                  "essential_ingredients": ["pan", "salchicha", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pan con Tortilla Jumbo (Todos los Agregos)",
+                  "price": 580,
+                  "essential_ingredients": ["pan", "tortilla", "varios ingredientes"],
+                  "allergy_info": ["gluten", "huevo"]
+                },
+                {
+                  "name": "Sandwich Jumbo (Chorizo, Jamón y Queso)",
+                  "price": 550,
+                  "essential_ingredients": ["pan", "chorizo", "jamón", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Hamburguesa de Cerdo",
+                  "price": 620,
+                  "essential_ingredients": ["pan", "cerdo", "vegetales"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Hamburguesa de Res",
+                  "price": 720,
+                  "essential_ingredients": ["pan", "res", "vegetales"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pan con Bistec de Cerdo",
+                  "price": 760,
+                  "essential_ingredients": ["pan", "bistec de cerdo"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pollo Chiflado",
+                  "price": 750,
+                  "essential_ingredients": ["pollo", "especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pan con Cerdo Asado",
+                  "price": 780,
+                  "essential_ingredients": ["pan", "cerdo asado"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Sandwich Cubano (Jamón, Queso y Cerdo Asado)",
+                  "price": 860,
+                  "essential_ingredients": ["pan", "jamón", "queso", "cerdo asado"],
+                  "allergy_info": ["gluten", "lactosa"]
+                }
+              ]
+            }
+          ]
+        }
+      }
+      

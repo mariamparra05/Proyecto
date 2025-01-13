@@ -1,0 +1,336 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Dona Almira",
+    "cuisine": ["Cubana"],
+    "description": null,
+    "contact_info": {
+      "phone": 
+        {
+          "number": "52928671",
+          "type": "mobile"
+        },
+      "email": null,
+      "website": null,
+      "instagram": null,
+      "facebook": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": null,
+        "close": null
+      },
+      "tuesday": {
+        "open": null,
+        "close": null
+      },
+      "wednesday": {
+        "open": null,
+        "close": null
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Calle Finlay No.979 % Avenida de Los Pinos y Fernandez de Castro, Arroyo Naranjo",
+    "municipality": "Arroyo Naranjo",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "Tostones rellenos",
+                  "price": 850.00,
+                  "essential_ingredients": ["Plátano", "Carne", "Queso"],
+                  "allergy_info": ["Lactosa"]
+                },
+                {
+                  "name": "Tamal en cazuela",
+                  "price": 785.00,
+                  "essential_ingredients": ["Maíz", "Carne", "Especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Vegetales rellenos",
+                  "price": 895.00,
+                  "essential_ingredients": ["Vegetales", "Queso"],
+                  "allergy_info": ["Lactosa"]
+                },
+                {
+                  "name": "Ración de chicharrones",
+                  "price": 300.00,
+                  "essential_ingredients": ["Cerdo", "Sal"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Aderezo Doña Almira",
+                  "price": 385.00,
+                  "essential_ingredients": ["Aceite", "Vinagre", "Especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Salsa agridulce",
+                  "price": 395.00,
+                  "essential_ingredients": ["Azúcar", "Vinagre", "Salsa de soja"],
+                  "allergy_info": ["Gluten"]
+                },
+                {
+                  "name": "Ensalada de chorizo",
+                  "price": 1225.00,
+                  "essential_ingredients": ["Chorizo", "Lechuga", "Tomate", "Cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Ceviche de pescado",
+                  "price": 685.00,
+                  "essential_ingredients": ["Pescado", "Cebolla", "Limón"],
+                  "allergy_info": ["Pescado"]
+                }
+              ]
+            },
+            {
+              "category": "Plato principal",
+              "items": [
+                {
+                  "name": "Migñon de pescado grillé",
+                  "price": 1370.00,
+                  "essential_ingredients": ["Pescado", "Aceite", "Especias"],
+                  "allergy_info": ["Pescado"]
+                },
+                {
+                  "name": "Migñon de pescado a las finas hierbas",
+                  "price": 1410.00,
+                  "essential_ingredients": ["Pescado", "Aceite", "Hierbas"],
+                  "allergy_info": ["Pescado"]
+                },
+                {
+                  "name": "Migñon de pescado Doña Almira",
+                  "price": 1650.00,
+                  "essential_ingredients": ["Pescado", "Aceite", "Especias"],
+                  "allergy_info": ["Pescado"]
+                },
+                {
+                  "name": "Migñon de pescado gratinado",
+                  "price": 1585.00,
+                  "essential_ingredients": ["Pescado", "Queso", "Crema"],
+                  "allergy_info": ["Pescado", "Lactosa"]
+                },
+                {
+                  "name": "Migñon de pescado con queso y bacon",
+                  "price": 1720.00,
+                  "essential_ingredients": ["Pescado", "Queso", "Bacon"],
+                  "allergy_info": ["Pescado", "Lactosa"]
+                },
+                {
+                  "name": "Bistec americano",
+                  "price": 2430.00,
+                  "essential_ingredients": ["Res", "Ajo", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Nasobuco",
+                  "price": 1860.00,
+                  "essential_ingredients": ["Res", "Cebolla", "Tomate"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bistec de hígado",
+                  "price": 1290.00,
+                  "essential_ingredients": ["Hígado de res", "Ajo", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Hígado a la italiana",
+                  "price": 1380.00,
+                  "essential_ingredients": ["Hígado de res", "Tomate", "Especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Lomo rostizado",
+                  "price": 2150.00,
+                  "essential_ingredients": ["Lomo de cerdo", "Ajo", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pollo Doña Almira",
+                  "price": 1340.00,
+                  "essential_ingredients": ["Pollo", "Especias", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pollo barbacoa",
+                  "price": 1195.00,
+                  "essential_ingredients": ["Pollo", "Salsa barbacoa"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pollo salsa agridulce",
+                  "price": 1295.00,
+                  "essential_ingredients": ["Pollo", "Salsa agridulce"],
+                  "allergy_info": ["Gluten"]
+                },
+                {
+                  "name": "Pollo grillé",
+                  "price": 1195.00,
+                  "essential_ingredients": ["Pollo", "Especias", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pollo en fricasé",
+                  "price": 1200.00,
+                  "essential_ingredients": ["Pollo", "Cebolla", "Pimiento", "Tomate"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pollo a la pasa",
+                  "price": 1220.00,
+                  "essential_ingredients": ["Pollo", "Pasas", "Especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pollo grillé con camarones",
+                  "price": 1375.00,
+                  "essential_ingredients": ["Pollo", "Camarones", "Especias"],
+                  "allergy_info": ["Mariscos"]
+                },
+                {
+                  "name": "Cerdo enrollado asado",
+                  "price": 1545.00,
+                  "essential_ingredients": ["Cerdo", "Especias", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Cerdo enrollado salsa agridulce",
+                  "price": 1570.00,
+                  "essential_ingredients": ["Cerdo", "Salsa agridulce"],
+                  "allergy_info": ["Gluten"]
+                },
+                {
+                  "name": "Cerdo enrollado glaseado",
+                  "price": 1550.00,
+                  "essential_ingredients": ["Cerdo", "Azúcar", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Fricasé de cerdo",
+                  "price": 1520.00,
+                  "essential_ingredients": ["Cerdo", "Cebolla", "Pimiento", "Tomate"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Picada a la habanera",
+                  "price": 1290.00,
+                  "essential_ingredients": ["Res", "Cebolla", "Pimiento"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Ropa vieja",
+                  "price": 1305.00,
+                  "essential_ingredients": ["Res", "Cebolla", "Pimiento", "Tomate"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Vaca frita",
+                  "price": 1260.00,
+                  "essential_ingredients": ["Res", "Cebolla", "Especias"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+                      "category": "Guarniciones",
+                      "items": [
+                        {
+                          "name": "Arroz congris",
+                          "price": 120.00,
+                          "essential_ingredients": ["Arroz", "Frijoles negros", "Ajo", "Aceite"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Ensalada estación",
+                          "price": 285.00,
+                          "essential_ingredients": ["Lechuga", "Tomate", "Pepino", "Aderezo"],
+                          "allergy_info": []
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Postres",
+                      "items": [
+                        {
+                          "name": "Musse variados",
+                          "price": 570.00,
+                          "essential_ingredients": ["Mousse de chocolate", "Mousse de fresa", "Mousse de vainilla"],
+                          "allergy_info": ["Lactosa"]
+                        },
+                        {
+                          "name": "Cafe cubano",
+                          "price": 150.00,
+                          "essential_ingredients": ["Cafe"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Cafe cortado",
+                          "price": 180.00,
+                          "essential_ingredients": ["Cafe", "Leche"],
+                          "allergy_info": ["Lactosa"]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+              

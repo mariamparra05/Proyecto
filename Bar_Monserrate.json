@@ -1,0 +1,310 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Restaurante"]
+      },
+      "name": "Bar_Monserrate",
+      "cuisine": ["Comida Rápida"],
+      "description": null,
+      "contact_info": {
+        "phone": {
+          "number": null,
+          "type": null
+        },
+        "email": null,
+        "website": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Bar%2BMonserrate/data%3D!4m2!3m1!1s0x0:0x7311d6750d8788ac%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwjm8rm-0pmKAxUKfTABHcq8LiQQ_BJ6BAgaEAk&usg=AOvVaw0rbjvA5ttMGL09bPEN3S_V"
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        "tuesday": {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        "wednesday": {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        "thursday": {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        "friday": {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        "saturday": {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        "sunday": {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      },
+      "address": "Esquina Monserrate Obrapía, La Habana 10100",
+      "municipality": "Habana Vieja",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Transferencia", "Efectivo"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Ninguno",
+        "description": "No se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": [],
+        "ambience": [],
+        "usual_customers": [],
+        "planning": [],
+        "children": "Entrada a Mayores de 18",
+        "pets": false,
+        "parking": false,
+        "wheelchair_accessible": true,
+        "infant_stool": false,
+        "smoking_area": true
+      },
+      "dietary_options": [],
+      "meals": [],
+      "highlights": ["Brocheta de Pollo"]
+    },
+                "menu": {
+                  "categories": [
+                    {
+                      "category": "Entrantes",
+                      "items": [
+                        {
+                          "name": "Picada de Salchicha",
+                          "price": 60,
+                          "essential_ingredients": ["salchicha"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Croquetas de Jamón",
+                          "price": 250,
+                          "essential_ingredients": ["jamón", "harina", "leche"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        },
+                        {
+                          "name": "Croquetas de Pollo",
+                          "price": 150,
+                          "essential_ingredients": ["pollo", "harina", "leche"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Platos principales",
+                      "items": [
+                        {
+                          "name": "Cola de Langosta",
+                          "price": 2300,
+                          "essential_ingredients": ["langosta"],
+                          "allergy_info": ["mariscos"]
+                        },
+                        {
+                          "name": "Anillas de Langosta",
+                          "price": 2175,
+                          "essential_ingredients": ["langosta"],
+                          "allergy_info": ["mariscos"]
+                        },
+                        {
+                          "name": "Camarón Grillé",
+                          "price": 1900,
+                          "essential_ingredients": ["camarón"],
+                          "allergy_info": ["mariscos"]
+                        },
+                        {
+                          "name": "Camarón Enchilado",
+                          "price": 1740,
+                          "essential_ingredients": ["camarón", "salsa"],
+                          "allergy_info": ["mariscos"]
+                        },
+                        {
+                          "name": "Bistec de Cerdo Grillé",
+                          "price": 850,
+                          "essential_ingredients": ["cerdo"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Fajitas de Cerdo",
+                          "price": 990,
+                          "essential_ingredients": ["cerdo"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Res Estofada",
+                          "price": 375,
+                          "essential_ingredients": ["res"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Brochetas de Pollo",
+                          "price": null,
+                          "essential_ingredients": ["pollo"],
+                          "allergy_info": []
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Guarniciones",
+                      "items": [
+                        {
+                          "name": "Arroz Blanco",
+                          "price": 100,
+                          "essential_ingredients": ["arroz"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Arroz Moro",
+                          "price": 135,
+                          "essential_ingredients": ["arroz", "frijoles"],
+                          "allergy_info": []
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Bebidas",
+                      "items": [
+                        {
+                          "name": "Cuba Libre",
+                          "price": 300,
+                          "essential_ingredients": ["ron", "cola"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Cubata",
+                          "price": 325,
+                          "essential_ingredients": ["ron", "cola"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Daiquiri",
+                          "price": 300,
+                          "essential_ingredients": ["ron", "limón"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Licor Cubay de Menta",
+                          "price": 200,
+                          "essential_ingredients": ["licor", "menta"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Licor Curacao Azul",
+                          "price": 200,
+                          "essential_ingredients": ["licor", "curacao"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Licor Cubay de Anís",
+                          "price": 200,
+                          "essential_ingredients": ["licor", "anís"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Chanceler",
+                          "price": 180,
+                          "essential_ingredients": ["varios"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "HC 3 Años",
+                          "price": 200,
+                          "essential_ingredients": ["ron"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "HC Blanco",
+                          "price": 200,
+                          "essential_ingredients": ["ron"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "HC Reserva",
+                          "price": 380,
+                          "essential_ingredients": ["ron"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "HC Especial",
+                          "price": 250,
+                          "essential_ingredients": ["ron"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "HC Ritual",
+                          "price": 250,
+                          "essential_ingredients": ["ron"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Limonada",
+                          "price": 100,
+                          "essential_ingredients": ["limón", "agua", "azúcar"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Cerveza Importada",
+                          "price": 175,
+                          "essential_ingredients": ["cerveza"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Parranda",
+                          "price": 180,
+                          "essential_ingredients": ["varios"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Cerveza Dispensada",
+                          "price": 190,
+                          "essential_ingredients": ["cerveza"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Jugo Nacional Lata",
+                          "price": 90,
+                          "essential_ingredients": ["jugo"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Bebida Energizante",
+                          "price": 200,
+                          "essential_ingredients": ["energizante"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Malta Importada",
+                          "price": 135,
+                          "essential_ingredients": ["malta"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Vaso de Jugo Importado",
+                          "price": 80,
+                          "essential_ingredients": ["jugo"],
+                          "allergy_info": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+                          

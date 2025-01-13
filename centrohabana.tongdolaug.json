@@ -1,0 +1,238 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Tong Do Laug",
+    "cuisine": ["Restaurante", "Comida China"],
+    "description": "Tong Do Laug es un restaurante especializado en comida china, ubicado en Centro Habana.",
+    "contact_info": {
+      "phone": {
+        "number": "+53 55100355",
+        "type": "landline"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "tuesday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "wednesday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "thursday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "friday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "saturday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "sunday": {
+        "open": "10:00",
+        "close": "21:00"
+      }
+    },
+    "address": "Cuchillo entre San Nicolas y Rayo",
+    "municipality": "Centro Habana",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": null,
+      "description": null,
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Platos Principales",
+              "items": [
+                {
+                  "name": "Jiaozi Ravioles",
+                  "price": 1350,
+                  "essential_ingredients": ["ravioles", "relleno de carne"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Bao",
+                  "price": 700,
+                  "essential_ingredients": ["pan bao", "relleno variado"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Mia Especial Tallarines",
+                  "price": 1100,
+                  "essential_ingredients": ["tallarines", "verduras", "carne"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Arroz Frito Especial",
+                  "price": 1100,
+                  "essential_ingredients": ["arroz", "huevos", "carne", "vegetales"],
+                  "allergy_info": ["huevos"]
+                },
+                {
+                  "name": "Siumi",
+                  "price": 1200,
+                  "essential_ingredients": ["dumplings", "carne"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Chunkun Rollitos de Primavera",
+                  "price": 1050,
+                  "essential_ingredients": ["rollitos de primavera", "verduras"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Sopa China",
+                  "price": 990,
+                  "essential_ingredients": ["caldo", "fideos", "carne", "vegetales"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Lomo Ahumado",
+                  "price": 2000,
+                  "essential_ingredients": ["lomo de cerdo ahumado"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Mariscos",
+                  "price": 2500,
+                  "essential_ingredients": ["mariscos variados"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Mar y Tierra",
+                  "price": 3850,
+                  "essential_ingredients": ["carne", "mariscos"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Camarones",
+                  "price": 3600,
+                  "essential_ingredients": ["camarones"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Pescado",
+                  "price": 1650,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Fajitas de Pechuga",
+                  "price": 2200,
+                  "essential_ingredients": ["pechuga de pollo"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Bebidas",
+              "items": [
+                {
+                  "name": "Cerveza",
+                  "price": 300,
+                  "essential_ingredients": ["cebada", "agua", "lúpulo"],
+                  "allergy_info": ["gluten", "alcohol"]
+                },
+                {
+                  "name": "Cerveza Nacional",
+                  "price": 500,
+                  "essential_ingredients": ["cebada", "agua", "lúpulo"],
+                  "allergy_info": ["gluten", "alcohol"]
+                },
+                {
+                  "name": "Refresco",
+                  "price": 300,
+                  "essential_ingredients": ["agua carbonatada", "azúcar", "saborizantes"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Jugo",
+                  "price": 330,
+                  "essential_ingredients": ["frutas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Frapeado",
+                  "price": 330,
+                  "essential_ingredients": ["frutas", "hielo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Cocteles",
+                  "price": 660,
+                  "essential_ingredients": ["alcohol", "jugos variados"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Café",
+                  "price": 390,
+                  "essential_ingredients": ["café"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Té",
+                  "price": 170,
+                  "essential_ingredients": ["té"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Agua",
+                  "price": 220,
+                  "essential_ingredients": ["agua"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Agua caliente",
+                  "price": 220,
+                  "essential_ingredients": ["agua caliente"],
+                  "allergy_info": []
+            }
+          ]
+        }
+    ]
+    }
+}
+      

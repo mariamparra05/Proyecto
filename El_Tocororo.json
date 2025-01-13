@@ -1,0 +1,419 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "El Tocororo",
+    "cuisine": ["Criolla"],
+    "description": "Estatal",
+    "contact_info": {
+      "phone": {
+        "number": "72024530",
+        "type": "landline"
+      },
+      "email": null,
+      "website": "https://www.instagram.com/explore/locations/690003488/el-tocororo-la-habana-cuba/"
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Calle 18/ 3era y 5ta Miramar, Playa",
+    "municipality": "Playa",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": "23.124905240397386",
+      "longitude": "-82.42134057564077"
+    },
+    "social_media": {
+      "facebook": "https://www.facebook.com/p/Restaurante-BAR-Tocororo-100064148438441/?locale=es_LA",
+      "instagram": "https://www.instagram.com/explore/locations/690003488/el-tocororo-la-habana-cuba/"
+    },
+    "accepted_payment_methods": ["Efectivo (CUP)", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": ["Baño", "Bar", "Sala de Espera"],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": ["Bailable", "Flamenco"],
+      "children": false,
+      "pets": null,
+      "parking": true
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": ["Música en Vivo"]
+},
+        "menu": {
+          "categories": [
+            {
+              "category": "Panecillos",
+              "items": [
+                {
+                  "name": "Panadería de la Casa",
+                  "price": 75,
+                  "essential_ingredients": ["pan"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "Cóctel de Langosta",
+                  "price": 550,
+                  "essential_ingredients": ["langosta"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Cóctel de Pescado",
+                  "price": 385,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Ensalada de Pollo Tropical",
+                  "price": 300,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Dados de Queso en Escabeche",
+                  "price": 425,
+                  "essential_ingredients": ["queso"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Entremés de Jamón",
+                  "price": 285,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Ceviche Caribeño",
+                  "price": 450,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Picadera Especial Tocororos",
+                  "price": 1500,
+                  "essential_ingredients": ["jamón", "queso", "croquetas", "fajitas de pechuga"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Frituritas de la Abuela",
+                  "price": 170,
+                  "essential_ingredients": ["malanga"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Croquetas del Chef",
+                  "price": 200,
+                  "essential_ingredients": ["croquetas"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Eperlan de Pescado",
+                  "price": 675,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Mejillones a la Diabla",
+                  "price": 700,
+                  "essential_ingredients": ["mejillones"],
+                  "allergy_info": ["mariscos"]
+                }
+              ]
+            },
+            {
+              "category": "Platos principales",
+              "items": [
+                {
+                  "name": "Pesca Especial del Día con Salsa de Limón",
+                  "price": 1600,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Delicias del Caribe",
+                  "price": 1775,
+                  "essential_ingredients": ["pescado", "mariscos"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Langosta Grillé Abrillantada con Mantequilla y Olivo",
+                  "price": 1750,
+                  "essential_ingredients": ["langosta"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Langosta Enchilada",
+                  "price": 1700,
+                  "essential_ingredients": ["langosta"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Mejillones a la Diabla",
+                  "price": 1250,
+                  "essential_ingredients": ["mejillones"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Pollo al Horno al Estilo del Chef",
+                  "price": 820,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Suprema de Pollo Perfumada al Olivo",
+                  "price": 850,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Hígado Grillé con Aderezo Primavera",
+                  "price": 985,
+                  "essential_ingredients": ["hígado"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Lonjas de Cerdo Asado con Mojo Criollo",
+                  "price": 1500,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Costilla de Cerdo Asado a lo Cubano",
+                  "price": 1425,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Ternera Guisada a la Campesina",
+                  "price": 1550,
+                  "essential_ingredients": ["ternera"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+            "category": "Guarniciones",
+            "items": [
+              {
+                "name": "Hortalizas Salteadas",
+                "price": 100.0,
+                "essential_ingredients": ["hortalizas"],
+                "allergy_info": []
+              },
+              {
+                "name": "Arroz Blanco",
+                "price": 110.0,
+                "essential_ingredients": ["arroz"],
+                "allergy_info": []
+              },
+              {
+                "name": "Arroz Moro",
+                "price": 200.0,
+                "essential_ingredients": ["arroz"],
+                "allergy_info": []
+              },
+              {
+                "name": "Vianda Hervida Aderezada con Mojo Criollo",
+                "price": 100.0,
+                "essential_ingredients": ["vianda"],
+                "allergy_info": []
+              },
+              {
+                "name": "Vianda Frita",
+                "price": 100.0,
+                "essential_ingredients": ["vianda"],
+                "allergy_info": []
+              },
+              {
+                "name": "Papas Fritas",
+                "price": 150.0,
+                "essential_ingredients": ["papas"],
+                "allergy_info": []
+              },
+              {
+                "name": "Ensalada de Hortalizas del Día",
+                "price": 100.0,
+                "essential_ingredients": ["verduras"],
+                "allergy_info": []
+              },
+              {
+                "name": "Sopón Campesino",
+                "price": 80,
+                "essential_ingredients": ["carne de cerdo", "tubérculos feculentos", "plátano", "calabaza", "salsa de tomate especiada"],
+                "allergy_info": []
+              },
+              {
+                "name": "Frijoles Negros a la Criolla",
+                "price": 180,
+                "essential_ingredients": ["frijoles negros"],
+                "allergy_info": []
+              },
+              {
+                "name": "Caldo Marinero",
+                "price": 195,
+                "essential_ingredients": ["pescado", "mariscos", "vegetales", "especias"],
+                "allergy_info": ["mariscos"]
+              }
+            ]
+          },
+          {
+            "category": "Pastas",
+            "items": [
+              {
+                "name": "Espaguetis Napolitano",
+                "price": 550,
+                "essential_ingredients": ["pastas"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Espaguetis Primavera",
+                "price": 625,
+                "essential_ingredients": ["pastas"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Espaguetis al Olio",
+                "price": 550,
+                "essential_ingredients": ["pastas"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Espaguetis Guarnecido con Jamón",
+                "price": 685,
+                "essential_ingredients": ["pastas"],
+                "allergy_info": ["gluten", "jamón"]
+              },
+              {
+                "name": "Espaguetis Marinero",
+                "price": 850,
+                "essential_ingredients": ["pastas"],
+                "allergy_info": ["gluten", "mariscos"]
+              }
+            ]
+          },
+          {
+            "category": "Postres",
+            "items": [
+              {
+                "name": "Deliciosa Torta de la Casa",
+                "price": 285,
+                "essential_ingredients": ["torta"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Arroz con Leche a la Canela",
+                "price": 200,
+                "essential_ingredients": ["arroz", "leche", "canela"],
+                "allergy_info": []
+              },
+              {
+                "name": "Dulces en Almíbar Guarnecido con Queso",
+                "price": 200,
+                "essential_ingredients": ["queso"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Helado Tocororo",
+                "price": 180,
+                "essential_ingredients": ["helado"],
+                "allergy_info": ["lactosa"]
+              }
+            ]
+          },
+          {
+            "category": "Bebidas",
+            "items": [
+              {
+                "name": "Café Expreso",
+                "price": 90,
+                "essential_ingredients": ["café"],
+                "allergy_info": []
+              },
+              {
+                "name": "Café Cortadito",
+                "price": 100,
+                "essential_ingredients": ["café"],
+                "allergy_info": []
+              },
+              {
+                "name": "Café Rocío de Gallo",
+                "price": 150,
+                "essential_ingredients": ["café"],
+                "allergy_info": []
+              },
+              {
+                "name": "Café Carajillo",
+                "price": 150,
+                "essential_ingredients": ["café"],
+                "allergy_info": []
+              },
+              {
+                "name": "Café Americano",
+                "price": 100,
+                "essential_ingredients": ["café"],
+                "allergy_info": []
+              },
+              {
+                "name": "Infusión de Manzanilla",
+                "price": 100,
+                "essential_ingredients": ["manzanilla"],
+                "allergy_info": []
+              },
+              {
+                "name": "Infusión de Menta Poleo",
+                "price": 100,
+                "essential_ingredients": ["menta"],
+                "allergy_info": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+    

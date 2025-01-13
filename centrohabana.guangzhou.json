@@ -1,0 +1,615 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Guang Zhou",
+    "cuisine": ["Comida China"],
+    "description": "Guang Zhou es un restaurante especializado en comida china.",
+    "contact_info": {
+      "phone": {
+        "number": "078615229",
+        "type": "landline"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "11:00",
+        "close": "00:00"
+      },
+      "tuesday": {
+        "open": "11:00",
+        "close": "00:00"
+      },
+      "wednesday": {
+        "open": "11:00",
+        "close": "00:00"
+      },
+      "thursday": {
+        "open": "11:00",
+        "close": "00:00"
+      },
+      "friday": {
+        "open": "11:00",
+        "close": "00:00"
+      },
+      "saturday": {
+        "open": "11:00",
+        "close": "00:00"
+      },
+      "sunday": {
+        "open": "11:00",
+        "close": "00:00"
+      }
+    },
+    "address": "Cuchillo entre San Nicolas y Rayo",
+    "municipality": "Centro Habana",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Platos Principales",
+              "items": [
+                {
+                  "name": "Pollo a la plancha",
+                  "price": 1800,
+                  "essential_ingredients": ["pollo", "especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Cerdo a la plancha",
+                  "price": 2000,
+                  "essential_ingredients": ["cerdo", "especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Res a la plancha",
+                  "price": 2100,
+                  "essential_ingredients": ["res", "especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pescado a la plancha",
+                  "price": 2100,
+                  "essential_ingredients": ["pescado", "especias"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Pollo Grille",
+                  "price": 1500,
+                  "essential_ingredients": ["pollo", "especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pescado Grille",
+                  "price": 1500,
+                  "essential_ingredients": ["pescado", "especias"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Marisco a la plancha",
+                  "price": 3100,
+                  "essential_ingredients": ["mariscos", "especias"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "De la Tierra",
+                  "price": 4200,
+                  "essential_ingredients": ["carne de res", "cerdo", "pollo", "especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Del Mar",
+                  "price": 5500,
+                  "essential_ingredients": ["mariscos variados", "especias"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Mar y Tierra",
+                  "price": 5900,
+                  "essential_ingredients": ["mariscos", "carne de res", "pollo", "especias"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Cazuela de Mariscos",
+                  "price": 5575,
+                  "essential_ingredients": ["mariscos variados", "especias"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Cerdo Grille",
+                  "price": 1650,
+                  "essential_ingredients": ["cerdo", "especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Espaguetis Napolitanos",
+                  "price": 1080.00,
+                  "essential_ingredients": ["espaguetis", "salsa napolitana", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza Napolitana con queso blanco",
+                  "price": 1150.00,
+                  "essential_ingredients": ["masa de pizza", "salsa napolitana", "queso blanco"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza Napolitana con queso Gouda",
+                  "price": 1250.00,
+                  "essential_ingredients": ["masa de pizza", "salsa napolitana", "queso gouda"],
+                  "allergy_info": ["gluten", "lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Adiciones",
+              "items": [
+                {
+                  "name": "Tomate natural",
+                  "price": 200.00,
+                  "essential_ingredients": ["tomate"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pimiento",
+                  "price": 200.00,
+                  "essential_ingredients": ["pimiento"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Cebolla",
+                  "price": 200.00,
+                  "essential_ingredients": ["cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Piña",
+                  "price": 200.00,
+                  "essential_ingredients": ["piña"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Jamón",
+                  "price": 450.00,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chorizo",
+                  "price": 300.00,
+                  "essential_ingredients": ["chorizo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bacon",
+                  "price": 300.00,
+                  "essential_ingredients": ["bacon"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Champiñones",
+                  "price": 300.00,
+                  "essential_ingredients": ["champiñones"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Aceitunas",
+                  "price": 250.00,
+                  "essential_ingredients": ["aceitunas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Atún",
+                  "price": 500.00,
+                  "essential_ingredients": ["atún"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Queso Blanco",
+                  "price": 250.00,
+                  "essential_ingredients": ["queso blanco"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Marisco",
+                  "price": 750.00,
+                  "essential_ingredients": ["mariscos"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Jamón Serrano",
+                  "price": 500.00,
+                  "essential_ingredients": ["jamón serrano"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Acompañamientos",
+              "items": [
+                {
+                  "name": "Arroz blanco",
+                  "price": 315,
+                  "essential_ingredients": ["arroz"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Arroz frito",
+                  "price": 1710,
+                  "essential_ingredients": ["arroz", "huevos", "vegetales"],
+                  "allergy_info": ["huevos"]
+                },
+                {
+                  "name": "Arroz Moro",
+                  "price": 415,
+                  "essential_ingredients": ["arroz", "frijoles"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Arroz frito especial",
+                  "price": 2110,
+                  "essential_ingredients": ["arroz", "huevos", "vegetales", "carne"],
+                  "allergy_info": ["huevos"]
+                },
+                {
+                  "name": "Arroz frito familiar",
+                  "price": 2970,
+                  "essential_ingredients": ["arroz", "huevos", "vegetales", "carne"],
+                  "allergy_info": ["huevos"]
+                },
+                {
+                  "name": "Chao mian (Fideos fritos)",
+                  "price": 900,
+                  "essential_ingredients": ["fideos", "vegetales"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Chop Suey de Pollo",
+                  "price": 1700,
+                  "essential_ingredients": ["pollo", "vegetales", "salsa"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chop Suey de Cerdo",
+                  "price": 1900,
+                  "essential_ingredients": ["cerdo", "vegetales", "salsa"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chop Suey de vegetales",
+                  "price": 800.00,
+                  "essential_ingredients": ["vegetales", "salsa"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Viandas fritas del día",
+                  "price": 300,
+                  "essential_ingredients": ["viandas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Viandas fritas del día",
+                  "price": 300,
+                  "essential_ingredients": ["viandas fritas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Yuca con mojo",
+                  "price": 250.00,
+                  "essential_ingredients": ["yuca", "mojo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Ensalada mixta",
+                  "price": 300.00,
+                  "essential_ingredients": ["vegetales variados"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Bebidas",
+              "items": [
+                  { 
+                  "name": "Havana Club 3 años",
+                  "price": 350,
+                  "essential_ingredients": ["ron"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Havana Club Especial",
+                  "price": 250,
+                  "essential_ingredients": ["ron"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Havana Club Reserva",
+                  "price": 400,
+                  "essential_ingredients": ["ron"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Havana Club 7 años",
+                  "price": 450,
+                  "essential_ingredients": ["ron"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Whisky",
+                  "price": 400,
+                  "essential_ingredients": ["whisky"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Vodka",
+                  "price": 500,
+                  "essential_ingredients": ["vodka"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Tequila Blanco",
+                  "price": 500,
+                  "essential_ingredients": ["tequila"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Tequila Reposado",
+                  "price": 500,
+                  "essential_ingredients": ["tequila"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Ginebra",
+                  "price": 500,
+                  "essential_ingredients": ["ginebra"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Vino tinto",
+                  "price": 500,
+                  "essential_ingredients": ["vino tinto"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Vino blanco",
+                  "price": 500,
+                  "essential_ingredients": ["vino blanco"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Cerveza Nacional",
+                  "price": 385.00,
+                  "essential_ingredients": ["cebada", "agua", "lúpulo"],
+                  "allergy_info": ["gluten", "alcohol"]
+                },
+                {
+                  "name": "Cerveza Importada",
+                  "price": 300.00,
+                  "essential_ingredients": ["cebada", "agua", "lúpulo"],
+                  "allergy_info": ["gluten", "alcohol"]
+                },
+                {
+                  "name": "Kermato (Jugo de tomate)",
+                  "price": 200.00,
+                  "essential_ingredients": ["tomate", "condimentos"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Refresco Nacional",
+                  "price": 350.00,
+                  "essential_ingredients": ["agua carbonatada", "azúcar", "saborizantes"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Refresco Importado",
+                  "price": 350.00,
+                  "essential_ingredients": ["agua carbonatada", "azúcar", "saborizantes"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Malta",
+                  "price": 400.00,
+                  "essential_ingredients": ["cebada", "agua", "lúpulo"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Malteada (Malta con leche)",
+                  "price": 550.00,
+                  "essential_ingredients": ["malta", "leche"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Agua",
+                  "price": 190.00,
+                  "essential_ingredients": ["agua"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Agua 1.5L",
+                  "price": 280.00,
+                  "essential_ingredients": ["agua"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Jugo Natural",
+                  "price": 325.00,
+                  "essential_ingredients": ["frutas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Jugo en conserva",
+                  "price": 350.00,
+                  "essential_ingredients": ["frutas", "azúcar"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Café Expreso",
+                  "price": 100.00,
+                  "essential_ingredients": ["café"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Café Americano",
+                  "price": 150.00,
+                  "essential_ingredients": ["café"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Café Cortado",
+                  "price": 150.00,
+                  "essential_ingredients": ["café", "leche"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Café Capsula",
+                  "price": 300.00,
+                  "essential_ingredients": ["café"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Té",
+                  "price": 60.00,
+                  "essential_ingredients": ["té"],
+                  "allergy_info": []
+                },
+                {
+
+                  "name": "Michelada",
+                  "price": 200,
+                  "essential_ingredients": ["cerveza", "limón", "salsa inglesa"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Mojito",
+                  "price": 400,
+                  "essential_ingredients": ["ron", "menta", "azúcar", "limón"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Cuba Libre",
+                  "price": 400,
+                  "essential_ingredients": ["ron", "refresco de cola", "limón"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Ron Collins",
+                  "price": 400,
+                  "essential_ingredients": ["ron", "limón", "soda"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Limonada Frappe",
+                  "price": 350,
+                  "essential_ingredients": ["limón", "azúcar", "hielo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Daiquiri Frappe",
+                  "price": 400,
+                  "essential_ingredients": ["ron", "limón", "hielo", "azúcar"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Piña Colada",
+                  "price": 600,
+                  "essential_ingredients": ["ron", "piña", "coco", "hielo"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Cubata",
+                  "price": 400,
+                  "essential_ingredients": ["ron", "refresco de cola"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Sangría",
+                  "price": 600,
+                  "essential_ingredients": ["vino tinto", "frutas", "refresco"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Gin Tonic",
+                  "price": 550,
+                  "essential_ingredients": ["ginebra", "tónica"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Margarita",
+                  "price": 550,
+                  "essential_ingredients": ["tequila", "limón", "sal"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Caipiriña",
+                  "price": 450,
+                  "essential_ingredients": ["cachaça", "limón", "azúcar"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Caipiroska",
+                  "price": 550,
+                  "essential_ingredients": ["vodka", "limón", "azúcar"],
+                  "allergy_info": ["alcohol"]
+                }
+              ]
+            },
+            {
+            "plus": {
+              "items": [
+                {
+                  "name": "Termo Pack",
+                  "price": 120.00
+                },
+                {
+                  "name": "Caja de Pizza",
+                  "price": 1000.00
+                }
+              ]
+            }
+          }
+          ]
+        }
+    }
+
+      
+    
+  
+             

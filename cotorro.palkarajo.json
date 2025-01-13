@@ -1,0 +1,261 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Pal'Karajo",
+    "cuisine": ["Comida Rápida"],
+    "description": "Pal'Karajo es una cafetería en el municipio Cotorro, ubicada en Avenida 101 Esquina 16 Centro Cotorro. Con apertura reciente, es famoso por su pan con lechón y tacos, así como por su cerveza. Es el lugar ideal para disfrutar de una comida rápida en un ambiente agradable.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "tuesday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "wednesday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "thursday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "friday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "saturday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "sunday": {
+        "open": "10:00",
+        "close": "22:00"
+      }
+    },
+    "address": "Avenida 101 Esquina 16 Centro Cotorro",
+    "municipality": "Cotorro",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "instagram": "Instagram",
+      "facebook": "Facebook"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Pan con Lechón", "Tacos"],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable"],
+      "usual_customers": ["Turistas"],
+      "planning": [],
+      "children": false,
+      "pets": true,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": ["Almuerzo"],
+    "advantages": [],
+    "highlights": []
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "Chicarrita de Boniato",
+                  "price": 200,
+                  "essential_ingredients": ["boniato"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Bocadillos",
+              "items": [
+                {
+                  "name": "Pan Pal'Karajo",
+                  "price": 790,
+                  "essential_ingredients": ["pan", "ingredientes variados"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pan con Lechón",
+                  "price": 450,
+                  "essential_ingredients": ["pan", "lechón"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pan con Jamón",
+                  "price": 300,
+                  "essential_ingredients": ["pan", "jamón"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pan con Chorizo",
+                  "price": 250,
+                  "essential_ingredients": ["pan", "chorizo"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pan con Jamón y Chorizo",
+                  "price": 400,
+                  "essential_ingredients": ["pan", "jamón", "chorizo"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Platos Principales",
+              "items": [
+                {
+                  "name": "Tacos de Cerdo Mechados",
+                  "price": 890,
+                  "essential_ingredients": ["tacos", "cerdo mechado"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Tacos de Cerdo Estofados",
+                  "price": 990,
+                  "essential_ingredients": ["tacos", "cerdo estofado"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Bebidas",
+              "items": [
+                {
+                  "name": "Michelada con Cristal",
+                  "price": 550,
+                  "essential_ingredients": ["cerveza Cristal", "limón", "sal"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Chelada con Cristal",
+                  "price": 550,
+                  "essential_ingredients": ["cerveza Cristal", "limón"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Expresso",
+                  "price": 100,
+                  "essential_ingredients": ["café"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Cortado",
+                  "price": 150,
+                  "essential_ingredients": ["café", "leche"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Capuccino",
+                  "price": 300,
+                  "essential_ingredients": ["café", "leche", "espuma de leche"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Frapuccino",
+                  "price": 400,
+                  "essential_ingredients": ["café", "leche", "hielo"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Bombón",
+                  "price": 300,
+                  "essential_ingredients": ["café", "leche condensada"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Jugo de Mango",
+                  "price": 200,
+                  "essential_ingredients": ["mango"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Jugo de Piña",
+                  "price": 200,
+                  "essential_ingredients": ["piña"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Batido de Mango",
+                  "price": 380,
+                  "essential_ingredients": ["mango", "leche"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Batido de Mamey",
+                  "price": 400,
+                  "essential_ingredients": ["mamey", "leche"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Batido de Trigo",
+                  "price": 380,
+                  "essential_ingredients": ["trigo", "leche"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Batido de Maní",
+                  "price": 400,
+                  "essential_ingredients": ["maní", "leche"],
+                  "allergy_info": ["lactosa", "nueces"]
+                },
+                {
+                  "name": "Batido de Maní con Chocolate",
+                  "price": 450,
+                  "essential_ingredients": ["maní", "chocolate", "leche"],
+                  "allergy_info": ["lactosa", "nueces"]
+                },
+                {
+                  "name": "Piña Colada",
+                  "price": 400,
+                  "essential_ingredients": ["piña", "leche de coco"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Malteada",
+                  "price": 500,
+                  "essential_ingredients": ["helado", "leche"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Limonada",
+                  "price": 400,
+                  "essential_ingredients": ["limón"],
+                  "allergy_info": []
+                }
+              ]
+            }
+          ]
+        }
+      }
+      
+       

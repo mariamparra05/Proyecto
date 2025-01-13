@@ -1,0 +1,278 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Pizzeria Los Atrevidos",
+    "cuisine": ["Italiana"],
+    "description": null,
+    "contact_info": {
+      "phone": 
+        {
+          "number": "52966948",
+          "type": "mobile"
+        },
+
+      "email": null,
+      "website": "https://atrevidospizzeria.com/",
+      "instagram": null,
+      "facebook": "https://www.facebook.com/pizzerialosatrevidos"
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "tuesday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "wednesday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "thursday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "friday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "saturday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "sunday": {
+        "open": "10:00",
+        "close": "21:00"
+      }
+    },
+    "address": "Calzada de Bejucal # 2639 e/ Estrella y Camilo Sierra, Arroyo Naranjo",
+    "municipality": "Arroyo Naranjo",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": "https://www.facebook.com/pizzerialosatrevidos",
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": true
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+    "menu": {
+      "categories": [
+        {
+          "category": "Entrantes",
+          "items": [
+            {
+              "name": "Pizza napolitana",
+              "price": 1100,
+              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza d' cebolla",
+              "price": 1250,
+              "essential_ingredients": ["Masa de pizza", "Cebolla", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza d' champiñones",
+              "price": 1300,
+              "essential_ingredients": ["Masa de pizza", "Champiñones", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza d' pimiento",
+              "price": 1250,
+              "essential_ingredients": ["Masa de pizza", "Pimiento", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza d' jamón",
+              "price": 1350,
+              "essential_ingredients": ["Masa de pizza", "Jamón", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza d' aceitunas",
+              "price": 1400,
+              "essential_ingredients": ["Masa de pizza", "Aceitunas", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza d' chorizo",
+              "price": 1350,
+              "essential_ingredients": ["Masa de pizza", "Chorizo", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza d' chorizo vela",
+              "price": 1150,
+              "essential_ingredients": ["Masa de pizza", "Chorizo vela", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza hawaiana",
+              "price": 1400,
+              "essential_ingredients": ["Masa de pizza", "Piña", "Jamón", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza d' bacon",
+              "price": 1400,
+              "essential_ingredients": ["Masa de pizza", "Bacon", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza d' atún",
+              "price": 1500,
+              "essential_ingredients": ["Masa de pizza", "Atún", "Queso"],
+              "allergy_info": ["Gluten", "Pescado", "Lactosa"]
+            },
+            {
+              "name": "Pizza bolonesa",
+              "price": 1600,
+              "essential_ingredients": ["Masa de pizza", "Salsa boloñesa", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza d' jamón serrano",
+              "price": 1550,
+              "essential_ingredients": ["Masa de pizza", "Jamón serrano", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza d' camarones",
+              "price": 1650,
+              "essential_ingredients": ["Masa de pizza", "Camarones", "Queso"],
+              "allergy_info": ["Gluten", "Mariscos", "Lactosa"]
+            },
+            {
+              "name": "Pizza 4 quesos",
+              "price": 1500,
+              "essential_ingredients": ["Masa de pizza", "Quesos variados"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza atrevida",
+              "price": 1800,
+              "essential_ingredients": ["Masa de pizza", "Queso", "Pepperoni", "Pimientos"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza jamón pernia",
+              "price": 1500,
+              "essential_ingredients": ["Masa de pizza", "Jamón", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Plato principal",
+          "items": [
+            {
+              "name": "Lasaña",
+              "price": 1100,
+              "essential_ingredients": ["Pasta", "Carne", "Salsa de tomate", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Spaguetis napolitanos",
+              "price": 1000,
+              "essential_ingredients": ["Espaguetis", "Tomate", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Spaguetis d' parmesano",
+              "price": 1200,
+              "essential_ingredients": ["Espaguetis", "Queso parmesano"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Spaguetis d' jamón",
+              "price": 1250,
+              "essential_ingredients": ["Espaguetis", "Jamón", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Spaguetis d' atún",
+              "price": 1350,
+              "essential_ingredients": ["Espaguetis", "Atún", "Queso"],
+              "allergy_info": ["Gluten", "Pescado", "Lactosa"]
+            },
+            {
+              "name": "Spaguetis d' chorizo",
+              "price": 1250,
+              "essential_ingredients": ["Espaguetis", "Chorizo", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Spaguetis d' aceituna",
+              "price": 1300,
+              "essential_ingredients": ["Espaguetis", "Aceitunas", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Spaguetis d' cebolla",
+              "price": 1150,
+              "essential_ingredients": ["Espaguetis", "Cebolla", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Spaguetis hawaianos",
+              "price": 1300,
+              "essential_ingredients": ["Espaguetis", "Piña", "Jamón", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Spaguetis 4 quesos",
+              "price": 1400,
+              "essential_ingredients": ["Espaguetis", "Quesos variados"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Spaguetis atrevidos",
+              "price": 1050,
+              "essential_ingredients": ["Espaguetis", "Queso", "Pepperoni", "Pimientos"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Spaguetis bolonesa",
+              "price": 1450,
+              "essential_ingredients": ["Espaguetis", "Salsa boloñesa", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

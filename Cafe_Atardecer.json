@@ -1,0 +1,232 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Cafetería"]
+    },
+    "name": "Cafe Atardecer",
+    "cuisine": ["Criolla"],
+    "description": "Estatal",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "07:00",
+        "close": "19:00"
+      },
+      "tuesday": {
+        "open": "07:00",
+        "close": "19:00"
+      },
+      "wednesday": {
+        "open": "07:00",
+        "close": "19:00"
+      },
+      "thursday": {
+        "open": "07:00",
+        "close": "19:00"
+      },
+      "friday": {
+        "open": "07:00",
+        "close": "19:00"
+      },
+      "saturday": {
+        "open": "07:00",
+        "close": "19:00"
+      },
+      "sunday": {
+      "open": "07:00",
+      "close": "19:00"
+      }
+    },
+    "address": "Martí entre Perdomo y Albuquerque, Regla, La Habana, Cuba",
+    "municipality": "Regla",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": "23.125469635245604",
+      "longitude": "-82.33014753559166"
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo (CUP)"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": true,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": ["Baño"],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": null,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+
+  "menu": {
+    "categories": [
+      {
+        "category": "Entrantes",
+        "items": [
+          {
+            "name": "Croqueta",
+            "price": 75,
+            "essential_ingredients": ["masa"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Medallón",
+            "price": 90,
+            "essential_ingredients": ["harina"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Queso",
+            "price": 90,
+            "essential_ingredients": ["queso"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Perro",
+            "price": 120,
+            "essential_ingredients": ["salchicha"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Jamón y Queso",
+            "price": 150,
+            "essential_ingredients": ["queso", "jamón"],
+            "allergy_info": ["gluten", "lactosa"]
+          }
+        ]
+      },
+      {
+        "category": "Platos principales",
+        "items": [
+          {
+            "name": "Pollo Empanado",
+            "price": 450,
+            "essential_ingredients": ["pollo"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Pollo Fajitas",
+            "price": 450,
+            "essential_ingredients": ["pollo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cerdo Escalope",
+            "price": 480,
+            "essential_ingredients": ["cerdo"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Cerdo Fajitas",
+            "price": 480,
+            "essential_ingredients": ["cerdo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cerdo Fricasé",
+            "price": 380,
+            "essential_ingredients": ["cerdo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Pescado Empanado",
+            "price": 330,
+            "essential_ingredients": ["pescado"],
+            "allergy_info": ["gluten", "pescado"]
+          }
+        ]
+      },
+      {
+        "category": "Pastas",
+        "items": [
+          {
+            "name": "Spaghetti Napolitano",
+            "price": 250,
+            "essential_ingredients": ["queso"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Spaghetti de Jamón",
+            "price": 300,
+            "essential_ingredients": ["jamón"],
+            "allergy_info": ["gluten"]
+          }
+        ]
+      },
+      {
+        "category": "Bebidas",
+        "items": [
+          {
+            "name": "Refresco",
+            "price": 20,
+            "essential_ingredients": ["soda"],
+            "allergy_info": []
+          },
+          {
+            "name": "Café",
+            "price": 15,
+            "essential_ingredients": ["café"],
+            "allergy_info": []
+          },
+          {
+            "name": "Café Cortado",
+            "price": 300,
+            "essential_ingredients": ["café"],
+            "allergy_info": []
+          },
+          {
+            "name": "Capuccino",
+            "price": 700,
+            "essential_ingredients": ["café"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Frappuccino",
+            "price": 1000,
+            "essential_ingredients": ["café"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Limonada",
+            "price": 250,
+            "essential_ingredients": ["limón"],
+            "allergy_info": []
+          },
+          {
+            "name": "Jugos Naturales",
+            "price": 350,
+            "essential_ingredients": ["fruta"],
+            "allergy_info": []
+          }
+        ]
+      }
+    ]
+  }
+}
+
+ 

@@ -1,0 +1,397 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "La Esquinita",
+    "cuisine": [],
+    "description": "Un lugar agradable y accesible para disfrutar de aperitivos, buenos cocteles y platos vegetarianos. Ideal para ir con ninos y recomendable para ir en grupo.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "11:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Juan Lefont entre Libertad y Johnson, Santos Suarez, 10 de Octubre",
+    "municipality": "10 de Octubre",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": true,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": ["Platos vegetarianos", "Opciones veganas"],
+      "local_options": ["Desayunos", "Almuerzo", "Cena", "Postres"],
+      "services": ["Sanitario", "Tiene bar"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": ["Se aceptan reservas"],
+      "children": true,
+      "pets": null,
+      "parking": null
+    },
+    "dietary_options": ["Opciones veganas", "Platos vegetarianos"],
+    "meals": ["Desayunos", "Almuerzo", "Cena", "Postres"],
+    "advantages": ["Asientos al aire libre", "Aperitivos", "Buenos cocteles", "Agradable", "Informal", "Ideal para ir con ninos", "Recomendable para ir en grupo"],
+    "highlights": ["Buenos cocteles", "Musica en vivo"]
+  },
+      "menu": {
+        "categories": [
+          {
+            "category": "Entrantes",
+            "items": [
+              {
+                "name": "Croquetas",
+                "price": 300,
+                "essential_ingredients": ["harina", "leche"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Tostones Rellenos",
+                "price": 450,
+                "essential_ingredients": ["plátano", "ingredientes variados"],
+                "allergy_info": []
+              },
+              {
+                "name": "Frituras de Malanga",
+                "price": 500,
+                "essential_ingredients": ["malanga", "aceite"],
+                "allergy_info": []
+              },
+              {
+                "name": "Papas Fritas",
+                "price": 500,
+                "essential_ingredients": ["papas", "aceite"],
+                "allergy_info": []
+              },
+              {
+                "name": "Picadera",
+                "price": 1500,
+                "essential_ingredients": ["varios ingredientes"],
+                "allergy_info": []
+              }
+            ]
+          },
+          {
+            "category": "Hamburguesas",
+            "items": [
+              {
+                "name": "Hamburguesa Sencilla",
+                "price": 450,
+                "essential_ingredients": ["pan de hamburguesa", "carne"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Hamburguesa (Jamón)",
+                "price": 550,
+                "essential_ingredients": ["pan de hamburguesa", "carne", "jamón"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Hamburguesa (Gouda)",
+                "price": 550,
+                "essential_ingredients": ["pan de hamburguesa", "carne", "queso gouda"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Hamburguesa (Jamón y Gouda)",
+                "price": 650,
+                "essential_ingredients": ["pan de hamburguesa", "carne", "jamón", "queso gouda"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Hamburguesa Especial 'La Esquinita'",
+                "price": 750,
+                "essential_ingredients": ["pan de hamburguesa", "carne", "ingredientes variados"],
+                "allergy_info": ["gluten"]
+              }
+            ]
+          },
+          {
+            "category": "Platos Principales",
+            "items": [
+              {
+                "name": "Arroz Frito",
+                "price": 700,
+                "essential_ingredients": ["arroz", "huevos", "vegetales"],
+                "allergy_info": ["huevos"]
+              },
+              {
+                "name": "Bistec de Cerdo",
+                "price": 1200,
+                "essential_ingredients": ["cerdo"],
+                "allergy_info": []
+              },
+              {
+                "name": "Fajitas de Pollo",
+                "price": 1200,
+                "essential_ingredients": ["pollo", "vegetales"],
+                "allergy_info": []
+              },
+              {
+                "name": "Pechuga de Pollo Grillé",
+                "price": 1200,
+                "essential_ingredients": ["pechuga de pollo"],
+                "allergy_info": []
+              },
+              {
+                "name": "Chop Suey de Cerdo",
+                "price": 1200,
+                "essential_ingredients": ["cerdo", "vegetales"],
+                "allergy_info": []
+              },
+              {
+                "name": "Cordon Bleu",
+                "price": 1300,
+                "essential_ingredients": ["pollo", "jamón", "queso"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Bistec Uruguayo",
+                "price": 1500,
+                "essential_ingredients": ["res"],
+                "allergy_info": []
+              },
+              {
+                "name": "Bistec Encebollado de Res",
+                "price": 1700,
+                "essential_ingredients": ["res", "cebolla"],
+                "allergy_info": []
+              }
+            ]
+          },
+          {
+            "category": "Pizzas",
+            "items": [
+              {
+                "name": "Pizza Pequeña de Queso Blanco",
+                "price": 200,
+                "essential_ingredients": ["masa de pizza", "queso blanco"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Pizza Pequeña Queso Blanco Hawaiana",
+                "price": 400,
+                "essential_ingredients": ["masa de pizza", "queso blanco", "piña"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Pizza Pequeña Queso Gouda",
+                "price": 300,
+                "essential_ingredients": ["masa de pizza", "queso gouda"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Pizza Pequeña Queso Gouda Hawaiana",
+                "price": 450,
+                "essential_ingredients": ["masa de pizza", "queso gouda", "piña"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Pizza Grande de Queso Blanco",
+                "price": 400,
+                "essential_ingredients": ["masa de pizza", "queso blanco"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Pizza Grande de Queso Blanco Hawaiana",
+                "price": 550,
+                "essential_ingredients": ["masa de pizza", "queso blanco", "piña"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Pizza Grande de Queso Gouda",
+                "price": 650,
+                "essential_ingredients": ["masa de pizza", "queso gouda"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Pizza Grande de Queso Gouda Hawaiana",
+                "price": 800,
+                "essential_ingredients": ["masa de pizza", "queso gouda", "piña"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Pizza Pequeña Especial 'La esquinita'",
+                "price": 600,
+                "essential_ingredients": ["masa de pizza", "ingredientes variados"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Pizza Grande Especial 'La esquinita'",
+                "price": 1200,
+                "essential_ingredients": ["masa de pizza", "ingredientes variados"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Pizza Familiar 'La esquinita'",
+                "price": 3000,
+                "essential_ingredients": ["masa de pizza", "ingredientes variados"],
+                "allergy_info": ["gluten"]
+              }
+            ]
+          },
+          {
+            "category": "Agregos",
+            "items": [
+              {
+                "name": "Doble Queso Blanco",
+                "price": 100,
+                "essential_ingredients": ["queso blanco"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Doble Queso Gouda",
+                "price": 250,
+                "essential_ingredients": ["queso gouda"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Jamón",
+                "price": 100,
+                "essential_ingredients": ["jamón"],
+                "allergy_info": []
+              },
+              {
+                "name": "Chorizo",
+                "price": 100,
+                "essential_ingredients": ["chorizo"],
+                "allergy_info": []
+              },
+              {
+                "name": "Cebolla",
+                "price": 100,
+                "essential_ingredients": ["cebolla"],
+                "allergy_info": []
+              },
+              {
+                "name": "Pimiento",
+                "price": 100,
+                "essential_ingredients": ["pimiento"],
+                "allergy_info": []
+              },
+              {
+                "name": "Piña",
+                "price": 100,
+                "essential_ingredients": ["piña"],
+                "allergy_info": []
+              },
+              {
+                "name": "Aceituna",
+                "price": 150,
+                "essential_ingredients": ["aceitunas"],
+                "allergy_info": []
+              },
+              {
+                "name": "Atún",
+                "price": 300,
+                "essential_ingredients": ["atún"],
+                "allergy_info": ["pescado"]
+              }
+            ]
+          },
+          {
+                    "category": "Pastas",
+                    "items": [
+                      {
+                        "name": "Espagueti (Blanco)",
+                        "price": 350,
+                        "essential_ingredients": ["espaguetis", "queso blanco"],
+                        "allergy_info": ["gluten", "lactosa"]
+                      },
+                      {
+                        "name": "Espagueti (Gouda)",
+                        "price": 450,
+                        "essential_ingredients": ["espaguetis", "queso gouda"],
+                        "allergy_info": ["gluten", "lactosa"]
+                      },
+                      {
+                        "name": "Espagueti (Blanco y Jamón)",
+                        "price": 450,
+                        "essential_ingredients": ["espaguetis", "queso blanco", "jamón"],
+                        "allergy_info": ["gluten", "lactosa"]
+                      },
+                      {
+                        "name": "Espagueti (Gouda y Jamón)",
+                        "price": 600,
+                        "essential_ingredients": ["espaguetis", "queso gouda", "jamón"],
+                        "allergy_info": ["gluten", "lactosa"]
+                      },
+                      {
+                        "name": "Espagueti (Blanco y Chorizo)",
+                        "price": 450,
+                        "essential_ingredients": ["espaguetis", "queso blanco", "chorizo"],
+                        "allergy_info": ["gluten", "lactosa"]
+                      },
+                      {
+                        "name": "Espagueti (Gouda y Chorizo)",
+                        "price": 600,
+                        "essential_ingredients": ["espaguetis", "queso gouda", "chorizo"],
+                        "allergy_info": ["gluten", "lactosa"]
+                      },
+                      {
+                        "name": "Espagueti (Blanco y Cebolla)",
+                        "price": 450,
+                        "essential_ingredients": ["espaguetis", "queso blanco", "cebolla"],
+                        "allergy_info": ["gluten", "lactosa"]
+                      },
+                      {
+                        "name": "Espagueti (Gouda y Cebolla)",
+                        "price": 600,
+                        "essential_ingredients": ["espaguetis", "queso gouda", "cebolla"],
+                        "allergy_info": ["gluten", "lactosa"]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              
+            }
+          
+                        
+
+    
+       

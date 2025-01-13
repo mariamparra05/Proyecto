@@ -1,0 +1,354 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Restaurante"]
+      },
+      "name": "Ruta 66",
+      "cuisine": ["Criolla", "Rapida", "Italiana"],
+      "description": null,
+      "contact_info": {
+        "phone": {
+          "number": "52833863",
+          "type": "mobile"
+        },
+        "email": null,
+        "website": null
+      },
+      "opening_hours": {
+        "monday": {
+          "open": null,
+          "close": null
+        },
+        "tuesday": {
+          "open": "12:00",
+          "close": "21:30"
+        },
+        "wednesday": {
+          "open": "12:00",
+          "close": "21:30"
+        },
+        "thursday": {
+          "open": "12:00",
+          "close": "21:30"
+        },
+        "friday": {
+          "open": "12:00",
+          "close": "21:30"
+        },
+        "saturday": {
+          "open": "12:00",
+          "close": "21:30"
+        },
+        "sunday": {
+          "open": "12:00",
+          "close": "21:30"
+        }
+      },
+      "address": "4MMV+VFW, 9, La Habana",
+      "municipality": "Guanabacoa",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Efectivo", "Transferencia"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Tarifa de servicio 10%",
+        "description": "Se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": [],
+        "ambience": [],
+        "usual_customers": [],
+        "planning": [],
+        "children": null,
+        "pets": null,
+        "parking": null
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },
+  
+            "menu": {
+              "categories": [
+                {
+                  "category": "Entrantes",
+                  "items": [
+                    {
+                      "name": "Tostones rellenos de jamon y queso",
+                      "price": 1090.00,
+                      "essential_ingredients": ["Platano", "Jamon", "Queso"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Tostones rellenos de bolognesa",
+                      "price": 950.00,
+                      "essential_ingredients": ["Platano", "Salsa bolognesa"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Tostones rellenos de vegetales salteados y queso",
+                      "price": 910.00,
+                      "essential_ingredients": ["Platano", "Vegetales", "Queso"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Garbanzos fritos",
+                      "price": 1900.00,
+                      "essential_ingredients": ["Garbanzos", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Ceviche de pescado",
+                      "price": 1500.00,
+                      "essential_ingredients": ["Pescado", "Cebolla", "Pimiento", "Limon"],
+                      "allergy_info": ["Pescado"]
+                    },
+                    {
+                      "name": "Frituras de malanga",
+                      "price": 595.00,
+                      "essential_ingredients": ["Malanga", "Miel", "Mostaza"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Croquetas",
+                      "price": 490.00,
+                      "essential_ingredients": ["Harina", "Leche", "Huevo", "Pan rallado"],
+                      "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+                    },
+                    {
+                      "name": "Brosquetas",
+                      "price": 420.00,
+                      "essential_ingredients": ["Carne", "Vegetales"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Tamal",
+                      "price": 400.00,
+                      "essential_ingredients": ["Maiz", "Carne"],
+                      "allergy_info": []
+                    }
+                  ]
+                },
+                {
+                  "category": "Plato principal",
+                  "items": [
+                    {
+                      "name": "Lomo ahumado (con gratinado de queso)",
+                      "price": 1850.00,
+                      "essential_ingredients": ["Lomo de cerdo", "Queso"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Lomo ahumado (con salsa de pina)",
+                      "price": 2000.00,
+                      "essential_ingredients": ["Lomo de cerdo", "Pina"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Enchilado de camarones",
+                      "price": 3300.00,
+                      "essential_ingredients": ["Camaron", "Tomate", "Especias"],
+                      "allergy_info": ["Mariscos"]
+                    },
+                    {
+                      "name": "Camarones al ajillo",
+                      "price": 2950.00,
+                      "essential_ingredients": ["Camaron", "Ajo", "Aceite"],
+                      "allergy_info": ["Mariscos"]
+                    },
+                    {
+                      "name": "Camarones en salsa de frutas",
+                      "price": 2800.00,
+                      "essential_ingredients": ["Camaron", "Frutas"],
+                      "allergy_info": ["Mariscos"]
+                    },
+                    {
+                      "name": "Enchilado de pulpo",
+                      "price": 2690.00,
+                      "essential_ingredients": ["Pulpo", "Tomate", "Especias"],
+                      "allergy_info": ["Mariscos"]
+                    },
+                    {
+                      "name": "Pulpo al ajillo",
+                      "price": 2470.00,
+                      "essential_ingredients": ["Pulpo", "Ajo", "Aceite"],
+                      "allergy_info": ["Mariscos"]
+                    },
+                    {
+                      "name": "Filete de pescado Route 66 (a la plancha gratinado con queso y camaron)",
+                      "price": 3550.00,
+                      "essential_ingredients": ["Pescado", "Queso", "Camaron"],
+                      "allergy_info": ["Pescado", "Lactosa", "Mariscos"]
+                    },
+                    {
+                      "name": "Monte toro a la francesa (a la plancha gratinado con queso)",
+                      "price": 2400.00,
+                      "essential_ingredients": ["Pescado", "Queso"],
+                      "allergy_info": ["Pescado", "Lactosa"]
+                    },
+                    {
+                      "name": "Filete de pescado en salsa de frutas",
+                      "price": 2250.00,
+                      "essential_ingredients": ["Pescado", "Frutas"],
+                      "allergy_info": ["Pescado"]
+                    },
+                    {
+                      "name": "Filete de pescado a la plancha",
+                      "price": 1800.00,
+                      "essential_ingredients": ["Pescado", "Ajo", "Aceite"],
+                      "allergy_info": ["Pescado"]
+                    },
+                    {
+                      "name": "Arroz frito especial Route 66",
+                      "price": 2065.00,
+                      "essential_ingredients": ["Arroz", "Vegetales", "Pollo", "Cerdo", "Camaron"],
+                      "allergy_info": ["Mariscos"]
+                    },
+                    {
+                      "name": "Arroz frito",
+                      "price": 1280.00,
+                      "essential_ingredients": ["Arroz", "Vegetales", "Huevos"],
+                      "allergy_info": ["Huevo"]
+                    },
+                    {
+                      "name": "Arroz blanco",
+                      "price": 200.00,
+                      "essential_ingredients": ["Arroz", "Sal", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Pure de malanga",
+                      "price": 335.00,
+                      "essential_ingredients": ["Malanga", "Mantequilla"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Ensalada mixta de estacion",
+                      "price": 425.00,
+                      "essential_ingredients": ["Lechuga", "Tomate", "Pepino"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Super Route 66 (Cerdo)",
+                      "price": 1965.00,
+                      "essential_ingredients": ["Hamburguesa", "Jamon", "Queso", "Vegetales", "Mango"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Castrol (Cerdo)",
+                      "price": 1255.00,
+                      "essential_ingredients": ["Hamburguesa", "Jamon", "Queso", "Vegetales", "Mango"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Texaco (Cerdo)",
+                      "price": 940.00,
+                      "essential_ingredients": ["Hamburguesa", "Jamon", "Queso", "Vegetales", "Mango"],
+                      "allergy_info": ["Lactosa"]
+                    }
+                ]
+              },
+              {
+                  "category": "Pizzas",
+                  "items": [
+                    {
+                      "name": "Pizza de queso gouda",
+                      "price": 850.00,
+                      "essential_ingredients": ["Masa de pizza", "Tomate", "Queso Gouda"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    }
+                  ]
+                },
+                {
+                  "category": "Pasta",
+                  "items": [
+                    {
+                      "name": "Lasana queso gouda",
+                      "price": 1420.00,
+                      "essential_ingredients": ["Lasana", "Queso Gouda"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    },
+                    {
+                      "name": "Espaguetis de queso gouda",
+                      "price": 1100.00,
+                      "essential_ingredients": ["Espaguetis", "Queso Gouda"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    }
+                  ]
+                },
+                {
+                  "category": "Postres",
+                  "items": [
+                    {
+                      "name": null,
+                      "price": null,
+                      "essential_ingredients": [],
+                      "allergy_info": []
+                    }
+                  ]
+                },
+                {
+                  "category": "Bebidas alcoholicas",
+                  "items": [
+                    {
+                      "name": "Cerveza importada",
+                      "price": 210.00,
+                      "essential_ingredients": ["Cerveza"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Vino tinto",
+                      "price": 2200.00,
+                      "essential_ingredients": ["Vino tinto"],
+                      "allergy_info": []
+                    }
+                  ]
+                },
+                {
+                  "category": "Bebidas no alcoholicas",
+                  "items": [
+                    {
+                      "name": "Refrescos importados",
+                      "price": 240.00,
+                      "essential_ingredients": ["Refresco"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Malta importada",
+                      "price": 250.00,
+                      "essential_ingredients": ["Malta"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Agua mineral",
+                      "price": 190.00,
+                      "essential_ingredients": ["Agua"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Jugos importados",
+                      "price": 210.00,
+                      "essential_ingredients": ["Jugo"],
+                      "allergy_info": []
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+          

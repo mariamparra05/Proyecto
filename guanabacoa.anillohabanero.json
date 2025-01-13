@@ -1,0 +1,432 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Anillo Habanero",
+    "cuisine": ["Criolla", "Pizzas", "Cocteles", "Pastas"],
+    "description": null,
+    "contact_info": {
+      "phone": {
+        "number": "52042710",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "10:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "10:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "10:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "10:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "10:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "10:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "10:00",
+        "close": "23:00"
+      }
+    },
+    "address": "3PXM+4Q3, Primer Anillo de La Habana, La Habana",
+    "municipality": "Guanabacoa",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": "Facebook",
+      "instagram": "Instagram"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transfermovil", "EnZona"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": ["Entretenimiento", "Parque Infantil", "Billar", "Terraza al Aire Libre", "Piscina"],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "Picadera anillo",
+                  "price": 3000.00,
+                  "essential_ingredients": ["Variedad de embutidos y quesos"],
+                  "allergy_info": ["Lactosa"]
+                },
+                {
+                  "name": "Tacos de vegetales",
+                  "price": 600.00,
+                  "essential_ingredients": ["Tortilla", "Vegetales"],
+                  "allergy_info": ["Gluten"]
+                },
+                {
+                  "name": "Croquetas habaneras",
+                  "price": 400.00,
+                  "essential_ingredients": ["Harina", "Leche", "Huevo", "Pan rallado"],
+                  "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+                },
+                {
+                  "name": "Nachos, salsa rosa y guacamole",
+                  "price": 400.00,
+                  "essential_ingredients": ["Nachos", "Salsa rosa", "Guacamole"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Brochetas",
+                  "price": 1300.00,
+                  "essential_ingredients": ["Carne", "Vegetales"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Coctel de camarones",
+                  "price": 2000.00,
+                  "essential_ingredients": ["Camaron", "Salsa cocktail"],
+                  "allergy_info": ["Mariscos"]
+                },
+                {
+                  "name": "Frituras",
+                  "price": 300.00,
+                  "essential_ingredients": ["Harina", "Aceite"],
+                  "allergy_info": ["Gluten"]
+                },
+                {
+                  "name": "Tostones rellenos",
+                  "price": 550.00,
+                  "essential_ingredients": ["Platano", "Relleno"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Tacos de pollo",
+                  "price": 800.00,
+                  "essential_ingredients": ["Tortilla", "Pollo", "Vegetales"],
+                  "allergy_info": ["Gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Plato principal",
+              "items": [
+                {
+                  "name": "Lomo ahumado",
+                  "price": 2000.00,
+                  "essential_ingredients": ["Lomo de cerdo", "Ajo", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chuletas de cerdo",
+                  "price": 3000.00,
+                  "essential_ingredients": ["Cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Ropa vieja",
+                  "price": 3000.00,
+                  "essential_ingredients": ["Carne de res", "Cebolla", "Pimientos", "Tomate"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Vaca frita",
+                  "price": 3000.00,
+                  "essential_ingredients": ["Carne de res", "Ajo", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Camarones enchilados",
+                  "price": 3500.00,
+                  "essential_ingredients": ["Camaron", "Tomate", "Especias"],
+                  "allergy_info": ["Mariscos"]
+                },
+                {
+                  "name": "Camarones al ajillo",
+                  "price": 3500.00,
+                  "essential_ingredients": ["Camaron", "Ajo", "Aceite"],
+                  "allergy_info": ["Mariscos"]
+                }
+              ]
+            },
+            {
+              "category": "Pizzas",
+              "items": [
+                {
+                  "name": "Pizza napolitana",
+                  "price": 800.00,
+                  "essential_ingredients": ["Masa de pizza", "Tomate", "Queso blanco"],
+                  "allergy_info": ["Gluten", "Lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Pasta",
+              "items": [
+                {
+                  "name": "Spaguetis Napoles",
+                  "price": 850.00,
+                  "essential_ingredients": ["Espaguetis", "Tomate", "Queso blanco"],
+                  "allergy_info": ["Gluten", "Lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Postres",
+              "items": [
+                {
+                  "name": "Tarta de vainilla",
+                  "price": 750.00,
+                  "essential_ingredients": ["Harina", "Leche", "Azucar"],
+                  "allergy_info": ["Gluten", "Lactosa"]
+                },
+                {
+                  "name": "Cheesecake de limon",
+                  "price": 750.00,
+                  "essential_ingredients": ["Harina", "Leche", "Queso crema", "Limon"],
+                  "allergy_info": ["Gluten", "Lactosa"]
+                },
+                {
+                  "name": "Coctel de frutas importadas",
+                  "price": 350.00,
+                  "essential_ingredients": ["Frutas importadas"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Bebidas alcoholicas",
+              "items": [
+                {
+                  "name": "Michelada",
+                  "price": 600.00,
+                  "essential_ingredients": ["Cerveza", "Limon", "Salsa inglesa"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Margarita",
+                  "price": 800.00,
+                  "essential_ingredients": ["Tequila", "Triple sec", "Limon"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Caipiroska",
+                  "price": 800.00,
+                  "essential_ingredients": ["Vodka", "Limon", "Azucar"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Cocteles analcoholicos",
+                  "price": 500.00,
+                  "essential_ingredients": ["Variedad de ingredientes"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Caipirisima",
+                  "price": 800.00,
+                  "essential_ingredients": ["Ron", "Limon", "Azucar"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Vodka tonic",
+                  "price": 900.00,
+                  "essential_ingredients": ["Vodka", "Agua tonica"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Screwdriver",
+                  "price": 800.00,
+                  "essential_ingredients": ["Vodka", "Jugo de naranja"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Gin tonic",
+                  "price": 900.00,
+                  "essential_ingredients": ["Ginebra", "Agua tonica"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Agua marina",
+                  "price": 800.00,
+                  "essential_ingredients": ["Vodka", "Curacao azul", "Limon"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Cancha",
+                  "price": 800.00,
+                  "essential_ingredients": ["Agua ardiente", "Limon", "Azucar"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Tinto de verano",
+                  "price": 800.00,
+                  "essential_ingredients": ["Vino tinto", "Refresco de limon"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Limonada frappe",
+                  "price": 250.00,
+                  "essential_ingredients": ["Limon", "Hielo", "Azucar"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Daiquiri",
+                  "price": 800.00,
+                  "essential_ingredients": ["Ron", "Limon", "Azucar"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chelada",
+                  "price": 450.00,
+                  "essential_ingredients": ["Cerveza", "Limon", "Sal"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pina colada",
+                  "price": 1000.00,
+                  "essential_ingredients": ["Ron", "Coco", "Pina"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Sangria",
+                  "price": 1000.00,
+                  "essential_ingredients": ["Vino tinto", "Frutas", "Refresco de limon"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Cerveza nacional",
+                  "price": 350.00,
+                  "essential_ingredients": ["Cerveza"],
+                  "allergy_info": []
+                },
+                {
+                
+                    "name": "Cerveza importada",
+                    "price": 300.00,
+                    "essential_ingredients": ["Cerveza"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Trago Jonny Walker",
+                    "price": 500.00,
+                    "essential_ingredients": ["Whisky"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "William Lawsons",
+                    "price": 350.00,
+                    "essential_ingredients": ["Whisky"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Lyubov Vodka",
+                    "price": 200.00,
+                    "essential_ingredients": ["Vodka"],
+                    "allergy_info": []
+                  }
+                ]
+              },
+              {
+                "category": "Bebidas no alcoholicas",
+                "items": [
+                  {
+                    "name": "Energizantes importados",
+                    "price": 500.00,
+                    "essential_ingredients": ["Bebida energetica"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Maltas importadas",
+                    "price": 320.00,
+                    "essential_ingredients": ["Malta"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Pepsi refresco gaseado",
+                    "price": 400.00,
+                    "essential_ingredients": ["Refresco"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Jugos naturales",
+                    "price": 250.00,
+                    "essential_ingredients": ["Jugo"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Agua natural",
+                    "price": 200.00,
+                    "essential_ingredients": ["Agua"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Kermato",
+                    "price": 700.00,
+                    "essential_ingredients": ["Jugo de tomate", "Condimentos"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Refrescos importados",
+                    "price": 300.00,
+                    "essential_ingredients": ["Refresco"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Expresso",
+                    "price": 100.00,
+                    "essential_ingredients": ["Cafe"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Cortadito",
+                    "price": 200.00,
+                    "essential_ingredients": ["Cafe", "Leche"],
+                    "allergy_info": ["Lactosa"]
+                  },
+                  {
+                    "name": "Capuchino",
+                    "price": 250.00,
+                    "essential_ingredients": ["Cafe", "Leche", "Espuma de leche"],
+                    "allergy_info": ["Lactosa"]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+        

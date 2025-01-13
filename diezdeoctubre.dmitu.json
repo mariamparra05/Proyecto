@@ -1,0 +1,325 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "D'Mitu",
+    "cuisine": ["Comida Italiana"],
+    "description": "Ofrecemos comida italiana, trabajamos con gusto a su gusto. Le recomendamos las especialidades de la casa y le sugerimos que reserve en nuestro salon.",
+    "contact_info": {
+      "phone": {
+        "number": "(+53) 5357 8505",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "tuesday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "wednesday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "thursday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "friday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "saturday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "sunday": {
+        "open": "10:00",
+        "close": "22:00"
+      }
+    },
+    "address": "Calle 1ra #64 Altos entre Gertrudis y Lagueruela, La Vibora, 10 de Octubre",
+    "municipality": "10 de Octubre",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {},
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": ["Comida italiana"],
+      "local_options": ["Desayuno", "Brunch", "Almuerzo", "Cena"],
+      "services": ["Comida para llevar", "Entrega a Domicilio", "Musica grabada", "Reservacion de salon"],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": ["Aperitivos", "Agradable", "Informal", "Ideal para ir con ninos", "Recomendable para ir en grupo"]
+  }, 
+        "menu": {
+          "categories": [
+            {
+              "category": "Pizzas",
+              "items": [
+                {
+                  "name": "Queso",
+                  "price": 850,
+                  "essential_ingredients": ["queso", "masa"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Jamón",
+                  "price": 1000,
+                  "essential_ingredients": ["queso", "masa", "jamón"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Chorizo",
+                  "price": 1000,
+                  "essential_ingredients": ["queso", "masa", "chorizo"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Hawaiana",
+                  "price": 1050,
+                  "essential_ingredients": ["queso", "masa", "piña", "jamón"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Familiar Mixta",
+                  "price": 2800,
+                  "essential_ingredients": ["queso", "masa", "variedad de ingredientes"],
+                  "allergy_info": ["gluten", "lactosa"],
+                  "description": "incluye agregos"
+                },
+                {
+                  "name": "Familiar con bordes de queso",
+                  "price": 3200,
+                  "essential_ingredients": ["queso", "masa"],
+                  "allergy_info": ["gluten", "lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Super Pizzas",
+              "items": [
+                {
+                  "name": "SP Queso",
+                  "price": 1200,
+                  "essential_ingredients": ["queso", "masa"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "SP Jamón",
+                  "price": 1300,
+                  "essential_ingredients": ["queso", "masa", "jamón"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "SP Chorizo",
+                  "price": 1300,
+                  "essential_ingredients": ["queso", "masa", "chorizo"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "SP Hawaiana",
+                  "price": 1300,
+                  "essential_ingredients": ["queso", "masa", "piña", "jamón"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "SP Mixta",
+                  "price": 2000,
+                  "essential_ingredients": ["queso", "masa", "variedad de ingredientes"],
+                  "allergy_info": ["gluten", "lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Especiales",
+              "items": [
+                {
+                  "name": "Calzone D' Mitu",
+                  "price": 900,
+                  "essential_ingredients": ["queso", "masa", "relleno"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Takazo D' Mitu",
+                  "price": 1000,
+                  "essential_ingredients": ["masa", "relleno"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pizza D' Mitu",
+                  "price": 1400,
+                  "essential_ingredients": ["queso", "masa", "variedad de ingredientes"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pastelón a su gusto",
+                  "price": 1700,
+                  "essential_ingredients": ["queso", "masa", "relleno"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Super Takazo",
+                  "price": 1900,
+                  "essential_ingredients": ["masa", "relleno"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pizza Sol",
+                  "price": 2000,
+                  "essential_ingredients": ["queso", "masa", "variedad de ingredientes"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Fugazzeta D' Mitu",
+                  "price": 2100,
+                  "essential_ingredients": ["queso", "masa", "cebolla"],
+                  "allergy_info": ["gluten", "lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Pastas",
+              "items": [
+                {
+                  "name": "Canelones",
+                  "price": 800,
+                  "essential_ingredients": ["pasta", "queso", "salsa"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Espaguetis",
+                  "price": 800,
+                  "essential_ingredients": ["pasta", "salsa"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Fettuccine",
+                  "price": 800,
+                  "essential_ingredients": ["pasta", "salsa"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Farfalle",
+                  "price": 800,
+                  "essential_ingredients": ["pasta", "salsa"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Lasaña",
+                  "price": 900,
+                  "essential_ingredients": ["pasta", "queso", "salsa"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Raviolis",
+                  "price": 900,
+                  "essential_ingredients": ["pasta", "queso", "salsa"],
+                  "allergy_info": ["gluten", "lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Agregos",
+              "items": [
+                {
+                  "name": "Piña",
+                  "price": 200,
+                  "essential_ingredients": ["piña"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Queso",
+                  "price": 300,
+                  "essential_ingredients": ["queso"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Cebolla",
+                  "price": 200,
+                  "essential_ingredients": ["cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Aceituna",
+                  "price": 350,
+                  "essential_ingredients": ["aceituna"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pimiento",
+                  "price": 200,
+                  "essential_ingredients": ["pimiento"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chorizo",
+                  "price": 300,
+                  "essential_ingredients": ["chorizo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Jamón",
+                  "price": 300,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Champiñón",
+                  "price": 400,
+                  "essential_ingredients": ["champiñón"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bacon",
+                  "price": 500,
+                  "essential_ingredients": ["bacon"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Atún",
+                  "price": 450,
+                  "essential_ingredients": ["atún"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Camarón",
+                  "price": 600,
+                  "essential_ingredients": ["camarón"],
+                  "allergy_info": ["mariscos"]
+                }
+              ]
+            }
+          ]
+        }
+      }
+                
+                
+      
+ 
+
+      
+  

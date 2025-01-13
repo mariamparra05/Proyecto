@@ -1,0 +1,514 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Galy Cafe",
+    "cuisine": [],
+    "description": "Galy Cafe es un restaurante ubicado en Centro Habana.",
+    "contact_info": {
+      "phone": {
+        "number": "78634580",
+        "type": "fixed"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "11:00",
+        "close": "24:00"
+      },
+      "sunday": {
+        "open": "11:00",
+        "close": "24:00"
+      }
+    },
+    "address": "Centro Habana",
+    "municipality": "Centro Habana",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.13605979859447,
+      "longitude": -82.36264764949895
+    },
+    "social_media": {
+      "facebook": "GalyCafé",
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "croquetas cremosas galy",
+                  "price": 650,
+                  "essential_ingredients": ["harina", "leche", "jamón"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "eperlan",
+                  "price": 760,
+                  "essential_ingredients": ["harina", "pescado", "huevo"],
+                  "allergy_info": ["gluten", "pescado", "huevo"]
+                },
+                {
+                  "name": "crema de queso",
+                  "price": 570,
+                  "essential_ingredients": ["queso", "leche"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "crema virginia",
+                  "price": 600,
+                  "essential_ingredients": ["queso", "leche", "jamón"],
+                  "allergy_info": ["lactosa", "cerdo"]
+                },
+                {
+                  "name": "crema aurora",
+                  "price": 590,
+                  "essential_ingredients": ["queso", "leche"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "crema de queso azul",
+                  "price": 720,
+                  "essential_ingredients": ["queso azul", "leche"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "fajitas de pechuga de pollo",
+                  "price": 760,
+                  "essential_ingredients": ["pollo", "especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "coctel de camarones",
+                  "price": 1100,
+                  "essential_ingredients": ["camarones", "salsa cóctel"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "bistec de cerdo a la plancha",
+                  "price": 2750,
+                  "essential_ingredients": ["cerdo", "especias"],
+                  "allergy_info": ["cerdo"]
+                },
+                {
+                  "name": "lomo de cerdo ahumado",
+                  "price": 2100,
+                  "essential_ingredients": ["cerdo", "especias"],
+                  "allergy_info": ["cerdo"]
+                },
+                {
+                  "name": "filetillo de res o cerdo",
+                  "price": 1550,
+                  "essential_ingredients": ["res o cerdo", "especias"],
+                  "allergy_info": ["cerdo"]
+                },
+                {
+                  "name": "bistec uruguayo",
+                  "price": 2750,
+                  "essential_ingredients": ["res", "especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "pechuga a la plancha",
+                  "price": 2750,
+                  "essential_ingredients": ["pollo", "especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "pechuga empanada",
+                  "price": 3100,
+                  "essential_ingredients": ["pollo", "harina", "huevo"],
+                  "allergy_info": ["gluten", "huevo"]
+                },
+                {
+                  "name": "pechuga cordon bleu",
+                  "price": 2970,
+                  "essential_ingredients": ["pollo", "queso", "jamón"],
+                  "allergy_info": ["lactosa", "cerdo"]
+                },
+                {
+                  "name": "pechuga milanesa",
+                  "price": 2860,
+                  "essential_ingredients": ["pollo", "harina", "huevo"],
+                  "allergy_info": ["gluten", "huevo"]
+                },
+                {
+                  "name": "bistec de palomilla",
+                  "price": 2650,
+                  "essential_ingredients": ["res", "especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "ropa vieja",
+                  "price": 2650,
+                  "essential_ingredients": ["res", "salsa criolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "pescado a la plancha",
+                  "price": 3200,
+                  "essential_ingredients": ["pescado", "especias"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "pescado empanado",
+                  "price": 3200,
+                  "essential_ingredients": ["pescado", "harina", "huevo"],
+                  "allergy_info": ["gluten", "pescado", "huevo"]
+                },
+                {
+                  "name": "filete canciller",
+                  "price": 3520,
+                  "essential_ingredients": ["pescado", "salsa especial"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "camarón al ajillo",
+                  "price": 3200,
+                  "essential_ingredients": ["camarones", "ajo"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "camarón enchilado",
+                  "price": 3200,
+                  "essential_ingredients": ["camarones", "salsa enchilada"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "camarón rebosado",
+                  "price": 3200,
+                  "essential_ingredients": ["camarones", "harina", "huevo"],
+                  "allergy_info": ["mariscos", "gluten", "huevo"]
+                },
+                {
+                  "name": "camarón empanado",
+                  "price": 3200,
+                  "essential_ingredients": ["camarones", "harina", "huevo"],
+                  "allergy_info": ["mariscos", "gluten", "huevo"]
+                },
+                {
+                  "name": "camarón a la plancha",
+                  "price": 3200,
+                  "essential_ingredients": ["camarones"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "pulpo enchilado",
+                  "price": 3300,
+                  "essential_ingredients": ["pulpo", "salsa enchilada"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "pulpo al ajillo",
+                  "price": 3300,
+                  "essential_ingredients": ["pulpo", "ajo"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "paella melosa del mar",
+                  "price": 3100,
+                  "essential_ingredients": ["arroz", "mariscos", "especias"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "mar y tierra",
+                  "price": 3300,
+                  "essential_ingredients": ["carne", "mariscos", "especias"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "sandwich de queso",
+                  "price": 1150,
+                  "essential_ingredients": ["pan", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "sandwich de jamón",
+                  "price": 1150,
+                  "essential_ingredients": ["pan", "jamón"],
+                  "allergy_info": ["gluten", "cerdo"]
+                },
+                {
+                  "name": "sandwich de jamón y queso",
+                  "price": 1200,
+                  "essential_ingredients": ["pan", "jamón", "queso"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "sandwich de jamón, queso y chorizo",
+                  "price": 1250,
+                  "essential_ingredients": ["pan", "jamón", "queso", "chorizo"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "sandwich de atún y cebolla",
+                  "price": 1270,
+                  "essential_ingredients": ["pan", "atún", "cebolla"],
+                  "allergy_info": ["gluten", "pescado"]
+                },
+                {
+                  "name": "pizza de queso",
+                  "price": 1160,
+                  "essential_ingredients": ["masa de pizza", "queso", "salsa de tomate"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "pizza de jamón",
+                  "price": 1270,
+                  "essential_ingredients": ["masa de pizza", "queso", "jamón", "salsa de tomate"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                    "name": "pizza de chorizo",
+                    "price": 1270,
+                    "essential_ingredients": ["masa de pizza", "queso", "chorizo", "salsa de tomate"],
+                    "allergy_info": ["gluten", "lactosa", "cerdo"]
+                  },
+                  {
+                    "name": "pizza hawaiana",
+                    "price": 1270,
+                    "essential_ingredients": ["masa de pizza", "queso", "jamón", "piña", "salsa de tomate"],
+                    "allergy_info": ["gluten", "lactosa", "cerdo"]
+                  },
+                  {
+                    "name": "pizza de cebolla",
+                    "price": 1270,
+                    "essential_ingredients": ["masa de pizza", "queso", "cebolla", "salsa de tomate"],
+                    "allergy_info": ["gluten", "lactosa"]
+                  },
+                  {
+                    "name": "pizza de pimientos",
+                    "price": 1270,
+                    "essential_ingredients": ["masa de pizza", "queso", "pimientos", "salsa de tomate"],
+                    "allergy_info": ["gluten", "lactosa"]
+                  },
+                  {
+                    "name": "pizza de camarones",
+                    "price": 1550,
+                    "essential_ingredients": ["masa de pizza", "queso", "camarones", "salsa de tomate"],
+                    "allergy_info": ["gluten", "lactosa", "mariscos"]
+                  },
+                  {
+                    "name": "pizza de atún y cebolla",
+                    "price": 1500,
+                    "essential_ingredients": ["masa de pizza", "queso", "atún", "cebolla", "salsa de tomate"],
+                    "allergy_info": ["gluten", "lactosa", "pescado"]
+                  },
+                  {
+                    "name": "pizza galy (2 quesos)",
+                    "price": 1550,
+                    "essential_ingredients": ["masa de pizza", "queso", "queso azul", "salsa de tomate"],
+                    "allergy_info": ["gluten", "lactosa"]
+                  },
+                  {
+                    "name": "spaghetti de queso",
+                    "price": 1160,
+                    "essential_ingredients": ["espagueti", "queso"],
+                    "allergy_info": ["gluten", "lactosa"]
+                  },
+                  {
+                    "name": "spaghetti al diablo",
+                    "price": 1200,
+                    "essential_ingredients": ["espagueti", "salsa picante"],
+                    "allergy_info": ["gluten"]
+                  },
+                  {
+                    "name": "spaghetti de jamón",
+                    "price": 1270,
+                    "essential_ingredients": ["espagueti", "jamón", "queso"],
+                    "allergy_info": ["gluten", "lactosa", "cerdo"]
+                  },
+                  {
+                    "name": "spaghetti de chorizo",
+                    "price": 1270,
+                    "essential_ingredients": ["espagueti", "chorizo", "queso"],
+                    "allergy_info": ["gluten", "lactosa", "cerdo"]
+                  },
+                  {
+                    "name": "spaghetti carbonara",
+                    "price": 1450,
+                    "essential_ingredients": ["espagueti", "tocino", "queso", "huevo"],
+                    "allergy_info": ["gluten", "lactosa", "cerdo", "huevo"]
+                  },
+                  {
+                    "name": "spaghetti de camarones",
+                    "price": 1550,
+                    "essential_ingredients": ["espagueti", "camarones", "queso"],
+                    "allergy_info": ["gluten", "lactosa", "mariscos"]
+                  },
+                  {
+                    "name": "spaghetti con pescado y mariscos",
+                    "price": 1700,
+                    "essential_ingredients": ["espagueti", "pescado", "mariscos"],
+                    "allergy_info": ["gluten", "pescado", "mariscos"]
+                  }
+                ]
+              },
+              {
+                "category": "Postres",
+                "items": [
+                  {
+                    "name": "tarta de chocolate galy",
+                    "price": 650,
+                    "essential_ingredients": ["chocolate", "harina", "huevo", "leche"],
+                    "allergy_info": ["gluten", "lactosa", "huevo"]
+                  },
+                  {
+                    "name": "tres leche con hilo de chocolate",
+                    "price": 690,
+                    "essential_ingredients": ["leche", "chocolate"],
+                    "allergy_info": ["lactosa"]
+                  },
+                  {
+                    "name": "helados variados",
+                    "price": 610,
+                    "essential_ingredients": ["helado"],
+                    "allergy_info": ["lactosa"]
+                  }
+                ]
+              },
+              {
+                "category": "Bebidas",
+                "items": [
+                  {
+                    "name": "agua natural",
+                    "price": 385,
+                    "essential_ingredients": ["agua"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "agua gaseada",
+                    "price": 300,
+                    "essential_ingredients": ["agua carbonatada"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "red bull",
+                    "price": 500,
+                    "essential_ingredients": ["bebida energética"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "malteada",
+                    "price": 500,
+                    "essential_ingredients": ["helado", "leche"],
+                    "allergy_info": ["lactosa"]
+                  },
+                  {
+                    "name": "jugos naturales",
+                    "price": 210,
+                    "essential_ingredients": ["frutas variadas"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "jugo natural (cajita 200ml)",
+                    "price": 320,
+                    "essential_ingredients": ["frutas variadas"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "jugo importado (enlatado)",
+                    "price": 385,
+                    "essential_ingredients": ["frutas variadas"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "batido de helado",
+                    "price": 950,
+                    "essential_ingredients": ["helado", "leche"],
+                    "allergy_info": ["lactosa"]
+                  },
+                  {
+                    "name": "cervezas nacionales",
+                    "price": 440,
+                    "essential_ingredients": ["cerveza"],
+                    "allergy_info": ["gluten", "alcohol"]
+                  },
+                  {
+                    "name": "cervezas importadas",
+                    "price": 330,
+                    "essential_ingredients": ["cerveza"],
+                    "allergy_info": ["gluten", "alcohol"]
+                  },
+                  {
+                    "name": "café expreso",
+                    "price": 330,
+                    "essential_ingredients": ["café"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "café cortado",
+                    "price": 305,
+                    "essential_ingredients": ["café", "leche"],
+                    "allergy_info": ["lactosa"]
+                  },
+                  {
+                    "name": "café cremoso",
+                    "price": 440,
+                    "essential_ingredients": ["café", "leche", "espuma"],
+                    "allergy_info": ["lactosa"]
+                  },
+                  {
+
+                    "name": "café galy",
+                    "price": 500,
+                    "essential_ingredients": ["café", "leche", "espuma"],
+                    "allergy_info": ["lactosa"]
+                }
+            ]
+          }
+        ]
+      }
+    }        
+      

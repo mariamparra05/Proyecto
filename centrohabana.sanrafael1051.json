@@ -1,0 +1,326 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "San Rafael 1051",
+    "cuisine": ["Restaurante"],
+    "description": "San Rafael 1051 es un restaurante ubicado en Centro Habana.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": "https://sanrafael1051.carrta.app"
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "24:00"
+      }
+    },
+    "address": "Centro Habana",
+    "municipality": "Centro Habana",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.11380465355718,
+      "longitude": -82.36663315102301
+    },
+    "social_media": {
+      "instagram": "@san_rafael1051",
+      "facebook": "san_rafael1051"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transfermovil"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+    "menu": {
+      "categories": [
+        {
+          "category": "Entrantes",
+          "items": [
+            {
+              "name": "croquetas de la casa",
+              "price": 850,
+              "essential_ingredients": ["harina", "leche", "jamón"],
+              "allergy_info": ["gluten", "lactosa", "cerdo"]
+            },
+            {
+              "name": "tabla de serrano y queso",
+              "price": 1450,
+              "essential_ingredients": ["jamón serrano", "queso"],
+              "allergy_info": ["lactosa", "cerdo"]
+            },
+            {
+              "name": "nuggets de pollo",
+              "price": 950,
+              "essential_ingredients": ["pollo", "harina"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "tacos",
+              "price": 1150,
+              "essential_ingredients": ["tortilla", "carne", "salsa"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "brusquetas mixtas",
+              "price": 850,
+              "essential_ingredients": ["pan", "tomate", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "ensalada de atún",
+              "price": 1100,
+              "essential_ingredients": ["atún", "lechuga", "tomate"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "ensalada de pollo",
+              "price": 1100,
+              "essential_ingredients": ["pollo", "lechuga", "tomate"],
+              "allergy_info": []
+            },
+            {
+              "name": "ensalada del mar",
+              "price": 1300,
+              "essential_ingredients": ["mariscos", "lechuga", "tomate"],
+              "allergy_info": ["mariscos"]
+            }
+          ]
+        },
+        {
+          "category": "Platos Principales",
+          "items": [
+            {
+              "name": "entrepan clásico",
+              "price": 1300,
+              "essential_ingredients": ["pan", "carne", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "entrepan cubano",
+              "price": 1500,
+              "essential_ingredients": ["pan", "cerdo", "queso"],
+              "allergy_info": ["gluten", "lactosa", "cerdo"]
+            },
+            {
+              "name": "entrepan marinero",
+              "price": 1300,
+              "essential_ingredients": ["pan", "pescado", "mayonesa"],
+              "allergy_info": ["gluten", "pescado", "huevo"]
+            },
+            {
+              "name": "entrepan ibérico",
+              "price": 1500,
+              "essential_ingredients": ["pan", "jamón serrano", "queso"],
+              "allergy_info": ["gluten", "lactosa", "cerdo"]
+            },
+            {
+              "name": "entrepan vaquero",
+              "price": 1300,
+              "essential_ingredients": ["pan", "carne", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "entrepan de crispy chicken",
+              "price": 1500,
+              "essential_ingredients": ["pan", "pollo", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "hamburguesa black panther",
+              "price": 2400,
+              "essential_ingredients": ["pan", "carne de res", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "hamburguesa megaburger",
+              "price": 2750,
+              "essential_ingredients": ["pan", "carne de res", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "hamburguesa hawaiana",
+              "price": 1650,
+              "essential_ingredients": ["pan", "carne de res", "piña", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "hamburguesa 1051",
+              "price": 2000,
+              "essential_ingredients": ["pan", "carne de res", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "hamburguesa parrillera",
+              "price": 1920,
+              "essential_ingredients": ["pan", "carne de res", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "hamburguesa sweet burger",
+              "price": 1100,
+              "essential_ingredients": ["pan", "carne de res", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "hamburguesa deluxe",
+              "price": 1550,
+              "essential_ingredients": ["pan", "carne de res", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "hamburguesa cheese burger",
+              "price": 1790,
+              "essential_ingredients": ["pan", "carne de res", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "hamburguesa cubana",
+              "price": 2140,
+              "essential_ingredients": ["pan", "carne de res", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            }
+        ]
+      },
+      {
+        "category": "Bebidas",
+        "items": [
+          {
+            "name": "agua natural",
+            "price": 300,
+            "essential_ingredients": ["agua"],
+            "allergy_info": []
+          },
+          {
+            "name": "refresco importado",
+            "price": 380,
+            "essential_ingredients": ["agua carbonatada", "azúcar"],
+            "allergy_info": []
+          },
+          {
+            "name": "jugo natural",
+            "price": 390,
+            "essential_ingredients": ["frutas variadas"],
+            "allergy_info": []
+          },
+          {
+            "name": "batido de fruta",
+            "price": 530,
+            "essential_ingredients": ["frutas variadas", "leche"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "caipiriña",
+            "price": 580,
+            "essential_ingredients": ["cachaça", "limón", "azúcar"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "caipiroska",
+            "price": 580,
+            "essential_ingredients": ["vodka", "limón", "azúcar"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "gin tonic",
+            "price": 650,
+            "essential_ingredients": ["ginebra", "tónica"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "sangria",
+            "price": 650,
+            "essential_ingredients": ["vino tinto", "frutas"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "mojito",
+            "price": 580,
+            "essential_ingredients": ["ron", "menta", "limón", "azúcar"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "cuba libre",
+            "price": 580,
+            "essential_ingredients": ["ron", "refresco de cola"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "vodka tonic",
+            "price": 650,
+            "essential_ingredients": ["vodka", "tónica"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "cerveza",
+            "price": 450,
+            "essential_ingredients": ["cerveza"],
+            "allergy_info": ["gluten", "alcohol"]
+          },
+          {
+            "name": "cerveza cristal, heineken, corona",
+            "price": 650,
+            "essential_ingredients": ["cerveza"],
+            "allergy_info": ["gluten", "alcohol"]
+          },
+          {
+            "name": "servicio michelada",
+            "price": 250,
+            "essential_ingredients": ["cerveza", "limón", "sal"],
+            "allergy_info": ["gluten", "alcohol"]
+          }
+        ]
+      }
+    ]
+  }
+}

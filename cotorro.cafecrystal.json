@@ -1,0 +1,372 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Bar-Restaurante"]
+    },
+    "name": "Café Crystal",
+    "cuisine": ["Comida Criolla", "Comida Internacional"],
+    "description": "Café Crystal es un bar-restaurante en el municipio Cotorro, ubicado en Calle 101 #1609 entre 16 y 18, Reparto Centro. Con 11 años de experiencia, ofrece una deliciosa selección de comida criolla e internacional, destacando su popular bistec uruguayo y cerveza. Es el lugar ideal para disfrutar de una comida en familia o con amigos, con un ambiente acogedor y climatizado, además de entretenimiento para niños y cantantes.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "00:00"
+      }
+    },
+    "address": "Calle 101 #1609 entre 16 y 18, Reparto Centro",
+    "municipality": "Cotorro",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": "Facebook",
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Bistec Uruguayo"],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable"],
+      "usual_customers": ["Turistas"],
+      "planning": [],
+      "children": true,
+      "pets": false,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": ["Almuerzo"],
+    "advantages": ["Actividades para niños", "Cantantes"],
+    "highlights": ["Ambiente climatizado"]
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "Crema de Queso",
+                  "price": 850,
+                  "essential_ingredients": ["queso", "leche"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Crema Virginia",
+                  "price": 1100,
+                  "essential_ingredients": ["crema", "otros ingredientes"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Entremés de Jamón y Queso",
+                  "price": 1000,
+                  "essential_ingredients": ["jamón", "queso"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Pica Pica Mi Terraza",
+                  "price": 1700,
+                  "essential_ingredients": ["varios ingredientes"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Tostones de Jamón y Queso",
+                  "price": 1000,
+                  "essential_ingredients": ["plátano", "jamón", "queso"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Tostones de Atún",
+                  "price": 1200,
+                  "essential_ingredients": ["plátano", "atún"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Fajitas de Pollo",
+                  "price": 1000,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Ensalada de Pollo",
+                  "price": 400,
+                  "essential_ingredients": ["pollo", "vegetales"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Frituras de Malanga",
+                  "price": 400,
+                  "essential_ingredients": ["malanga", "aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bolitas de Queso",
+                  "price": 400,
+                  "essential_ingredients": ["queso"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Croquetas",
+                  "price": 400,
+                  "essential_ingredients": ["harina", "leche"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Chicharritas",
+                  "price": 300,
+                  "essential_ingredients": ["plátano", "aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Papas Prefritas",
+                  "price": 600,
+                  "essential_ingredients": ["papas", "aceite"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Bocadillos",
+              "items": [
+                {
+                  "name": "Sandwich de Queso",
+                  "price": 700,
+                  "essential_ingredients": ["pan", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Sandwich de Jamón",
+                  "price": 650,
+                  "essential_ingredients": ["pan", "jamón"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Sandwich de Jamón y Queso",
+                  "price": 900,
+                  "essential_ingredients": ["pan", "jamón", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Sandwich de Atún",
+                  "price": 1100,
+                  "essential_ingredients": ["pan", "atún"],
+                  "allergy_info": ["gluten", "pescado"]
+                },
+                {
+                  "name": "Sandwich Mi Terraza",
+                  "price": 1100,
+                  "essential_ingredients": ["pan", "varios ingredientes"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Pastas",
+              "items": [
+                {
+                  "name": "Espaguetti Napolitano",
+                  "price": 1000,
+                  "essential_ingredients": ["espaguetis", "salsa napolitana"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Espaguetti de Jamón",
+                  "price": 1250,
+                  "essential_ingredients": ["espaguetis", "jamón"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Espaguetti de Atún",
+                  "price": 1400,
+                  "essential_ingredients": ["espaguetis", "atún"],
+                  "allergy_info": ["gluten", "pescado"]
+                },
+                {
+                  "name": "Espaguetti a la Carbonara",
+                  "price": 1600,
+                  "essential_ingredients": ["espaguetis", "carbonara"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Espaguetti Doble Queso",
+                  "price": 1500,
+                  "essential_ingredients": ["espaguetis", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Canelón",
+                  "price": 1500,
+                  "essential_ingredients": ["pasta", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Pizzas",
+              "items": [
+                {
+                  "name": "Pizza Napolitana",
+                  "price": 1200,
+                  "essential_ingredients": ["masa de pizza", "salsa napolitana"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pizza Hawaiana",
+                  "price": 1700,
+                  "essential_ingredients": ["masa de pizza", "piña", "jamón"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pizza Mi Terraza",
+                  "price": 1800,
+                  "essential_ingredients": ["masa de pizza", "varios ingredientes"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Agregados",
+              "items": [
+                {
+                  "name": "Doble Queso",
+                  "price": 500,
+                  "essential_ingredients": ["queso"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Jamón",
+                  "price": 300,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Cebolla",
+                  "price": 250,
+                  "essential_ingredients": ["cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Piña",
+                  "price": 200,
+                  "essential_ingredients": ["piña"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Atún",
+                  "price": 400,
+                  "essential_ingredients": ["atún"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Aceitunas",
+                  "price": 400,
+                  "essential_ingredients": ["aceitunas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chorizo",
+                  "price": 200,
+                  "essential_ingredients": ["chorizo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bacon",
+                  "price": 700,
+                  "essential_ingredients": ["bacon"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Postres",
+              "items": [
+                {
+                  "name": "Batido de Helado",
+                  "price": 600,
+                  "essential_ingredients": ["helado", "leche"],
+                  "allergy_info": ["lactosa"]
+                }
+              ]
+            },
+            {
+                      "category": "Bebidas",
+                      "items": [
+                        {
+                          "name": "Limonada Frappé",
+                          "price": 350,
+                          "essential_ingredients": ["limón"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Malteada",
+                          "price": 500,
+                          "essential_ingredients": ["leche", "otros ingredientes"],
+                          "allergy_info": ["lactosa"]
+                        },
+                        {
+                          "name": "Batido de Mango",
+                          "price": 550,
+                          "essential_ingredients": ["mango", "leche"],
+                          "allergy_info": ["lactosa"]
+                        },
+                        {
+                          "name": "Batido de Frutabomba",
+                          "price": 400,
+                          "essential_ingredients": ["frutabomba", "leche"],
+                          "allergy_info": ["lactosa"]
+                        },
+                        {
+                          "name": "Batido de Guayaba",
+                          "price": 400,
+                          "essential_ingredients": ["guayaba", "leche"],
+                          "allergy_info": ["lactosa"]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+              
+      

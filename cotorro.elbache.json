@@ -1,0 +1,244 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "El Bache",
+    "cuisine": ["Comida Italiana"],
+    "description": "El Bache es una Restaurante-Cafetería en el municipio Cotorro, ubicada en Calle 30 entre 95 y 97, Las Brisas. Con 15 años de experiencia, ofrece una deliciosa selección de comida italiana, destacando su pizza napolitana y cerveza. Es el lugar ideal para disfrutar de una comida tranquila y agradable.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "10:30",
+        "close": "22:30"
+      },
+      "tuesday": {
+        "open": "10:30",
+        "close": "22:30"
+      },
+      "wednesday": {
+        "open": "10:30",
+        "close": "22:30"
+      },
+      "thursday": {
+        "open": "10:30",
+        "close": "22:30"
+      },
+      "friday": {
+        "open": "10:30",
+        "close": "22:30"
+      },
+      "saturday": {
+        "open": null,
+        "close": null
+      },
+      "sunday": {
+        "open": null,
+        "close": null
+      }
+    },
+    "address": "Calle 30 entre 95 y 97, Las Brisas",
+    "municipality": "Cotorro",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": "Facebook",
+      "instagram": "Instagram"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable"],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": ["Alternativas para apagones"],
+    "highlights": []
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Pastas",
+              "items": [
+                {
+                  "name": "Lasaña",
+                  "price": 800,
+                  "essential_ingredients": ["pasta", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Lasaña de Queso Gouda",
+                  "price": 1200,
+                  "essential_ingredients": ["pasta", "queso gouda"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Espaguetti con Queso Gouda",
+                  "price": 900,
+                  "essential_ingredients": ["espaguetis", "queso gouda"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Espaguetti",
+                  "price": 600,
+                  "essential_ingredients": ["espaguetis", "salsa"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Pizzas",
+              "items": [
+                {
+                  "name": "Pizza Napolitana",
+                  "price": 600,
+                  "essential_ingredients": ["masa de pizza", "salsa napolitana"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pizza Doble Queso",
+                  "price": 800,
+                  "essential_ingredients": ["masa de pizza", "doble queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza Queso Gouda",
+                  "price": 900,
+                  "essential_ingredients": ["masa de pizza", "queso gouda"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza Jamón",
+                  "price": 800,
+                  "essential_ingredients": ["masa de pizza", "jamón"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pizza Chorizo",
+                  "price": 800,
+                  "essential_ingredients": ["masa de pizza", "chorizo"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pizza Aceituna",
+                  "price": 800,
+                  "essential_ingredients": ["masa de pizza", "aceitunas"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pizza Aceituna XL",
+                  "price": 1350,
+                  "essential_ingredients": ["masa de pizza", "aceitunas"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pizza Atún",
+                  "price": 800,
+                  "essential_ingredients": ["masa de pizza", "atún"],
+                  "allergy_info": ["gluten", "pescado"]
+                },
+                {
+                  "name": "Pizza Cebolla",
+                  "price": 1100,
+                  "essential_ingredients": ["masa de pizza", "cebolla"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pizza Hawaiana",
+                  "price": 1450,
+                  "essential_ingredients": ["masa de pizza", "piña", "jamón"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pizza 4 Estaciones",
+                  "price": 1350,
+                  "essential_ingredients": ["masa de pizza", "varios ingredientes"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Agregados",
+              "items": [
+                {
+                  "name": "Queso",
+                  "price": 300,
+                  "essential_ingredients": ["queso"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Jamón",
+                  "price": 200,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chorizo",
+                  "price": 200,
+                  "essential_ingredients": ["chorizo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Aceituna",
+                  "price": 200,
+                  "essential_ingredients": ["aceitunas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Atún",
+                  "price": 750,
+                  "essential_ingredients": ["atún"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Cebolla",
+                  "price": 200,
+                  "essential_ingredients": ["cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Piña",
+                  "price": 300,
+                  "essential_ingredients": ["piña"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Gouda",
+                  "price": 650,
+                  "essential_ingredients": ["queso gouda"],
+                  "allergy_info": ["lactosa"]
+                }
+              ]
+            }
+          ]
+        }
+      }
+      
+ 

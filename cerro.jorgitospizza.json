@@ -1,0 +1,289 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Jorgito's Pizza",
+    "cuisine": ["Comida Italiana"],
+    "description": "Jorgito's Pizza es un acogedor restaurante en el municipio Cerro, La Habana, especializado en auténtica comida italiana, especialmente pizzas deliciosas. Con un ambiente informal y un servicio amigable, es el lugar perfecto para disfrutar de una comida con amigos o familiares.",
+    "contact_info": {
+      "phone": {
+        "number": "78780156",
+        "type": "landline"
+      },
+      "mobile": {
+        "number": "54031349",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "11:00",
+        "close": "23:00"
+      }
+    },
+    "address": null,
+    "municipality": "Cerro",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.120895150022783,
+      "longitude": -82.37362585134757
+    },
+    "social_media": {
+      "facebook": "Jorgito's Pizzas",
+      "instagram": "@jorgitospizza"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": [],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Familias"],
+      "planning": [],
+      "children": true,
+      "pets": null,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": ["Almuerzo", "Cena"],
+    "advantages": ["Accesible", "Entrega a domicilio"],
+    "highlights": ["Ambiente familiar"]
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Platos Principales",
+              "items": [
+                {
+                  "name": "Pizza de Queso Gouda (20cm)",
+                  "price": 410,
+                  "essential_ingredients": ["masa de pizza", "queso gouda", "salsa de tomate"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Spaghetti c/Queso Gouda",
+                  "price": 690,
+                  "essential_ingredients": ["spaghetti", "queso gouda"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza de Queso Gouda (32cm)",
+                  "price": 750,
+                  "essential_ingredients": ["masa de pizza", "queso gouda", "salsa de tomate"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza de 2 Quesos (32cm)",
+                  "price": 990,
+                  "essential_ingredients": ["masa de pizza", "queso gouda", "queso extra"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza Hawaiana (32cm)",
+                  "price": 1110,
+                  "essential_ingredients": ["masa de pizza", "queso gouda", "piña", "jamón"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza de 3 Quesos (32cm)",
+                  "price": 1320,
+                  "essential_ingredients": ["masa de pizza", "queso gouda", "queso extra"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza de 4 Quesos (32cm)",
+                  "price": 1500,
+                  "essential_ingredients": ["masa de pizza", "queso gouda", "queso extra"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza de Vegetales (32cm)",
+                  "price": 1650,
+                  "essential_ingredients": ["masa de pizza", "queso gouda", "vegetales variados"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza Familiar de Queso Gouda (40x50cm)",
+                  "price": 1820,
+                  "essential_ingredients": ["masa de pizza", "queso gouda", "salsa de tomate"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza Familiar de 2 Quesos (40x50cm)",
+                  "price": 2780,
+                  "essential_ingredients": ["masa de pizza", "queso gouda", "queso extra"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza Familiar Hawaiana (40x50cm)",
+                  "price": 3260,
+                  "essential_ingredients": ["masa de pizza", "queso gouda", "piña", "jamón"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza Familiar de 3 Quesos (40x50cm)",
+                  "price": 3345,
+                  "essential_ingredients": ["masa de pizza", "queso gouda", "queso extra"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza Familiar de 4 Quesos (40x50cm)",
+                  "price": 3470,
+                  "essential_ingredients": ["masa de pizza", "queso gouda", "queso extra"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza Familiar de Vegetales (40x50cm)",
+                  "price": 5420,
+                  "essential_ingredients": ["masa de pizza", "queso gouda", "vegetales variados"],
+                  "allergy_info": ["gluten", "lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Agregos",
+              "items": [
+                {
+                  "name": "Chorizo",
+                  "price": 170,
+                  "essential_ingredients": ["chorizo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Piña",
+                  "price": 180,
+                  "essential_ingredients": ["piña"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Jamón",
+                  "price": 180,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Queso Nacional",
+                  "price": 180,
+                  "essential_ingredients": ["queso nacional"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Queso Mozzarella",
+                  "price": 240,
+                  "essential_ingredients": ["queso mozzarella"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Pimiento",
+                  "price": 250,
+                  "essential_ingredients": ["pimiento"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Queso Gouda",
+                  "price": 300,
+                  "essential_ingredients": ["queso gouda"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Queso Parmesano",
+                  "price": 330,
+                  "essential_ingredients": ["queso parmesano"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Atún",
+                  "price": 330,
+                  "essential_ingredients": ["atún"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Aceituna",
+                  "price": 350,
+                  "essential_ingredients": ["aceituna"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chorizo (Familiar)",
+                  "price": 680,
+                  "essential_ingredients": ["chorizo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Jamón (Familiar)",
+                  "price": 720,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pimiento (Familiar)",
+                  "price": 1000,
+                  "essential_ingredients": ["pimiento"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Cebolla (Familiar)",
+                  "price": 1200,
+                  "essential_ingredients": ["cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Queso Gouda (Familiar)",
+                  "price": 1200,
+                  "essential_ingredients": ["queso gouda"],
+                  "allergy_info": ["lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Ofertas Especiales",
+              "items": [
+                {
+                  "name": "Pizza Especial con todos los Agregos (35cm)",
+                  "price": 3800,
+                  "essential_ingredients": ["masa de pizza", "queso gouda", "varios ingredientes"],
+                  "allergy_info": ["gluten", "lactosa"]
+                }
+              ]
+            }
+          ]
+        }
+      }
+      

@@ -1,0 +1,208 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Buenissimo Heladeria",
+    "cuisine": ["Cubana", "Italiana"],
+    "description": "Buenissimo Heladeria es un restaurante en el distrito de Centro Habana, con una capacidad media de aforo y especializado en cocina cubana e italiana.",
+    "contact_info": {
+      "phone": {
+        "number": "54047156",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": "https://buennissimo.com/"
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "09:30",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "09:30",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "09:30",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "09:30",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "09:30",
+        "close": "24:00"
+      },
+      "saturday": {
+        "open": "09:30",
+        "close": "24:00"
+      },
+      "sunday": {
+        "open": "09:30",
+        "close": "24:00"
+      }
+    },
+    "address": "Centro Habana",
+    "municipality": "Centro Habana",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.143218246225477,
+      "longitude": -82.37817617833404
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": "@buenissimo.heladeria"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": ["Cuidado de ninos", "Plantas"],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": true
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Postres",
+              "items": [
+                {
+                  "name": "1/2 kg de helado",
+                  "price": 1800,
+                  "essential_ingredients": ["leche", "azúcar", "sabores"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "1 kg de helado",
+                  "price": 3600,
+                  "essential_ingredients": ["leche", "azúcar", "sabores"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "cono (1 bola 95gr)",
+                  "price": 280,
+                  "essential_ingredients": ["leche", "azúcar", "sabores", "cono"],
+                  "allergy_info": ["lactosa", "gluten"]
+                },
+                {
+                  "name": "cono doble",
+                  "price": 560,
+                  "essential_ingredients": ["leche", "azúcar", "sabores", "cono"],
+                  "allergy_info": ["lactosa", "gluten"]
+                },
+                {
+                  "name": "cono maxi",
+                  "price": 850,
+                  "essential_ingredients": ["leche", "azúcar", "sabores", "cono"],
+                  "allergy_info": ["lactosa", "gluten"]
+                },
+                {
+                  "name": "copa buenissimo",
+                  "price": 1500,
+                  "essential_ingredients": ["leche", "azúcar", "sabores"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "copa family",
+                  "price": 2100,
+                  "essential_ingredients": ["leche", "azúcar", "sabores"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "copa firenze",
+                  "price": 1200,
+                  "essential_ingredients": ["leche", "azúcar", "sabores"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "copa habana",
+                  "price": 620,
+                  "essential_ingredients": ["leche", "azúcar", "sabores"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "copa roma",
+                  "price": 950,
+                  "essential_ingredients": ["leche", "azúcar", "sabores"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "copeta 1 bola",
+                  "price": 300,
+                  "essential_ingredients": ["leche", "azúcar", "sabores"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "copeta 2 sabores",
+                  "price": 630,
+                  "essential_ingredients": ["leche", "azúcar", "sabores"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "copeta 3 sabores",
+                  "price": 920,
+                  "essential_ingredients": ["leche", "azúcar", "sabores"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "copeta 4 sabores",
+                  "price": 1200,
+                  "essential_ingredients": ["leche", "azúcar", "sabores"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "tulipan",
+                  "price": 1300,
+                  "essential_ingredients": ["leche", "azúcar", "sabores"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "tulipan max",
+                  "price": 1500,
+                  "essential_ingredients": ["leche", "azúcar", "sabores"],
+                  "allergy_info": ["lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Batidos de Helado",
+              "items": [
+                {
+                  "name": "batido",
+                  "price": 900,
+                  "essential_ingredients": ["helado", "leche"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "batido maxi",
+                  "price": 1000,
+                  "essential_ingredients": ["helado", "leche"],
+                  "allergy_info": ["lactosa"]
+                }
+              ]
+            }
+          ]
+        }
+      }
+      

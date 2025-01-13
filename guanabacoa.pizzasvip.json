@@ -1,0 +1,418 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Restaurante"]
+      },
+      "name": "Pizzas Vip",
+      "cuisine": ["Pizzas", "Pastas"],
+      "description": null,
+      "contact_info": {
+        "phone": 
+          {
+            "number": "52844312",
+            "type": "mobile"
+          },
+        "email": null,
+        "website": null
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        "tuesday": {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        "wednesday": {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        "thursday": {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        "friday": {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        "saturday": {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        "sunday": {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      },
+      "address": "",
+      "municipality": "Guanabacoa",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Efectivo", "Transfermovil"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Tarifa de servicio 10%",
+        "description": "Se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": ["A la carta"],
+        "ambience": [],
+        "usual_customers": [],
+        "planning": [],
+        "children": null,
+        "pets": null,
+        "parking": null
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },
+    "menu": {
+      "categories": [
+        {
+          "category": "Entrantes",
+          "items": [
+            {
+              "name": "Croquetas de la Casa",
+              "price": 400.00,
+              "essential_ingredients": ["Harina", "Leche", "Huevo", "Pan rallado"],
+              "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+            },
+            {
+              "name": "Fritura de Malanga",
+              "price": 300.00,
+              "essential_ingredients": ["Malanga", "Harina", "Huevo"],
+              "allergy_info": ["Gluten", "Huevo"]
+            },
+            {
+              "name": "Bolita de Queso",
+              "price": 650.00,
+              "essential_ingredients": ["Queso", "Harina", "Huevo", "Pan rallado"],
+              "allergy_info": ["Lactosa", "Gluten", "Huevo"]
+            },
+            {
+              "name": "Fajita de Pechuga",
+              "price": 1100.00,
+              "essential_ingredients": ["Pollo", "Pimientos", "Cebolla"],
+              "allergy_info": []
+            },
+            {
+              "name": "Ensalada Fría",
+              "price": 370.00,
+              "essential_ingredients": ["Pasta", "Vegetales", "Mayonesa"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Papa Frita",
+              "price": 580.00,
+              "essential_ingredients": ["Papas", "Aceite", "Sal"],
+              "allergy_info": []
+            },
+            {
+              "name": "Fajita de Cerdo",
+              "price": 1200.00,
+              "essential_ingredients": ["Cerdo", "Pimientos", "Cebolla"],
+              "allergy_info": []
+            },
+            {
+              "name": "Crema de Queso",
+              "price": 500.00,
+              "essential_ingredients": ["Queso", "Leche"],
+              "allergy_info": ["Lactosa"]
+            },
+            {
+              "name": "Crema Virginia",
+              "price": 550.00,
+              "essential_ingredients": ["Queso", "Leche", "Jamon"],
+              "allergy_info": ["Lactosa"]
+            },
+            {
+              "name": "Crema Aurora",
+              "price": 520.00,
+              "essential_ingredients": ["Queso", "Leche"],
+              "allergy_info": ["Lactosa"]
+            },
+            {
+              "name": "Crema Mixta",
+              "price": 600.00,
+              "essential_ingredients": ["Queso", "Leche", "Vegetales"],
+              "allergy_info": ["Lactosa"]
+            },
+            {
+              "name": "Tacos de Jamon",
+              "price": 1030.00,
+              "essential_ingredients": ["Tortilla", "Jamon", "Lechuga"],
+              "allergy_info": ["Gluten"]
+            },
+            {
+              "name": "Tacos de Res",
+              "price": 1350.00,
+              "essential_ingredients": ["Tortilla", "Res", "Lechuga"],
+              "allergy_info": ["Gluten"]
+            },
+            {
+              "name": "Tacos de Cangrejo",
+              "price": 1380.00,
+              "essential_ingredients": ["Tortilla", "Cangrejo", "Lechuga"],
+              "allergy_info": ["Gluten", "Mariscos"]
+            }
+          ]
+        },
+        {
+          "category": "Pizzas",
+          "items": [
+            {
+              "name": "Pizza de Queso",
+              "price": 800.00,
+              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza de Cebolla",
+              "price": 1000.00,
+              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Cebolla"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza de Pimiento",
+              "price": 1000.00,
+              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Pimiento"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza de Jamon",
+              "price": 1100.00,
+              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Jamon"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza de Chorizo",
+              "price": 1050.00,
+              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Chorizo"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza Hawaiana",
+              "price": 1260.00,
+              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Jamon", "Pina"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza de Bacon",
+              "price": 1240.00,
+              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Bacon"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza Doble Queso",
+              "price": 1250.00,
+              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza de Camaron",
+              "price": 1700.00,
+              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Camaron"],
+              "allergy_info": ["Gluten", "Lactosa", "Mariscos"]
+            },
+            {
+              "name": "Pizza de Res",
+              "price": 1300.00,
+              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Res"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+       
+            "name": "Pizza de Res",
+            "price": 1300.00,
+            "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Res"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Pizza de Atun con Cebolla",
+            "price": 1450.00,
+            "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Atun", "Cebolla"],
+            "allergy_info": ["Gluten", "Lactosa", "Pescado"]
+          },
+          {
+            "name": "Pizza de Jamon Serrano",
+            "price": 1570.00,
+            "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Jamon serrano"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Pizza de Aceituna",
+            "price": 1200.00,
+            "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Aceituna"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          }
+        ]
+      },
+      {
+        "category": "Pasta",
+        "items": [
+          {
+            "name": "Espaguetis Napolitano",
+            "price": 720.00,
+            "essential_ingredients": ["Espaguetis", "Tomate", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Espaguetis Bolonesa",
+            "price": 1350.00,
+            "essential_ingredients": ["Espaguetis", "Salsa bolonesa", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Espaguetis Carbonara",
+            "price": 1350.00,
+            "essential_ingredients": ["Espaguetis", "Salsa carbonara", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Espaguetis Alfredo",
+            "price": 1150.00,
+            "essential_ingredients": ["Espaguetis", "Salsa Alfredo", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Espaguetis de Atun",
+            "price": 1270.00,
+            "essential_ingredients": ["Espaguetis", "Atun", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa", "Pescado"]
+          },
+          {
+            "name": "Espaguetis Pollo",
+            "price": 1120.00,
+            "essential_ingredients": ["Espaguetis", "Pollo", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Espaguetis de Camarones",
+            "price": 1400.00,
+            "essential_ingredients": ["Espaguetis", "Camarones", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa", "Mariscos"]
+          },
+          {
+            "name": "Espaguetis Chorizo",
+            "price": 1150.00,
+            "essential_ingredients": ["Espaguetis", "Chorizo", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Espaguetis Negro Di Mare",
+            "price": 1500.00,
+            "essential_ingredients": ["Espaguetis", "Mariscos", "Tinta de calamar"],
+            "allergy_info": ["Gluten", "Mariscos"]
+        }
+    ]
+  },
+  {
+   
+              "category": "Bebidas alcoholicas",
+              "items": [
+                {
+                  "name": "Henike",
+                  "price": 360.00,
+                  "essential_ingredients": ["Cerveza"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Cerveza importada",
+                  "price": 250.00,
+                  "essential_ingredients": ["Cerveza"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Cerveza de lata Cristal",
+                  "price": 300.00,
+                  "essential_ingredients": ["Cerveza"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Cerveza de botella",
+                  "price": 300.00,
+                  "essential_ingredients": ["Cerveza"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Bebidas no alcoholicas",
+              "items": [
+                {
+                  "name": "Pomitos de agua",
+                  "price": 150.00,
+                  "essential_ingredients": ["Agua"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Refresco de pomito",
+                  "price": 180.00,
+                  "essential_ingredients": ["Refresco"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Refresco de lata",
+                  "price": 220.00,
+                  "essential_ingredients": ["Refresco"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Malta",
+                  "price": 300.00,
+                  "essential_ingredients": ["Malta"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Jugos de lata",
+                  "price": 280.00,
+                  "essential_ingredients": ["Jugo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Jugos de cajita",
+                  "price": 180.00,
+                  "essential_ingredients": ["Jugo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Tigon",
+                  "price": 300.00,
+                  "essential_ingredients": ["Bebida energetica"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Refresco importado",
+                  "price": 280.00,
+                  "essential_ingredients": ["Refresco"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Malta importada",
+                  "price": 270.00,
+                  "essential_ingredients": ["Malta"],
+                  "allergy_info": []
+                }
+              ]
+            }
+          ]
+        }
+      }
+      

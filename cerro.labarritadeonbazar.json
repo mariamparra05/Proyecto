@@ -1,0 +1,300 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Bar", "Restaurante"]
+    },
+    "name": "La Barrita Onbazar",
+    "cuisine": ["Comida Italiana", "Comida Americana"],
+    "description": "La Barrita Onbazar es un bar-restaurante en el municipio Cerro, La Habana, que ofrece una experiencia gastronómica única con una fusión de comida italiana y americana. Con un ambiente acogedor y un servicio excepcional, es el lugar ideal para disfrutar de una comida en cualquier ocasión.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "mobile": {
+        "number": "54494741",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": "labarrita.onbazar.net"
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "09:00",
+        "close": "01:00"
+      },
+      "saturday": {
+        "open": "09:00",
+        "close": "01:00"
+      },
+      "sunday": {
+        "open": "09:00",
+        "close": "01:00"
+      }
+    },
+    "address": null,
+    "municipality": "Cerro",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.121985720348754,
+      "longitude": -82.3738952629934
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": "@la_barrita_onbazar"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": true,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": [],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": [],
+      "children": true,
+      "pets": null,
+      "parking": true
+    },
+    "dietary_options": [],
+    "meals": ["Almuerzo", "Cena"],
+    "advantages": ["Accesible", "Reserva disponible"],
+    "highlights": ["Ambiente acogedor", "Servicio excepcional"]
+  },
+    "menu": {
+      "categories": [
+        {
+          "category": "Aperitivos",
+          "items": [
+            {
+              "name": "Croquetas",
+              "price": 650,
+              "essential_ingredients": ["harina", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Jamón, Queso y Aceitunas",
+              "price": 750,
+              "essential_ingredients": ["jamón", "queso", "aceitunas"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Pollo Frito",
+              "price": 1500,
+              "essential_ingredients": ["pollo", "especias"],
+              "allergy_info": []
+            },
+            {
+              "name": "Tostones Rellenos",
+              "price": 1300,
+              "essential_ingredients": ["plátano", "carne", "queso"],
+              "allergy_info": []
+            },
+            {
+              "name": "Mixta",
+              "price": 1600,
+              "essential_ingredients": ["varios ingredientes"],
+              "allergy_info": []
+            },
+            {
+              "name": "Pollo Chiflado",
+              "price": 1650,
+              "essential_ingredients": ["pollo", "salsa"],
+              "allergy_info": []
+            },
+            {
+              "name": "Brochetas",
+              "price": 2000,
+              "essential_ingredients": ["carne", "vegetales"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Platos Principales",
+          "items": [
+            {
+              "name": "Pizza de Napolitana",
+              "price": 850,
+              "essential_ingredients": ["masa de pizza", "queso", "salsa napolitana"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Spaghetti",
+              "price": 850,
+              "essential_ingredients": ["spaghetti", "salsa"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Pizza de Chorizo",
+              "price": 1000,
+              "essential_ingredients": ["masa de pizza", "queso", "chorizo"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Pizza de Jamón",
+              "price": 1000,
+              "essential_ingredients": ["masa de pizza", "queso", "jamón"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Pizza de Cebolla",
+              "price": 1000,
+              "essential_ingredients": ["masa de pizza", "queso", "cebolla"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Spaghetti de Chorizo",
+              "price": 1000,
+              "essential_ingredients": ["spaghetti", "chorizo"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Spaghetti de Jamón",
+              "price": 1100,
+              "essential_ingredients": ["spaghetti", "jamón"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Pizza de Hawaiana",
+              "price": 1150,
+              "essential_ingredients": ["masa de pizza", "queso", "piña", "jamón"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Hamburguesa",
+              "price": 1200,
+              "essential_ingredients": ["pan", "carne", "vegetales"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Hamburguesa Jamón y Queso",
+              "price": 1650,
+              "essential_ingredients": ["pan", "carne", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Hamburguesa Onbazar",
+              "price": 2700,
+              "essential_ingredients": ["pan", "carne", "queso", "bacon"],
+              "allergy_info": ["gluten", "lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Agregos",
+          "items": [
+            {
+              "name": "Jamón",
+              "price": 150,
+              "essential_ingredients": ["jamón"],
+              "allergy_info": []
+            },
+            {
+              "name": "Cebolla",
+              "price": 150,
+              "essential_ingredients": ["cebolla"],
+              "allergy_info": []
+            },
+            {
+              "name": "Chorizo",
+              "price": 150,
+              "essential_ingredients": ["chorizo"],
+              "allergy_info": []
+            },
+            {
+              "name": "Hawaiana",
+              "price": 250,
+              "essential_ingredients": ["piña"],
+              "allergy_info": []
+            },
+            {
+              "name": "Doble Queso",
+              "price": 250,
+              "essential_ingredients": ["queso"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Bebidas",
+          "items": [
+            {
+              "name": "Café Expreso",
+              "price": 180,
+              "essential_ingredients": ["café"],
+              "allergy_info": []
+            },
+            {
+              "name": "Café Cortado",
+              "price": 220,
+              "essential_ingredients": ["café", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Malteada",
+              "price": 500,
+              "essential_ingredients": ["leche", "helado"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Limonada Frape",
+              "price": 400,
+              "essential_ingredients": ["limón", "hielo", "azúcar"],
+              "allergy_info": []
+            },
+            {
+              "name": "Café Bombón",
+              "price": 450,
+              "essential_ingredients": ["café", "leche condensada"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Capuchino",
+              "price": 450,
+              "essential_ingredients": ["café", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Piña Colada",
+              "price": 600,
+              "essential_ingredients": ["piña", "coco"],
+              "allergy_info": []
+            },
+            {
+              "name": "Piña Colada (Alcohol)",
+              "price": 750,
+              "essential_ingredients": ["piña", "coco", "ron"],
+              "allergy_info": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,207 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "La Casona del Cerro",
+    "cuisine": ["Comida Cubana", "Comida Italiana"],
+    "description": "La Casona del Cerro es un restaurante en el municipio Cerro, La Habana, conocido por su deliciosa fusión de comida cubana e italiana. Con un ambiente acogedor y una atención especial a las familias, es el lugar ideal para disfrutar de una comida en compañía de tus seres queridos.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "tuesday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "wednesday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "thursday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "friday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "saturday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "sunday": {
+        "open": "10:00",
+        "close": "14:00"
+      }
+    },
+    "address": null,
+    "municipality": "Cerro",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.11469533090789,
+      "longitude": -82.38140701647916
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable", "Familiar"],
+      "usual_customers": ["Familias"],
+      "planning": [],
+      "children": true,
+      "pets": null,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": ["Almuerzo", "Cena"],
+    "advantages": ["Accesible"],
+    "highlights": ["Ambiente acogedor", "Atención a familias"]
+  },
+    "menu": {
+      "categories": [
+        {
+          "category": "Platos Principales",
+          "items": [
+            {
+              "name": "Pizza Napolitana c/Queso Gouda",
+              "price": 450,
+              "essential_ingredients": ["masa de pizza", "queso gouda", "salsa napolitana"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Spaghetti c/Queso Gouda",
+              "price": 450,
+              "essential_ingredients": ["spaghetti", "queso gouda"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Pizza de Jamón y Queso Gouda",
+              "price": 500,
+              "essential_ingredients": ["masa de pizza", "queso gouda", "jamón"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Spaghetti c/Jamón y Queso Gouda",
+              "price": 500,
+              "essential_ingredients": ["spaghetti", "queso gouda", "jamón"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Pizza Mixta c/Queso Gouda",
+              "price": 550,
+              "essential_ingredients": ["masa de pizza", "queso gouda", "varios ingredientes"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Spaghetti Mixto",
+              "price": 550,
+              "essential_ingredients": ["spaghetti", "queso gouda", "varios ingredientes"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Pizza Doble Queso",
+              "price": 650,
+              "essential_ingredients": ["masa de pizza", "queso gouda", "queso extra"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Spaghetti Doble Queso Gouda",
+              "price": 650,
+              "essential_ingredients": ["spaghetti", "queso gouda", "queso extra"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Bistec de Cerdo",
+              "price": 850,
+              "essential_ingredients": ["cerdo", "especias"],
+              "allergy_info": []
+            },
+            {
+              "name": "Fricasé de Cerdo",
+              "price": 850,
+              "essential_ingredients": ["cerdo", "salsa"],
+              "allergy_info": []
+            },
+            {
+              "name": "Pizza Familiar c/Queso Gouda",
+              "price": 900,
+              "essential_ingredients": ["masa de pizza", "queso gouda", "salsa napolitana"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Masa Frita",
+              "price": 900,
+              "essential_ingredients": ["cerdo", "especias"],
+              "allergy_info": []
+            },
+            {
+              "name": "Pizza Familiar de Jamón y Queso Gouda",
+              "price": 1000,
+              "essential_ingredients": ["masa de pizza", "queso gouda", "jamón"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Chuleta",
+              "price": 1000,
+              "essential_ingredients": ["cerdo", "especias"],
+              "allergy_info": []
+            },
+            {
+              "name": "Pizza Familiar Mixta c/Queso Gouda",
+              "price": 1050,
+              "essential_ingredients": ["masa de pizza", "queso gouda", "varios ingredientes"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Pollo Asado",
+              "price": 1100,
+              "essential_ingredients": ["pollo", "especias"],
+              "allergy_info": []
+            },
+            {
+              "name": "Pizza Familiar Doble Queso",
+              "price": 1200,
+              "essential_ingredients": ["masa de pizza", "queso gouda", "queso extra"],
+              "allergy_info": ["gluten", "lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Postres",
+          "items": [
+            {
+              "name": "Flan",
+              "price": 350,
+              "essential_ingredients": ["leche", "huevo", "azúcar"],
+              "allergy_info": ["lactosa", "huevo"]
+            }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "La Libra",
+    "cuisine": ["Comida Criolla"],
+    "description": "La Libra es un bar-restaurante en el municipio Cotorro, conocido por su especialidad en comida criolla. Con apertura reciente, es famoso por su bistec uruguayo y filete de cerdo, así como sus refrescantes piña colada y mojito. Es un lugar perfecto para disfrutar de espectáculos humorísticos y cantantes en vivo.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "11:00",
+        "close": "12:00"
+      },
+      "tuesday": {
+        "open": "11:00",
+        "close": "12:00"
+      },
+      "wednesday": {
+        "open": "11:00",
+        "close": "12:00"
+      },
+      "thursday": {
+        "open": "11:00",
+        "close": "12:00"
+      },
+      "friday": {
+        "open": "11:00",
+        "close": "12:00"
+      },
+      "saturday": {
+        "open": "11:00",
+        "close": "12:00"
+      },
+      "sunday": {
+        "open": "11:00",
+        "close": "12:00"
+      }
+    },
+    "address": null,
+    "municipality": "Cotorro",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Bistec Uruguayo", "Filete de Cerdo"],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable"],
+      "usual_customers": ["Turistas"],
+      "planning": ["Show Humorístico", "Cantantes"],
+      "children": true,
+      "pets": true,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": ["Comida"],
+    "advantages": ["Alternativas para apagones"],
+    "highlights": []
+  },
+
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "Fajitas de Pollo",
+                  "price": 1700,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Fajitas de Cerdo",
+                  "price": 1600,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Alitas de Pollo",
+                  "price": 1300,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Croquetas",
+                  "price": 550,
+                  "essential_ingredients": ["harina", "leche"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Tostones Naturales",
+                  "price": 300,
+                  "essential_ingredients": ["plátano"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Tostones al Ajillo",
+                  "price": 350,
+                  "essential_ingredients": ["plátano", "ajo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Tostones Rellenos",
+                  "price": 1100,
+                  "essential_ingredients": ["plátano", "varios ingredientes"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Tostones Campesinos",
+                  "price": 1100,
+                  "essential_ingredients": ["plátano", "varios ingredientes"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Papas Fritas",
+                  "price": 900,
+                  "essential_ingredients": ["papas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Fritura de Malanga",
+                  "price": 500,
+                  "essential_ingredients": ["malanga"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Entremés de Jamón, Queso y Aceituna",
+                  "price": 1500,
+                  "essential_ingredients": ["jamón", "queso", "aceitunas"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Camarón Empanado",
+                  "price": 1200,
+                  "essential_ingredients": ["camarones"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Eperlan",
+                  "price": 2100,
+                  "essential_ingredients": ["eperlan"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Platos Principales",
+              "items": [
+                {
+                  "name": "Bistec de Res Grillé",
+                  "price": 3000,
+                  "essential_ingredients": ["res"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Brocheta",
+                  "price": 2000,
+                  "essential_ingredients": ["varios ingredientes"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Filete de Cerdo",
+                  "price": 3400,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bistec Uruguayo",
+                  "price": 2900,
+                  "essential_ingredients": ["res"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Masa de Cerdo Frita",
+                  "price": 2400,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bistec de Cerdo",
+                  "price": 200,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Fricasé de Cerdo",
+                  "price": 2300,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Costilla de Cerdo Frita",
+                  "price": 2300,
+                  "essential_ingredients": ["costilla de cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Costilla de Cerdo Asada",
+                  "price": 2400,
+                  "essential_ingredients": ["costilla de cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Costilla de Cerdo en Salsa",
+                  "price": 2500,
+                  "essential_ingredients": ["costilla de cerdo", "salsa"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chilindrón de Cordero",
+                  "price": 3500,
+                  "essential_ingredients": ["cordero"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+                        "category": "Mariscos",
+                          "items": [
+                            {
+                              "name": "Camarón Grillé",
+                              "price": 1700,
+                              "essential_ingredients": ["camarones"],
+                              "allergy_info": ["mariscos"]
+                            },
+                            {
+                              "name": "Camarón Enchilado",
+                              "price": 2200,
+                              "essential_ingredients": ["camarones", "salsa"],
+                              "allergy_info": ["mariscos"]
+                            },
+                            {
+                              "name": "Camarón al Ajillo",
+                              "price": 1500,
+                              "essential_ingredients": ["camarones", "ajo"],
+                              "allergy_info": ["mariscos"]
+                            },
+                            {
+                              "name": "Filete de Pescado",
+                              "price": 2100,
+                              "essential_ingredients": ["pescado"],
+                              "allergy_info": ["pescado"]
+                            },
+                            {
+                              "name": "Pescado Canciller",
+                              "price": 3300,
+                              "essential_ingredients": ["pescado"],
+                              "allergy_info": ["pescado"]
+                            },
+                            {
+                              "name": "Calamar en su Tinta",
+                              "price": 4000,
+                              "essential_ingredients": ["calamar"],
+                              "allergy_info": ["mariscos"]
+                            },
+                            {
+                              "name": "Filete de Salmón",
+                              "price": 2500,
+                              "essential_ingredients": ["salmón"],
+                              "allergy_info": ["pescado"]
+                            },
+                            {
+                              "name": "Pulpo al Ajillo",
+                              "price": 3200,
+                              "essential_ingredients": ["pulpo", "ajo"],
+                              "allergy_info": ["mariscos"]
+                            },
+                            {
+                              "name": "Pulpo Grillé",
+                              "price": 3300,
+                              "essential_ingredients": ["pulpo"],
+                              "allergy_info": ["mariscos"]
+                            },
+                            {
+                              "name": "Langosta Grillé",
+                              "price": 2000,
+                              "essential_ingredients": ["langosta"],
+                              "allergy_info": ["mariscos"]
+                            }
+                          ]
+                        },
+                        {
+                          "category": "Pastas",
+                          "items": [
+                            {
+                              "name": "Espaguetti Napolitano",
+                              "price": 1200,
+                              "essential_ingredients": ["espaguetis", "salsa napolitana"],
+                              "allergy_info": ["gluten"]
+                            }
+                          ]
+                        },
+                        {
+                          "category": "Pizzas",
+                          "items": [
+                            {
+                              "name": "Pizza Napolitana",
+                              "price": 1500,
+                              "essential_ingredients": ["masa de pizza", "salsa napolitana"],
+                              "allergy_info": ["gluten"]
+                            }
+                          ]
+                        },
+                        {
+                          "category": "Agregados",
+                          "items": [
+                            {
+                              "name": "Queso",
+                              "price": 700,
+                              "essential_ingredients": ["queso"],
+                              "allergy_info": ["lactosa"]
+                            },
+                            {
+                              "name": "Jamón",
+                              "price": 600,
+                              "essential_ingredients": ["jamón"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Ají",
+                              "price": 400,
+                              "essential_ingredients": ["ají"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Camarón",
+                              "price": 800,
+                              "essential_ingredients": ["camarones"],
+                              "allergy_info": ["mariscos"]
+                            },
+                            {
+                              "name": "Aceituna",
+                              "price": 400,
+                              "essential_ingredients": ["aceitunas"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Cebolla",
+                              "price": 300,
+                              "essential_ingredients": ["cebolla"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Tomate",
+                              "price": 500,
+                              "essential_ingredients": ["tomate"],
+                              "allergy_info": []
+                            }
+                          ]
+                        },
+                        {
+                          "category": "Postres",
+                          "items": []
+                        },
+                        {
+                          "category": "Bebidas",
+                          "items": []
+                        }
+                      ]
+                    }
+                  }
+                  

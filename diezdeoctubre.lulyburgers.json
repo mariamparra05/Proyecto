@@ -1,0 +1,248 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Luly Hamburguesas",
+    "cuisine": ["Hamburguesas"],
+    "description": "Luly le invita a degustar una sabrosa hamburguesa, elaborada en el dia, con los mas exquisitos ingredientes. Un sitio para disfrutar del panorama urbano en un ambiente familiar y presto a complacer los gustos mas variados.",
+    "contact_info": {
+      "phone": {
+        "number": "(+53) 5282 3877",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "tuesday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "wednesday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "thursday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "friday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "saturday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "sunday": {
+        "open": "10:00",
+        "close": "22:00"
+      }
+    },
+    "address": "Calzada de Santa Catalina entre Calzada de Diez de Octubre y Parraga, Vibora, Diez de Octubre",
+    "municipality": "10 de Octubre",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": true,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": ["Hamburguesas"],
+      "local_options": ["Buffet para eventos", "Comida para llevar"],
+      "services": ["Musica grabada", "Parqueo", "Servicio en exteriores", "Area de fumadores"],
+      "ambience": ["Familiar", "Accesible"],
+      "usual_customers": ["Grupos", "Familias"],
+      "planning": [],
+      "children": true,
+      "pets": null,
+      "parking": ["Parqueo"]
+    },
+    "dietary_options": [],
+    "meals": ["Comidas", "Cenas"],
+    "advantages": ["Accesible", "Buffet para eventos", "Comida para llevar", "Musica grabada", "Parqueo", "Servicio en exteriores", "Area de fumadores"],
+    "highlights": ["Hamburguesas frescas", "Panorama urbano", "Ambiente familiar"]
+  },
+      "menu": {
+        "categories": [
+          {
+            "category": "Hamburguesas",
+            "items": [
+              {
+                "name": "Especial",
+                "price": 1000,
+                "essential_ingredients": ["pan de hamburguesa", "carne", "jamón", "queso"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Jamón y Queso",
+                "price": 680,
+                "essential_ingredients": ["pan de hamburguesa", "carne", "jamón", "queso"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Sencilla",
+                "price": 480,
+                "essential_ingredients": ["pan de hamburguesa", "carne"],
+                "allergy_info": ["gluten"]
+              }
+            ]
+          },
+          {
+            "category": "Sandwiches",
+            "items": [
+              {
+                "name": "Jamón y Queso",
+                "price": 610,
+                "essential_ingredients": ["pan", "jamón", "queso"],
+                "allergy_info": ["gluten", "lactosa"]
+              }
+            ]
+          },
+          {
+            "category": "Media Noche",
+            "items": [
+              {
+                "name": "Especial",
+                "price": 470,
+                "essential_ingredients": ["pan", "carne", "jamón", "queso"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Especial",
+                "price": 220,
+                "essential_ingredients": ["pan", "carne", "jamón", "queso"],
+                "allergy_info": ["gluten", "lactosa"]
+              }
+            ]
+          },
+          {
+            "category": "Líquidos",
+            "items": [
+              {
+                "name": "Pepoi Cola",
+                "price": 210,
+                "essential_ingredients": ["bebida carbonatada"],
+                "allergy_info": []
+              },
+              {
+                "name": "Limón",
+                "price": 270,
+                "essential_ingredients": ["jugo de limón"],
+                "allergy_info": []
+              },
+              {
+                "name": "Naranja",
+                "price": 270,
+                "essential_ingredients": ["jugo de naranja"],
+                "allergy_info": []
+              },
+              {
+                "name": "Malta Turbo",
+                "price": 300,
+                "essential_ingredients": ["malta"],
+                "allergy_info": []
+              },
+              {
+                "name": "Cerveza King",
+                "price": 220,
+                "essential_ingredients": ["cerveza"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Keamato",
+                "price": 460,
+                "essential_ingredients": ["bebida de tomate"],
+                "allergy_info": []
+              },
+              {
+                "name": "Agua Natural",
+                "price": 100,
+                "essential_ingredients": ["agua"],
+                "allergy_info": []
+              },
+              {
+                "name": "Cerveza Carstal",
+                "price": 300,
+                "essential_ingredients": ["cerveza"],
+                "allergy_info": ["alcohol"]
+              }
+            ]
+          },
+          {
+            "category": "Agregos",
+            "items": [
+              {
+                "name": "Salami",
+                "price": 60,
+                "essential_ingredients": ["salami"],
+                "allergy_info": []
+              },
+              {
+                "name": "Queso",
+                "price": 140,
+                "essential_ingredients": ["queso"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Chorizo",
+                "price": 80,
+                "essential_ingredients": ["chorizo"],
+                "allergy_info": []
+              }
+            ]
+          },
+          {
+            "category": "Helados",
+            "items": [
+              {
+                "name": "Chocolate",
+                "price": 900,
+                "essential_ingredients": ["chocolate", "leche"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Fresa",
+                "price": 900,
+                "essential_ingredients": ["fresa", "leche"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Naranja / Piña",
+                "price": 900,
+                "essential_ingredients": ["naranja", "piña", "leche"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Mantecado",
+                "price": 900,
+                "essential_ingredients": ["leche", "vainilla"],
+                "allergy_info": ["lactosa"]
+              }
+            ]
+          }
+        ]
+      },
+      "takeaway": [
+        {
+          "name": "Java",
+          "price": 200
+        },
+        {
+          "name": "Caja",
+          "price": 650
+        }
+      ]
+    }
+

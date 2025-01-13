@@ -1,0 +1,557 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Restaurante"]
+      },
+      "name": "Amalfi",
+      "cuisine": ["Italiana"],
+      "description": "Privado",
+      "contact_info": {
+        "phone": {
+          "number": "59495759",
+          "type": "mobile"
+        },
+        "email": null,
+        "website": "https://www.instagram.com/amalfi_havana_restaurant/"
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "12:00",
+          "close": "22:30"
+        },
+        "tuesday": {
+          "open": "12:00",
+          "close": "22:30"
+        },
+        "wednesday": {
+          "open": "12:00",
+          "close": "22:30"
+        },
+        "thursday": {
+          "open": "12:00",
+          "close": "22:30"
+        },
+        "friday": {
+          "open": "12:00",
+          "close": "22:30"
+        },
+        "saturday": {
+          "open": "12:00",
+          "close": "22:30"
+        },
+        "sunday": {
+          "open": "12:00",
+          "close": "22:30"
+        }
+      },
+      "address": "calle 3ra, entre 36A y 38, #3612, Miramar, Playa, La Habana, Cuba, Havana, Cuba 11300",
+      "municipality": "Playa",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": "23.118857756567763",
+        "longitude": "-82.42952136001638"
+      },
+      "social_media": {
+        "facebook": "https://www.facebook.com/amalfihabana/?locale=es_LA",
+        "instagram": "https://www.instagram.com/amalfi_havana_restaurant/"
+      },
+      "accepted_payment_methods": ["Efectivo (CUP y Moneda Extranjera)", "Transferencia"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Ninguno",
+        "description": "No se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": true,
+        "outdoor_seating": true,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": ["Baño"],
+        "ambience": [],
+        "usual_customers": [],
+        "planning": [],
+        "children": false,
+        "pets": null,
+        "parking": false
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": ["Generador", "Wifi"],
+      "highlights": []
+    },
+                "menu": {
+                  "categories": [
+                    {
+                      "category": "Entrantes",
+                      "items": [
+                        {
+                          "name": "Bruschetta",
+                          "price": 1600.0,
+                          "essential_ingredients": ["pan"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Bruschetta Amalfi",
+                          "price": 1920.0,
+                          "essential_ingredients": ["pan", "jamón"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        },
+                        {
+                          "name": "Focaccia Clásica",
+                          "price": 1280.0,
+                          "essential_ingredients": ["harina"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Parmigiana",
+                          "price": 2240.0,
+                          "essential_ingredients": ["berenjena"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Carpaccio de Pulpo",
+                          "price": 3840.0,
+                          "essential_ingredients": ["pulpo"],
+                          "allergy_info": ["mariscos"]
+                        },
+                        {
+                          "name": "Carpaccio de Res",
+                          "price": 4160.0,
+                          "essential_ingredients": ["res"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Carpaccio de Atún",
+                          "price": 3520.0,
+                          "essential_ingredients": ["atún"],
+                          "allergy_info": ["pescado"]
+                        },
+                        {
+                          "name": "Focaccia 500",
+                          "price": 1280.0,
+                          "essential_ingredients": ["pan"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Focaccia con Prosciutto",
+                          "price": 3840.0,
+                          "essential_ingredients": ["jamón"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        },
+                        {
+                          "name": "Focaccia Pomodoro e Rucola",
+                          "price": 2560.0,
+                          "essential_ingredients": ["tomate"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Focaccia Salume del Giorno e Formaggio",
+                          "price": 3200.0,
+                          "essential_ingredients": ["embutido"],
+                          "allergy_info": ["gluten"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Platos principales",
+                      "items": [
+                        {
+                          "name": "Salsiccia Italiana a la Plancha",
+                          "price": 3840,
+                          "essential_ingredients": ["salchicha italiana", "ensalada", "tostadas"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Fantasía di Mare",
+                          "price": 4800,
+                          "essential_ingredients": ["mariscos"],
+                          "allergy_info": ["mariscos"]
+                        },
+                        {
+                          "name": "Gambari al Limone",
+                          "price": 3840,
+                          "essential_ingredients": ["gambas"],
+                          "allergy_info": ["mariscos"]
+                        },
+                        {
+                          "name": "Profumo Mediterráneo",
+                          "price": 5120,
+                          "essential_ingredients": ["pescado"],
+                          "allergy_info": ["pescado"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Guarniciones",
+                      "items": [
+                        {
+                          "name": "Ensalada de Estación",
+                          "price": 1280.0,
+                          "essential_ingredients": ["verduras"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Ensalada Positano",
+                          "price": 1920.0,
+                          "essential_ingredients": ["huevo", "cebolla", "lechuga", "mayonesa"],
+                          "allergy_info": ["huevo"]
+                        },
+                        {
+                          "name": "Ensalada Ravello",
+                          "price": 1920.0,
+                          "essential_ingredients": ["pepino", "zanahoria", "aceitunas", "tomate", "cebolla", "rúcula", "queso"],
+                          "allergy_info": ["lactosa"]
+                        },
+                        {
+                          "name": "Ensalada Vettica",
+                          "price": 1920.0,
+                          "essential_ingredients": ["queso", "aceitunas negras", "tomate"],
+                          "allergy_info": ["lactosa"]
+                        }
+                    ]
+                  },
+                  {
+                      "category": "Pastas",
+                      "items": [
+                        {
+                          "name": "Pomodoro Fresco",
+                          "price": 3520,
+                          "essential_ingredients": ["tomate"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Carbonara",
+                          "price": 3520,
+                          "essential_ingredients": ["huevo", "bacon"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Amatriciana",
+                          "price": 3520,
+                          "essential_ingredients": ["tomate", "cebolla", "bacon"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Carbonara con Salsiccia",
+                          "price": 3840,
+                          "essential_ingredients": ["huevo", "salchiccia"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Puttanesca",
+                          "price": 3840,
+                          "essential_ingredients": ["tomate", "alcaparra", "aceitunas"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Ragù Malale",
+                          "price": 3840,
+                          "essential_ingredients": ["carne de cerdo"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Zucca e Salsiccia",
+                          "price": 3840,
+                          "essential_ingredients": ["calabaza", "salchiccia"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Funghi e Salsiccia",
+                          "price": 4800,
+                          "essential_ingredients": ["hongos porcini", "salchiccia"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Penne a la Sorrentina",
+                          "price": 3840,
+                          "essential_ingredients": ["tomate", "albahaca"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Spaghetti con Bottarga",
+                          "price": 3200,
+                          "essential_ingredients": ["bottarga"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Penne al Salmón",
+                          "price": 3840,
+                          "essential_ingredients": ["salmón"],
+                          "allergy_info": ["gluten", "pescado"]
+                        },
+                        {
+                          "name": "Pasta Amalfi",
+                          "price": 3840,
+                          "essential_ingredients": ["tomate", "camarones", "rúcula"],
+                          "allergy_info": ["gluten", "mariscos"]
+                        },
+                        {
+                          "name": "Spaghetti Cetara",
+                          "price": 3840,
+                          "essential_ingredients": ["anchoas", "alcaparras", "aceitunas negras"],
+                          "allergy_info": ["gluten", "pescado"]
+                        },
+                        {
+                          "name": "Linguine con Calamar",
+                          "price": 5120,
+                          "essential_ingredients": ["calamar"],
+                          "allergy_info": ["gluten", "mariscos"]
+                        },
+                        {
+                          "name": "Pasta Mediterránea",
+                          "price": 5120,
+                          "essential_ingredients": ["frutos del mar"],
+                          "allergy_info": ["gluten", "mariscos"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Pizzas",
+                      "items": [
+                        {
+                          "name": "Pizza Margarita",
+                          "price": 1920.0,
+                          "essential_ingredients": ["tomate", "mozzarella"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        },
+                        {
+                          "name": "Pizza de la Casa",
+                          "price": 3520.0,
+                          "essential_ingredients": ["variedad"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Pizza Vegetariana",
+                          "price": 2560.0,
+                          "essential_ingredients": ["verduras"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Pizza Mixta",
+                          "price": 3200.0,
+                          "essential_ingredients": ["combinada"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Pizza de Atún",
+                          "price": 3200.0,
+                          "essential_ingredients": ["atún"],
+                          "allergy_info": ["gluten", "pescado"]
+                        },
+                        {
+                          "name": "Pizza de Brócoli y Salchicha",
+                          "price": 2880.0,
+                          "essential_ingredients": ["brócoli", "salchicha"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Pizza Diavola",
+                          "price": 3880.0,
+                          "essential_ingredients": ["salami picante"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Pizza de Serrano",
+                          "price": 3200.0,
+                          "essential_ingredients": ["jamón serrano"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Pizza Romana",
+                          "price": 3200.0,
+                          "essential_ingredients": ["estilo romano"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Pizza de Jamón Barra",
+                          "price": 2560.0,
+                          "essential_ingredients": ["jamón"],
+                          "allergy_info": ["gluten"]
+                        }
+                    ]
+                  },
+                  {
+                      "category": "Postres",
+                      "items": [
+                        {
+                          "name": "Torta al Limón",
+                          "price": 1280,
+                          "essential_ingredients": ["limón"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Tortino al Cioccolato",
+                          "price": 1600,
+                          "essential_ingredients": ["chocolate"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Profiterol",
+                          "price": 1280,
+                          "essential_ingredients": ["crema", "pasta choux"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        },
+                        {
+                          "name": "Tiramisú",
+                          "price": 1280,
+                          "essential_ingredients": ["café", "queso mascarpone"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        },
+                        {
+                          "name": "Tiramisú Pan di Stelle",
+                          "price": 1600,
+                          "essential_ingredients": ["café", "queso mascarpone", "galletas"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        },
+                        {
+                          "name": "Delicia del Día",
+                          "price": 1280,
+                          "essential_ingredients": ["variedad"],
+                          "allergy_info": []
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Bebidas",
+                      "items": [
+                        {
+                          "name": "Agua Nacional",
+                          "price": 500,
+                          "essential_ingredients": ["agua"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Agua Importada",
+                          "price": 850,
+                          "essential_ingredients": ["agua"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Refresco Nacional",
+                          "price": 420,
+                          "essential_ingredients": ["refresco"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Refresco Importado",
+                          "price": 750,
+                          "essential_ingredients": ["refresco"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Cerveza",
+                          "price": 980,
+                          "essential_ingredients": ["cerveza"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Limonada",
+                          "price": 840,
+                          "essential_ingredients": ["limón"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Jugo Natural",
+                          "price": 700,
+                          "essential_ingredients": ["jugo"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Daiquiri",
+                          "price": 1400,
+                          "essential_ingredients": ["ron", "jugo de lima", "azúcar"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Cuba Libre",
+                          "price": 1400,
+                          "essential_ingredients": ["ron", "cola", "limón"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Cubanito",
+                          "price": 1400,
+                          "essential_ingredients": ["ron", "cola", "limón"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Cubata",
+                          "price": 1400,
+                          "essential_ingredients": ["ron", "cola", "limón"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Mojito",
+                          "price": 1400,
+                          "essential_ingredients": ["ron", "hierbabuena", "lima", "azúcar", "soda"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Caipiroska",
+                          "price": 1400,
+                          "essential_ingredients": ["vodka", "limón", "azúcar"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Caipirinha",
+                          "price": 1400,
+                          "essential_ingredients": ["cachaça", "limón", "azúcar"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Caipirissima",
+                          "price": 1400,
+                          "essential_ingredients": ["ron blanco", "limón", "azúcar"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Sangría",
+                          "price": 1400,
+                          "essential_ingredients": ["vino tinto", "frutas", "azúcar"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Margarita",
+                          "price": 1400,
+                          "essential_ingredients": ["tequila", "licor de naranja", "limón"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Gin Tonic",
+                          "price": 1400,
+                          "essential_ingredients": ["ginebra", "tónica"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Piña Colada",
+                          "price": 1400,
+                          "essential_ingredients": ["ron", "crema de coco", "piña"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Negroni",
+                          "price": 2240,
+                          "essential_ingredients": ["ginebra", "vermouth rojo", "vermouth dulce"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Copa de Vino",
+                          "price": 1260,
+                          "essential_ingredients": ["vino"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Copa de Vino Italiano",
+                          "price": 1680,
+                          "essential_ingredients": ["vino"],
+                          "allergy_info": ["alcohol"]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+              

@@ -1,0 +1,343 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Bar-Restaurante"]
+    },
+    "name": "Mi terraza",
+    "cuisine": ["Comida Italiana"],
+    "description": "Mi terraza es un restaurante-cafetería en Calle 71 % 24 y 26, Las Brisas, Cotorro. Ofrece una deliciosa selección de comida italiana en un ambiente acogedor.",
+    "contact_info": {
+      "phone": {
+        "number": "76822381",
+        "type": "landline"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "11:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Calle 71 % 24 y 26, Las Brisas, Cotorro",
+    "municipality": "Cotorro",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": "@miterraza_pizzeria"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+    "menu": {
+      "categories": [
+        {
+          "category": "Entrantes",
+          "items": [
+            {
+              "name": "Crema de Queso",
+              "price": 850,
+              "essential_ingredients": ["queso", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Crema Virginia",
+              "price": 1100,
+              "essential_ingredients": ["crema", "otros ingredientes"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Pica Pica Mi Terraza",
+              "price": 1700,
+              "essential_ingredients": ["varios ingredientes"],
+              "allergy_info": []
+            },
+            {
+              "name": "Tostones de Jamón y Queso",
+              "price": 1000,
+              "essential_ingredients": ["plátano", "jamón", "queso"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Tostones de Atún",
+              "price": 1200,
+              "essential_ingredients": ["plátano", "atún"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "Fajitas de Pollo (con mayonesa)",
+              "price": 1000,
+              "essential_ingredients": ["pollo"],
+              "allergy_info": []
+            },
+            {
+              "name": "Ensalada de Pollo",
+              "price": 400,
+              "essential_ingredients": ["pollo", "vegetales"],
+              "allergy_info": []
+            },
+            {
+              "name": "Frituras de Malanga (con miel)",
+              "price": 400,
+              "essential_ingredients": ["malanga", "aceite"],
+              "allergy_info": []
+            },
+            {
+              "name": "Bolitas de Queso (con miel)",
+              "price": 400,
+              "essential_ingredients": ["queso"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Croquetas (con mayonesa)",
+              "price": 400,
+              "essential_ingredients": ["harina", "leche"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Chicharritas",
+              "price": 300,
+              "essential_ingredients": ["plátano", "aceite"],
+              "allergy_info": []
+            },
+            {
+              "name": "Papas Prefritas",
+              "price": 600,
+              "essential_ingredients": ["papas", "aceite"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Plato Principal",
+          "items": [
+            {
+              "name": "Sandwich de Queso",
+              "price": 700,
+              "essential_ingredients": ["pan", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Sandwich de Jamón",
+              "price": 650,
+              "essential_ingredients": ["pan", "jamón"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Sandwich de Jamón y Queso",
+              "price": 900,
+              "essential_ingredients": ["pan", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Sandwich de Atún",
+              "price": 1100,
+              "essential_ingredients": ["pan", "atún"],
+              "allergy_info": ["gluten", "pescado"]
+            },
+            {
+              "name": "Sandwich Mi Terraza",
+              "price": 1100,
+              "essential_ingredients": ["pan", "varios ingredientes"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Espaguetis Napolitanos",
+              "price": 1000,
+              "essential_ingredients": ["espaguetis", "salsa napolitana"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Espaguetis de Jamón",
+              "price": 1250,
+              "essential_ingredients": ["espaguetis", "jamón"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Espaguetis de Atún",
+              "price": 1400,
+              "essential_ingredients": ["espaguetis", "atún"],
+              "allergy_info": ["gluten", "pescado"]
+            },
+            {
+              "name": "Espaguetis a la Carbonara",
+              "price": 1600,
+              "essential_ingredients": ["espaguetis", "carbonara"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Espaguetis Doble Queso",
+              "price": 1500,
+              "essential_ingredients": ["espaguetis", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Canelos",
+              "price": 1500,
+              "essential_ingredients": ["pasta", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Pizza Napolitana",
+              "price": 1200,
+              "essential_ingredients": ["masa de pizza", "salsa napolitana"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Pizza Hawaiana",
+              "price": 1700,
+              "essential_ingredients": ["masa de pizza", "piña", "jamón"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Pizza Mi Terraza",
+              "price": 1800,
+              "essential_ingredients": ["masa de pizza", "varios ingredientes"],
+              "allergy_info": ["gluten"]
+            }
+          ]
+        },
+        {
+          "category": "Agregados",
+          "items": [
+            {
+              "name": "Doble Queso (150g)",
+              "price": 500.00,
+              "essential_ingredients": ["queso"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Jamón (60g)",
+              "price": 300.00,
+              "essential_ingredients": ["jamón"],
+              "allergy_info": []
+            },
+            {
+              "name": "Cebolla",
+              "price": 250.00,
+              "essential_ingredients": ["cebolla"],
+              "allergy_info": []
+            },
+            {
+              "name": "Piña",
+              "price": 200.00,
+              "essential_ingredients": ["piña"],
+              "allergy_info": []
+            },
+            {
+              "name": "Atún",
+              "price": 400.00,
+              "essential_ingredients": ["atún"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "Aceitunas",
+              "price": 400.00,
+              "essential_ingredients": ["aceitunas"],
+              "allergy_info": []
+            },
+            {
+              "name": "Chorizo",
+              "price": 200.00,
+              "essential_ingredients": ["chorizo"],
+              "allergy_info": []
+            },
+            {
+              "name": "Bacon",
+              "price": 700.00,
+              "essential_ingredients": ["bacon"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Drinks",
+          "items": [
+            {
+              "name": "Limonada Frappe",
+              "price": 350.00,
+              "essential_ingredients": ["limón"],
+              "allergy_info": []
+            },
+            {
+              "name": "Malteada",
+              "price": 500.00,
+              "essential_ingredients": ["leche", "otros ingredientes"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Chelada",
+              "price": 550.00,
+              "essential_ingredients": ["cerveza", "limón", "sal"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Batidos (Mango, Fruta Bomba o Guayaba)",
+              "price": 400.00,
+              "essential_ingredients": ["mango", "fruta bomba", "guayaba", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Batidos de Helado (Fresa, Chocolate, Helado con Galleta, Mozcatel)",
+              "price": 600.00,
+              "essential_ingredients": ["helado", "leche", "galleta", "mozcatel"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        }
+      ]
+    }
+  }

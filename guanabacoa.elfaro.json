@@ -1,0 +1,232 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "El Faro",
+    "cuisine": ["Criolla", "Italiana"],
+    "description": null,
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "09:00",
+        "close": "23:00"
+      }
+    },
+    "address": "4MFW+P84, Maximo Gomez, La Habana, Cuba",
+    "municipality": "Guanabacoa",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transfermovil"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": ["A la Carta", "Entretenimiento"],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+    "menu": {
+      "categories": [
+    
+        {
+          "category": "Entrantes",
+          "items": [
+            {
+              "name": "Enchilado de cangrejo",
+              "price": 750.00,
+              "essential_ingredients": ["Cangrejo", "Ajo", "Tomate"],
+              "allergy_info": ["Mariscos"]
+            },
+            {
+              "name": "Croqueta de la casa",
+              "price": 180.00,
+              "essential_ingredients": ["Harina", "Leche", "Huevo", "Pan rallado"],
+              "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+            },
+            {
+              "name": "Ensalada fría de jamon",
+              "price": 700.00,
+              "essential_ingredients": ["Jamón", "Pasta", "Mayonesa"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Ensalada fría de atun",
+              "price": 1200.00,
+              "essential_ingredients": ["Atún", "Pasta", "Mayonesa"],
+              "allergy_info": ["Gluten", "Pescado"]
+            },
+            {
+              "name": "Picadera tropical",
+              "price": 850.00,
+              "essential_ingredients": ["Frutas mixtas", "Queso"],
+              "allergy_info": ["Lactosa"]
+            },
+            {
+              "name": "Plato a lo cubano",
+              "price": 800.00,
+              "essential_ingredients": ["Cerdo", "Arroz", "Frijoles"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Plato principal",
+          "items": [
+            {
+              "name": "Pan con hamburguesa",
+              "price": 500.00,
+              "essential_ingredients": ["Pan", "Carne de res", "Lechuga", "Tomate"],
+              "allergy_info": ["Gluten"]
+            },
+            {
+              "name": "Hamburguesa Faro",
+              "price": 900.00,
+              "essential_ingredients": ["Pan", "Carne de res", "Queso", "Tocino"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Costillas de cerdo",
+              "price": 1200.00,
+              "essential_ingredients": ["Cerdo", "Ajo", "Aceite"],
+              "allergy_info": []
+            },
+            {
+              "name": "Ruedas de pescado grille",
+              "price": 1400.00,
+              "essential_ingredients": ["Pescado", "Ajo", "Aceite"],
+              "allergy_info": ["Pescado"]
+            },
+            {
+              "name": "Pollo grille",
+              "price": 950.00,
+              "essential_ingredients": ["Pollo", "Ajo", "Aceite"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Pizzas",
+          "items": [
+            {
+              "name": "Pizza el Faro",
+              "price": 900.00,
+              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza combinada",
+              "price": 900.00,
+              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Pepperoni"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza hawaiana",
+              "price": 900.00,
+              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Jamón", "Piña"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza de cebolla",
+              "price": 900.00,
+              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Cebolla"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza de pimiento",
+              "price": 900.00,
+              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Pimiento"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza Gustazo (doble queso)",
+              "price": 900.00,
+              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Pizza jamon",
+              "price": 900.00,
+              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Jamón"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Pasta",
+          "items": [
+            {
+              "name": "Spaguetti napolitano",
+              "price": 750.00,
+              "essential_ingredients": ["Espaguetis", "Tomate", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Spaguetti de jamon",
+              "price": 850.00,
+              "essential_ingredients": ["Espaguetis", "Jamón", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
+       

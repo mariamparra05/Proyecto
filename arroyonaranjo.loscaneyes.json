@@ -1,0 +1,475 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Los caneyes",
+    "cuisine": ["Cubana"],
+    "description": null,
+    "contact_info": {
+      "phone": 
+        {
+          "number": null,
+          "type": "mobile"
+        },
+      "email": null,
+      "website": null,
+      "instagram": null,
+      "facebook": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Calle Marti y Gutierrez, Reparto Electrico, Arroyo Naranjo",
+    "municipality": "Arroyo Naranjo",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": true
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+  "menu": {
+    "categories": [
+      {
+        "category": "Entrantes",
+        "items": [
+          {
+            "name": "Tostones",
+            "price": 800.00,
+            "essential_ingredients": ["Plátano", "Sal", "Aceite"],
+            "allergy_info": []
+          },
+          {
+            "name": "Papas fritas",
+            "price": 900.00,
+            "essential_ingredients": ["Papas", "Aceite", "Sal"],
+            "allergy_info": []
+          },
+          {
+            "name": "Fajitas de pollo empanadas",
+            "price": 1000.00,
+            "essential_ingredients": ["Pollo", "Harina", "Huevo"],
+            "allergy_info": ["Gluten", "Huevo"]
+          },
+          {
+            "name": "Fajitas de cerdo empanadas",
+            "price": 1000.00,
+            "essential_ingredients": ["Cerdo", "Harina", "Huevo"],
+            "allergy_info": ["Gluten", "Huevo"]
+          },
+          {
+            "name": "Eperlan de pescado",
+            "price": 1300.00,
+            "essential_ingredients": ["Pescado", "Harina", "Huevo"],
+            "allergy_info": ["Pescado", "Gluten", "Huevo"]
+          },
+          {
+            "name": "Masas de cangrejo con tostones",
+            "price": 1000.00,
+            "essential_ingredients": ["Cangrejo", "Plátano", "Aceite"],
+            "allergy_info": ["Mariscos"]
+          },
+          {
+            "name": "Milanesa de res con papas fritas",
+            "price": 1500.00,
+            "essential_ingredients": ["Carne de res", "Harina", "Huevo", "Pan rallado", "Papas"],
+            "allergy_info": ["Gluten", "Huevo"]
+          },
+          {
+            "name": "Hamburguesa de res con queso gratinado y papas fritas",
+            "price": 1500.00,
+            "essential_ingredients": ["Carne de res", "Queso", "Pan", "Papas"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Hamburguesa de salmón con queso gratinado y tostones",
+            "price": 1500.00,
+            "essential_ingredients": ["Salmón", "Queso", "Pan", "Plátano"],
+            "allergy_info": ["Pescado", "Lactosa", "Gluten"]
+          },
+              {
+                "name": "Ensalada mixta de estacion",
+                "price": 250.00,
+                "essential_ingredients": ["Lechuga", "Tomate", "Pepino"],
+                "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Plato principal",
+        "items": [
+          {
+            "name": "Filete de pescado grillé",
+            "price": 1500.00,
+            "essential_ingredients": ["Pescado", "Ajo", "Aceite"],
+            "allergy_info": ["Pescado"]
+          },
+          {
+            "name": "Filete de pescado empanado",
+            "price": 1500.00,
+            "essential_ingredients": ["Pescado", "Harina", "Huevo", "Pan rallado"],
+            "allergy_info": ["Pescado", "Gluten", "Huevo"]
+          },
+          {
+            "name": "Filete de pescado Monte toro",
+            "price": 1800.00,
+            "essential_ingredients": ["Pescado", "Ajo", "Aceite"],
+            "allergy_info": ["Pescado"]
+          },
+          {
+            "name": "Filete de pescado Caney",
+            "price": 1800.00,
+            "essential_ingredients": ["Pescado", "Ajo", "Aceite"],
+            "allergy_info": ["Pescado"]
+          },
+          {
+            "name": "Filete de pescado \"Los Caneyes\" (filete con camarones y queso gratinado)",
+            "price": 2500.00,
+            "essential_ingredients": ["Pescado", "Camarones", "Queso"],
+            "allergy_info": ["Pescado", "Mariscos", "Lactosa"]
+          },
+          {
+            "name": "Masas de cangrejo en salsa de tomate",
+            "price": 1300.00,
+            "essential_ingredients": ["Cangrejo", "Tomate"],
+            "allergy_info": ["Mariscos"]
+          },
+          {
+            "name": "Salmón rociado en salsa de tomate",
+            "price": 1500.00,
+            "essential_ingredients": ["Salmón", "Tomate"],
+            "allergy_info": ["Pescado"]
+          },
+          {
+            "name": "Camarones al ajillo",
+            "price": 2200.00,
+            "essential_ingredients": ["Camarones", "Ajo", "Aceite"],
+            "allergy_info": ["Mariscos"]
+          },
+          {
+            "name": "Enchilado de camarones",
+            "price": 2200.00,
+            "essential_ingredients": ["Camarones", "Tomate", "Ajo"],
+            "allergy_info": ["Mariscos"]
+          },
+          {
+            "name": "Camarones rebozados",
+            "price": 2200.00,
+            "essential_ingredients": ["Camarones", "Harina", "Huevo"],
+            "allergy_info": ["Mariscos", "Gluten", "Huevo"]
+          },
+          {
+            "name": "Lomo ahumado deshuesado",
+            "price": 1800.00,
+            "essential_ingredients": ["Lomo de cerdo", "Ajo", "Aceite"],
+            "allergy_info": []
+          },
+          {
+            "name": "Bistec de cerdo frito",
+            "price": 1300.00,
+            "essential_ingredients": ["Cerdo", "Ajo", "Aceite"],
+            "allergy_info": []
+          },
+          {
+            "name": "Escalope de cerdo",
+            "price": 1500.00,
+            "essential_ingredients": ["Cerdo", "Harina", "Huevo"],
+            "allergy_info": ["Gluten", "Huevo"]
+          },
+          {
+            "name": "Bistec de cerdo con jamón, chorizo y queso",
+            "price": 1800.00,
+            "essential_ingredients": ["Cerdo", "Jamón", "Chorizo", "Queso"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Bistec uruguayo",
+            "price": 1800.00,
+            "essential_ingredients": ["Carne de res", "Ajo", "Aceite"],
+            "allergy_info": []
+          },
+          {
+           
+                        "name": "Boucht de cerdo",
+                        "price": 1300.00,
+                        "essential_ingredients": ["Cerdo", "Ajo", "Aceite"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Ropa vieja",
+                        "price": 1700.00,
+                        "essential_ingredients": ["Carne de res", "Cebolla", "Pimiento", "Tomate"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Vaca frita",
+                        "price": 1700.00,
+                        "essential_ingredients": ["Carne de res", "Ajo", "Aceite"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Suprema de pollo",
+                        "price": 1300.00,
+                        "essential_ingredients": ["Pollo", "Ajo", "Aceite"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Fajitas salteadas",
+                        "price": 1300.00,
+                        "essential_ingredients": ["Pollo", "Pimientos", "Cebolla"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Fajitas empanadas",
+                        "price": 1400.00,
+                        "essential_ingredients": ["Pollo", "Harina", "Huevo", "Pan rallado"],
+                        "allergy_info": ["Gluten", "Huevo"]
+                      },
+                      {
+                        "name": "Suprema de pollo empanada",
+                        "price": 1400.00,
+                        "essential_ingredients": ["Pollo", "Harina", "Huevo", "Pan rallado"],
+                        "allergy_info": ["Gluten", "Huevo"]
+                      },
+                      {
+                        "name": "Suprema de pollo con jamón y queso",
+                        "price": 1800.00,
+                        "essential_ingredients": ["Pollo", "Jamón", "Queso"],
+                        "allergy_info": ["Lactosa"]
+                      },
+                      {
+                        "name": "Gordon Blue",
+                        "price": 2300.00,
+                        "essential_ingredients": ["Pollo", "Jamón", "Queso", "Harina"],
+                        "allergy_info": ["Gluten", "Lactosa"]
+                      },
+                      {
+                        "name": "Suprema de pollo rellena con camarones y queso",
+                        "price": 2300.00,
+                        "essential_ingredients": ["Pollo", "Camarones", "Queso"],
+                        "allergy_info": ["Mariscos", "Lactosa"]
+                      },
+                      {
+                        "name": "Suprema \"Los Caneyes\" (camarones y queso gratinado)",
+                        "price": 2300.00,
+                        "essential_ingredients": ["Pollo", "Camarones", "Queso"],
+                        "allergy_info": ["Mariscos", "Lactosa"]
+                      }
+                    ]
+                  },
+                  {
+                    "category": "Guarniciones",
+                    "items": [
+                      {
+                        "name": "Arroz blanco",
+                        "price": 150.00,
+                        "essential_ingredients": ["Arroz", "Sal", "Aceite"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Arroz congrí",
+                        "price": 200.00,
+                        "essential_ingredients": ["Arroz", "Frijoles negros", "Ajo", "Aceite"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Yuca con mojo",
+                        "price": 200.00,
+                        "essential_ingredients": ["Yuca", "Ajo", "Aceite"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Puré de malanga (se procesa al pedido)",
+                        "price": 400.00,
+                        "essential_ingredients": ["Malanga", "Sal"],
+                        "allergy_info": []
+                      }
+                    ]
+                  },
+                  {
+                    "category": "Postres",
+                    "items": [
+                      {
+                        "name": "Tarta con ganache de chocolate",
+                        "price": 450.00,
+                        "essential_ingredients": ["Chocolate", "Crema", "Azúcar"],
+                        "allergy_info": ["Lactosa"]
+                      },
+                      {
+                        "name": "Pote de helado Gustó (1 litro)",
+                        "price": 1000.00,
+                        "essential_ingredients": ["Helado"],
+                        "allergy_info": ["Lactosa"]
+                      }
+                    ]
+                  },
+                  {
+                    "category": "Pasta",
+                    "items": [
+                      {
+                        "name": "Spaguettis Napolitano",
+                        "price": 700.00,
+                        "essential_ingredients": ["Espaguetis", "Tomate", "Queso"],
+                        "allergy_info": ["Gluten", "Lactosa"]
+                      }
+                    ]
+                  },
+                  {
+                    "category": "Pizza",
+                    "items": [
+                      {
+                        "name": "Pizza Napolitana",
+                        "price": 900.00,
+                        "essential_ingredients": ["Masa de pizza", "Tomate", "Queso"],
+                        "allergy_info": ["Gluten", "Lactosa"]
+                      },
+                      {
+                        "name": "Pizza Napolitana con queso Gouda",
+                        "price": 1300.00,
+                        "essential_ingredients": ["Masa de pizza", "Tomate", "Queso Gouda"],
+                        "allergy_info": ["Gluten", "Lactosa"]
+                      }
+                    ]
+                  },
+                  {
+                    "category": "Bebidas alcoholicas",
+                    "items": [
+                      {
+                        "name": "Cervezas",
+                        "price": 330.00,
+                        "essential_ingredients": ["Cerveza"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Cerveza Cristal",
+                        "price": 300.00,
+                        "essential_ingredients": ["Cerveza"],
+                        "allergy_info": []
+                      }
+                    ]
+                  },
+                  {
+                    "category": "Bebidas no alcolicas",
+                    "items": [
+                      {
+                        "name": "Refresco cola y limon",
+                        "price": 250.00,
+                        "essential_ingredients": ["Refresco"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Refresco de mate",
+                        "price": 270.00,
+                        "essential_ingredients": ["Refresco"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Malta",
+                        "price": 300.00,
+                        "essential_ingredients": ["Malta"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Agua mineral embotellada",
+                        "price": 300.00,
+                        "essential_ingredients": ["Agua"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Latas de jugo",
+                        "price": 300.00,
+                        "essential_ingredients": ["Jugo"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Bebida energizante",
+                        "price": 100.00,
+                        "essential_ingredients": ["Bebida energetica"],
+                        "allergy_info": []
+                      }
+                    ]
+                  },
+                  {
+                    "category": "Infusiones",
+                    "items": [
+                      {
+                        "name": "Cafe",
+                        "price": 100.00,
+                        "essential_ingredients": ["Cafe"],
+                        "allergy_info": []
+                      }
+                    ]
+                  },
+                  {
+                    "category": "Entrantes",
+                    "items": [
+                      {
+                        "name": "Ensalada mixta de estacion",
+                        "price": 250.00,
+                        "essential_ingredients": ["Lechuga", "Tomate", "Pepino"],
+                        "allergy_info": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+            
+	

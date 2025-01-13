@@ -1,0 +1,375 @@
+{
+	"establishment": {
+	  "classification": {
+		"type": ["Restaurante"]
+	  },
+	  "name": "Abuelo D'Oro",
+	  "cuisine": ["Cubana", "Internacional", "Italiana"],
+	  "description": null,
+	  "contact_info": {
+		"phone": {
+		  "number": "76472100",
+		  "type": "landline"
+		},
+		"email": null,
+		"website": "https://es.restaurantguru.com/El-abuelo-de-oro-Havana"
+	  },
+	  "opening_hours": {
+		"monday": {
+		  "open": "12:00",
+		  "close": "24:00"
+		},
+		"tuesday": {
+		  "open": "12:00",
+		  "close": "24:00"
+		},
+		"wednesday": {
+		  "open": "12:00",
+		  "close": "24:00"
+		},
+		"thursday": {
+		  "open": "12:00",
+		  "close": "24:00"
+		},
+		"friday": {
+		  "open": "12:00",
+		  "close": "24:00"
+		},
+		"saturday": {
+		  "open": "12:00",
+		  "close": "24:00"
+		},
+		"sunday": {
+		  "open": "12:00",
+		  "close": "24:00"
+		}
+	  },
+	  "address": "Calzada Aldabo % 12 y 13, Aldabo, Boyeros",
+	  "municipality": "Boyeros",
+	  "province": "La Habana",
+	  "coordinates": {
+		"latitude": null,
+		"longitude": null
+	  },
+	  "social_media": {
+		"facebook": "https://www.facebook.com/AbueloDOro?utm_source=restaurantguru&utm_medium=referral",
+		"instagram": "@abuelo_de_oro_cuba"
+	  },
+	  "accepted_payment_methods": ["Efectivo (CUP y USD)", "Transferencia (CUP y USD)", "MLC"],
+	  "delivery_available": true,
+	  "service_fee": {
+		"name": "Ninguno",
+		"description": "No se incluye un 10% del servicio en la cuenta.",
+		"applies": false
+	  },
+	  "features": {
+		"reservation_required": true,
+		"outdoor_seating": false,
+		"dine_in": true,
+		"takeaway": true,
+		"offers": [],
+		"local_options": [],
+		"services": ["Baño"],
+		"ambience": [],
+		"usual_customers": [],
+		"planning": [],
+		"children": null,
+		"pets": null,
+		"parking": true
+	  },
+	  "dietary_options": [],
+	  "meals": [],
+	  "advantages": ["Generador"],
+	  "highlights": []
+	},
+	"menu": {
+	  "categories": [
+		{
+		  "category": "Entrantes",
+		  "items": [
+			{ 
+			  "name": "Croquetas", 
+			  "price": 500,
+			  "essential_ingredients": ["harina", "leche"],
+			  "allergy_info": ["gluten", "lactosa"] 
+			},
+			{ 
+			  "name": "Empanadas", 
+			  "price": 500,
+			  "essential_ingredients": ["masa", "carne"],
+			  "allergy_info": ["gluten", "lactosa"] 
+			},
+			{ 
+			  "name": "Frituras", 
+			  "price": 500,
+			  "essential_ingredients": ["harina", "aceite"],
+			  "allergy_info": ["gluten"] 
+			},
+			{ 
+			  "name": "Tostones rellenos", 
+			  "price": 1000,
+			  "essential_ingredients": ["plátano"],
+			  "allergy_info": [] 
+			},
+			{ 
+			  "name": "Papas bravas", 
+			  "price": 500,
+			  "essential_ingredients": ["papas"],
+			  "allergy_info": [] 
+			},
+			{ 
+			  "name": "Papas doradas", 
+			  "price": 450,
+			  "essential_ingredients": ["papas"],
+			  "allergy_info": [] 
+			},
+			{ 
+			  "name": "Ceviche", 
+			  "price": 2000,
+			  "essential_ingredients": ["pescado", "limón"],
+			  "allergy_info": ["pescado"] 
+			},
+			{ 
+			  "name": "Coctel de langosta", 
+			  "price": 2000,
+			  "essential_ingredients": ["langosta"],
+			  "allergy_info": ["mariscos"] 
+			},
+			{ 
+			  "name": "Coctel de camarones", 
+			  "price": 2000,
+			  "essential_ingredients": ["camarones"],
+			  "allergy_info": ["mariscos"] 
+			},
+			{ 
+			  "name": "Tabla surtida", 
+			  "price": 3000,
+			  "essential_ingredients": ["varios"],
+			  "allergy_info": [] 
+			}
+		  ]
+		},
+		{
+		  "category": "Pizzas",
+		  "items": [
+			{ 
+			  "name": "Pizza napolitana", 
+			  "price": 1000,
+			  "essential_ingredients": ["masa", "tomate", "queso"],
+			  "allergy_info": ["gluten", "lactosa"]  
+			},
+			{ 
+			  "name": "Pizza jamón", 
+			  "price": 1300,
+			  "essential_ingredients": ["masa", "tomate", "queso", "jamón"],
+			  "allergy_info": ["gluten", "lactosa"] 
+			},
+			{ 
+			  "name": "Pizza hawaiana", 
+			  "price": 1400,
+			  "essential_ingredients": ["masa", "tomate", "queso", "jamón", "piña"],
+			  "allergy_info": ["gluten", "lactosa"] 
+			},
+			{ 
+			  "name": "Pizza cebolla", 
+			  "price": 1100,
+			  "essential_ingredients": ["masa", "tomate", "queso", "cebolla"],
+			  "allergy_info": ["gluten", "lactosa"]  
+			},
+			{ 
+			  "name": "Pizza pimiento", 
+			  "price": 1100,
+			  "essential_ingredients": ["masa", "tomate", "queso", "pimiento"],
+			  "allergy_info": ["gluten", "lactosa"] 
+			},
+			{ 
+			  "name": "Pizza pepperoni", 
+			  "price": 1500,
+			  "essential_ingredients": ["masa", "tomate", "queso", "pepperoni"],
+			  "allergy_info": ["gluten", "lactosa"]  
+			}
+		  ]
+		},
+		{
+		  "category": "Pastas",
+		  "items": [
+			{ 
+			  "name": "Espaguetis napolitanos", 
+			  "price": 1200,
+			  "essential_ingredients": ["espaguetis", "tomate", "queso"],
+			  "allergy_info": ["gluten", "lactosa"] 
+			},
+			{ 
+			  "name": "Espaguetis jamón", 
+			  "price": 1500,
+			  "essential_ingredients": ["espaguetis", "tomate", "queso", "jamón"],
+			  "allergy_info": ["gluten", "lactosa"]  
+			}
+		  ]
+		},
+		{
+		  "category": "Platos Principales",
+		  "items": [
+			{ 
+			  "name": "Vaca frita", 
+			  "price": 3000,
+			  "essential_ingredients": ["carne de res"],
+			  "allergy_info": [] 
+			},
+			{ 
+			  "name": "Ropa vieja", 
+			  "price": 3000,
+			  "essential_ingredients": ["carne de res"],
+			  "allergy_info": [] 
+			},
+			{ 
+			  "name": "Bistec res cazuela", 
+			  "price": 3500,
+			  "essential_ingredients": ["carne de res"],
+			  "allergy_info": []  
+			},
+			{ 
+			  "name": "Picadillo habanera", 
+			  "price": 2900,
+			  "essential_ingredients": ["carne de res"],
+			  "allergy_info": []  
+			},
+			{ 
+			  "name": "Bistec encebollado", 
+			  "price": 2500,
+			  "essential_ingredients": ["carne de res", "cebolla"],
+			  "allergy_info": [] 
+			},
+			{ 
+			  "name": "Cerdo salteado", 
+			  "price": 2800,
+			  "essential_ingredients": ["cerdo"],
+			  "allergy_info": [] 
+			},
+			{
+				 
+						  "name": "Medalla con jamón y queso", 
+						  "price": 3800,
+						  "essential_ingredients": ["jamón", "queso", "medalla"],
+						  "allergy_info": ["lactosa"] 
+						},
+						{ 
+						  "name": "Medalla con ropa vieja y queso", 
+						  "price": 3800,
+						  "essential_ingredients": ["ropa vieja", "queso", "medalla"],
+						  "allergy_info": ["lactosa"]
+						},
+						{ 
+						  "name": "Chuletilla", 
+						  "price": 3000,
+						  "essential_ingredients": ["carne de cerdo"],
+						  "allergy_info": [] 
+						},
+						{ 
+						  "name": "Pechuga grillé", 
+						  "price": 3000,
+						  "essential_ingredients": ["pechuga de pollo"],
+						  "allergy_info": [] 
+						},
+						{ 
+						  "name": "Pechuga salteada", 
+						  "price": 3500,
+						  "essential_ingredients": ["pechuga de pollo"],
+						  "allergy_info": [] 
+						},
+						{ 
+						  "name": "Pollo frito", 
+						  "price": 2500,
+						  "essential_ingredients": ["pollo"],
+						  "allergy_info": [] 
+						},
+						{ 
+						  "name": "Filete pescado grillé", 
+						  "price": 3000,
+						  "essential_ingredients": ["pescado"],
+						  "allergy_info": ["pescado"] 
+						},
+						{ 
+						  "name": "Filete pescado montado", 
+						  "price": 4000,
+						  "essential_ingredients": ["pescado"],
+						  "allergy_info": ["pescado"] 
+						},
+						{ 
+						  "name": "Gratín del mar", 
+						  "price": 4000,
+						  "essential_ingredients": ["mariscos", "queso"],
+						  "allergy_info": ["mariscos", "lactosa"] 
+						},
+						{ 
+						  "name": "Langosta en sus variedades", 
+						  "price": 4800,
+						  "essential_ingredients": ["langosta"],
+						  "allergy_info": ["mariscos"] 
+						},
+						{ 
+						  "name": "Camarón variado", 
+						  "price": 4800,
+						  "essential_ingredients": ["camarones"],
+						  "allergy_info": ["mariscos"] 
+						},
+						{ 
+						  "name": "1kg cerdo asado", 
+						  "price": 15000,
+						  "essential_ingredients": ["cerdo"],
+						  "allergy_info": [] 
+						},
+						{ 
+						  "name": "Chuletón cerdo", 
+						  "price": 6500,
+						  "essential_ingredients": ["carne de cerdo"],
+						  "allergy_info": [] 
+						},
+						{ 
+						  "name": "Chuleta cerdo", 
+						  "price": 3000,
+						  "essential_ingredients": ["carne de cerdo"],
+						  "allergy_info": []  
+						},
+						{ 
+						  "name": "Mar y tierra", 
+						  "price": 19000,
+						  "essential_ingredients": ["carne", "mariscos"],
+						  "allergy_info": ["mariscos"] 
+						},
+						{ 
+						  "name": "Tacos ropa vieja",
+						  "price": 1500,
+						  "essential_ingredients": ["ropa vieja", "tortilla"],
+						  "allergy_info": ["gluten"] 
+						},
+						{ 
+						  "name": "Tacos vaca frita", 
+						  "price": 1450,
+						  "essential_ingredients": ["vaca frita", "tortilla"],
+						  "allergy_info": ["gluten"]  
+						},
+						{ 
+						  "name": "Tacos cerdo", 
+						  "price": 1200,
+						  "essential_ingredients": ["cerdo", "tortilla"],
+						  "allergy_info": ["gluten"]  
+						},
+						{ 
+						  "name": "Sandwich jamón y queso", 
+						  "price": 1500,
+						  "essential_ingredients": ["jamón", "queso", "pan"],
+						  "allergy_info": ["gluten", "lactosa"]
+						},
+						{ 
+						  "name": "Sandwich pechuga y queso", 
+						  "price": 1800,
+						  "essential_ingredients": ["pechuga de pollo", "queso", "pan"],
+						  "allergy_info": ["gluten", "lactosa"]  
+						}
+					  ]
+					}
+				  ]
+				}
+			  }
+			  

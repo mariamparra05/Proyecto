@@ -1,0 +1,293 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Bar-Restaurante"]
+    },
+    "name": "Ivonne Café",
+    "cuisine": [],
+    "description": "Ivonne Café es un bar-restaurante ubicado en Centro Habana.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": "landline"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "09:00",
+        "close": "22:00"
+      },
+      "tuesday": {
+        "open": "09:00",
+        "close": "22:00"
+      },
+      "wednesday": {
+        "open": "09:00",
+        "close": "22:00"
+      },
+      "thursday": {
+        "open": "09:00",
+        "close": "22:00"
+      },
+      "friday": {
+        "open": "09:00",
+        "close": "22:00"
+      },
+      "saturday": {
+        "open": "09:00",
+        "close": "22:00"
+      },
+      "sunday": {
+        "open": "09:00",
+        "close": "22:00"
+      }
+    },
+    "address": "San Lazaro entre Espada y Hospital",
+    "municipality": "Centro Habana",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+    "menu": {
+        "categories": [
+          {
+            "category": "Platos Principales",
+            "items": [
+              {
+                "name": "Pizza queso blanco",
+                "price": 350,
+                "essential_ingredients": ["queso blanco", "masa de pizza"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Pizza Grande queso blanco",
+                "price": 500,
+                "essential_ingredients": ["queso blanco", "masa de pizza"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Pizza Pequeña Gouda",
+                "price": 600,
+                "essential_ingredients": ["queso gouda", "masa de pizza"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Pizza Grande Gouda",
+                "price": 850,
+                "essential_ingredients": ["queso gouda", "masa de pizza"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Espagueti Blanco",
+                "price": 700,
+                "essential_ingredients": ["espagueti", "salsa blanca"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Espagueti Gouda",
+                "price": 850,
+                "essential_ingredients": ["espagueti", "queso gouda"],
+                "allergy_info": ["gluten", "lactosa"]
+              }
+            ]
+          },
+          {
+            "category": "Adiciones",
+            "items": [
+              {
+                "name": "Cebolla",
+                "price": 200,
+                "essential_ingredients": ["cebolla"],
+                "allergy_info": []
+              },
+              {
+                "name": "Jamón",
+                "price": 200,
+                "essential_ingredients": ["jamón"],
+                "allergy_info": []
+              },
+              {
+                "name": "Aceituna",
+                "price": 200,
+                "essential_ingredients": ["aceitunas"],
+                "allergy_info": []
+              }
+            ]
+          },
+          {
+            "category": "Postres",
+            "items": [
+              {
+                "name": "Tartaleta",
+                "price": 350,
+                "essential_ingredients": ["masa de tarta", "frutas"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Donut",
+                "price": 170,
+                "essential_ingredients": ["harina", "azúcar", "levadura"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Coffee cake",
+                "price": 160,
+                "essential_ingredients": ["harina", "café", "azúcar"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Empanada",
+                "price": 250,
+                "essential_ingredients": ["masa de empanada", "relleno variado"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Cangrejitos",
+                "price": 250,
+                "essential_ingredients": ["masa", "relleno variado"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Rollitos",
+                "price": 200,
+                "essential_ingredients": ["masa", "relleno variado"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Pasteles",
+                "price": 100,
+                "essential_ingredients": ["harina", "relleno variado"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Cakes",
+                "price": 4500,
+                "essential_ingredients": ["harina", "azúcar", "huevos"],
+                "allergy_info": ["gluten", "huevos"]
+              }
+            ]
+          },
+          {
+            "category": "Bebidas",
+            "items": [
+              {
+                "name": "Expreso",
+                "price": 100,
+                "essential_ingredients": ["café"],
+                "allergy_info": []
+              },
+              {
+                "name": "Cortado",
+                "price": 150,
+                "essential_ingredients": ["café", "leche"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Con leche",
+                "price": 100,
+                "essential_ingredients": ["café", "leche"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Americano",
+                "price": 100,
+                "essential_ingredients": ["café", "agua"],
+                "allergy_info": []
+              },
+              {
+                "name": "Capuchino",
+                "price": 300,
+                "essential_ingredients": ["café", "leche", "espuma"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Bombon",
+                "price": 300,
+                "essential_ingredients": ["café", "leche condensada"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Frapuccino",
+                "price": 750,
+                "essential_ingredients": ["café", "leche", "hielo"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Aguas",
+                "price": 250,
+                "essential_ingredients": ["agua"],
+                "allergy_info": []
+              },
+              {
+                "name": "Refrescos",
+                "price": 250,
+                "essential_ingredients": ["agua carbonatada", "azúcar", "saborizantes"],
+                "allergy_info": []
+              },
+              {
+                "name": "Cervezas",
+                "price": 300,
+                "essential_ingredients": ["cebada", "agua", "lúpulo"],
+                "allergy_info": ["gluten", "alcohol"]
+              },
+              {
+                "name": "Limonada Frappe",
+                "price": 850,
+                "essential_ingredients": ["limón", "azúcar", "hielo"],
+                "allergy_info": []
+              },
+              {
+                "name": "Batido Helado",
+                "price": 850,
+                "essential_ingredients": ["helado", "leche"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Batido Fruta",
+                "price": 550,
+                "essential_ingredients": ["frutas variadas"],
+                "allergy_info": []
+              }
+            ]
+          },
+          {
+            "category": "Extras",
+            "items": []
+        }
+    ]
+  }
+}

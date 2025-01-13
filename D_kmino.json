@@ -1,0 +1,469 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "D'kmino",
+    "cuisine": ["Familiar"],
+    "description": "Privado",
+    "contact_info": {
+      "phone": {
+        "number": "56801787",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": "https://www.instagram.com/dkmino_habana/"
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "11:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Avenida 41 e/ 30 y 34, Playa, Havana 11300",
+    "municipality": "Playa",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": "23.11433698105626",
+      "longitude": "-82.41322840010747"
+    },
+    "social_media": {
+      "facebook": "https://es-la.facebook.com/DKminoHabana/",
+      "instagram": "https://www.instagram.com/dkmino_habana/"
+    },
+    "accepted_payment_methods": ["Efectivo (CUP y Moneda Extranjera)", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": true,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": ["Baño", "Bar"],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": ["Cooking Show"],
+      "children": false,
+      "pets": null,
+      "parking": true
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": ["Generador"],
+    "highlights": []
+  },
+   
+                  "menu": {
+                    "categories": [
+                      {
+                        "category": "Panes",
+                        "items": [
+                          {
+                            "name": "Pan con Chicharrones Carnudos y Guacamole",
+                            "price": 1655.00,
+                            "essential_ingredients": ["chicharrones"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Pan Cubano El Guapo",
+                            "price": 3555.00,
+                            "essential_ingredients": ["pan cubano"],
+                            "allergy_info": ["gluten"]
+                          }
+                        ]
+                      },
+                      {
+                        "category": "Entrantes",
+                        "items": [
+                          {
+                            "name": "Croquetas de la Abuela",
+                            "price": 1000.00,
+                            "essential_ingredients": ["jamón"],
+                            "allergy_info": ["gluten", "lactosa"]
+                          },
+                          {
+                            "name": "Frituras de Malanga y Jamón",
+                            "price": 1700.00,
+                            "essential_ingredients": ["malanga"],
+                            "allergy_info": ["gluten"]
+                          },
+                          {
+                            "name": "Empanadas de la Casa",
+                            "price": 1700.00,
+                            "essential_ingredients": ["carne"],
+                            "allergy_info": ["gluten"]
+                          },
+                          {
+                            "name": "Carpaccio de Ternera con Aceite de Trufas y Parmesano",
+                            "price": 1700.00,
+                            "essential_ingredients": ["ternera"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Berenjenas a la Parmesana",
+                            "price": 1700.00,
+                            "essential_ingredients": ["berenjena"],
+                            "allergy_info": ["lactosa"]
+                          },
+                          {
+                            "name": "Quesadilla Marinera",
+                            "price": 1700.00,
+                            "essential_ingredients": ["mariscos"],
+                            "allergy_info": ["gluten"]
+                          },
+                          {
+                            "name": "Tostas y Tacos de Res o Camarón",
+                            "price": 1700.00,
+                            "essential_ingredients": ["res", "camarón"],
+                            "allergy_info": ["gluten"]
+                          },
+                          {
+                            "name": "Ensalada César con Dados de Pollo",
+                            "price": 1700.00,
+                            "essential_ingredients": ["pollo"],
+                            "allergy_info": ["gluten"]
+                          },
+                          {
+                            "name": "Chorizo Gallego al Carbón con Queso Manchego",
+                            "price": 1700.00,
+                            "essential_ingredients": ["chorizo"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Ceviche de Pescado y Calamares Crujientes",
+                            "price": 1700.00,
+                            "essential_ingredients": ["pescado", "calamares"],
+                            "allergy_info": ["mariscos"]
+                          },
+                          {
+                            "name": "Steak Tartare",
+                            "price": 1700.00,
+                            "essential_ingredients": ["carne"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Calamares a la Romana con Salsa Tártara y Aceite de Sésamo",
+                            "price": 945.00,
+                            "essential_ingredients": ["calamares"],
+                            "allergy_info": ["mariscos"]
+                          },
+                          {
+                            "name": "Burrata Fresca con Aceite de Trufas, Tomate y Aguacate",
+                            "price": 2100.00,
+                            "essential_ingredients": ["burrata"],
+                            "allergy_info": ["lactosa"]
+                          },
+                          {
+                            "name": "Yakituri de Langosta Crujiente con Salsa Chipotle",
+                            "price": 2255.00,
+                            "essential_ingredients": ["langosta"],
+                            "allergy_info": ["mariscos"]
+                          },
+                          {
+                            "name": "Provoleta con Blanqueta, Tomate y Pimiento Asado",
+                            "price": 3335.00,
+                            "essential_ingredients": ["provoleta"],
+                            "allergy_info": ["lactosa"]
+                          }
+                        ]
+                      },
+                      {
+                        "category": "Platos principales",
+                        "items": [
+                          {
+                            "name": "Tamal Relleno con Lonjas de Cerdo y Huevo Frito",
+                            "price": 2955.00,
+                            "essential_ingredients": ["cerdo"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Costillas de Cerdo Caramelizadas con Puré de Boniato y Jengibre",
+                            "price": 4145.00,
+                            "essential_ingredients": ["cerdo"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Fricandó de Ternera Estofado",
+                            "price": 4500.00,
+                            "essential_ingredients": ["ternera"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Milanesa de Pollo con Mini Ensalada César",
+                            "price": 2955.00,
+                            "essential_ingredients": ["pollo"],
+                            "allergy_info": ["gluten"]
+                          },
+                          {
+                            "name": "Churrasco de Filete de Cerdo con Salsa de Guayaba y Mostaza Dijon",
+                            "price": 2945.00,
+                            "essential_ingredients": ["cerdo"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Pollo Entero Relleno de Arroz Moro y Bacon",
+                            "price": 2955.00,
+                            "essential_ingredients": ["pollo"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Solomillo de Ternera con Papas Asadas y Crema de Piquillos",
+                            "price": 4550.00,
+                            "essential_ingredients": ["ternera"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Picanha Chilena",
+                            "price": 8000.00,
+                            "essential_ingredients": ["carne"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Riñonada Argentina",
+                            "price": 8000.00,
+                            "essential_ingredients": ["carne"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Bife de Chorizo",
+                            "price": 7255.00,
+                            "essential_ingredients": ["carne"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Straccettis con Cebolla y Jamón",
+                            "price": 3500.00,
+                            "essential_ingredients": ["jamón"],
+                            "allergy_info": []
+                          },
+                      {
+                        
+                            "name": "Filete de Pescado con Vegetales Orientales",
+                            "price": 3755.00,
+                            "essential_ingredients": ["pescado"],
+                            "allergy_info": ["pescado"]
+                          },
+                          {
+                            "name": "Filete de Pescado Frito con Crujientes de Cebolla Frita y Aderezo",
+                            "price": 2950.00,
+                            "essential_ingredients": ["pescado"],
+                            "allergy_info": ["pescado"]
+                          },
+                          {
+                            "name": "Gambón Argentino al Ajillo",
+                            "price": 3555.00,
+                            "essential_ingredients": ["gambón"],
+                            "allergy_info": ["mariscos"]
+                          },
+                          {
+                            "name": "Cerdo Asado a lo Cubana",
+                            "price": 8500.00,
+                            "essential_ingredients": ["cerdo"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Tamaribs de Cerdo 340g con Papas Fritas",
+                            "price": 4500.00,
+                            "essential_ingredients": ["cerdo"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Zarzuela de Mariscos (Langosta, Camarón, Pescado y Pulpo)",
+                            "price": 5500.00,
+                            "essential_ingredients": ["mariscos"],
+                            "allergy_info": ["mariscos"]
+                          },
+                          {
+                            "name": "Tagliata de Res o Cerdo con Queso Bifido Curado, Rúcula Fresca y Aceite de Trufas",
+                            "price": 7500.00,
+                            "essential_ingredients": ["res", "cerdo"],
+                            "allergy_info": ["gluten"]
+                          },
+                          {
+                            "name": "Punta de Filete al Ajillo con Mostaza",
+                            "price": 4550.00,
+                            "essential_ingredients": ["filete"],
+                            "allergy_info": []
+                          }
+                        ]
+                      },
+                      {
+                        "category": "Pastas",
+                        "items": [
+                          {
+                            "name": "Pastas Largas y Cortas a la Piedra",
+                            "price": 3100.00,
+                            "essential_ingredients": ["pasta"],
+                            "allergy_info": ["gluten"]
+                          },
+                          {
+                            "name": "Alfredo",
+                            "price": 2950.00,
+                            "essential_ingredients": ["crema", "queso"],
+                            "allergy_info": ["gluten", "lactosa"]
+                          },
+                          {
+                            "name": "Aglio e Olio con Dados de Tomate",
+                            "price": 2755.00,
+                            "essential_ingredients": ["ajo"],
+                            "allergy_info": ["gluten"]
+                          }
+                        ]
+                      },
+                      {
+                        "category": "Pizzas",
+                        "items": [
+                          {
+                            "name": "Real Pizza Italiana 33 cm",
+                            "price": 2300.00,
+                            "essential_ingredients": ["tomate"],
+                            "allergy_info": ["gluten"]
+                          },
+                          {
+                            "name": "Pizza Imperial",
+                            "price": 3655.00,
+                            "essential_ingredients": ["tomate"],
+                            "allergy_info": ["gluten"]
+                          }
+                        ]
+                      },
+                      {
+                        "category": "Agregos",
+                        "items": [
+                          {
+                            "name": "Jamón Barra",
+                            "price": 500.00,
+                            "essential_ingredients": ["jamón"],
+                            "allergy_info": ["lactosa"]
+                          },
+                          {
+                            "name": "Jamón Serrano",
+                            "price": 650.00,
+                            "essential_ingredients": ["jamón"],
+                            "allergy_info": ["lactosa"]
+                          },
+                          {
+                            "name": "Queso Gouda",
+                            "price": 500.00,
+                            "essential_ingredients": ["queso gouda"],
+                            "allergy_info": ["lactosa"]
+                          },
+                          {
+                            "name": "Queso Parmesano",
+                            "price": 800.00,
+                            "essential_ingredients": ["queso parmesano"],
+                            "allergy_info": ["lactosa"]
+                          },
+                          {
+                            "name": "Bacon",
+                            "price": 500.00,
+                            "essential_ingredients": ["bacon"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Pepperoni",
+                            "price": 550.00,
+                            "essential_ingredients": ["chorizo"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Chorizo Asturiano",
+                            "price": 550.00,
+                            "essential_ingredients": ["chorizo"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Camarón",
+                            "price": 600.00,
+                            "essential_ingredients": ["camarón"],
+                            "allergy_info": ["mariscos"]
+                          },
+                          {
+                            "name": "Huevo",
+                            "price": 400.00,
+                            "essential_ingredients": ["huevo"],
+                            "allergy_info": ["huevo"]
+                          },
+                          {
+                            "name": "Aceitunas",
+                            "price": 500.00,
+                            "essential_ingredients": ["aceitunas"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Cebolla",
+                            "price": 450.00,
+                            "essential_ingredients": ["cebolla"],
+                            "allergy_info": []
+                          }
+                        ]
+                      },
+                      {
+                        "category": "Postres",
+                        "items": [
+                          {
+                            "name": "Cookies Recién Horneadas con Helado y Cremas",
+                            "price": 2000.00,
+                            "essential_ingredients": ["chocolate"],
+                            "allergy_info": ["gluten", "lactosa"]
+                          },
+                          {
+                            "name": "Cheesecake",
+                            "price": 2000.00,
+                            "essential_ingredients": ["queso"],
+                            "allergy_info": ["gluten", "lactosa"]
+                          },
+                          {
+                            "name": "Tres Leches con Fanguito y Helado",
+                            "price": 2000.00,
+                            "essential_ingredients": ["leche"],
+                            "allergy_info": ["gluten", "lactosa"]
+                          },
+                          {
+                            "name": "Brownie de Nueces y Helado de Pistacho",
+                            "price": 2000.00,
+                            "essential_ingredients": ["nuez"],
+                            "allergy_info": ["gluten", "frutos secos", "lactosa"]
+                          },
+                          {
+                            "name": "Es Más que un Flan",
+                            "price": 2000.00,
+                            "essential_ingredients": ["flan"],
+                            "allergy_info": ["gluten", "lactosa"]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+                

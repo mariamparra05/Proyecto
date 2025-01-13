@@ -1,0 +1,215 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Bar-Restaurante"]
+    },
+    "name": "Cafe Bulevar",
+    "cuisine": ["Cubana"],
+    "description": "Cafe Bulevar es un bar-restaurante en el distrito de Centro Habana, con una capacidad alta de aforo y especializado en cocina cubana.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "11:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Centro Habana",
+    "municipality": "Centro Habana",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.136606572526283,
+      "longitude": -82.36299826271366
+    },
+    "social_media": {},
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "ensalada de estación",
+                  "price": 200,
+                  "essential_ingredients": ["lechuga", "tomate", "zanahoria", "aceitunas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "papas fritas",
+                  "price": 150,
+                  "essential_ingredients": ["papas", "aceite", "sal"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Platos Principales",
+              "items": [
+                {
+                  "name": "caldosa boulevard",
+                  "price": 200,
+                  "essential_ingredients": ["cerdo", "papas", "maíz", "calabaza"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "arroz con subproductos",
+                  "price": 300,
+                  "essential_ingredients": ["arroz", "frijoles", "subproductos de cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "fajitas de cerdo",
+                  "price": 1350,
+                  "essential_ingredients": ["cerdo", "pimientos", "cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "fajitas de pollo",
+                  "price": 1300,
+                  "essential_ingredients": ["pollo", "pimientos", "cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "filete de merluza",
+                  "price": 550,
+                  "essential_ingredients": ["merluza", "limón", "especias"],
+                  "allergy_info": ["pescado"]
+                }
+              ]
+            },
+            {
+              "category": "Bebidas No Alcohólicas ",
+              "items": [
+                {
+                  "name": "jugo de fruta",
+                  "price": 100,
+                  "essential_ingredients": ["frutas"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Bebidas Alcohólicas",
+              "items": [
+                {
+                  "name": "cerveza importada",
+                  "price": 180,
+                  "essential_ingredients": ["cerveza"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "vino tinto cabernet",
+                  "price": 1340,
+                  "essential_ingredients": ["vino tinto"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "licor paso pondal (30ml)",
+                  "price": 75,
+                  "essential_ingredients": ["licor"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "licor fenet blanca (30ml)",
+                  "price": 75,
+                  "essential_ingredients": ["licor"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "grappa carolina bianca (30ml)",
+                  "price": 75,
+                  "essential_ingredients": ["grappa"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "ron legendario añejo (45ml)",
+                  "price": 90,
+                  "essential_ingredients": ["ron"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "ron legendario dorado (45ml)",
+                  "price": 100,
+                  "essential_ingredients": ["ron"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "trago legendario ronse (45ml)",
+                  "price": 75,
+                  "essential_ingredients": ["ron"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "licor de café (30ml)",
+                  "price": 75,
+                  "essential_ingredients": ["licor de café"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "copa de vino blanco (125ml)",
+                  "price": 145,
+                  "essential_ingredients": ["vino blanco"],
+                  "allergy_info": ["alcohol"]
+                }
+              ]
+            }
+          ]
+        }
+      }
+      

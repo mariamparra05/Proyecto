@@ -1,0 +1,185 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "La esquinita del Cotorro",
+    "cuisine": ["Comida Rápida"],
+    "description": "La esquinita del Cotorro es una cafetería en el municipio Cotorro, ubicada en Avenida 71. Con 8 años de experiencia, ofrece una deliciosa selección de comida rápida y es popular por su cerveza. Es el lugar ideal para disfrutar de una comida rápida y refrescante.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "tuesday": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "wednesday": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "thursday": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "friday": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "saturday": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "sunday": {
+        "open": "10:00",
+        "close": "20:00"
+      }
+    },
+    "address": "Avenida 71",
+    "municipality": "Cotorro",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": "Facebook",
+      "instagram": "Instagram"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable"],
+      "usual_customers": ["Turistas"],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "Tostones",
+                  "price": 200,
+                  "essential_ingredients": ["plátano"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Tortilla Natural",
+                  "price": 220,
+                  "essential_ingredients": ["huevo"],
+                  "allergy_info": ["huevo"]
+                },
+                {
+                  "name": "Tortilla de Queso Blanco",
+                  "price": 280,
+                  "essential_ingredients": ["huevo", "queso blanco"],
+                  "allergy_info": ["huevo", "lactosa"]
+                },
+                {
+                  "name": "Tortilla de Jamón",
+                  "price": 320,
+                  "essential_ingredients": ["huevo", "jamón"],
+                  "allergy_info": ["huevo"]
+                },
+                {
+                  "name": "Tortilla de Chorizo",
+                  "price": 320,
+                  "essential_ingredients": ["huevo", "chorizo"],
+                  "allergy_info": ["huevo"]
+                },
+                {
+                  "name": "Tortilla Mixta",
+                  "price": 410,
+                  "essential_ingredients": ["huevo", "varios ingredientes"],
+                  "allergy_info": ["huevo"]
+                }
+              ]
+            },
+            {
+              "category": "Hamburguesas",
+              "items": [
+                {
+                  "name": "Hamburguesa Simple",
+                  "price": 250,
+                  "essential_ingredients": ["pan de hamburguesa", "carne"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Hamburguesa Doble",
+                  "price": 380,
+                  "essential_ingredients": ["pan de hamburguesa", "doble carne"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Hamburguesa Esquinita",
+                  "price": 480,
+                  "essential_ingredients": ["pan de hamburguesa", "carne", "otros ingredientes"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Hamburguesa Esquinita Plus",
+                  "price": 580,
+                  "essential_ingredients": ["pan de hamburguesa", "carne", "otros ingredientes"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Bocadillos",
+              "items": [
+                {
+                  "name": "Pan con Jamón",
+                  "price": 240,
+                  "essential_ingredients": ["pan", "jamón"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pan con Jamón y Chorizo",
+                  "price": 270,
+                  "essential_ingredients": ["pan", "jamón", "chorizo"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pan con Chorizo",
+                  "price": 160,
+                  "essential_ingredients": ["pan", "chorizo"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            }
+          ]
+        }
+      }
+       
+  
+   

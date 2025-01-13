@@ -1,0 +1,383 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Restaurante"]
+      },
+      "name": "Vale & Vane",
+      "cuisine": ["Italiana", "Criolla"],
+      "description": null,
+      "contact_info": {
+        "phone": {
+          "number": "77947261",
+          "type": "landline"
+        },
+        "email": null,
+        "website": null
+      },
+      "opening_hours": {
+        "monday": {
+          "open": null,
+          "close": null
+        },
+        "tuesday": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "wednesday": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "thursday": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "friday": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "saturday": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "sunday": {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      },
+      "address": "4PC3+GQ8, La Habana",
+      "municipality": "Guanabacoa",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "social_media": {
+        "facebook": "Facebook",
+        "instagram": "Instagram"
+      },
+      "accepted_payment_methods": ["Efectivo", "Transferencia"],
+      "delivery_available": true,
+      "service_fee": {
+        "name": "Tarifa de servicio 10%",
+        "description": "Se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": ["A domicilio"],
+        "ambience": [],
+        "usual_customers": [],
+        "planning": [],
+        "children": null,
+        "pets": null,
+        "parking": null
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },
+            "menu": {
+              "categories": [
+                {
+                  "category": "Plato principal",
+                  "items": [
+                    {
+                      "name": "Chuleta de cerdo",
+                      "price": 1100.00,
+                      "essential_ingredients": ["Cerdo"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Bistec cerdo grille",
+                      "price": 1200.00,
+                      "essential_ingredients": ["Cerdo", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Masa de cerdo frita",
+                      "price": 1300.00,
+                      "essential_ingredients": ["Cerdo", "Aceite", "Ajo"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Bistec encebollado",
+                      "price": 1450.00,
+                      "essential_ingredients": ["Cerdo", "Cebolla", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Costilla cerdo",
+                      "price": 1650.00,
+                      "essential_ingredients": ["Cerdo", "Aceite", "Especias"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Lomo ahumado",
+                      "price": 1400.00,
+                      "essential_ingredients": ["Cerdo", "Ajo", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Uruguayo",
+                      "price": 1600.00,
+                      "essential_ingredients": ["Cerdo", "Especias"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Bistec princesa",
+                      "price": 1720.00,
+                      "essential_ingredients": ["Cerdo", "Queso", "Especias"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Garbanzo frito",
+                      "price": 1300.00,
+                      "essential_ingredients": ["Garbanzos", "Aceite", "Ajo"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Pollo frito",
+                      "price": 1000.00,
+                      "essential_ingredients": ["Pollo", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Suprema grille",
+                      "price": 1400.00,
+                      "essential_ingredients": ["Pollo", "Ajo", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Bistec princesa",
+                      "price": 1920.00,
+                      "essential_ingredients": ["Carne de res", "Queso", "Especias"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Suprema encebollada",
+                      "price": 1650.00,
+                      "essential_ingredients": ["Pollo", "Cebolla", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Filete pescado grille",
+                      "price": 1800.00,
+                      "essential_ingredients": ["Pescado", "Ajo", "Aceite"],
+                      "allergy_info": ["Pescado"]
+                    },
+                    {
+                      "name": "Camaron grille",
+                      "price": 1800.00,
+                      "essential_ingredients": ["Camaron", "Ajo", "Aceite"],
+                      "allergy_info": ["Mariscos"]
+                    },
+                    {
+                      "name": "Enchilado camaron",
+                      "price": 1850.00,
+                      "essential_ingredients": ["Camaron", "Tomate", "Especias"],
+                      "allergy_info": ["Mariscos"]
+                    },
+                    {
+                      "name": "Mar y tierra",
+                      "price": 2500.00,
+                      "essential_ingredients": ["Cerdo", "Pescado", "Camaron"],
+                      "allergy_info": ["Mariscos"]
+                    },
+                    {
+                      "name": "Vaca frita",
+                      "price": 1600.00,
+                      "essential_ingredients": ["Carne de res", "Ajo", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Ropa vieja",
+                      "price": 1600.00,
+                      "essential_ingredients": ["Carne de res", "Cebolla", "Pimientos", "Tomate"],
+                      "allergy_info": []
+                    }
+                  ]
+                },
+                {
+                  "category": "Pizzas",
+                  "items": [
+                    {
+                      "name": "Pizza napolitana",
+                      "price": 350.00,
+                      "essential_ingredients": ["Masa de pizza", "Tomate", "Queso Gouda"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    },
+                    {
+                      "name": "Pizza napolitana",
+                      "price": 650.00,
+                      "essential_ingredients": ["Masa de pizza", "Tomate", "Queso Gouda"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    },
+                    {
+                      "name": "Pizza familiar",
+                      "price": 2500.00,
+                      "essential_ingredients": ["Masa de pizza", "Tomate", "Queso Gouda"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    }
+                  ]
+                },
+                {
+                  "category": "Pasta",
+                  "items": [
+                    {
+                      "name": "Espagueti napolitano",
+                      "price": 650.00,
+                      "essential_ingredients": ["Espaguetis", "Tomate", "Queso Gouda"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    },
+                    {
+                      "name": "Espagueti con jamon",
+                      "price": 900.00,
+                      "essential_ingredients": ["Espaguetis", "Jamon", "Queso Gouda"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    },
+                    {
+                      "name": "Espagueti con chorizo",
+                      "price": 900.00,
+                      "essential_ingredients": ["Espaguetis", "Chorizo", "Queso Gouda"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    },
+                    {
+                      "name": "Espagueti doble queso",
+                      "price": 920.00,
+                      "essential_ingredients": ["Espaguetis", "Queso Gouda"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    }
+                  ]
+                },
+                {
+                  "category": "Postres",
+                  "items": [
+                    {
+                      "name": null,
+                      "price": null,
+                      "essential_ingredients": [],
+                      "allergy_info": []
+                    }
+                  ]
+                },
+                {
+                  "category": "Bebidas alcoholicas",
+                  "items": [
+                    {
+                      "name": "Cerveza Cristal (lata)",
+                      "price": 280.00,
+                      "essential_ingredients": ["Cerveza"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Cerveza Cristal (botella)",
+                      "price": 380.00,
+                      "essential_ingredients": ["Cerveza"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Cerveza Hollandia",
+                      "price": 250.00,
+                      "essential_ingredients": ["Cerveza"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Cerveza Wild Hill",
+                      "price": 250.00,
+                      "essential_ingredients": ["Cerveza"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Tigon",
+                      "price": 280.00,
+                      "essential_ingredients": ["Bebida energetica"],
+                      "allergy_info": []
+                    }
+                ]
+              },
+              {
+          
+        "non-alcoholic": [
+            {
+                "item": "Agua Natural",
+                "price": 180.00,
+                "description": null
+            },
+            {
+                "item": "Refresco lata",
+                "price": 250.00,
+                "description": null
+            },
+            {
+                "item": "Malta Hyper Malta",
+                "price": 270.00,
+                "description": null
+            },
+            {
+                "item": "Malta Bucanero",
+                "price": 300.00,
+                "description": null
+            },
+            {
+                "item": "Jugo Natural (cajita)",
+                "price": 200.00,
+                "description": null
+            },
+            {
+                "item": "Jugo Natural (lata)",
+                "price": 270.00,
+                "description": null
+            }
+        ]
+      },
+      {
+          "category": "Bebidas no alcoholicas",
+          "items": [
+            {
+              "name": "Agua natural",
+              "price": 180.00,
+              "essential_ingredients": ["Agua"],
+              "allergy_info": []
+            },
+            {
+              "name": "Refresco lata",
+              "price": 250.00,
+              "essential_ingredients": ["Refresco"],
+              "allergy_info": []
+            },
+            {
+              "name": "Malta Hyper Malta",
+              "price": 270.00,
+              "essential_ingredients": ["Malta"],
+              "allergy_info": []
+            },
+            {
+              "name": "Malta Bucanero",
+              "price": 300.00,
+              "essential_ingredients": ["Malta"],
+              "allergy_info": []
+            },
+            {
+              "name": "Jugo natural (cajita)",
+              "price": 200.00,
+              "essential_ingredients": ["Jugo"],
+              "allergy_info": []
+            },
+            {
+              "name": "Jugo natural (lata)",
+              "price": 270.00,
+              "essential_ingredients": ["Jugo"],
+              "allergy_info": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

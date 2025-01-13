@@ -1,0 +1,321 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Casa del Maíz",
+    "cuisine": ["Cubana"],
+    "description": null,
+    "contact_info": {
+      "phone": {
+        "number": "52003758",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "tuesday": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "wednesday": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "thursday": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "friday": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "saturday": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "sunday": {
+        "open": "10:00",
+        "close": "20:00"
+      }
+    },
+    "address": "Avenida 1er anillo % Calzada de Managua y San Agustin, Arroyo Naranjo",
+    "municipality": "Arroyo Naranjo",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": "https://m.facebook.com/lacasadelmaizcuba/",
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 5%",
+      "description": "Se incluye un 5% del servicio en la cuenta.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": true
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "Fritura de Malte",
+                  "price": 350,
+                  "essential_ingredients": ["Malte", "Harina", "Huevo"],
+                  "allergy_info": ["Gluten", "Huevo"]
+                },
+                {
+                  "name": "Fritura de Malanga",
+                  "price": 450,
+                  "essential_ingredients": ["Malanga", "Harina", "Huevo"],
+                  "allergy_info": ["Gluten", "Huevo"]
+                },
+                {
+                  "name": "Tostón Relleno",
+                  "price": 450,
+                  "essential_ingredients": ["Platano", "Carne", "Queso"],
+                  "allergy_info": ["Lactosa"]
+                },
+                {
+                  "name": "Chicharrón",
+                  "price": 500,
+                  "essential_ingredients": ["Cerdo", "Sal"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Garbanzos",
+                  "price": 550,
+                  "essential_ingredients": ["Garbanzos", "Cebolla", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Cubito de Maíz",
+                  "price": 1070,
+                  "essential_ingredients": ["Maíz", "Harina", "Queso"],
+                  "allergy_info": ["Gluten", "Lactosa"]
+                },
+                {
+                  "name": "Garbanzos Fritos",
+                  "price": 450,
+                  "essential_ingredients": ["Garbanzos", "Cebolla", "Aceite"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Plato principal",
+              "items": [
+                {
+                  "name": "Fricasé de Cerdo",
+                  "price": 1150,
+                  "essential_ingredients": ["Cerdo", "Cebolla", "Pimiento", "Tomate"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bistec de Cerdo",
+                  "price": 1250,
+                  "essential_ingredients": ["Cerdo", "Ajo", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Lomo Ahumado",
+                  "price": 1450,
+                  "essential_ingredients": ["Lomo de cerdo", "Ajo", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Costilla Ahumada",
+                  "price": 1450,
+                  "essential_ingredients": ["Costilla de cerdo", "Ajo", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Fajitas de Cerdo",
+                  "price": 1150,
+                  "essential_ingredients": ["Cerdo", "Pimientos", "Cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Fajita de Pollo",
+                  "price": 1150,
+                  "essential_ingredients": ["Pollo", "Pimientos", "Cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Alitas de Pollo",
+                  "price": 1050,
+                  "essential_ingredients": ["Pollo", "Aceite", "Especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pollo en Cazuela",
+                  "price": 1050,
+                  "essential_ingredients": ["Pollo", "Cebolla", "Pimiento", "Tomate"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pechuga de Pollo",
+                  "price": 1650,
+                  "essential_ingredients": ["Pollo", "Aceite", "Especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Filete de Pescado",
+                  "price": 1480,
+                  "essential_ingredients": ["Pescado", "Aceite", "Limón"],
+                  "allergy_info": ["Pescado"]
+                },
+                {
+                  "name": "Espeñan",
+                  "price": 1280,
+                  "essential_ingredients": ["Pescado", "Aceite", "Especias"],
+                  "allergy_info": ["Pescado"]
+                },
+                {
+                  "name": "Ropa Vieja",
+                  "price": 1420,
+                  "essential_ingredients": ["Carne de res", "Cebolla", "Pimiento", "Tomate"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chilindrón de Carnero",
+                  "price": 1420,
+                  "essential_ingredients": ["Carne de carnero", "Cebolla", "Pimiento", "Tomate"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Guarniciones",
+              "items": [
+                {
+                  "name": "Arroz Salteado",
+                  "price": 530,
+                  "essential_ingredients": ["Arroz", "Vegetales", "Salsa de soja"],
+                  "allergy_info": ["Gluten"]
+                },
+                {
+                  "name": "Arroz Moro",
+                  "price": 250,
+                  "essential_ingredients": ["Arroz", "Frijoles negros", "Ajo", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Arroz Blanco",
+                  "price": 180,
+                  "essential_ingredients": ["Arroz", "Sal", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Tamal Especial",
+                  "price": 90,
+                  "essential_ingredients": ["Maíz", "Carne", "Especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Tostón Criollo",
+                  "price": 450,
+                  "essential_ingredients": ["Plátano", "Sal", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Ensalada Mixta",
+                  "price": 450,
+                  "essential_ingredients": ["Lechuga", "Tomate", "Pepino"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Ají Relleno",
+                  "price": 650,
+                  "essential_ingredients": ["Ají", "Carne", "Queso"],
+                  "allergy_info": ["Lactosa"]
+                },
+                {
+                  "name": "Malanga Hervida",
+                  "price": 425,
+                  "essential_ingredients": ["Malanga", "Sal"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Puré de Boniato",
+                  "price": 250,
+                  "essential_ingredients": ["Boniato", "Mantequilla"],
+                  "allergy_info": ["Lactosa"]
+                },
+                {
+                  "name": "Plátano Maduro Frito",
+                  "price": 400,
+                  "essential_ingredients": ["Plátano maduro", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Yuca con Mojo",
+                  "price": 250,
+                  "essential_ingredients": ["Yuca", "Ajo", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Fufú de Plátano",
+                  "price": 300,
+                  "essential_ingredients": ["Plátano", "Ajo", "Chicharrón"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Postres",
+              "items": [
+                {
+                  "name": "Helado Pote de 1lt",
+                  "price": 850,
+                  "essential_ingredients": ["Helado"],
+                  "allergy_info": ["Lactosa"]
+                },
+                {
+                  "name": "Helado Pote Pequeño",
+                  "price": 490,
+                  "essential_ingredients": ["Helado"],
+                  "allergy_info": ["Lactosa"]
+                },
+                {
+                  "name": "Arroz con Leche",
+                  "price": 200,
+                  "essential_ingredients": ["Arroz", "Leche", "Azúcar"],
+                  "allergy_info": ["Lactosa"]
+                }
+              ]
+            }
+          ]
+        }
+      }
+      
+   

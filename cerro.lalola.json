@@ -1,0 +1,649 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "La Lola",
+    "cuisine": ["Comida Italiana", "Comida Cubana", "Coctelería"],
+    "description": "La Lola es un restaurante en el municipio Cerro, La Habana, conocido por su deliciosa comida italiana y cubana, así como una variada selección de cocteles. Con un ambiente informal y un servicio interactivo, es el lugar ideal para disfrutar de una noche entre amigos.",
+    "contact_info": {
+      "phone": {
+        "number": "53654726",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "14:00",
+        "close": "02:00"
+      },
+      "tuesday": {
+        "open": "14:00",
+        "close": "02:00"
+      },
+      "wednesday": {
+        "open": "14:00",
+        "close": "02:00"
+      },
+      "thursday": {
+        "open": "14:00",
+        "close": "02:00"
+      },
+      "friday": {
+        "open": "14:00",
+        "close": "02:00"
+      },
+      "saturday": {
+        "open": "14:00",
+        "close": "02:00"
+      },
+      "sunday": {
+        "open": "14:00",
+        "close": "02:00"
+      }
+    },
+    "address": "Cerro",
+    "municipality": "Cerro",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.11990973944172,
+      "longitude": -82.38314468033592
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": true,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": [],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": [],
+      "children": true,
+      "pets": null,
+      "parking": true
+    },
+    "dietary_options": [],
+    "meals": ["Cena"],
+    "advantages": ["Accesible", "Interacción con el personal"],
+    "highlights": ["Ambiente animado", "Servicio interactivo"]
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Aperitivos",
+              "items": [
+                {
+                  "name": "Frituras de Malanga",
+                  "price": 500,
+                  "essential_ingredients": ["malanga", "aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bocadillo de Jamón y Queso",
+                  "price": 500,
+                  "essential_ingredients": ["pan", "jamón", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Papas Fritas",
+                  "price": 550,
+                  "essential_ingredients": ["papas", "aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Croquetas de Jamón",
+                  "price": 600,
+                  "essential_ingredients": ["jamón", "harina", "leche"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Bolitas de Queso",
+                  "price": 730,
+                  "essential_ingredients": ["queso", "harina"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Brusquetas",
+                  "price": 700,
+                  "essential_ingredients": ["pan", "tomate", "ajo"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Papas Gratinadas",
+                  "price": 800,
+                  "essential_ingredients": ["papas", "queso", "crema"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Tostón Relleno de Jamón y Queso",
+                  "price": 800,
+                  "essential_ingredients": ["plátano", "jamón", "queso"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Sandwich de Jamón y Queso",
+                  "price": 900,
+                  "essential_ingredients": ["pan", "jamón", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Sandwich Cubano",
+                  "price": 1100,
+                  "essential_ingredients": ["pan", "jamón", "queso", "cerdo"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Tostón Relleno de Atún",
+                  "price": 1100,
+                  "essential_ingredients": ["plátano", "atún"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Sandwich de Jamón y Queso/Papas",
+                  "price": 1200,
+                  "essential_ingredients": ["pan", "jamón", "queso", "papas"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Picadera Sencilla",
+                  "price": 1500,
+                  "essential_ingredients": ["varios ingredientes"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Picadera LaLola",
+                  "price": 4000,
+                  "essential_ingredients": ["varios ingredientes"],
+                  "allergy_info": []
+                },
+                {
+                  "category": "Platos Principales",
+                  "items": [
+                    {
+                      "name": "Tacos de Carne",
+                      "price": 900,
+                      "essential_ingredients": ["tortilla", "carne", "vegetales"],
+                      "allergy_info": ["gluten"]
+                    },
+                    {
+                      "name": "Spaghetti Napolitano",
+                      "price": 1100,
+                      "essential_ingredients": ["spaghetti", "salsa napolitana"],
+                      "allergy_info": ["gluten"]
+                    },
+                    {
+                      "name": "Penne Napolitano",
+                      "price": 1100,
+                      "essential_ingredients": ["penne", "salsa napolitana"],
+                      "allergy_info": ["gluten"]
+                    },
+                    {
+                      "name": "Pizza Napolitana",
+                      "price": 1200,
+                      "essential_ingredients": ["masa de pizza", "queso", "salsa napolitana"],
+                      "allergy_info": ["gluten", "lactosa"]
+                    },
+                    {
+                      "name": "Canelones",
+                      "price": 1350,
+                      "essential_ingredients": ["pasta de canelones", "carne", "salsa"],
+                      "allergy_info": ["gluten"]
+                    },
+                    {
+                      "name": "Hamburguesa",
+                      "price": 1500,
+                      "essential_ingredients": ["pan", "carne", "vegetales"],
+                      "allergy_info": ["gluten"]
+                    },
+                    {
+                      "name": "Masas de Cerdo",
+                      "price": 1750,
+                      "essential_ingredients": ["cerdo", "especias"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Nuggets de Pollo",
+                      "price": 2000,
+                      "essential_ingredients": ["pollo", "empanizado"],
+                      "allergy_info": ["gluten"]
+                    },
+                    {
+                      "name": "Spaghetti a la Carbonara",
+                      "price": 1970,
+                      "essential_ingredients": ["spaghetti", "salsa carbonara"],
+                      "allergy_info": ["gluten", "lactosa"]
+                    },
+                    {
+                      "name": "Lonjas de Cerdo",
+                      "price": 3500,
+                      "essential_ingredients": ["cerdo", "especias"],
+                      "allergy_info": []
+                    }
+                  ]
+                },
+                {
+                  "category": "Agregos",
+                  "items": [
+                    {
+                      "name": "Ají",
+                      "price": 150,
+                      "essential_ingredients": ["ají"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Piña",
+                      "price": 150,
+                      "essential_ingredients": ["piña"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Cebolla",
+                      "price": 250,
+                      "essential_ingredients": ["cebolla"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Chorizo",
+                      "price": 300,
+                      "essential_ingredients": ["chorizo"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Jamón Pierna",
+                      "price": 300,
+                      "essential_ingredients": ["jamón"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Queso Gouda",
+                      "price": 500,
+                      "essential_ingredients": ["queso gouda"],
+                      "allergy_info": ["lactosa"]
+                    },
+                    {
+                      "name": "Aceituna",
+                      "price": 500,
+                      "essential_ingredients": ["aceituna"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Atún",
+                      "price": 600,
+                      "essential_ingredients": ["atún"],
+                      "allergy_info": ["pescado"]
+                    },
+                    {
+                      "name": "Queso de Cabra",
+                      "price": 600,
+                      "essential_ingredients": ["queso de cabra"],
+                      "allergy_info": ["lactosa"]
+                    },
+                    {
+                      "name": "Queso Parmesano",
+                      "price": 800,
+                      "essential_ingredients": ["queso parmesano"],
+                      "allergy_info": ["lactosa"]
+                    }
+                  ]
+                },
+                {
+                  "category": "Postres",
+                  "items": [
+                    {
+                      "name": "Helado",
+                      "price": 900,
+                      "essential_ingredients": ["leche", "azúcar"],
+                      "allergy_info": ["lactosa"]
+                    }
+                  ]
+                },
+                {
+                  "category": "Bebidas",
+                  "items": [
+                    {
+                      "name": "Agua Natural Cool Heaven",
+                      "price": 350,
+                      "essential_ingredients": ["agua"],
+                      "allergy_info": []
+                    }
+                  ]
+                },
+                {
+                              "category": "Refrescos",
+                              "items": [
+                                {
+                                  "name": "Malteada",
+                                  "price": 200,
+                                  "essential_ingredients": ["leche", "helado"],
+                                  "allergy_info": ["lactosa"]
+                                },
+                                {
+                                  "name": "Refresco de Limón",
+                                  "price": 300,
+                                  "essential_ingredients": ["agua con gas", "limón", "azúcar"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Refresco Cola",
+                                  "price": 300,
+                                  "essential_ingredients": ["agua con gas", "caramelo", "azúcar"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Refresco Naranja",
+                                  "price": 300,
+                                  "essential_ingredients": ["agua con gas", "naranja", "azúcar"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Refresco Pepsi",
+                                  "price": 350,
+                                  "essential_ingredients": ["agua con gas", "caramelo", "azúcar"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Energizante",
+                                  "price": 350,
+                                  "essential_ingredients": ["cafeína", "azúcar"],
+                                  "allergy_info": ["cafeína"]
+                                },
+                                {
+                                  "name": "Energizante Tigon Drink",
+                                  "price": 350,
+                                  "essential_ingredients": ["cafeína", "azúcar"],
+                                  "allergy_info": ["cafeína"]
+                                },
+                                {
+                                  "name": "Malta Optimal",
+                                  "price": 370,
+                                  "essential_ingredients": ["malta", "azúcar"],
+                                  "allergy_info": ["gluten"]
+                                }
+                              ]
+                            },
+                            {
+                              "category": "Jugos",
+                              "items": [
+                                {
+                                  "name": "Jugo La Estancia",
+                                  "price": 350,
+                                  "essential_ingredients": ["fruta", "agua", "azúcar"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Limonada Frape",
+                                  "price": 450,
+                                  "essential_ingredients": ["limón", "hielo", "azúcar"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Kermato",
+                                  "price": 580,
+                                  "essential_ingredients": ["jugo de tomate", "especias"],
+                                  "allergy_info": []
+                                }
+                              ]
+                            },
+                            {
+                              "category": "Bebidas Alcohólicas",
+                              "items": [
+                                {
+                                  "name": "Chelada",
+                                  "price": 150,
+                                  "essential_ingredients": ["cerveza", "limón", "sal"],
+                                  "allergy_info": ["gluten"]
+                                },
+                                {
+                                  "name": "Michelada",
+                                  "price": 350,
+                                  "essential_ingredients": ["cerveza", "limón", "salsa"],
+                                  "allergy_info": ["gluten"]
+                                },
+                                {
+                                  "name": "Caipirinha",
+                                  "price": 350,
+                                  "essential_ingredients": ["cachaça", "limón", "azúcar"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Caipiroska",
+                                  "price": 350,
+                                  "essential_ingredients": ["vodka", "limón", "azúcar"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Cuba Libre",
+                                  "price": 350,
+                                  "essential_ingredients": ["ron", "refresco de cola"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Daiquiri",
+                                  "price": 350,
+                                  "essential_ingredients": ["ron", "limón", "azúcar"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Cerveza Bucanero Lata",
+                                  "price": 350,
+                                  "essential_ingredients": ["agua", "malta", "lúpulo"],
+                                  "allergy_info": ["gluten"]
+                                },
+                                {
+                                  "name": "Cerveza Cristal Lata",
+                                  "price": 350,
+                                  "essential_ingredients": ["agua", "malta", "lúpulo"],
+                                  "allergy_info": ["gluten"]
+                                },
+                                {
+                                  "name": "Cubanito",
+                                  "price": 450,
+                                  "essential_ingredients": ["ron", "jugo de tomate", "especias"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Cubata",
+                                  "price": 400,
+                                  "essential_ingredients": ["ron", "refresco de cola"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Ron Collins",
+                                  "price": 450,
+                                  "essential_ingredients": ["ron", "limón", "agua con gas"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "John Collins",
+                                  "price": 450,
+                                  "essential_ingredients": ["ginebra", "limón", "agua con gas"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Screw Driver",
+                                  "price": 475,
+                                  "essential_ingredients": ["vodka", "jugo de naranja"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Cerveza Cristal Botella",
+                                  "price": 420,
+                                  "essential_ingredients": ["agua", "malta", "lúpulo"],
+                                  "allergy_info": ["gluten"]
+                                },
+                                {
+                                  "name": "Cerveza Sol",
+                                  "price": 480,
+                                  "essential_ingredients": ["agua", "malta", "lúpulo"],
+                                  "allergy_info": ["gluten"]
+                                },
+                                {
+                                  "name": "Blue Hawaii",
+                                  "price": 550,
+                                  "essential_ingredients": ["ron", "curaçao azul", "piña"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Blue Lagoon",
+                                  "price": 550,
+                                  "essential_ingredients": ["vodka", "curaçao azul", "limón"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Cerveza Heineken Botella",
+                                  "price": 574,
+                                  "essential_ingredients": ["agua", "malta", "lúpulo"],
+                                  "allergy_info": ["gluten"]
+                                },
+                                {
+                                  "name": "Sangria",
+                                  "price": 600,
+                                  "essential_ingredients": ["vino tinto", "frutas"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Caipiroska",
+                                  "price": 600,
+                                  "essential_ingredients": ["vodka", "limón", "azúcar"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Piña Colada",
+                                  "price": 700,
+                                  "essential_ingredients": ["ron", "piña", "leche de coco"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Gintonic",
+                                  "price": 750,
+                                  "essential_ingredients": ["ginebra", "agua tónica"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Margarita",
+                                  "price": 950,
+                                  "essential_ingredients": ["tequila", "limón", "triple sec"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Copa Lolita Ración",
+                                  "price": 2000,
+                                  "essential_ingredients": ["varios ingredientes"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Cubetazo La Lola",
+                                  "price": 4200,
+                                  "essential_ingredients": ["varios ingredientes"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Cubetazo Picadera",
+                                  "price": 3300,
+                                  "essential_ingredients": ["varios ingredientes"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Botella Ron Havana Club Smokey",
+                                  "price": 5000,
+                                  "essential_ingredients": ["ron"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Botella Ron Havana Club Reserva",
+                                  "price": 5000,
+                                  "essential_ingredients": ["ron"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Botella de Whisky Ballantines",
+                                  "price": 10000,
+                                  "essential_ingredients": ["whisky"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Botella de Whisky Jamerson",
+                                  "price": 10000,
+                                  "essential_ingredients": ["whisky"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Botella de Whisky Johnnie Walker Red Label",
+                                  "price": 13000,
+                                  "essential_ingredients": ["whisky"],
+                                  "allergy_info": []
+                                },
+                                {
+                                  "name": "Botella de Whisky Johnnie Walker Red Label 1lt",
+                                  "price": 15000,
+                                  "essential_ingredients": ["whisky"],
+                                  "allergy_info": []
+                                },  
+                               {
+                                    "name": "Botella de Whisky Johnnie Walker Red Label 1lt",
+                                    "price": 15000,
+                                    "essential_ingredients": ["whisky"],
+                                  "allergy_info": []
+                                            },
+                                            {
+                                              "name": "Botella de Whisky Chivas Regal",
+                                              "price": 15000,
+                                              "essential_ingredients": ["whisky"],
+                                              "allergy_info": []
+                                            },
+                                            {
+                                              "name": "Whisky Chivas Regal 12 años (4.5l)",
+                                              "price": 125440,
+                                              "essential_ingredients": ["whisky"],
+                                              "allergy_info": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "category": "Café",
+                                          "items": [
+                                            {
+                                              "name": "Café Express",
+                                              "price": 200,
+                                              "essential_ingredients": ["café"],
+                                              "allergy_info": []
+                                            },
+                                            {
+                                              "name": "Café Cortadito",
+                                              "price": 300,
+                                              "essential_ingredients": ["café", "leche"],
+                                              "allergy_info": ["lactosa"]
+                                            },
+                                            {
+                                              "name": "Café Bombom",
+                                              "price": 350,
+                                              "essential_ingredients": ["café", "leche condensada"],
+                                              "allergy_info": ["lactosa"]
+                                            }
+                                        ]
+                                      }
+                                    ]
+                                  }
+          ]
+        }
+      }
+        
+            
+        
+      
+            

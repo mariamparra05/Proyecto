@@ -1,0 +1,197 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "El Triangulo",
+    "cuisine": ["Cubana"],
+    "description": null,
+    "contact_info": {
+      "phone": 
+        {
+          "number": null,
+          "type": "mobile"
+        },
+      "email": null,
+      "website": null,
+      "instagram": null,
+      "facebook": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "08:00",
+        "close": "24:00"
+      },
+      "tuesday": {
+        "open": "08:00",
+        "close": "24:00"
+      },
+      "wednesday": {
+        "open": "08:00",
+        "close": "24:00"
+      },
+      "thursday": {
+        "open": "08:00",
+        "close": "24:00"
+      },
+      "friday": {
+        "open": "08:00",
+        "close": "24:00"
+      },
+      "saturday": {
+        "open": "08:00",
+        "close": "24:00"
+      },
+      "sunday": {
+        "open": "08:00",
+        "close": "24:00"
+      }
+    },
+    "address": "Esquina Calzada de 10 de octubre y Calzada de Porvenir, La Palma, Arroyo Naranjo",
+    "municipality": "Arroyo Naranjo",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": true
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+  "menu": {
+    "categories": [
+      {
+        "category": "Entrantes",
+        "items": [
+          {
+            "name": "Fajitas de pollo",
+            "price": 350.00,
+            "essential_ingredients": ["Pollo", "Pimientos", "Cebolla"],
+            "allergy_info": []
+          },
+          {
+            "name": "Croquetas",
+            "price": 150.00,
+            "essential_ingredients": ["Harina", "Leche", "Huevo", "Pan rallado"],
+            "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+          },
+          {
+            "name": "Bolitas de queso",
+            "price": 150.00,
+            "essential_ingredients": ["Queso", "Harina", "Huevo", "Pan rallado"],
+            "allergy_info": ["Lactosa", "Gluten", "Huevo"]
+          },
+          {
+            "name": "Tostones",
+            "price": 150.00,
+            "essential_ingredients": ["Plátano", "Sal", "Aceite"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Plato principal",
+        "items": [
+          {
+            "name": "Pollo frito",
+            "price": 1000.00,
+            "essential_ingredients": ["Pollo", "Harina", "Aceite", "Especias"],
+            "allergy_info": ["Gluten"]
+          }
+        ]
+      },
+      {
+        "category": "Bebidas Alcoholicas",
+        "items": [
+          {
+            "name": "Cerveza Cristal",
+            "price": 250.00,
+            "essential_ingredients": ["Cerveza"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cerveza Bucanero",
+            "price": 250.00,
+            "essential_ingredients": ["Cerveza"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cerveza Escorial",
+            "price": 200.00,
+            "essential_ingredients": ["Cerveza"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cerveza Holanda",
+            "price": 200.00,
+            "essential_ingredients": ["Cerveza"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Bebidas no alcoholicas",
+        "items": [
+         
+          {
+            "name": "Agua",
+            "price": 120.00,
+            "essential_ingredients": ["Agua"],
+            "allergy_info": []
+          },
+          {
+            "name": "Refresco",
+            "price": 220.00,
+            "essential_ingredients": ["Refresco"],
+            "allergy_info": []
+          },
+          {
+            "name": "Jugo de caja",
+            "price": 180.00,
+            "essential_ingredients": ["Jugo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Red Bull",
+            "price": 230.00,
+            "essential_ingredients": ["Bebida energética"],
+            "allergy_info": []
+          },
+          {
+            "name": "Malta",
+            "price": 220.00,
+            "essential_ingredients": ["Malta"],
+            "allergy_info": []
+          }
+        ]
+      }
+    ]
+  }
+}

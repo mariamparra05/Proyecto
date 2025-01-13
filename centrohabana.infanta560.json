@@ -1,0 +1,201 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Infanta 560",
+    "cuisine": [],
+    "description": "Infanta 560 es un restaurante ubicado en Centro Habana.",
+     "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "08:00",
+        "close": "22:00"
+      },
+      "tuesday": {
+        "open": "08:00",
+        "close": "22:00"
+      },
+      "wednesday": {
+        "open": "08:00",
+        "close": "22:00"
+      },
+      "thursday": {
+        "open": "08:00",
+        "close": "22:00"
+      },
+      "friday": {
+        "open": "08:00",
+        "close": "22:00"
+      },
+      "saturday": {
+        "open": "08:00",
+        "close": "22:00"
+      },
+      "sunday": {
+        "open": "08:00",
+        "close": "22:00"
+      }
+    },
+    "address": "Centro Habana",
+    "municipality": "Centro Habana",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.135420733511385,
+      "longitude": -82.37831753600521
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "picadera (300g)",
+                  "price": 550,
+                  "essential_ingredients": ["ingredientes variados"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Platos Principales",
+              "items": [
+                {
+                  "name": "pizza napolitana (250g)",
+                  "price": 200,
+                  "essential_ingredients": ["masa de pizza", "salsa de tomate", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "pizza hawaiana (300g)",
+                  "price": 300,
+                  "essential_ingredients": ["masa de pizza", "salsa de tomate", "queso", "jamón", "piña"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "pizza queso gouda (250g)",
+                  "price": 320,
+                  "essential_ingredients": ["masa de pizza", "salsa de tomate", "queso gouda"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "pizza familiar napolitana (500g)",
+                  "price": 380,
+                  "essential_ingredients": ["masa de pizza", "salsa de tomate", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "pizza familiar hawaiana (600g)",
+                  "price": 700,
+                  "essential_ingredients": ["masa de pizza", "salsa de tomate", "queso", "jamón", "piña"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "pizza familiar queso gouda (500g)",
+                  "price": 700,
+                  "essential_ingredients": ["masa de pizza", "salsa de tomate", "queso gouda"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "fajas de pollo (300g)",
+                  "price": 600,
+                  "essential_ingredients": ["pollo", "especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "spaghetti (470g)",
+                  "price": 300,
+                  "essential_ingredients": ["espagueti", "salsa de tomate"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "spaghetti queso gouda (470g)",
+                  "price": 420,
+                  "essential_ingredients": ["espagueti", "queso gouda"],
+                  "allergy_info": ["gluten", "lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Acompañamientos",
+              "items": [
+                {
+                  "name": "jamon",
+                  "price": 80,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": ["cerdo"]
+                },
+                {
+                  "name": "piña",
+                  "price": 80,
+                  "essential_ingredients": ["piña"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "pimiento",
+                  "price": 80,
+                  "essential_ingredients": ["pimiento"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "queso",
+                  "price": 80,
+                  "essential_ingredients": ["queso"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "queso gouda",
+                  "price": 100,
+                  "essential_ingredients": ["queso gouda"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "cebolla",
+                  "price": 80,
+                  "essential_ingredients": ["cebolla"],
+                  "allergy_info": []
+                }
+              ]
+            }
+          ]
+        }
+      }
+      

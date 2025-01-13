@@ -1,0 +1,333 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Martínez Club",
+    "cuisine": ["Comida Criolla", "Comida Rápida"],
+    "description": "Martínez Club es una cafetería en el municipio Cotorro, conocida por su especialidad en comida criolla y rápida. Con apertura reciente, es famoso por su pollo frito y cerveza. Es un lugar perfecto para disfrutar de una comida rápida y agradable.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "09:00",
+        "close": "21:00"
+      },
+      "tuesday": {
+        "open": "09:00",
+        "close": "21:00"
+      },
+      "wednesday": {
+        "open": "09:00",
+        "close": "21:00"
+      },
+      "thursday": {
+        "open": "09:00",
+        "close": "21:00"
+      },
+      "friday": {
+        "open": "09:00",
+        "close": "21:00"
+      },
+      "saturday": {
+        "open": "09:00",
+        "close": "21:00"
+      },
+      "sunday": {
+        "open": "09:00",
+        "close": "21:00"
+      }
+    },
+    "address": null,
+    "municipality": "Cotorro",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": "Facebook",
+      "instagram": "Instagram"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Pollo Frito"],
+      "local_options": [],
+      "services": [],
+      "ambience": ["Agradable"],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": true,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": ["Almuerzo", "Comida"],
+    "advantages": [],
+    "highlights": []
+  },
+
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "Fritura de Malanga",
+                  "price": 300,
+                  "essential_ingredients": ["malanga", "aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Ensalada Fría",
+                  "price": 150,
+                  "essential_ingredients": ["vegetales"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Croquetas",
+                  "price": 300,
+                  "essential_ingredients": ["harina", "leche"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Tostones al Ajillo",
+                  "price": 300,
+                  "essential_ingredients": ["plátano", "ajo"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Hamburguesas",
+              "items": [
+                {
+                  "name": "Hamburguesa Simple",
+                  "price": 230,
+                  "essential_ingredients": ["pan de hamburguesa", "carne"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Hamburguesa con Mayonesa",
+                  "price": 280,
+                  "essential_ingredients": ["pan de hamburguesa", "carne", "mayonesa"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Hamburguesa con Jamón",
+                  "price": 350,
+                  "essential_ingredients": ["pan de hamburguesa", "carne", "jamón"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Hamburguesa con Chorizo",
+                  "price": 350,
+                  "essential_ingredients": ["pan de hamburguesa", "carne", "chorizo"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Hamburguesa con Cebolla",
+                  "price": 330,
+                  "essential_ingredients": ["pan de hamburguesa", "carne", "cebolla"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Hamburguesa con Queso Blanco",
+                  "price": 330,
+                  "essential_ingredients": ["pan de hamburguesa", "carne", "queso blanco"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Hamburguesa con Queso Gouda",
+                  "price": 430,
+                  "essential_ingredients": ["pan de hamburguesa", "carne", "queso gouda"],
+                  "allergy_info": ["gluten", "lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Bocadillos",
+              "items": [
+                {
+                  "name": "Pan con Jamón",
+                  "price": 250,
+                  "essential_ingredients": ["pan", "jamón"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pan con Perro",
+                  "price": 200,
+                  "essential_ingredients": ["pan", "salchicha"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pan con Croqueta",
+                  "price": 100,
+                  "essential_ingredients": ["pan", "croqueta"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Platos Principales",
+              "items": [
+                {
+                  "name": "Pollo Chiflado",
+                  "price": 700,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Masa de Cerdo Frita",
+                  "price": 1100,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                }
+            ]
+          },
+          {
+                      "category": "Pastas",
+                      "items": [
+                        {
+                          "name": "Espaguetti con Queso Blanco",
+                          "price": 350,
+                          "essential_ingredients": ["espaguetis", "queso blanco"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        },
+                        {
+                          "name": "Espaguetti con Queso Gouda",
+                          "price": 500,
+                          "essential_ingredients": ["espaguetis", "queso gouda"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Pizzas",
+                      "items": [
+                        {
+                          "name": "Pizza con Queso Blanco",
+                          "price": 200,
+                          "essential_ingredients": ["masa de pizza", "queso blanco"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        },
+                        {
+                          "name": "Pizza con Queso Gouda",
+                          "price": 350,
+                          "essential_ingredients": ["masa de pizza", "queso gouda"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        },
+                        {
+                          "name": "Pizza Familiar con Queso Blanco",
+                          "price": 450,
+                          "essential_ingredients": ["masa de pizza", "queso blanco"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        },
+                        {
+                          "name": "Pizza Familiar con Queso Gouda",
+                          "price": 650,
+                          "essential_ingredients": ["masa de pizza", "queso gouda"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Agregados",
+                      "items": [
+                        {
+                          "name": "Jamón",
+                          "price": 120,
+                          "essential_ingredients": ["jamón"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Perrito",
+                          "price": 120,
+                          "essential_ingredients": ["salchicha"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Chorizo",
+                          "price": 120,
+                          "essential_ingredients": ["chorizo"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Cebolla",
+                          "price": 100,
+                          "essential_ingredients": ["cebolla"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Queso Blanco",
+                          "price": 100,
+                          "essential_ingredients": ["queso blanco"],
+                          "allergy_info": ["lactosa"]
+                        },
+                        {
+                          "name": "Queso Gouda",
+                          "price": 200,
+                          "essential_ingredients": ["queso gouda"],
+                          "allergy_info": ["lactosa"]
+                        },
+                        {
+                          "name": "Piña",
+                          "price": 100,
+                          "essential_ingredients": ["piña"],
+                          "allergy_info": []
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Postres",
+                      "items": []
+                    },
+                    {
+                      "category": "Bebidas",
+                      "items": [
+                        {
+                          "name": "Expresso",
+                          "price": 20,
+                          "essential_ingredients": ["café"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Refresco",
+                          "price": 20,
+                          "essential_ingredients": ["refresco"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Jugo",
+                          "price": 50,
+                          "essential_ingredients": ["frutas"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Malteada",
+                          "price": 330,
+                          "essential_ingredients": ["leche", "otros ingredientes"],
+                          "allergy_info": ["lactosa"]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+              

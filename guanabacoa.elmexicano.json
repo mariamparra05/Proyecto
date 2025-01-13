@@ -1,0 +1,241 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Restaurante"]
+      },
+      "name": "El Mexicano",
+      "cuisine": ["Pizzas", "Pastas"],
+      "description": null,
+      "contact_info": {
+        "phone": 
+          {
+            "number": "72635413",
+            "type": "landline"
+          },
+        "email": null,
+        "website": null
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        "tuesday": {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        "wednesday": {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        "thursday": {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        "friday": {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        "saturday": {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        "sunday": {
+          "open": "10:00",
+          "close": "22:00"
+        }
+      },
+      "address": "4MHR+MC7, Avenida Quinta, La Habana, Cuba",
+      "municipality": "Guanabacoa",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Efectivo"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Tarifa de servicio 10%",
+        "description": "Se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": ["A la carta"],
+        "ambience": [],
+        "usual_customers": [],
+        "planning": [],
+        "children": null,
+        "pets": null,
+        "parking": null
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },
+    "menu": {
+      "categories": [
+        {
+          "category": "Plato principal",
+          "items": [
+            {
+              "name": "Sandwich de jamon y queso",
+              "price": 350.00,
+              "essential_ingredients": ["Pan", "Jamon", "Queso"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            },
+            {
+              "name": "Sandwich de queso jamon especial",
+              "price": 600.00,
+              "essential_ingredients": ["Pan", "Queso", "Jamon"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Pizzas",
+          "items": [
+            {
+              "name": "Pizza queso Gouda",
+              "price": 450.00,
+              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso Gouda"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Pasta",
+          "items": [
+            {
+              "name": "Spaguetti queso Gouda",
+              "price": 770.00,
+              "essential_ingredients": ["Espaguetis", "Queso Gouda"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Postres",
+          "items": [
+            {
+              "name": null,
+              "price": null,
+              "essential_ingredients": [],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Bebidas alcoholicas",
+          "items": [
+            {
+              "name": "Cerveza",
+              "price": 200.00,
+              "essential_ingredients": ["Cerveza"],
+              "allergy_info": []
+            },
+            {
+              "name": "Holandia",
+              "price": 200.00,
+              "essential_ingredients": ["Cerveza"],
+              "allergy_info": []
+            },
+            {
+              "name": "Cristal lata",
+              "price": 250.00,
+              "essential_ingredients": ["Cerveza"],
+              "allergy_info": []
+            },
+            {
+              "name": "Cristal botella",
+              "price": 200.00,
+              "essential_ingredients": ["Cerveza"],
+              "allergy_info": []
+            },
+            {
+              "name": "Shaka",
+              "price": 350.00,
+              "essential_ingredients": ["Cerveza"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Bebidas no alcoholicas",
+          "items": [
+            {
+              "name": "Tigon",
+              "price": 300.00,
+              "essential_ingredients": ["Bebida energetica"],
+              "allergy_info": []
+            },
+            {
+              "name": "Malta 1 Hyper",
+              "price": 270.00,
+              "essential_ingredients": ["Malta"],
+              "allergy_info": []
+            },
+            {
+              "name": "Pepsi",
+              "price": 270.00,
+              "essential_ingredients": ["Refresco"],
+              "allergy_info": []
+            },
+            {
+              "name": "Mirinda",
+              "price": 280.00,
+              "essential_ingredients": ["Refresco"],
+              "allergy_info": []
+            },
+            {
+              "name": "Perla negra",
+              "price": 270.00,
+              "essential_ingredients": ["Refresco"],
+              "allergy_info": []
+            },
+            {
+              "name": "Ironbeer",
+              "price": 240.00,
+              "essential_ingredients": ["Refresco"],
+              "allergy_info": []
+            },
+            {
+              "name": "Orange",
+              "price": 220.00,
+              "essential_ingredients": ["Refresco"],
+              "allergy_info": []
+            },
+            {
+              "name": "Cola Polo",
+              "price": 220.00,
+              "essential_ingredients": ["Refresco"],
+              "allergy_info": []
+            },
+            {
+              "name": "Limon",
+              "price": 220.00,
+              "essential_ingredients": ["Refresco"],
+              "allergy_info": []
+            },
+            {
+              "name": "Coca Cola",
+              "price": 280.00,
+              "essential_ingredients": ["Refresco"],
+              "allergy_info": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

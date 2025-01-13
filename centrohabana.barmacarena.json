@@ -1,0 +1,728 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Bar"]
+    },
+    "name": "Bar Macarena",
+    "cuisine": [],
+    "description": "Macarena es un bar-restaurante en el distrito de Centro Habana, con una capacidad media de aforo y especializado en cocteleria.",
+    "contact_info": {
+      "phone": {
+        "number": "58723821",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": null,
+        "close": null
+      },
+      "tuesday": {
+        "open": "16:00",
+        "close": "03:00"
+      },
+      "wednesday": {
+        "open": "16:00",
+        "close": "03:00"
+      },
+      "thursday": {
+        "open": "16:00",
+        "close": "03:00"
+      },
+      "friday": {
+        "open": "16:00",
+        "close": "03:00"
+      },
+      "saturday": {
+        "open": "16:00",
+        "close": "03:00"
+      },
+      "sunday": {
+        "open": "16:00",
+        "close": "03:00"
+      }
+    },
+    "address": "Calle Vapor # 168alt, entre Espada y San Francisco Centro Habana, La Habana, Cuba",
+    "municipality": "Centro Habana",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.140032524116656,
+      "longitude": -82.37801794949878
+    },
+    "social_media": {
+      "facebook": "Cafe bar macarena",
+      "instagram": "@cafe_bar_macarena"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": ["Zona VIP"],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+      "menu": {
+        "categories": [
+          {
+            "category": "Entrantes",
+            "items": [
+              {
+                "name": "Croquetas de la casa",
+                "price": 550,
+                "essential_ingredients": ["harina", "leche", "jamon"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Jamon y queso",
+                "price": 650,
+                "essential_ingredients": ["jamon", "queso"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Rollitos a la macarena",
+                "price": 700,
+                "essential_ingredients": ["pan", "jamon", "queso", "salsa"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Tostones rellenos",
+                "price": 750,
+                "essential_ingredients": ["platano", "carne", "salsa"],
+                "allergy_info": []
+              },
+              {
+                "name": "Surtida queso y embutido",
+                "price": 1200,
+                "essential_ingredients": ["queso", "embutido"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Mixta la macarena",
+                "price": 2200,
+                "essential_ingredients": ["varios"],
+                "allergy_info": []
+              }
+            ]
+          },
+          {
+            "category": "Bebidas No Alcoholicas",
+            "items": [
+              {
+                "name": "Agua 500 ml",
+                "price": 200,
+                "essential_ingredients": ["agua"],
+                "allergy_info": []
+              },
+              {
+                "name": "Refresco cola",
+                "price": 200,
+                "essential_ingredients": ["agua carbonatada", "azucar"],
+                "allergy_info": []
+              },
+              {
+                "name": "Agua tonica 330 ml",
+                "price": 220,
+                "essential_ingredients": ["agua carbonatada", "quinina"],
+                "allergy_info": []
+              },
+              {
+                "name": "Refresco limon",
+                "price": 300,
+                "essential_ingredients": ["agua carbonatada", "azucar", "limon"],
+                "allergy_info": []
+              },
+              {
+                "name": "Energizante",
+                "price": 350,
+                "essential_ingredients": ["cafeina"],
+                "allergy_info": []
+              },
+              {
+                "name": "Limonada frappe",
+                "price": 600,
+                "essential_ingredients": ["limon", "hielo", "azucar"],
+                "allergy_info": []
+              },
+              {
+                "name": "Limonada blue",
+                "price": 600,
+                "essential_ingredients": ["limon", "hielo", "azucar", "colorante azul"],
+                "allergy_info": []
+              },
+              {
+                "name": "Limonada roja",
+                "price": 600,
+                "essential_ingredients": ["limon", "hielo", "azucar", "colorante rojo"],
+                "allergy_info": []
+              },
+              {
+                "name": "Limonada natural",
+                "price": 600,
+                "essential_ingredients": ["limon", "agua", "azucar"],
+                "allergy_info": []
+              },
+              {
+                "name": "Limonada frescura",
+                "price": 700,
+                "essential_ingredients": ["limon", "hierbabuena", "agua", "azucar"],
+                "allergy_info": []
+              }
+            ]
+          },
+          {
+            "category": "Bebidas Alcoholicas",
+            "items": [
+              {
+                "name": "Cerveza cristal de botella",
+                "price": 420,
+                "essential_ingredients": ["cerveza"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Cerveza bucanero de botella",
+                "price": 400,
+                "essential_ingredients": ["cerveza"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Cerveza importada",
+                "price": 300,
+                "essential_ingredients": ["cerveza"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Mojitos",
+                "price": 650,
+                "essential_ingredients": ["ron", "hierbabuena", "limon", "azucar", "agua con gas"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Cuba libre",
+                "price": 550,
+                "essential_ingredients": ["ron", "refresco de cola", "limon"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Bello monte",
+                "price": 550,
+                "essential_ingredients": ["ron", "limon", "azucar"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Cuba bella",
+                "price": 750,
+                "essential_ingredients": ["ron", "refresco de cola", "limon"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Mary pickford",
+                "price": 550,
+                "essential_ingredients": ["ron", "pina", "granadina"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Havana especial",
+                "price": 500,
+                "essential_ingredients": ["ron", "limon", "agua con gas"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Presidente",
+                "price": 500,
+                "essential_ingredients": ["ron", "limon", "agua con gas"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Pina colada",
+                "price": 900,
+                "essential_ingredients": ["ron", "pina", "leche de coco"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Daikiri",
+                "price": 750,
+                "essential_ingredients": ["ron", "limon", "azucar"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Caipirissima",
+                "price": 750,
+                "essential_ingredients": ["ron", "limon", "azucar"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Cubanito",
+                "price": 400,
+                "essential_ingredients": ["ron", "jugo de tomate", "limon"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Caipiroska",
+                "price": 750,
+                "essential_ingredients": ["vodka", "limon", "azucar"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Sex on the beach",
+                "price": 550,
+                "essential_ingredients": ["vodka", "licor de durazno", "jugo de arandano", "jugo de naranja"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Screw driver",
+                "price": 550,
+                "essential_ingredients": ["vodka", "jugo de naranja"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Kamikase",
+                "price": 650,
+                "essential_ingredients": ["vodka", "licor de naranja", "limon"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Black russian",
+                "price": 550,
+                "essential_ingredients": ["vodka", "licor de cafe"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Cosmopolitan",
+                "price": 600,
+                "essential_ingredients": ["vodka", "licor de naranja", "jugo de arandano", "limon"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Camino al cielo",
+                "price": 550,
+                "essential_ingredients": ["tequila", "limon", "licor de granada"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Blue hawaii",
+                "price": 550,
+                "essential_ingredients": ["ron", "licor azul", "pina"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Vodka tonic",
+                "price": 750,
+                "essential_ingredients": ["vodka", "agua tonica"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Bloody mary",
+                "price": 550,
+                "essential_ingredients": ["vodka", "jugo de tomate", "especias"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Moscu mule",
+                "price": 500,
+                "essential_ingredients": ["vodka", "cerveza de jengibre", "limon"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Long island",
+                "price": 800,
+                "essential_ingredients": ["vodka", "tequila", "ron", "ginebra", "triple sec", "refresco de cola"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Vodka martini",
+                "price": 700,
+                "essential_ingredients": ["vodka", "vermouth seco"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Charro negro",
+                "price": 550,
+                "essential_ingredients": ["tequila", "refresco de cola", "limon"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Margarita",
+                "price": 750,
+                "essential_ingredients": ["tequila", "limon", "triple sec"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Acapulco de noche",
+                "price": 600,
+                "essential_ingredients": ["tequila", "granadina", "limon"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Bloody mariachi",
+                "price": 600,
+                "essential_ingredients": ["tequila", "jugo de tomate", "especias"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Nieblas del caribe",
+                "price": 650,
+                "essential_ingredients": ["ron", "coco", "pina"],
+                "allergy_info": ["alcohol", "coco"]
+              },
+              {
+                "name": "Submarino",
+                "price": 700,
+                "essential_ingredients": ["cerveza", "tequila"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Long island ice tea",
+                "price": 800,
+                "essential_ingredients": ["vodka", "tequila", "ron", "ginebra", "triple sec", "refresco de cola"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Tom collins",
+                "price": 600,
+                "essential_ingredients": ["ginebra", "limon", "azucar", "agua con gas"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Caruso",
+                "price": 600,
+                "essential_ingredients": ["ginebra", "vermouth dulce"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Gin and sin",
+                "price": 600,
+                "essential_ingredients": ["ginebra", "jugo de naranja", "granadina"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Gin tonic",
+                "price": 750,
+                "essential_ingredients": ["ginebra", "agua tonica"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Martini",
+                "price": 800,
+                "essential_ingredients": ["ginebra", "vermouth"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Santiago 8",
+                "price": 600,
+                "essential_ingredients": ["ron"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "HC Pacto de Navio",
+                "price": 1000,
+                "essential_ingredients": ["ron"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Santiago 11",
+                "price": 1000,
+                "essential_ingredients": ["ron"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Santiago 12",
+                "price": 1200,
+                "essential_ingredients": ["ron"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Jameson",
+                "price": 550,
+                "essential_ingredients": ["whisky"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "JW Red Label",
+                "price": 650,
+                "essential_ingredients": ["whisky"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Ballantines",
+                "price": 650,
+                "essential_ingredients": ["whisky"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Chiva 12",
+                "price": 800,
+                "essential_ingredients": ["whisky"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Jack Daniel",
+                "price": 1000,
+                "essential_ingredients": ["whisky"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "JW Black Label",
+                "price": 1100,
+                "essential_ingredients": ["whisky"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Cosmopolitan",
+                "price": 600,
+                "essential_ingredients": ["vodka", "licor de naranja", "jugo de arandano", "limon"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Camino al cielo",
+                "price": 550,
+                "essential_ingredients": ["tequila", "limon", "licor de granada"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Blue hawaii",
+                "price": 550,
+                "essential_ingredients": ["ron", "licor azul", "pina"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Vodka tonic",
+                "price": 750,
+                "essential_ingredients": ["vodka", "agua tonica"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Bloody mary",
+                "price": 550,
+                "essential_ingredients": ["vodka", "jugo de tomate", "especias"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Moscu mule",
+                "price": 500,
+                "essential_ingredients": ["vodka", "cerveza de jengibre", "limon"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Long island",
+                "price": 800,
+                "essential_ingredients": ["vodka", "tequila", "ron", "ginebra", "triple sec", "refresco de cola"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Vodka martini",
+                "price": 700,
+                "essential_ingredients": ["vodka", "vermouth seco"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Charro negro",
+                "price": 550,
+                "essential_ingredients": ["tequila", "refresco de cola", "limon"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Margarita",
+                "price": 750,
+                "essential_ingredients": ["tequila", "limon", "triple sec"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Acapulco de noche",
+                "price": 600,
+                "essential_ingredients": ["tequila", "granadina", "limon"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Bloody mariachi",
+                "price": 600,
+                "essential_ingredients": ["tequila", "jugo de tomate", "especias"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Nieblas del caribe",
+                "price": 650,
+                "essential_ingredients": ["ron", "coco", "pina"],
+                "allergy_info": ["alcohol", "coco"]
+              },
+              {
+                "name": "Submarino",
+                "price": 700,
+                "essential_ingredients": ["cerveza", "tequila"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Long island ice tea",
+                "price": 800,
+                "essential_ingredients": ["vodka", "tequila", "ron", "ginebra", "triple sec", "refresco de cola"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Tom collins",
+                "price": 600,
+                "essential_ingredients": ["ginebra", "limon", "azucar", "agua con gas"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Caruso",
+                "price": 600,
+                "essential_ingredients": ["ginebra", "vermouth dulce"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Gin and sin",
+                "price": 600,
+                "essential_ingredients": ["ginebra", "jugo de naranja", "granadina"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Gin tonic",
+                "price": 750,
+                "essential_ingredients": ["ginebra", "agua tonica"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Martini",
+                "price": 800,
+                "essential_ingredients": ["ginebra", "vermouth"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Santiago 8",
+                "price": 600,
+                "essential_ingredients": ["ron"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "HC Pacto de Navio",
+                "price": 1000,
+                "essential_ingredients": ["ron"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Santiago 11",
+                "price": 1000,
+                "essential_ingredients": ["ron"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Santiago 12",
+                "price": 1200,
+                "essential_ingredients": ["ron"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Jameson",
+                "price": 550,
+                "essential_ingredients": ["whisky"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "JW Red Label",
+                "price": 650,
+                "essential_ingredients": ["whisky"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Ballantines",
+                "price": 650,
+                "essential_ingredients": ["whisky"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Chiva 12",
+                "price": 800,
+                "essential_ingredients": ["whisky"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Jack Daniel",
+                "price": 1000,
+                "essential_ingredients": ["whisky"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "JW Black Label",
+                "price": 1100,
+                "essential_ingredients": ["whisky"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "HC Anejo Blanco",
+                "price": 250,
+                "essential_ingredients": ["ron"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "HC Anejo 3 Anos",
+                "price": 300,
+                "essential_ingredients": ["ron"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "HC Anejo 7 Anos",
+                "price": 500,
+                "essential_ingredients": ["ron"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "HC Ritual",
+                "price": 400,
+                "essential_ingredients": ["ron"],
+                "allergy_info": ["alcohol"]
+              }
+            ]
+          },
+          {
+                "category": "Infusiones",
+                "items": [
+                  {
+                    "name": "Expreso",
+                    "price": 150,
+                    "essential_ingredients": ["cafe"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Cortado",
+                    "price": 250,
+                    "essential_ingredients": ["cafe", "leche"],
+                    "allergy_info": ["lactosa"]
+                  },
+                  {
+                    "name": "Carajillo",
+                    "price": 450,
+                    "essential_ingredients": ["cafe", "licor"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Frappuccino",
+                    "price": 750,
+                    "essential_ingredients": ["cafe", "leche", "hielo"],
+                    "allergy_info": ["lactosa"]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+        

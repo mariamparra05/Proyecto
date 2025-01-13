@@ -1,0 +1,314 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Cafetería"]
+    },
+    "name": "Kafe DVD",
+    "cuisine": ["Criolla"],
+    "description": null,
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "00:00",
+        "close": "24:00"
+      },
+      "tuesday": {
+        "open": "00:00",
+        "close": "24:00"
+      },
+      "wednesday": {
+        "open": "00:00",
+        "close": "24:00"
+      },
+      "thursday": {
+        "open": "00:00",
+        "close": "24:00"
+      },
+      "friday": {
+        "open": "00:00",
+        "close": "24:00"
+      },
+      "saturday": {
+        "open": "00:00",
+        "close": "24:00"
+      },
+      "sunday": {
+        "open": "00:00",
+        "close": "24:00"
+      }
+    },
+    "address": "San Francisco entre 10 de Octubre y Delicias, Diez de Octubre",
+    "municipality": "10 de Octubre",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": "https://www.facebook.com/kfedvd/?locale=zh_HK",
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo (CUP)", "Transferencia (CUP)"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": ["Baño"],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+  "menu": {
+    "categories": [
+      {
+        "category": "Entrantes",
+        "items": [
+          {
+            "name": "Alitas de pollo",
+            "price": 1300,
+            "essential_ingredients": ["pollo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Tacos",
+            "price": 600,
+            "essential_ingredients": ["tortilla", "carne"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Croquetas",
+            "price": 400,
+            "essential_ingredients": ["harina", "leche", "carne"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Fajitas de pollo",
+            "price": 900,
+            "essential_ingredients": ["pollo", "pimientos"],
+            "allergy_info": []
+          },
+          {
+            "name": "Tostones al ajillo",
+            "price": 350,
+            "essential_ingredients": ["plátano", "ajo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Tostones",
+            "price": 300,
+            "essential_ingredients": ["plátano"],
+            "allergy_info": []
+          },
+          {
+            "name": "Chicharritas",
+            "price": 150,
+            "essential_ingredients": ["plátano"],
+            "allergy_info": []
+          },
+          {
+            "name": "Fritura de malanga",
+            "price": 400,
+            "essential_ingredients": ["malanga"],
+            "allergy_info": []
+          },
+          {
+            "name": "Chorizo",
+            "price": 100,
+            "essential_ingredients": ["chorizo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Jamón",
+            "price": 100,
+            "essential_ingredients": ["jamón"],
+            "allergy_info": []
+          },
+          {
+            "name": "Queso",
+            "price": 200,
+            "essential_ingredients": ["queso"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Cebolla",
+            "price": 100,
+            "essential_ingredients": ["cebolla"],
+            "allergy_info": []
+          },
+          {
+            "name": "Pimiento",
+            "price": 100,
+            "essential_ingredients": ["pimientos"],
+            "allergy_info": []
+          },
+          {
+            "name": "Aceitunas",
+            "price": 200,
+            "essential_ingredients": ["aceitunas"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Platos principales",
+        "items": [
+          {
+            "name": "Pan con perro",
+            "price": 300,
+            "essential_ingredients": ["pan", "salchicha"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Pan con tortilla",
+            "price": 250,
+            "essential_ingredients": ["pan", "tortilla"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Pan hamburguesa",
+            "price": 400,
+            "essential_ingredients": ["pan", "carne"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Pan hamburguesa mariquitas",
+            "price": 500,
+            "essential_ingredients": ["pan", "carne", "plátano"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Fricase de cerdo",
+            "price": 1300,
+            "essential_ingredients": ["cerdo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Masa de cerdo",
+            "price": 1200,
+            "essential_ingredients": ["cerdo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Chuleta de cerdo",
+            "price": 1500,
+            "essential_ingredients": ["cerdo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Bistec de cerdo",
+            "price": 1000,
+            "essential_ingredients": ["cerdo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Bistec de pollo",
+            "price": 950,
+            "essential_ingredients": ["pollo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Hígado con su salsa",
+            "price": 770,
+            "essential_ingredients": ["hígado", "salsa"],
+            "allergy_info": []
+          },
+          {
+            "name": "Hígado a la italiana",
+            "price": 730,
+            "essential_ingredients": ["hígado", "especias italianas"],
+            "allergy_info": []
+          },
+          {
+            "name": "Hígado encebollado",
+            "price": 650,
+            "essential_ingredients": ["hígado", "cebolla"],
+            "allergy_info": []
+          },
+          {
+            "name": "Arroz frito",
+            "price": 700,
+            "essential_ingredients": ["arroz", "vegetales"],
+            "allergy_info": []
+          },
+          {
+            "name": "Pastas napolitana",
+            "price": 700,
+            "essential_ingredients": ["pasta", "tomate", "queso"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Pizza grande",
+            "price": 300,
+            "essential_ingredients": ["masa", "tomate", "queso"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Pizza chiquita",
+            "price": 200,
+            "essential_ingredients": ["masa", "tomate", "queso"],
+            "allergy_info": ["gluten", "lactosa"]
+          }
+        ]
+      },
+      {
+        "category": "Bebidas",
+        "items": [
+          {
+            "name": "Cerveza",
+            "price": 200,
+            "essential_ingredients": ["cerveza"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Energizante",
+            "price": 300,
+            "essential_ingredients": ["bebida energética"],
+            "allergy_info": []
+          },
+          {
+            "name": "Jugo lata",
+            "price": 300,
+            "essential_ingredients": ["jugo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Refresco Pepsi",
+            "price": 250,
+            "essential_ingredients": ["refresco"],
+            "allergy_info": []
+          },
+          {
+            "name": "Refresco",
+            "price": 220,
+            "essential_ingredients": ["refresco"],
+            "allergy_info": []
+          }
+        ]
+      }
+    ]
+  }
+}

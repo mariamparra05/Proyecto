@@ -1,0 +1,331 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Restaurante"]
+      },
+      "name": "Dona Almira",
+      "cuisine": ["Cocina Criolla"],
+      "description": "Privado",
+      "contact_info": {
+        "phone": {
+          "number": ["76472532", "52928671"],
+          "type": ["landline", "mobile"]
+        },
+        "email": null,
+        "website": null
+      },
+      "opening_hours": {
+        "thursday": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "friday": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "saturday": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "sunday": {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      },
+      "address": "Calle Finlay entre Avenida de los Pinos y F de Castro",
+      "municipality": "Boyeros",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Efectivo (CUP, USD, EUR)"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Ninguno",
+        "description": "No se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": [],
+        "ambience": [],
+        "usual_customers": [],
+        "planning": [],
+        "children": null,
+        "pets": null,
+        "parking": false
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },
+    "menu": {
+      "categories": [
+        {
+          "category": "Entrantes",
+          "items": [
+            {
+              "plate": "Tostones rellenos",
+              "price": 850,
+              "essential_ingredients": ["plátano", "relleno"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Angu tamal en cazuela",
+              "price": 785,
+              "essential_ingredients": ["angu", "tamal"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Vegetales rellenos",
+              "price": 895,
+              "essential_ingredients": ["vegetales", "relleno"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Ración de chicharrones",
+              "price": 300,
+              "essential_ingredients": ["chicharrones"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Aderezo Dona Almira",
+              "price": 385,
+              "essential_ingredients": ["aderezo"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Salsa agridulce",
+              "price": 395,
+              "essential_ingredients": ["salsa agridulce"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Entredos de chorizo",
+              "price": 1225,
+              "essential_ingredients": ["chorizo"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Ceviche de pescado",
+              "price": 685,
+              "essential_ingredients": ["pescado"],
+              "allergy_info": ["pescado"]
+            }
+          ]
+        },
+        {
+          "category": "Platos principales",
+          "items": [
+            {
+              "plate": "Costillas de cerdo",
+              "price": 1890,
+              "essential_ingredients": ["cerdo"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Bistec americano",
+              "price": 2430,
+              "essential_ingredients": ["carne de res"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Nasobuco",
+              "price": 1860,
+              "essential_ingredients": ["carne"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Bistec de hígado",
+              "price": 1290,
+              "essential_ingredients": ["hígado"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Hígado a la italiana",
+              "price": 1380,
+              "essential_ingredients": ["hígado", "salsa italiana"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Lomo rostizado",
+              "price": 2150,
+              "essential_ingredients": ["lomo"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Mignon de pescado grille",
+              "price": 1370,
+              "essential_ingredients": ["pescado"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "plate": "Mignon de pescado a las finas hierbas",
+              "price": 1410,
+              "essential_ingredients": ["pescado", "hierbas"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "plate": "Mignon de pescado Dona Almira",
+              "price": 1650,
+              "essential_ingredients": ["pescado"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "plate": "Mignon de pescado gratinado",
+              "price": 1585,
+              "essential_ingredients": ["pescado"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "plate": "Mignon de pescado con queso y bacon",
+              "price": 1720,
+              "essential_ingredients": ["pescado", "queso", "bacon"],
+              "allergy_info": ["pescado", "lactosa"]
+            },
+            {
+              "plate": "Pollo Dona Almira",
+              "price": 1340,
+              "essential_ingredients": ["pollo"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Pollo barbacoa",
+              "price": 1195,
+              "essential_ingredients": ["pollo", "salsa barbacoa"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Pollo en salsa agridulce",
+              "price": 1205,
+              "essential_ingredients": ["pollo", "salsa agridulce"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Pollo grille",
+              "price": 1185,
+              "essential_ingredients": ["pollo"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Pollo en fricase",
+              "price": 1225,
+              "essential_ingredients": ["pollo"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Pollo a la pasa",
+              "price": 1220,
+              "essential_ingredients": ["pollo", "pasas"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Pollo grille con camarones y queso",
+              "price": 1375,
+              "essential_ingredients": ["pollo", "camarones", "queso"],
+              "allergy_info": ["mariscos", "lactosa"]
+            },
+            {
+              "plate": "Cerdo enrollado asado",
+              "price": 1545,
+              "essential_ingredients": ["cerdo"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Cerdo enrollado en salsa agridulce",
+              "price": 1570,
+              "essential_ingredients": ["cerdo", "salsa agridulce"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Cerdo enrollado glaseado",
+              "price": 1550,
+              "essential_ingredients": ["cerdo"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Fricase de cerdo",
+              "price": 1520,
+              "essential_ingredients": ["cerdo"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Picadillo a la Habanera",
+              "price": 1290,
+              "essential_ingredients": ["carne molida"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Ropa vieja",
+              "price": 1305,
+              "essential_ingredients": ["carne de res"],
+              "allergy_info": []
+            },
+            {
+              "plate": "Vaca frita",
+              "price": 1260,
+              "essential_ingredients": ["carne de res"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Guarniciones",
+          "items": [
+            {
+              "type": "Arroz congris",
+              "price": 120,
+              "essential_ingredients": ["arroz", "frijoles"],
+              "allergy_info": []
+            },
+            {
+              "type": "Ensalada de estación",
+              "price": 285,
+              "essential_ingredients": ["vegetales"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Bebidas",
+          "items": [
+            {
+              "type": "Café Cubano",
+              "price": 150,
+              "essential_ingredients": ["café"],
+              "allergy_info": []
+            },
+            {
+              "type": "Café Cortado",
+              "price": 180,
+              "essential_ingredients": ["café", "leche"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Postres",
+          "items": [
+            {
+              "plate": "Mousse variados",
+              "price": 570,
+              "essential_ingredients": ["mousse", "varios"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

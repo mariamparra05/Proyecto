@@ -1,0 +1,289 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Doping Pizza",
+    "cuisine": [],
+    "description": "Doping Pizza es un restaurante ubicado en Centro Habana.",
+    "contact_info": {
+      "phone": {
+        "number": "51260311",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "24:00"
+      }
+    },
+    "address": "Centro Habana",
+    "municipality": "Centro Habana",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.13389533564469,
+      "longitude": -82.37685653415737
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": "@dopingpizzas"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "ensalada fria natural",
+                  "price": 500,
+                  "essential_ingredients": ["lechuga", "vegetales variados"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "ensalada fria de jamon",
+                  "price": 600,
+                  "essential_ingredients": ["lechuga", "vegetales variados", "jamón"],
+                  "allergy_info": ["cerdo"]
+                },
+                {
+                  "name": "ensalada fria de atun",
+                  "price": 700,
+                  "essential_ingredients": ["lechuga", "vegetales variados", "atún"],
+                  "allergy_info": ["pescado"]
+                }
+              ]
+            },
+            {
+              "category": "Platos Principales",
+              "items": [
+                {
+                  "name": "pizza napolitana",
+                  "price": 1000,
+                  "essential_ingredients": ["masa de pizza", "salsa de tomate", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "pizza de jamon",
+                  "price": 1100,
+                  "essential_ingredients": ["masa de pizza", "salsa de tomate", "queso", "jamón"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "pizza hawaiana",
+                  "price": 1300,
+                  "essential_ingredients": ["masa de pizza", "salsa de tomate", "queso", "jamón", "piña"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "pizza de atun",
+                  "price": 1300,
+                  "essential_ingredients": ["masa de pizza", "salsa de tomate", "queso", "atún"],
+                  "allergy_info": ["gluten", "lactosa", "pescado"]
+                },
+                {
+                  "name": "pizza de chorizo",
+                  "price": 1400,
+                  "essential_ingredients": ["masa de pizza", "salsa de tomate", "queso", "chorizo"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "pizza de bacon",
+                  "price": 1400,
+                  "essential_ingredients": ["masa de pizza", "salsa de tomate", "queso", "bacon"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "pizza doping extreme",
+                  "price": 1500,
+                  "essential_ingredients": ["masa de pizza", "salsa de tomate", "queso", "ingredientes variados"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "spaghetti napoles",
+                  "price": 900,
+                  "essential_ingredients": ["espagueti", "salsa napolitana"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                    "name": "lasaña",
+                    "price": 1300,
+                    "essential_ingredients": ["pasta", "carne", "queso"],
+                    "allergy_info": ["gluten", "lactosa"]
+                }
+            ]
+          },
+          {
+              "category": "Acompañamientos",
+              "items": [
+                {
+                  "name": "queso",
+                  "price": 450,
+                  "essential_ingredients": ["queso"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "jamon",
+                  "price": 350,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": ["cerdo"]
+                },
+                {
+                  "name": "chorizo",
+                  "price": 350,
+                  "essential_ingredients": ["chorizo"],
+                  "allergy_info": ["cerdo"]
+                },
+                {
+                  "name": "atun",
+                  "price": 400,
+                  "essential_ingredients": ["atún"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "cebolla",
+                  "price": 200,
+                  "essential_ingredients": ["cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "pimiento",
+                  "price": 200,
+                  "essential_ingredients": ["pimiento"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "aceituna",
+                  "price": 300,
+                  "essential_ingredients": ["aceitunas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "bacon",
+                  "price": 400,
+                  "essential_ingredients": ["bacon"],
+                  "allergy_info": ["cerdo"]
+                }
+              ]
+            },
+            {
+              "category": "Postres",
+              "items": [
+                {
+                  "name": "paletica de helado clasica",
+                  "price": 150,
+                  "essential_ingredients": ["helado"],
+                  "allergy_info": ["lactosa"]
+                }
+            ]
+          },
+          {
+                "category": "Bebidas",
+                "items": [
+                  {
+                    "name": "agua",
+                    "price": 150,
+                    "essential_ingredients": ["agua"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "refresco",
+                    "price": 250,
+                    "essential_ingredients": ["agua carbonatada", "azúcar", "saborizantes"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "malta",
+                    "price": 300,
+                    "essential_ingredients": ["malta"],
+                    "allergy_info": ["gluten"]
+                  },
+                  {
+                    "name": "malteada",
+                    "price": 650,
+                    "essential_ingredients": ["helado", "leche"],
+                    "allergy_info": ["lactosa"]
+                  },
+                  {
+                    "name": "jugos",
+                    "price": 300,
+                    "essential_ingredients": ["frutas variadas"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "batido de helado (12oz)",
+                    "price": 550,
+                    "essential_ingredients": ["helado", "leche"],
+                    "allergy_info": ["lactosa"]
+                  },
+                  {
+                    "name": "batido de helado (16oz)",
+                    "price": 750,
+                    "essential_ingredients": ["helado", "leche"],
+                    "allergy_info": ["lactosa"]
+                  },
+                  {
+                    "name": "cerveza",
+                    "price": 300,
+                    "essential_ingredients": ["cebada", "agua", "lúpulo"],
+                    "allergy_info": ["gluten", "alcohol"]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+        

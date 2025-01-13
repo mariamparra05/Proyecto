@@ -1,0 +1,274 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Restaurante"]
+      },
+      "name": "Bosque_Bolona",
+      "cuisine": ["Criolla"],
+      "description": null,
+      "contact_info": {
+        "phone": {
+          "number": null,
+          "type": null
+        },
+        "email": null,
+        "website": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/La%2Bterraza%2Bde%2Bobispo,%2Brte%2Bpaladar/data%3D!4m2!3m1!1s0x0:0x3687a350b2b0a7bd%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwir2I7EoZyKAxX2VTABHT6sABAQ_BJ6BAg6EAk&usg=AOvVaw1e7k1JDe1DWd_GnVQSFQT2"
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "tuesday": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "wednesday": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "thursday": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "friday": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "saturday": {
+          "open": "12:00",
+          "close": "23:00"
+        },
+        "sunday": {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      },
+      "address": "4JQW+62 La Habana",
+      "municipality": "Habana Vieja",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Transferencia", "Efectivo"],
+      "delivery_available": true,
+      "service_fee": {
+        "name": "Ninguno",
+        "description": "No se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": ["Baño"],
+        "ambience": [],
+        "usual_customers": [],
+        "planning": [],
+        "children": null,
+        "pets": false,
+        "parking": true,
+        "wheelchair_accessible": true,
+        "infant_stool": false,
+        "smoking_area": false
+      },
+      "dietary_options": [],
+      "meals": [],
+      "highlights": []
+    },
+                "menu": {
+                  "categories": [
+                    {
+                      "category": "Entrantes",
+                      "items": [
+                        {
+                          "name": "Croquetas de Pollo",
+                          "price": 150,
+                          "essential_ingredients": ["pollo", "harina", "leche"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Platos principales",
+                      "items": [
+                        {
+                          "name": "Camarón Enchilado",
+                          "price": 1740,
+                          "essential_ingredients": ["camarón", "salsa"],
+                          "allergy_info": ["mariscos"]
+                        },
+                        {
+                          "name": "Camarón Grillé",
+                          "price": 1900,
+                          "essential_ingredients": ["camarón"],
+                          "allergy_info": ["mariscos"]
+                        },
+                        {
+                          "name": "Brocheta de Camarón",
+                          "price": 1465,
+                          "essential_ingredients": ["camarón"],
+                          "allergy_info": ["mariscos"]
+                        },
+                        {
+                          "name": "Langosta Entera",
+                          "price": 4500,
+                          "essential_ingredients": ["langosta"],
+                          "allergy_info": ["mariscos"]
+                        },
+                        {
+                          "name": "Cerdo Estofado",
+                          "price": 875,
+                          "essential_ingredients": ["cerdo"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Bistec de Cerdo Grillé",
+                          "price": 850,
+                          "essential_ingredients": ["cerdo"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Fajitas de Cerdo",
+                          "price": 990,
+                          "essential_ingredients": ["cerdo"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Res Estofada",
+                          "price": 875,
+                          "essential_ingredients": ["res"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Lonjas de Res",
+                          "price": 945,
+                          "essential_ingredients": ["res"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Espaguetis Margarita",
+                          "price": 350,
+                          "essential_ingredients": ["espaguetis", "salsa margarita"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Atún Agregado",
+                          "price": 100,
+                          "essential_ingredients": ["atún"],
+                          "allergy_info": ["pescado"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Guarniciones",
+                      "items": [
+                        {
+                          "name": "Arroz Moro",
+                          "price": 135,
+                          "essential_ingredients": ["arroz", "frijoles"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Vianda Hervida",
+                          "price": 175,
+                          "essential_ingredients": ["vianda"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Vegetales Frescos",
+                          "price": 600,
+                          "essential_ingredients": ["vegetales"],
+                          "allergy_info": []
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Bebidas",
+                      "items": [
+                        {
+                          "name": "Licor Cubay de Menta",
+                          "price": 200,
+                          "essential_ingredients": ["licor"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Licor Curacao Azul",
+                          "price": 200,
+                          "essential_ingredients": ["licor"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Licor Cubay de Anís",
+                          "price": 200,
+                          "essential_ingredients": ["licor"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Chanceler",
+                          "price": 180,
+                          "essential_ingredients": ["varios"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "HC 3 Años",
+                          "price": 200,
+                          "essential_ingredients": ["ron"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "HC Reserva",
+                          "price": 380,
+                          "essential_ingredients": ["ron"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "HC Especial",
+                          "price": 250,
+                          "essential_ingredients": ["ron"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "HC Ritual",
+                          "price": 250,
+                          "essential_ingredients": ["ron"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Jugo Nacional Lata",
+                          "price": 90,
+                          "essential_ingredients": ["jugo"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Cerveza Importada",
+                          "price": 175,
+                          "essential_ingredients": ["cerveza"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Vaso de Jugo Importado",
+                          "price": 80,
+                          "essential_ingredients": ["jugo"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Malta Importada",
+                          "price": 135,
+                          "essential_ingredients": ["malta"],
+                          "allergy_info": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+              

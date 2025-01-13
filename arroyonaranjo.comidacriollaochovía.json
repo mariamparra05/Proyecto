@@ -1,0 +1,255 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Comida Criolla Ocho Vías",
+    "cuisine": ["Cubana"],
+    "description": null,
+    "contact_info": {
+      "phone": {
+        "number": "+5359107933",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "11:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Avenida 1er Anillo 3km despues de San Agustin, Arroyo Naranjo",
+    "municipality": "Arroyo Naranjo",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": true
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "Croquetas de queso",
+                  "price": 500.00,
+                  "essential_ingredients": ["Queso", "Harina", "Huevo", "Pan rallado"],
+                  "allergy_info": ["Lactosa", "Gluten", "Huevo"]
+                },
+                {
+                  "name": "Tostones rellenos",
+                  "price": 800.00,
+                  "essential_ingredients": ["Plátano", "Carne", "Queso"],
+                  "allergy_info": ["Lactosa"]
+                },
+                {
+                  "name": "Tostones tradicionales",
+                  "price": 250.00,
+                  "essential_ingredients": ["Plátano", "Sal", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Papas fritas",
+                  "price": 800.00,
+                  "essential_ingredients": ["Papas", "Aceite", "Sal"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Plátanos fritos",
+                  "price": 200.00,
+                  "essential_ingredients": ["Plátano maduro", "Aceite"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Plato principal",
+              "items": [
+                {
+                  "name": "Bistec de hígado (460 gramos)",
+                  "price": 1600.00,
+                  "essential_ingredients": ["Hígado de res", "Ajo", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Hígado italiana (460 gramos)",
+                  "price": 1600.00,
+                  "essential_ingredients": ["Hígado de res", "Tomate", "Especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bistec de cerdo (460 gramos)",
+                  "price": 2200.00,
+                  "essential_ingredients": ["Cerdo", "Ajo", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chuleta de cerdo (460 gramos)",
+                  "price": 2200.00,
+                  "essential_ingredients": ["Cerdo", "Ajo", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Fricasé de cerdo (430 gramos)",
+                  "price": 2500.00,
+                  "essential_ingredients": ["Cerdo", "Cebolla", "Pimiento", "Tomate"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Masa frita (430 gramos)",
+                  "price": 2200.00,
+                  "essential_ingredients": ["Cerdo", "Ajo", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Fricasé de carnero (960 gramos)",
+                  "price": 2200.00,
+                  "essential_ingredients": ["Carnero", "Cebolla", "Pimiento", "Tomate"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bistec uruguayo",
+                  "price": 2800.00,
+                  "essential_ingredients": ["Carne de res", "Ajo", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pescado entero a la marinera",
+                  "price": 2200.00,
+                  "essential_ingredients": ["Pescado", "Cebolla", "Tomate"],
+                  "allergy_info": ["Pescado"]
+                },
+                {
+                  "name": "Ropa vieja (460 gramos)",
+                  "price": 2700.00,
+                  "essential_ingredients": ["Carne de res", "Cebolla", "Pimiento", "Tomate"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Camarón enchilado",
+                  "price": 2700.00,
+                  "essential_ingredients": ["Camarón", "Ajo", "Tomate"],
+                  "allergy_info": ["Mariscos"]
+                },
+                {
+                  "name": "Langosta grillé (690 gramos)",
+                  "price": 2700.00,
+                  "essential_ingredients": ["Langosta", "Ajo", "Aceite"],
+                  "allergy_info": ["Mariscos"]
+                },
+                {
+                  "name": "Langosta enchilada (690 gramos)",
+                  "price": 2800.00,
+                  "essential_ingredients": ["Langosta", "Ajo", "Tomate"],
+                  "allergy_info": ["Mariscos"]
+                },
+                {
+                  "name": "Pescado empanado",
+                  "price": 2500.00,
+                  "essential_ingredients": ["Pescado", "Harina", "Huevo", "Pan rallado"],
+                  "allergy_info": ["Pescado", "Gluten", "Huevo"]
+                },
+                {
+                  "name": "Enchilado de cangrejo",
+                  "price": 1800.00,
+                  "essential_ingredients": ["Cangrejo", "Ajo", "Tomate"],
+                  "allergy_info": ["Mariscos"]
+                },
+                {
+                  "name": "Bistec de pollo",
+                  "price": 2000.00,
+                  "essential_ingredients": ["Pollo", "Ajo", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pechuga de pollo",
+                  "price": 2500.00,
+                  "essential_ingredients": ["Pollo", "Ajo", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Costilla frita o fricasé",
+                  "price": 2200.00,
+                  "essential_ingredients": ["Costilla de cerdo", "Ajo", "Aceite"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Guarniciones",
+              "items": [
+                {
+                  "name": "Arroz Moro",
+                  "price": 200.00,
+                  "essential_ingredients": ["Arroz", "Frijoles negros", "Ajo", "Aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Ensalada Mixta",
+                  "price": 300.00,
+                  "essential_ingredients": ["Lechuga", "Tomate", "Pepino"],
+                  "allergy_info": []
+                }
+              ]
+            }
+          ]
+        }
+      }
+      

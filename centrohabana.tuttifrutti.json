@@ -1,0 +1,275 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Tutti Frutti",
+    "cuisine": ["Desayunos"],
+    "description": "Tutti Frutti es un restaurante especializado en desayunos, ubicado en Centro Habana.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": "landline"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tuesday": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wednesday": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thursday": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "friday": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "saturday": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sunday": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "address": "San Lazaro entre San Fransico y Espada",
+    "municipality": "Centro Habana",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {},
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Desayunos",
+              "items": [
+                {
+                  "name": "Desayuno completo",
+                  "price": 1200,
+                  "essential_ingredients": ["ingredientes variados"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Dulce de fruta",
+                  "price": 600,
+                  "essential_ingredients": ["frutas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Sándwiche Cubano",
+                  "price": 1200,
+                  "essential_ingredients": ["pan", "jamón", "queso", "cerdo"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Sándwiches Aguacate",
+                  "price": 1200,
+                  "essential_ingredients": ["pan", "aguacate"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Adiciones",
+              "items": [
+                {
+                  "name": "Huevo",
+                  "price": 250,
+                  "essential_ingredients": ["huevo"],
+                  "allergy_info": ["huevos"]
+                },
+                {
+                  "name": "Atún",
+                  "price": 800,
+                  "essential_ingredients": ["atún"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Jamón",
+                  "price": 300,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pollo",
+                  "price": 500,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Cebolla",
+                  "price": 200,
+                  "essential_ingredients": ["cebolla"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Postres",
+              "items": [
+                {
+                  "name": "Copa de frutas",
+                  "price": 400,
+                  "essential_ingredients": ["frutas variadas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Tutti Frutti",
+                  "price": 500,
+                  "essential_ingredients": ["frutas variadas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Frutas dulces",
+                  "price": 300,
+                  "essential_ingredients": ["frutas", "azúcar"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Bebidas",
+              "items": [
+                {
+                  "name": "Jugo Natural",
+                  "price": 400,
+                  "essential_ingredients": ["frutas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Batidos",
+                  "price": 600,
+                  "essential_ingredients": ["frutas", "leche"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Champola",
+                  "price": 600,
+                  "essential_ingredients": ["frutas", "leche"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Smoothies",
+                  "price": 800,
+                  "essential_ingredients": ["frutas", "yogur"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Leche",
+                  "price": 400,
+                  "essential_ingredients": ["leche"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Café",
+                  "price": 900,
+                  "essential_ingredients": ["café"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Mojito",
+                  "price": 700,
+                  "essential_ingredients": ["ron", "menta", "azúcar", "limón"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Mojito Tutti Frutti",
+                  "price": 800,
+                  "essential_ingredients": ["ron", "menta", "azúcar", "limón", "frutas"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Daiquirí",
+                  "price": 700,
+                  "essential_ingredients": ["ron", "limón", "hielo", "azúcar"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Daiquirí Tutti Frutti",
+                  "price": 800,
+                  "essential_ingredients": ["ron", "limón", "hielo", "azúcar", "frutas"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Santiago",
+                  "price": 900,
+                  "essential_ingredients": ["ron", "jugo de frutas", "granadina"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Cuba Libre",
+                  "price": 700,
+                  "essential_ingredients": ["ron", "refresco de cola", "limón"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Piña Colada",
+                  "price": 900,
+                  "essential_ingredients": ["ron", "piña", "coco", "hielo"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Canchánchara",
+                  "price": 800,
+                  "essential_ingredients": ["ron", "miel", "limón"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Caribbean",
+                  "price": 900,
+                  "essential_ingredients": ["ron", "jugo de piña", "coco"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Emma",
+                  "price": 900,
+                  "essential_ingredients": ["ron", "jugo de frutas", "granadina"],
+                  "allergy_info": ["alcohol"]
+            }
+          ]
+        }
+    ]
+  }
+}
+      

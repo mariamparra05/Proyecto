@@ -1,0 +1,285 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Bar - Restaurante"]
+    },
+    "name": "Pedro's Bar",
+    "cuisine": [],
+    "description": "Pedro's Bar es un bar-restaurante ubicado en Centro Habana.",
+    "contact_info": {
+      "phone": {
+        "number": "5510666",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "14:00",
+        "close": "02:00"
+      },
+      "tuesday": {
+        "open": "14:00",
+        "close": "02:00"
+      },
+      "wednesday": {
+        "open": "14:00",
+        "close": "02:00"
+      },
+      "thursday": {
+        "open": "14:00",
+        "close": "02:00"
+      },
+      "friday": {
+        "open": "14:00",
+        "close": "02:00"
+      },
+      "saturday": {
+        "open": "14:00",
+        "close": "02:00"
+      },
+      "sunday": {
+        "open": "14:00",
+        "close": "02:00"
+      }
+    },
+    "address": "Centro Habana",
+    "municipality": "Centro Habana",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.136930631399565,
+      "longitude": -82.36181409182808
+    },
+    "social_media": {
+      "instagram": "@pedrosbar_boulevard",
+      "facebook": "Pedro's Bar"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transfermovil"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "papas fritas",
+                  "price": 1150,
+                  "essential_ingredients": ["papas", "aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "frituras de malanga",
+                  "price": 800,
+                  "essential_ingredients": ["malanga", "aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "croquetas",
+                  "price": 1050,
+                  "essential_ingredients": ["harina", "leche", "jamón"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "dados de queso",
+                  "price": 1350,
+                  "essential_ingredients": ["queso", "harina"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "fajitas de pollo",
+                  "price": 1450,
+                  "essential_ingredients": ["pollo", "pimientos", "cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "tabla mixta",
+                  "price": 4600,
+                  "essential_ingredients": ["varios ingredientes"],
+                  "allergy_info": ["variable"]
+                }
+              ]
+            },
+            {
+              "category": "Platos Principales",
+              "items": [
+                {
+                  "name": "pizza de queso",
+                  "price": 1200,
+                  "essential_ingredients": ["masa de pizza", "queso", "salsa de tomate"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "pizza hawaiana",
+                  "price": 1500,
+                  "essential_ingredients": ["masa de pizza", "queso", "salsa de tomate", "piña", "jamón"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "pizza de vegetales",
+                  "price": 1500,
+                  "essential_ingredients": ["masa de pizza", "queso", "salsa de tomate", "vegetales"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "sandwich de jamon y queso",
+                  "price": 1200,
+                  "essential_ingredients": ["pan", "jamón", "queso"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "sandwich de pechuga",
+                  "price": 1550,
+                  "essential_ingredients": ["pan", "pechuga de pollo", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "sandwich de atun",
+                  "price": 1500,
+                  "essential_ingredients": ["pan", "atún", "mayonesa"],
+                  "allergy_info": ["gluten", "pescado", "huevo"]
+                },
+                {
+                  "name": "sandwich de lechon",
+                  "price": 1550,
+                  "essential_ingredients": ["pan", "lechón"],
+                  "allergy_info": ["gluten", "cerdo"]
+                }
+              ]
+            },
+            {
+              "category": "Bebidas",
+              "items": [
+                {
+                  "name": "agua natural",
+                  "price": 250,
+                  "essential_ingredients": ["agua"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "refresco",
+                  "price": 500,
+                  "essential_ingredients": ["agua carbonatada", "azúcar"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "energizante",
+                  "price": 500,
+                  "essential_ingredients": ["agua carbonatada", "azúcar", "cafeína"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "canchanchara",
+                  "price": 1150,
+                  "essential_ingredients": ["ron", "miel", "limón"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "mojito",
+                  "price": 1100,
+                  "essential_ingredients": ["ron", "menta", "limón", "azúcar"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "caipis",
+                  "price": 1100,
+                  "essential_ingredients": ["cachaça", "limón", "azúcar"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "daiquiri",
+                  "price": 1100,
+                  "essential_ingredients": ["ron", "limón", "azúcar"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "gin tonic",
+                  "price": 1450,
+                  "essential_ingredients": ["ginebra", "tónica"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "margarita",
+                  "price": 1050,
+                  "essential_ingredients": ["tequila", "limón", "triple sec"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "cubata",
+                  "price": 1050,
+                  "essential_ingredients": ["ron", "refresco de cola"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "sangria",
+                  "price": 1350,
+                  "essential_ingredients": ["vino tinto", "frutas"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "piña colada",
+                  "price": 1100,
+                  "essential_ingredients": ["ron", "piña", "coco"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "jarra de cerveza",
+                  "price": 350,
+                  "essential_ingredients": ["cerveza"],
+                  "allergy_info": ["gluten", "alcohol"]
+                },
+                {
+                  "name": "cerveza",
+                  "price": 600,
+                  "essential_ingredients": ["cerveza"],
+                  "allergy_info": ["gluten", "alcohol"]
+                },
+                {
+                  "name": "vasos de cerveza",
+                  "price": 200,
+                  "essential_ingredients": ["cerveza"],
+                  "allergy_info": ["gluten", "alcohol"]
+                },
+                {
+                  "name": "servicio de michelada",
+                  "price": 300,
+                  "essential_ingredients": ["cerveza", "limón", "sal"],
+                  "allergy_info": ["gluten", "alcohol"]
+                },
+                {
+                  "name": "servicio de chelada",
+                  "price": 400,
+                  "essential_ingredients": ["cerveza", "limón", "sal"],
+                  "allergy_info": ["gluten", "alcohol"]
+                }
+              ]
+            }
+          ]
+        }
+      }
+      

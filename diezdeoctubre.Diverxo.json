@@ -1,0 +1,184 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Diverxo",
+    "cuisine": ["Cubana"],
+    "description": null,
+    "contact_info": {
+      "phone": {
+        "number": "58594576",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "24:00"
+      }
+    },
+    "address": "Calzada de 10 de octubre #904 entre Luz Oeste y Lacret, Diez de Octubre",
+    "municipality": "10 de Octubre",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": "https://www.facebook.com/p/Diverxo-Restaurant-Bar-100075778576229/",
+      "instagram": "@diverxo-restaurant-bar"
+    },
+    "accepted_payment_methods": ["Efectivo (CUP y USD)", "Transferencia (CUP y USD)", "MLC"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": ["Baño"],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+  "menu": {
+    "categories": [
+      {
+        "category": "Platos principales",
+        "items": [
+          {
+            "name": "Lechón asado",
+            "price": 1650,
+            "essential_ingredients": ["cerdo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Espaguetis napolitana",
+            "price": 850,
+            "essential_ingredients": ["pasta", "tomate", "queso"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Espaguetis jamón",
+            "price": 1100,
+            "essential_ingredients": ["pasta", "jamón", "queso"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Espaguetis chorizo",
+            "price": 1100,
+            "essential_ingredients": ["pasta", "chorizo", "queso"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Espaguetis alfredo de jamón",
+            "price": 1150,
+            "essential_ingredients": ["pasta", "jamón", "queso alfredo"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Pizza napolitana",
+            "price": 850,
+            "essential_ingredients": ["masa", "tomate", "queso"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Diveryo",
+            "price": 1950,
+            "essential_ingredients": ["carne"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Guarniciones",
+        "items": [
+          {
+            "name": "Jamón",
+            "price": 350,
+            "essential_ingredients": ["jamón"],
+            "allergy_info": []
+          },
+          {
+            "name": "Atún",
+            "price": 500,
+            "essential_ingredients": ["atún"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Chorizo",
+            "price": 350,
+            "essential_ingredients": ["chorizo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Aceituna",
+            "price": 500,
+            "essential_ingredients": ["aceitunas"],
+            "allergy_info": []
+          },
+          {
+            "name": "Queso",
+            "price": 350,
+            "essential_ingredients": ["queso"],
+            "allergy_info": ["lactosa"]
+          }
+        ]
+      },
+      {
+        "category": "Bebidas",
+        "items": [
+          {
+            "name": "Termo de cerveza",
+            "price": 2160,
+            "essential_ingredients": ["cerveza"],
+            "allergy_info": ["gluten"]
+          }
+        ]
+      }
+    ]
+  }
+}
+
+ 

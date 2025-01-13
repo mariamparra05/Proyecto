@@ -1,0 +1,326 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Rico Rico",
+    "cuisine": ["Comida Italiana"],
+    "description": "Rico Rico es un acogedor restaurante en el corazón de Cerro, La Habana, especializado en deliciosa comida italiana. Con un ambiente agradable e informal, es el lugar perfecto para disfrutar de una comida en familia o con amigos. Ofrecemos una amplia variedad de platos italianos, incluyendo pastas, pizzas, y calzones, así como ensaladas y postres exquisitos. Nuestro personal atento y nuestro servicio de entrega a domicilio garantizan una experiencia culinaria memorable.",
+    "contact_info": {
+      "phone": {
+        "number": "78701632",
+        "type": "landline"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "09:00",
+        "close": "23:00"
+      }
+    },
+    "address": null,
+    "municipality": "Cerro",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.12627363995597,
+      "longitude": -82.38090833528463
+    },
+    "social_media": {
+      "facebook": "RicoRicopizzeria",
+      "instagram": "@ricoricopizzeria"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Familias"],
+      "planning": [],
+      "children": true,
+      "pets": null,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": ["Almuerzo", "Cena"],
+    "advantages": ["Accesible", "Entrega a domicilio"],
+    "highlights": ["Ambiente agradable", "Servicio atento"]
+  },
+    "menu": {
+      "categories": [
+        {
+          "category": "Entradas",
+          "items": [
+            {
+              "name": "Pizzeta de Napole",
+              "price": 230,
+              "essential_ingredients": ["masa", "queso", "tomate"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Tequeños",
+              "price": 350,
+              "essential_ingredients": ["harina", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Pizzeta de Chorizo",
+              "price": 325,
+              "essential_ingredients": ["masa", "queso", "chorizo"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Empanadas Gallegas",
+              "price": 380,
+              "essential_ingredients": ["harina", "pollo", "aceite"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Ensalada fria de jamon y queso (pequeña)",
+              "price": 495,
+              "essential_ingredients": ["jamón", "queso", "lechuga", "tomate"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Ensalada fria de atun (pequeña)",
+              "price": 645,
+              "essential_ingredients": ["atún", "lechuga", "tomate"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "Bastones de Queso",
+              "price": 780,
+              "essential_ingredients": ["queso", "pan rallado"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Ensalada fria de atun (mediana)",
+              "price": 950,
+              "essential_ingredients": ["atún", "lechuga", "tomate"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "Ensalada fria de atun (grande)",
+              "price": 1745,
+              "essential_ingredients": ["atún", "lechuga", "tomate"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "Ensalada fria de atun (grande)",
+              "price": 2205,
+              "essential_ingredients": ["atún", "lechuga", "tomate"],
+              "allergy_info": ["pescado"]
+            }
+          ]
+        },
+        {
+          "category": "Platos Principales",
+          "items": [
+            {
+              "name": "Pizza Napoles",
+              "price": 920,
+              "essential_ingredients": ["masa", "queso", "tomate"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Pasta Napoles",
+              "price": 920,
+              "essential_ingredients": ["pasta", "salsa napolitana"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Pasta Carbonara",
+              "price": 1000,
+              "essential_ingredients": ["pasta", "salsa carbonara", "tocino"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Calzone Napoles",
+              "price": 1090,
+              "essential_ingredients": ["masa", "queso", "salsa napolitana"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Megacalzone",
+              "price": 1440,
+              "essential_ingredients": ["masa", "queso", "varios ingredientes"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Lasaña de Jamon",
+              "price": 1490,
+              "essential_ingredients": ["pasta", "jamón", "queso", "salsa"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Lasaña Boloñesa",
+              "price": 1550,
+              "essential_ingredients": ["pasta", "carne molida", "queso", "salsa"],
+              "allergy_info": ["gluten", "lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Agregos",
+          "items": [
+            {
+              "name": "Aceitunas",
+              "price": 220,
+              "essential_ingredients": ["aceitunas"],
+              "allergy_info": []
+            },
+            {
+              "name": "Piña",
+              "price": 220,
+              "essential_ingredients": ["piña"],
+              "allergy_info": []
+            },
+            {
+              "name": "Queso azul",
+              "price": 300,
+              "essential_ingredients": ["queso azul"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Jamon",
+              "price": 320,
+              "essential_ingredients": ["jamón"],
+              "allergy_info": []
+            },
+            {
+              "name": "Parmesano",
+              "price": 350,
+              "essential_ingredients": ["queso parmesano"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Gouda",
+              "price": 360,
+              "essential_ingredients": ["queso gouda"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Bacon",
+              "price": 360,
+              "essential_ingredients": ["bacon"],
+              "allergy_info": []
+            },
+            {
+              "name": "Lomo ahumado",
+              "price": 380,
+              "essential_ingredients": ["lomo ahumado"],
+              "allergy_info": []
+            },
+            {
+              "name": "Jamon serrano",
+              "price": 480,
+              "essential_ingredients": ["jamón serrano"],
+              "allergy_info": []
+            },
+            {
+              "name": "Atun",
+              "price": 550,
+              "essential_ingredients": ["atún"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "Chorizo",
+              "price": 2390,
+              "essential_ingredients": ["chorizo"],
+              "allergy_info": []
+            }
+          ]
+        },
+      {
+        "category": "Postres",
+        "items": [
+          {
+            "name": "Pastelito de ojaldre de guayaba o coco",
+            "price": 260,
+            "essential_ingredients": ["ojaldre", "guayaba", "coco"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Pastelito de ojaldre de jamon y queso",
+            "price": 280,
+            "essential_ingredients": ["ojaldre", "jamón", "queso"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Flan",
+            "price": 590,
+            "essential_ingredients": ["huevo", "leche", "azúcar"],
+            "allergy_info": ["lactosa", "huevo"]
+          }
+        ]
+      },
+      {
+        "category": "Bebidas",
+        "items": [
+          {
+            "name": "Frappi Rico",
+            "price": 180,
+            "essential_ingredients": ["fruta", "hielo", "azúcar"],
+            "allergy_info": []
+          },
+          {
+            "name": "Bati Frutas",
+            "price": 675,
+            "essential_ingredients": ["frutas variadas", "leche"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Super Bati Bati",
+            "price": 785,
+            "essential_ingredients": ["frutas variadas", "leche", "hielo"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Mega Bati Bati",
+            "price": 990,
+            "essential_ingredients": ["frutas variadas", "leche", "hielo"],
+            "allergy_info": ["lactosa"]
+          }
+        ]
+      }
+    ]
+  }
+}
+
+         

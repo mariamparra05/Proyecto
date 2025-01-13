@@ -1,0 +1,349 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Fiesta Criolla",
+    "cuisine": ["Cubana"],
+    "description": null,
+    "contact_info": {
+      "phone": 
+        {
+          "number": "52413555",
+          "type": "mobile"
+        },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "24:00"
+      }
+    },
+    "address": "Calle 100 #1003 (despues del puente de calabazar), Arroyo Naranjo",
+    "municipality": "Arroyo Naranjo",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": true
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+  "menu": {
+    "categories": [
+      {
+        "category": "Entrantes",
+        "items": [
+          {
+            "name": "Toston criollo",
+            "price": 500.00,
+            "essential_ingredients": ["Plátano", "Sal", "Aceite"],
+            "allergy_info": []
+          },
+          {
+            "name": "Toston relleno con Jamon y Queso",
+            "price": 600.00,
+            "essential_ingredients": ["Plátano", "Jamón", "Queso"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Toston relleno con Atun",
+            "price": 700.00,
+            "essential_ingredients": ["Plátano", "Atún"],
+            "allergy_info": ["Pescado"]
+          },
+          {
+            "name": "Eperlan",
+            "price": 1300.00,
+            "essential_ingredients": ["Pescado", "Harina", "Huevo"],
+            "allergy_info": ["Pescado", "Gluten", "Huevo"]
+          },
+          {
+            "name": "Fajitas de pollo",
+            "price": 1300.00,
+            "essential_ingredients": ["Pollo", "Pimientos", "Cebolla"],
+            "allergy_info": []
+          },
+          {
+            "name": "Caldo de mariscos",
+            "price": 1000.00,
+            "essential_ingredients": ["Mariscos", "Cebolla", "Pimientos"],
+            "allergy_info": ["Mariscos"]
+          },
+          {
+            "name": "Camaron rebosado",
+            "price": 2000.00,
+            "essential_ingredients": ["Camarón", "Harina", "Huevo"],
+            "allergy_info": ["Mariscos", "Gluten", "Huevo"]
+          },
+          {
+            "name": "Tamal en hojas",
+            "price": 90.00,
+            "essential_ingredients": ["Maíz", "Carne", "Especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Fritura de malanga",
+            "price": 500.00,
+            "essential_ingredients": ["Malanga", "Harina", "Huevo"],
+            "allergy_info": ["Gluten", "Huevo"]
+          },
+          {
+            "name": "Platano frito",
+            "price": 350.00,
+            "essential_ingredients": ["Plátano maduro", "Aceite"],
+            "allergy_info": []
+          },
+          {
+            "name": "Alitas de pollo",
+            "price": 850.00,
+            "essential_ingredients": ["Pollo", "Aceite", "Especias"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Plato principal",
+        "items": [
+          {
+            "name": "Pollo asado",
+            "price": 1150.00,
+            "essential_ingredients": ["Pollo", "Aceite", "Especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Pechuga grillé",
+            "price": 1450.00,
+            "essential_ingredients": ["Pollo", "Aceite", "Especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Pechuga gratinada jamón y queso",
+            "price": 1600.00,
+            "essential_ingredients": ["Pollo", "Jamón", "Queso"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Chuleta",
+            "price": 1350.00,
+            "essential_ingredients": ["Cerdo", "Ajo", "Aceite"],
+            "allergy_info": []
+          },
+          {
+            "name": "Pechuga salteada con vegetales",
+            "price": 1550.00,
+            "essential_ingredients": ["Pollo", "Pimientos", "Cebolla"],
+            "allergy_info": []
+          },
+          {
+            "name": "Lomo ahumado",
+            "price": 1350.00,
+            "essential_ingredients": ["Lomo de cerdo", "Ajo", "Aceite"],
+            "allergy_info": []
+          },
+          {
+            "name": "Lomo deshuesado ahumado",
+            "price": 1550.00,
+            "essential_ingredients": ["Lomo de cerdo", "Ajo", "Aceite"],
+            "allergy_info": []
+          },
+          {
+            "name": "Costillas fritas",
+            "price": 1400.00,
+            "essential_ingredients": ["Costillas de cerdo", "Ajo", "Aceite"],
+            "allergy_info": []
+          },
+          {
+            "name": "Masa frita",
+            "price": 1550.00,
+            "essential_ingredients": ["Cerdo", "Ajo", "Aceite"],
+            "allergy_info": []
+          },
+          {
+            "name": "Bistec grillé",
+            "price": 1450.00,
+            "essential_ingredients": ["Carne de res", "Ajo", "Aceite"],
+            "allergy_info": []
+          },
+          {
+            "name": "Bistec gratinado de jamón y queso",
+            "price": 1600.00,
+            "essential_ingredients": ["Carne de res", "Jamón", "Queso"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Ropa vieja",
+            "price": 1500.00,
+            "essential_ingredients": ["Carne de res", "Cebolla", "Pimiento", "Tomate"],
+            "allergy_info": []
+          },
+          {
+            "name": "Suprema carnero",
+            "price": 1800.00,
+            "essential_ingredients": ["Carne de carnero", "Ajo", "Aceite"],
+            "allergy_info": []
+          },
+          {
+            "name": "Fricasé de carnero",
+            "price": 1500.00,
+            "essential_ingredients": ["Carne de carnero", "Cebolla", "Pimiento", "Tomate"],
+            "allergy_info": []
+          },
+          {
+            "name": "Camarón grillé",
+            "price": 1900.00,
+            "essential_ingredients": ["Camarón", "Ajo", "Aceite"],
+            "allergy_info": ["Mariscos"]
+          },
+          {
+            "name": "Langosta grillé",
+            "price": 1900.00,
+            "essential_ingredients": ["Langosta", "Ajo", "Aceite"],
+            "allergy_info": ["Mariscos"]
+          },
+          {
+            "name": "Pulpo grillé",
+            "price": 2000.00,
+            "essential_ingredients": ["Pulpo", "Ajo", "Aceite"],
+            "allergy_info": ["Mariscos"]
+          },
+          {
+            "name": "Pescado grillé",
+            "price": 1300.00,
+            "essential_ingredients": ["Pescado", "Ajo", "Aceite"],
+            "allergy_info": ["Pescado"]
+          },
+          {
+            "name": "Rueda pescado grillé",
+            "price": 1300.00,
+            "essential_ingredients": ["Pescado", "Ajo", "Aceite"],
+            "allergy_info": ["Pescado"]
+          },
+          {
+            "name": "Pescado grillé gratinado con jamón y queso",
+            "price": 1450.00,
+            "essential_ingredients": ["Pescado", "Jamón", "Queso"],
+            "allergy_info": ["Pescado", "Lactosa"]
+          },
+          {
+            "name": "Don Pedro",
+            "price": 2300.00,
+            "essential_ingredients": ["Carne de res", "Jamón", "Queso", "Cebolla"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Masa de cangrejo",
+            "price": 1050.00,
+            "essential_ingredients": ["Cangrejo", "Ajo", "Aceite"],
+            "allergy_info": ["Mariscos"]
+          },
+          {
+            "name": "Caldero de mariscos",
+            "price": 3500.00,
+            "essential_ingredients": ["Mariscos", "Cebolla", "Pimiento", "Tomate"],
+            "allergy_info": ["Mariscos"]
+          },
+          {
+            "name": "Mar y tierra",
+            "price": 3950.00,
+            "essential_ingredients": ["Carne de res", "Camarón", "Langosta"],
+            "allergy_info": ["Mariscos"]
+          },
+          {
+            "name": "Paella",
+            "price": 2300.00,
+            "essential_ingredients": ["Arroz", "Mariscos", "Pollo", "Conejo", "Guisantes", "Pimiento"],
+            "allergy_info": ["Mariscos"]
+
+            
+                      },
+                      {
+                        "name": "Mariscada",
+                        "price": 2500.00,
+                        "essential_ingredients": ["Mariscos", "Cebolla", "Pimiento", "Tomate"],
+                        "allergy_info": ["Mariscos"]
+                      },
+                      {
+                        "name": "Spaguetis napolitanos",
+                        "price": 1000.00,
+                        "essential_ingredients": ["Espaguetis", "Tomate", "Queso"],
+                        "allergy_info": ["Gluten", "Lactosa"]
+                      },
+                      {
+                        "name": "Spaguetis con jamón y queso",
+                        "price": 1250.00,
+                        "essential_ingredients": ["Espaguetis", "Jamón", "Queso"],
+                        "allergy_info": ["Gluten", "Lactosa"]
+                      }
+                    ]
+                  },
+                  {
+                    "category": "Postres",
+                    "items": [
+                      {
+                        "name": "Dulce tres leches",
+                        "price": 350.00,
+                        "essential_ingredients": ["Leche", "Huevos", "Azúcar"],
+                        "allergy_info": ["Lactosa", "Huevos"]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+            
+    

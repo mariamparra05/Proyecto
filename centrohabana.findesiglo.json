@@ -1,0 +1,448 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Bar - Restaurante"]
+    },
+    "name": "Fin de Siglo",
+    "cuisine": [],
+    "description": "Fin de Siglo es un bar - restaurante ubicado en Centro Habana.",
+    "contact_info": {
+      "phone": {
+        "number": "59529982",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "tuesday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "wednesday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "thursday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "friday": {
+        "open": "10:00",
+        "close": "03:00"
+      },
+      "saturday": {
+        "open": "10:00",
+        "close": "03:00"
+      },
+      "sunday": {
+        "open": "10:00",
+        "close": "03:00"
+      }
+    },
+    "address": "Centro Habana",
+    "municipality": "Centro Habana",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.136227081972006,
+      "longitude": -82.36206873376179
+    },
+    "social_media": {
+      "facebook": "Fin de Siglo",
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false,
+      "vip_zone": false,
+      "interactive_activities": true
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "croquetas de la casa",
+                  "price": 700,
+                  "essential_ingredients": ["harina", "leche", "jamón"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "pollo salteado con vegetales",
+                  "price": 800,
+                  "essential_ingredients": ["pollo", "vegetales variados"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "tabla de jamon y queso",
+                  "price": 1200,
+                  "essential_ingredients": ["jamón", "queso"],
+                  "allergy_info": ["lactosa", "cerdo"]
+                },
+                {
+                  "name": "picadera Fin de siglo",
+                  "price": 2500,
+                  "essential_ingredients": ["ingredientes variados"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Platos Principales",
+              "items": [
+                {
+                  "name": "pizza de queso blanco",
+                  "price": 800,
+                  "essential_ingredients": ["masa de pizza", "queso blanco", "salsa de tomate"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "pizza de queso blanco con jamon",
+                  "price": 950,
+                  "essential_ingredients": ["masa de pizza", "queso blanco", "jamón", "salsa de tomate"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "pizza de queso blanco con chorizo",
+                  "price": 950,
+                  "essential_ingredients": ["masa de pizza", "queso blanco", "chorizo", "salsa de tomate"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "pizza de queso blanco hawaiana",
+                  "price": 1500,
+                  "essential_ingredients": ["masa de pizza", "queso blanco", "jamón", "piña", "salsa de tomate"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "pizza de queso gouda",
+                  "price": 1200,
+                  "essential_ingredients": ["masa de pizza", "queso gouda", "salsa de tomate"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "pizza de queso gouda con jamon",
+                  "price": 1400,
+                  "essential_ingredients": ["masa de pizza", "queso gouda", "jamón", "salsa de tomate"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "pizza de queso gouda con chorizo",
+                  "price": 1400,
+                  "essential_ingredients": ["masa de pizza", "queso gouda", "chorizo", "salsa de tomate"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "pizza de queso gouda hawaiana",
+                  "price": 1800,
+                  "essential_ingredients": ["masa de pizza", "queso gouda", "jamón", "piña", "salsa de tomate"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "spaghetti de queso blanco",
+                  "price": 900,
+                  "essential_ingredients": ["espagueti", "queso blanco"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "spaghetti de queso blanco con jamon",
+                  "price": 1000,
+                  "essential_ingredients": ["espagueti", "queso blanco", "jamón"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "spaghetti de queso blanco con chorizo",
+                  "price": 1000,
+                  "essential_ingredients": ["espagueti", "queso blanco", "chorizo"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "spaghetti de queso blanco con pollo",
+                  "price": 850,
+                  "essential_ingredients": ["espagueti", "queso blanco", "pollo"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "spaghetti de queso gouda",
+                  "price": 1200,
+                  "essential_ingredients": ["espagueti", "queso gouda"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "spaghetti de queso gouda con jamon",
+                  "price": 1400,
+                  "essential_ingredients": ["espagueti", "queso gouda", "jamón"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                },
+                {
+                  "name": "spaghetti de queso gouda con chorizo",
+                  "price": 1400,
+                  "essential_ingredients": ["espagueti", "queso gouda", "chorizo"],
+                  "allergy_info": ["gluten", "lactosa", "cerdo"]
+                }
+              ]
+            },
+            {
+              "category": "Acompañamientos",
+              "items": [
+                {
+                  "name": "queso blanco",
+                  "price": 500,
+                  "essential_ingredients": ["queso blanco"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "queso gouda",
+                  "price": 700,
+                  "essential_ingredients": ["queso gouda"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "jamon",
+                  "price": 450,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": ["cerdo"]
+                },
+                {
+                  "name": "pollo",
+                  "price": 350,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "piña",
+                  "price": 550,
+                  "essential_ingredients": ["piña"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "chorizo",
+                  "price": 450,
+                  "essential_ingredients": ["chorizo"],
+                  "allergy_info": ["cerdo"]
+                }
+            ]
+          },
+          {
+            "category": "Bebidas",
+            "items": [
+              {
+                "name": "refresco",
+                "price": 300,
+                "essential_ingredients": ["agua carbonatada", "azúcar", "saborizantes"],
+                "allergy_info": []
+              },
+              {
+                "name": "cerveza dispensada",
+                "price": 400,
+                "essential_ingredients": ["cerveza"],
+                "allergy_info": ["gluten", "alcohol"]
+              },
+              {
+                "name": "caipirinha",
+                "price": 550,
+                "essential_ingredients": ["cachaça", "limón", "azúcar"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "caipiríssima",
+                "price": 550,
+                "essential_ingredients": ["ron", "limón", "azúcar"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "caipiroska",
+                "price": 660,
+                "essential_ingredients": ["vodka", "limón", "azúcar"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "daiquirí",
+                "price": 550,
+                "essential_ingredients": ["ron", "limón", "azúcar"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "daiquirí Rebelde",
+                "price": 550,
+                "essential_ingredients": ["ron", "limón", "fresas", "azúcar"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "margarita",
+                "price": 990,
+                "essential_ingredients": ["tequila", "limón", "triple sec"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "cubata",
+                "price": 550,
+                "essential_ingredients": ["ron", "refresco de cola"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "cuba Libre",
+                "price": 550,
+                "essential_ingredients": ["ron", "refresco de cola", "limón"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "3 Años",
+                "price": 385,
+                "essential_ingredients": ["ron"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "carta Blanca",
+                "price": 330,
+                "essential_ingredients": ["ron"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "especial",
+                "price": 440,
+                "essential_ingredients": ["ron"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "pacto Navío",
+                "price": 20000,
+                "essential_ingredients": ["ron"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "cuban spiced",
+                "price": 550,
+                "essential_ingredients": ["ron"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "ron santiago",
+                "price": 880,
+                "essential_ingredients": ["ron"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "jameson",
+                "price": 1100,
+                "essential_ingredients": ["whisky"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "clan sampbell",
+                "price": 990,
+                "essential_ingredients": ["whisky"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "vat 69",
+                "price": 990,
+                "essential_ingredients": ["whisky"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "ballantines",
+                "price": 13500,
+                "essential_ingredients": ["whisky"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "old partner",
+                "price": 35000,
+                "essential_ingredients": ["whisky"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "red label",
+                "price": 1100,
+                "essential_ingredients": ["whisky"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "beeffatter",
+                "price": 440,
+                "essential_ingredients": ["ginebra"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "jagger",
+                "price": 990,
+                "essential_ingredients": ["licor de hierbas"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "tequila silver",
+                "price": 880,
+                "essential_ingredients": ["tequila"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "tequila reposado",
+                "price": 990,
+                "essential_ingredients": ["tequila"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "tequila chocolate",
+                "price": 1100,
+                "essential_ingredients": ["tequila", "chocolate"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "rua vieja",
+                "price": 880,
+                "essential_ingredients": ["licor de café"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "amaretto",
+                "price": 880,
+                "essential_ingredients": ["licor de almendra"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "chelada",
+                "price": 770,
+                "essential_ingredients": ["cerveza", "limón"],
+                "allergy_info": ["gluten", "alcohol"]
+              },
+              {
+                "name": "michelada",
+                "price": 880,
+                "essential_ingredients": ["cerveza", "limón", "salsa inglesa"],
+                "allergy_info": ["gluten", "alcohol"]
+              }
+            ]
+          }
+        ]
+      }
+    }
+    

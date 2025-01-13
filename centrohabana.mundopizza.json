@@ -1,0 +1,248 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Mundo Pizza",
+    "cuisine": [],
+    "description": "Mundo Pizza es un restaurante ubicado en Centro Habana.",
+    "contact_info": {
+      "phone": {
+        "number": "53372715",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "22:00"
+      }
+    },
+    "address": "Centro Habana",
+    "municipality": "Centro Habana",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.135543401312233,
+      "longitude": -82.3644565648407
+    },
+    "social_media": {
+      "instagram": "Mundo Pizza",
+      "facebook": "Mundo Pizza"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transfermovil"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+    "menu": {
+      "categories": [
+        {
+          "category": "Entrantes",
+          "items": [
+            {
+              "name": "croquetas caseras",
+              "price": 590,
+              "essential_ingredients": ["jamón", "harina", "leche"],
+              "allergy_info": ["gluten", "lactosa", "cerdo"]
+            },
+            {
+              "name": "tostones criollos",
+              "price": 540,
+              "essential_ingredients": ["plátano verde", "aceite"],
+              "allergy_info": []
+            },
+            {
+              "name": "focaccia",
+              "price": 560,
+              "essential_ingredients": ["harina", "aceite de oliva", "hierbas aromáticas"],
+              "allergy_info": ["gluten"]
+            }
+          ]
+        },
+        {
+          "category": "Platos Principales",
+          "items": [
+            {
+              "name": "pizza metro criolla",
+              "price": 2800,
+              "essential_ingredients": ["salsa de tomate", "queso criollo", "albahaca"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "pizza metro casa",
+              "price": 3700,
+              "essential_ingredients": ["salsa de tomate", "queso", "jamón", "salsa pesto", "vegetales grillados"],
+              "allergy_info": ["lactosa", "cerdo", "frutos secos"]
+            },
+            {
+              "name": "pizza metro gouda",
+              "price": 5100,
+              "essential_ingredients": ["salsa de tomate", "queso Gouda", "albahaca"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "pizza metro elección",
+              "price": 5150,
+              "essential_ingredients": ["salsa de tomate", "queso", "4 agregos a elección del cliente"],
+              "allergy_info": ["variable"]
+            },
+            {
+              "name": "pizza 1/2 metro mix",
+              "price": 2500,
+              "essential_ingredients": ["salsa de tomate", "queso", "4 ingredientes de la casa"],
+              "allergy_info": ["variable"]
+            },
+            {
+              "name": "pizza 1/2 metro elección",
+              "price": 2700,
+              "essential_ingredients": ["salsa de tomate", "queso", "2 ingredientes a elección"],
+              "allergy_info": ["variable"]
+            },
+            {
+              "name": "pizza rossa",
+              "price": 590,
+              "essential_ingredients": ["salsa de tomate", "ajo", "aceite"],
+              "allergy_info": []
+            },
+            {
+              "name": "spaghetti",
+              "price": 950,
+              "essential_ingredients": ["espaguetis", "salsa de tomate", "queso Gouda"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "lasaña",
+              "price": 1250,
+              "essential_ingredients": ["pasta", "salsa de tomate", "bechamel", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa", "cerdo"]
+            },
+            {
+              "name": "spaghetti al pesto",
+              "price": 1050,
+              "essential_ingredients": ["espaguetis", "salsa pesto", "queso Gouda"],
+              "allergy_info": ["gluten", "lactosa", "frutos secos"]
+            },
+            {
+              "name": "spaghetti del dia",
+              "price": 1600,
+              "essential_ingredients": ["ingredientes del día"],
+              "allergy_info": ["variable"]
+            }
+          ]
+        },
+        {
+          "category": "Postres",
+          "items": [
+            {
+              "name": "postre del dia",
+              "price": 650,
+              "essential_ingredients": ["variable"],
+              "allergy_info": ["variable"]
+            },
+            {
+              "name": "pizza a chocolate",
+              "price": 815,
+              "essential_ingredients": ["masa de pizza", "chocolate"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "helado 3 gracias",
+              "price": 500,
+              "essential_ingredients": ["leche", "azúcar"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Bebidas",
+          "items": [
+            {
+              "name": "refresco",
+              "price": 250,
+              "essential_ingredients": ["agua carbonatada", "azúcar"],
+              "allergy_info": []
+            },
+            {
+              "name": "energizante",
+              "price": 390,
+              "essential_ingredients": ["agua carbonatada", "azúcar", "cafeína"],
+              "allergy_info": []
+            },
+            {
+              "name": "malta",
+              "price": 300,
+              "essential_ingredients": ["malta", "agua"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "jugo cajita",
+              "price": 250,
+              "essential_ingredients": ["frutas variadas"],
+              "allergy_info": []
+            },
+            {
+              "name": "cerveza",
+              "price": 300,
+              "essential_ingredients": ["cerveza"],
+              "allergy_info": ["gluten", "alcohol"]
+            },
+            {
+              "name": "yogurt",
+              "price": 250,
+              "essential_ingredients": ["leche", "cultivo de yogur"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

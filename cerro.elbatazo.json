@@ -1,0 +1,183 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "El Batazo",
+    "cuisine": ["Comida Italiana", "Comida Americana"],
+    "description": "El Batazo es un restaurante en el municipio Cerro, La Habana, que ofrece una deliciosa selección de comida italiana y americana. Con un ambiente informal y servicio de entrega disponible, es el lugar perfecto para disfrutar de una comida sabrosa en cualquier ocasión.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "mobile": {
+        "number": "58050408",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "tuesday": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "wednesday": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "thursday": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "friday": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "saturday": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "sunday": {
+        "open": "11:00",
+        "close": "22:00"
+      }
+    },
+    "address": null,
+    "municipality": "Cerro",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.10580877950669,
+      "longitude": -82.38890539182955
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Comida Italiana", "Comida Americana"],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": [],
+      "children": true,
+      "pets": null,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": ["Almuerzo", "Cena"],
+    "advantages": ["Accesible"],
+    "highlights": ["Servicio de entrega disponible"]
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Platos Principales",
+              "items": [
+                {
+                  "name": "Hamburguesa Strike",
+                  "price": 550,
+                  "essential_ingredients": ["pan", "carne", "vegetales"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Spaghetti",
+                  "price": 600,
+                  "essential_ingredients": ["spaghetti", "salsa"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Spaghetti de Jamón",
+                  "price": 780,
+                  "essential_ingredients": ["spaghetti", "jamón"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pizza de Queso",
+                  "price": 750,
+                  "essential_ingredients": ["masa de pizza", "queso", "salsa de tomate"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza de Chorizo",
+                  "price": 930,
+                  "essential_ingredients": ["masa de pizza", "queso", "chorizo"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza de Jamón",
+                  "price": 930,
+                  "essential_ingredients": ["masa de pizza", "queso", "jamón"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza de Cebolla",
+                  "price": 950,
+                  "essential_ingredients": ["masa de pizza", "queso", "cebolla"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza de Ají",
+                  "price": 950,
+                  "essential_ingredients": ["masa de pizza", "queso", "ají"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza de Aceitunas",
+                  "price": 950,
+                  "essential_ingredients": ["masa de pizza", "queso", "aceitunas"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza de Peperoni",
+                  "price": 1050,
+                  "essential_ingredients": ["masa de pizza", "queso", "peperoni"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza de Hawaiana",
+                  "price": 1130,
+                  "essential_ingredients": ["masa de pizza", "queso", "piña", "jamón"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza de Atún",
+                  "price": 1250,
+                  "essential_ingredients": ["masa de pizza", "queso", "atún"],
+                  "allergy_info": ["gluten", "lactosa", "pescado"]
+                },
+                {
+                  "name": "Hamburguesa Doble Play",
+                  "price": 1000,
+                  "essential_ingredients": ["pan", "doble carne", "vegetales"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Hamburguesa Homerun",
+                  "price": 1300,
+                  "essential_ingredients": ["pan", "carne", "queso", "bacon"],
+                  "allergy_info": ["gluten", "lactosa"]
+                }
+              ]
+            }
+          ]
+        }
+      }
+      

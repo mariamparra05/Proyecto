@@ -1,0 +1,205 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Bar-Restaurante"]
+    },
+    "name": "Cafe Bulevar",
+    "cuisine": ["Cubana"],
+    "description": "Cafe Bulevar es un bar-restaurante en el distrito de Centro Habana, con una capacidad alta de aforo y especializado en cocina cubana.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "11:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Centro Habana",
+    "municipality": "Centro Habana",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.136606572526283,
+      "longitude": -82.36299826271366
+    },
+    "social_media": {},
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+      "menu": {
+        "categories": [
+          {
+            "category": "Entrantes",
+            "items": [
+              {
+                "name": "Mini Hot Dog",
+                "price": 300,
+                "essential_ingredients": ["pan", "salchicha"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Chips de Boniato",
+                "price": 500,
+                "essential_ingredients": ["boniato", "aceite"],
+                "allergy_info": []
+              },
+              {
+                "name": "Tostones Rellenos",
+                "price": 800,
+                "essential_ingredients": ["plátano", "relleno"],
+                "allergy_info": []
+              },
+              {
+                "name": "Flamenquin",
+                "price": 1000,
+                "essential_ingredients": ["jamón", "queso", "empanizado"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "San Jacobo",
+                "price": 1000,
+                "essential_ingredients": ["jamón", "queso", "empanizado"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Entremés de Jamón y Queso",
+                "price": 1200,
+                "essential_ingredients": ["jamón", "queso"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Picadera de la Casa",
+                "price": 2500,
+                "essential_ingredients": ["variado"],
+                "allergy_info": ["gluten", "lactosa"]
+          }
+        ]
+      },
+      {
+            "category": "Pollo",
+            "items": [
+              {
+                "name": "Sandwich de Pollo",
+                "price": 900,
+                "essential_ingredients": ["pollo", "pan", "vegetales"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Nuggets de Pollo",
+                "price": 1000,
+                "essential_ingredients": ["pollo", "empanizado"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Pollo Frito",
+                "price": 1300,
+                "essential_ingredients": ["pollo", "aceite de freír", "especias"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Pollo Chiflado",
+                "price": 1600,
+                "essential_ingredients": ["pollo", "salsa especial", "especias"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Pollo Chiflado (sin hueso)",
+                "price": 1800,
+                "essential_ingredients": ["pollo deshuesado", "salsa especial", "especias"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Pollo Relleno (jamón y queso)",
+                "price": 2000,
+                "essential_ingredients": ["pollo", "jamón", "queso"],
+                "allergy_info": ["gluten", "lactosa"]
+              }
+            ]
+          },
+          {
+            "category": "Bebidas",
+            "items": [
+              {
+                "name": "Jugo Natural",
+                "price": 400,
+                "essential_ingredients": ["frutas"],
+                "allergy_info": []
+              },
+              {
+                "name": "Vaca Negra",
+                "price": 800,
+                "essential_ingredients": ["helado", "refresco"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Malteada",
+                "price": 900,
+                "essential_ingredients": ["helado", "leche"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Batido de Helado",
+                "price": 1000,
+                "essential_ingredients": ["helado", "leche"],
+                "allergy_info": ["lactosa"]
+              }
+            ]
+          }
+        ]
+      }
+    }
+              
+  

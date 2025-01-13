@@ -1,0 +1,513 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Leyenda habana",
+    "cuisine": ["Comida Caribeña"],
+    "description": "",
+    "contact_info": {
+      "phone": {
+        "number": "781332",
+        "type": "landline"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Cerro",
+    "municipality": "Cerro",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": [],
+      "children": true,
+      "pets": null,
+      "parking": true
+    },
+    "dietary_options": [],
+    "meals": ["Almuerzo", "Cena"],
+    "advantages": ["Accesible"],
+    "highlights": ["Ambiente acogedor", "Servicio excepcional"]
+  },
+
+    "menu": {
+      "categories": [
+        {
+          "category": "Entrantes",
+          "items": [
+            {
+              "name": "Tartaletas Mixtas",
+              "price": 1216,
+              "essential_ingredients": ["varios"],
+              "allergy_info": []
+            },
+            {
+              "name": "Pulpitos al Ajillo",
+              "price": 1248,
+              "essential_ingredients": ["pulpitos"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Pimientos de Piquillo Rellenos",
+              "price": 1280,
+              "essential_ingredients": ["pimientos", "piquillo"],
+              "allergy_info": []
+            },
+            {
+              "name": "Frituras de Malanga",
+              "price": 576,
+              "essential_ingredients": ["malanga"],
+              "allergy_info": []
+            },
+            {
+              "name": "Rollitos de Salmón Rellenos de Queso Crema y Uvas Pasas",
+              "price": 1600,
+              "essential_ingredients": ["salmón", "queso crema", "uvas pasas"],
+              "allergy_info": ["mariscos", "gluten", "lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Platos Principales",
+          "items": [
+            {
+              "name": "Filete Mignon con Salsa a Elección",
+              "price": 3808,
+              "essential_ingredients": ["filete mignon"],
+              "allergy_info": []
+            },
+            {
+              "name": "Suprema de Pollo a la Crema",
+              "price": 2080,
+              "essential_ingredients": ["pollo"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Cordero Asado al Romero",
+              "price": 2176,
+              "essential_ingredients": ["cordero", "romero"],
+              "allergy_info": []
+            },
+            {
+              "name": "Filete de Salmón Rosa Grillé",
+              "price": 3280,
+              "essential_ingredients": ["salmón"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Langosta Grillé",
+              "price": 3680,
+              "essential_ingredients": ["langosta"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Camarones Leyendhabana Perfumados al Vino Blanco",
+              "price": 2480,
+              "essential_ingredients": ["camarones", "vino blanco"],
+              "allergy_info": ["mariscos", "alcohol"]
+            },
+            {
+              "name": "Filete de Pescado con Crema de Limón, Uvas Pasas y Frutos Secos",
+              "price": 2288,
+              "essential_ingredients": ["pescado", "crema de limón", "uvas pasas", "frutos secos"],
+              "allergy_info": ["gluten", "lactosa", "mariscos"]
+            }
+          ]
+        },
+        {
+          "category": "Postres",
+          "items": [
+            {
+              "name": "Tarta de Crema",
+              "price": 1232,
+              "essential_ingredients": ["crema", "harina", "azúcar"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Brownie",
+              "price": 1232,
+              "essential_ingredients": ["chocolate", "harina", "mantequilla"],
+              "allergy_info": ["gluten", "lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Bebidas Alcohólicas",
+          "items": [
+            {
+              "name": "Ron Abuelo Añejo Reserva Especial",
+              "price": 1280,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Arecha 15 años",
+              "price": 1600,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Bacardi Gold",
+              "price": 1600,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Havana Club 15 años",
+              "price": 4800,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Havana Club 3 años",
+              "price": 496,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Havana Club 7 años",
+              "price": 800,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Havana Club Blanco",
+              "price": 320,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Havana Club Especial",
+              "price": 608,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Havana Club Maximo",
+              "price": 64000,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Havana Club Reserva",
+              "price": 704,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Havana Club Ritual",
+              "price": 640,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Legendario Añejo Blanco",
+              "price": 320,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Legendario Dorado",
+              "price": 480,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Legendario Elixir",
+              "price": 480,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Mulata 15 años",
+              "price": 2560,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Santa Teresa Gran Reserva",
+              "price": 1440,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Santiago 11 años",
+              "price": 2080,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Santiago 20 años",
+              "price": 4800,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Santiago Añejo",
+              "price": 496,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Selección de Maestros",
+              "price": 1760,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Vigia Gran Añejo",
+              "price": 2240,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Whisky Ballantine's 12 años",
+              "price": 1920,
+              "essential_ingredients": ["whisky"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Whisky Ballantine's Finest",
+              "price": 960,
+              "essential_ingredients": ["whisky"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Whisky Chivas Regal 12 años",
+              "price": 1600,
+              "essential_ingredients": ["whisky"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Whisky Chivas Regal 18 años",
+              "price": 4480,
+              "essential_ingredients": ["whisky"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Whisky Clan Campbell",
+              "price": 832,
+              "essential_ingredients": ["whisky"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Whisky J&B",
+              "price": 960,
+              "essential_ingredients": ["whisky"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Whisky Jack Daniel's",
+              "price": 1920,
+              "essential_ingredients": ["whisky"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Whisky Jameson",
+              "price": 960,
+              "essential_ingredients": ["whisky"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Whisky Johnny Walker Black Label",
+              "price": 1920,
+              "essential_ingredients": ["whisky"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Whisky Johnny Walker Blue Label",
+              "price": 8000,
+              "essential_ingredients": ["whisky"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Whisky Johnny Walker Double Black",
+              "price": 3200,
+              "essential_ingredients": ["whisky"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Whisky Johnny Walker Red Label",
+              "price": 960,
+              "essential_ingredients": ["whisky"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Whisky The Glenlivet 12 años",
+              "price": 1920,
+              "essential_ingredients": ["whisky"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Brandy Cognac Gautier",
+              "price": 3200,
+              "essential_ingredients": ["brandy"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Brandy Torres 10",
+              "price": 2240,
+              "essential_ingredients": ["brandy"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Brandy Torres 5",
+              "price": 1440,
+              "essential_ingredients": ["brandy"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ginebra Gordon's",
+              "price": 960,
+              "essential_ingredients": ["ginebra"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ginebra Master",
+              "price": 960,
+              "essential_ingredients": ["ginebra"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ginebra Tanqueray",
+              "price": 1600,
+              "essential_ingredients": ["ginebra"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Vodka Absolut",
+              "price": 1280,
+              "essential_ingredients": ["vodka"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Vodka Absolut Ruby Red",
+              "price": 1600,
+              "essential_ingredients": ["vodka"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Vodka Absolut Vanilia",
+              "price": 1600,
+              "essential_ingredients": ["vodka"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+   
+            "name": "Vodka Russian Shot",
+            "price": 19200,
+            "essential_ingredients": ["vodka"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Ron Havana Club 7 años",
+            "price": 25600,
+            "essential_ingredients": ["ron"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Vino Blanco",
+            "price": 35840,
+            "essential_ingredients": ["vino blanco"],
+            "allergy_info": ["alcohol", "sulfitos"]
+          },
+          {
+            "name": "Vino Rosado",
+            "price": 35840,
+            "essential_ingredients": ["vino rosado"],
+            "allergy_info": ["alcohol", "sulfitos"]
+          },
+          {
+            "name": "Vino Tinto",
+            "price": 35840,
+            "essential_ingredients": ["vino tinto"],
+            "allergy_info": ["alcohol", "sulfitos"]
+          },
+          {
+            "name": "Whisky Ballantine's Finest",
+            "price": 30720,
+            "essential_ingredients": ["whisky"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Whisky Chivas Regal 12 años",
+            "price": 51200,
+            "essential_ingredients": ["whisky"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Whisky Chivas Regal 18 años",
+            "price": 143360,
+            "essential_ingredients": ["whisky"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Whisky Johnny Walker Blue Label",
+            "price": 25600,
+            "essential_ingredients": ["whisky"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Ron Havana Club Maximo",
+            "price": 20480,
+            "essential_ingredients": ["ron"],
+            "allergy_info": ["alcohol"]
+          }
+        ]
+      }
+    ]
+  }
+}

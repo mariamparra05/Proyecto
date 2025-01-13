@@ -1,0 +1,947 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Bar-Restaurante"]
+    },
+    "name": "Doña Alicia",
+    "cuisine": ["Comida Caribeña"],
+    "description": "Doña Alicia es un bar-restaurante especializado en comida caribeña.",
+    "contact_info": {
+      "phone": {
+        "number": "7866-6009",
+        "type": "landline"
+      },
+      "email": null,
+      "website": "app.daalicia.com"
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "00:00"
+      }
+    },
+    "address": "Reina esquina Belascoaín",
+    "municipality": "Centro Habana",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": "RestauranteDaAlicia",
+      "instagram": "restaurantedaalicia"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+    "menu": {
+    "categories": [
+        {
+            "category": "Entrantes",
+            "items": [
+              {
+                "name": "Tacos De Camarón",
+                "price": 1500.00,
+                "essential_ingredients": ["camarón", "tortilla", "vegetales"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Tacos De Pollo (125g)",
+                "price": 1000.00,
+                "essential_ingredients": ["pollo", "tortilla", "vegetales"],
+                "allergy_info": []
+              },
+              {
+                "name": "Tacos Al Pastor (125g)",
+                "price": 1025.00,
+                "essential_ingredients": ["cerdo", "tortilla", "piña", "vegetales"],
+                "allergy_info": []
+              },
+              {
+                "name": "Cóctel De Langosta (150g)",
+                "price": 1000.00,
+                "essential_ingredients": ["langosta", "salsa coctel"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Tostones Rellenos Con Jamón (50g Y 30g De Queso)",
+                "price": 700.00,
+                "essential_ingredients": ["plátano", "jamón", "queso"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Bolitas De Queso (10 Unkd)",
+                "price": 1450.00,
+                "essential_ingredients": ["queso", "harina"],
+                "allergy_info": ["lactosa", "gluten"]
+              },
+              {
+                "name": "Fritura De Malanga (10 Unid)",
+                "price": 560.00,
+                "essential_ingredients": ["malanga", "harina"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Tacos De Pollo En Salsa Pico De Gallo (125g)",
+                "price": 1250.00,
+                "essential_ingredients": ["pollo", "tortilla", "pico de gallo"],
+                "allergy_info": []
+              },
+              {
+                "name": "Tacos De Cerdo En Salsa De Pico De Gallo (125g)",
+                "price": 1200.00,
+                "essential_ingredients": ["cerdo", "tortilla", "pico de gallo"],
+                "allergy_info": []
+              }
+            ]
+          },
+          {
+            "category": "Platos Principales",
+            "items": [
+              {
+                "name": "Langosta Salteada Al Ajo (350g)",
+                "price": 3250.00,
+                "essential_ingredients": ["langosta", "ajo"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Langosta Grillé C/ Salsa De La Casa (350g)",
+                "price": 3000.00,
+                "essential_ingredients": ["langosta", "salsa"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Enchilado De Langosta (350g)",
+                "price": 3500.00,
+                "essential_ingredients": ["langosta", "salsa enchilada"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Langosta Termidor (350g)",
+                "price": 3125.00,
+                "essential_ingredients": ["langosta", "queso", "crema"],
+                "allergy_info": ["mariscos", "lactosa"]
+              },
+              {
+                "name": "Ropa Vieja Res Con Salsa De Tomate (170g)",
+                "price": 1995.00,
+                "essential_ingredients": ["res", "salsa de tomate"],
+                "allergy_info": []
+              },
+              {
+                "name": "Ropa Vieja Res Sin Salsa De Tomate (170g)",
+                "price": 1970.00,
+                "essential_ingredients": ["res"],
+                "allergy_info": []
+              },
+              {
+                "name": "Camarón Termidor",
+                "price": 3000.00,
+                "essential_ingredients": ["camarón", "queso", "crema"],
+                "allergy_info": ["mariscos", "lactosa"]
+              },
+              {
+                "name": "Camarón Salteado Con Ajo",
+                "price": 2600.00,
+                "essential_ingredients": ["camarón", "ajo"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Camarones Enchilados",
+                "price": 2800.00,
+                "essential_ingredients": ["camarón", "salsa enchilada"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Pulpo Salteado Al Ajo (230g)",
+                "price": 2625.00,
+                "essential_ingredients": ["pulpo", "ajo"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Pulpo Enchilado (230g)",
+                "price": 2750.00,
+                "essential_ingredients": ["pulpo", "salsa enchilada"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Pescado Gratinado Jamón Y Queso (280g)(45g Jamón Y Queso)",
+                "price": 2750.00,
+                "essential_ingredients": ["pescado", "jamón", "queso"],
+                "allergy_info": ["pescado", "lactosa"]
+              },
+              {
+                "name": "Dados De Pescado Al Ajo (280g)",
+                "price": 2200.00,
+                "essential_ingredients": ["pescado", "ajo"],
+                "allergy_info": ["pescado"]
+              },
+              {
+                "name": "Dados De Pescado En Salsa Cubana (280g)",
+                "price": 2430.00,
+                "essential_ingredients": ["pescado", "salsa cubana"],
+                "allergy_info": ["pescado"]
+              },
+              {
+                "name": "Pescado Grille C/ Salsa De La Casa (280g)",
+                "price": 2100.00,
+                "essential_ingredients": ["pescado", "salsa"],
+                "allergy_info": ["pescado"]
+              },
+              {
+                "name": "Ropa Vieja De Cordero Sin Salsa De Tomate (170g)",
+                "price": 1675.00,
+                "essential_ingredients": ["cordero"],
+                "allergy_info": []
+              },
+              {
+                "name": "Ropa Vieja De Cordero Con Salsa De Tomate (170g)",
+                "price": 1700.00,
+                "essential_ingredients": ["cordero", "salsa de tomate"],
+                "allergy_info": []
+              },
+              {
+                "name": "Estofado De Cordero Al Vino Tinto (250g)",
+                "price": 2300.00,
+                "essential_ingredients": ["cordero", "vino tinto"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Chilindron De Cordero (280g)",
+                "price": 2200.00,
+                "essential_ingredients": ["cordero", "salsa chilindron"],
+                "allergy_info": []
+              },
+              {
+                "name": "Bistec De Cerdo Gratinado Con Jamón Y Queso (280g Y 45g Jamón Y Queso)",
+                "price": 2200.00,
+                "essential_ingredients": ["cerdo", "jamón", "queso"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Bistec De La Abuela Con Mojo Criollo (280g)",
+                "price": 1700.00,
+                "essential_ingredients": ["cerdo", "mojo criollo"],
+                "allergy_info": []
+              },
+              {
+                "name": "Masas De Cerdo Italianas",
+                "price": 3500.00,
+                "essential_ingredients": ["cerdo", "especias italianas"],
+                "allergy_info": []
+              },
+              {
+                "name": "Masas De Cerdo Con Salsa Agridulce",
+                "price": 2350.00,
+                "essential_ingredients": ["cerdo", "salsa agridulce"],
+                "allergy_info": []
+              },
+              {
+                "name": "Masa De Cerdo Con Mojo Criollo",
+                "price": 2350.00,
+                "essential_ingredients": ["cerdo", "mojo criollo"],
+                "allergy_info": []
+              },
+              {
+                "name": "Lomo Deshuesado Con Mojo Criollo (280g)",
+                "price": 2000.00,
+                "essential_ingredients": ["lomo", "mojo criollo"],
+                "allergy_info": []
+              },
+              {
+                  "name": "Lomo Ahumado Al Graten (280g)",
+                  "price": 2500.00,
+                  "essential_ingredients": ["lomo ahumado", "queso", "crema"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Lomo Ahumado Agridulce (280g)",
+                  "price": 2250.00,
+                  "essential_ingredients": ["lomo ahumado", "salsa agridulce"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Fajitas De Cerdo A La Campesina (280g)",
+                  "price": 2200.00,
+                  "essential_ingredients": ["cerdo", "pimientos", "cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Fajita Pollo Crema (280g)",
+                  "price": 2700.00,
+                  "essential_ingredients": ["pollo", "crema"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Montado De Pollo, Jamón Y Queso (280g-50g Jamón Y Queso)",
+                  "price": 2500.00,
+                  "essential_ingredients": ["pollo", "jamón", "queso"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Pollo Gratinado (280g)",
+                  "price": 2375.00,
+                  "essential_ingredients": ["pollo", "queso"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Arroz Frito Con Camarón",
+                  "price": 2450.00,
+                  "essential_ingredients": ["arroz", "camarón"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Arroz Frito",
+                  "price": 1825.00,
+                  "essential_ingredients": ["arroz"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pescado Del Dia (280g)",
+                  "price": 1950.00,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Ropa Vieja De Cerdo Con Salsa De Tomate (170g)",
+                  "price": 1900.00,
+                  "essential_ingredients": ["cerdo", "salsa de tomate"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Ropa Vieja De Cerdo Sin Salsa De Tomate (170g)",
+                  "price": 1820.00,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Dados De Pescado En Salsa Italiana (280g)",
+                  "price": 2900.00,
+                  "essential_ingredients": ["pescado", "salsa italiana"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Lomo Ahumado Grille",
+                  "price": 2000.00,
+                  "essential_ingredients": ["lomo ahumado"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Lomo Deshuesado Al Graten (280g) (50g Queso)",
+                  "price": 2125.00,
+                  "essential_ingredients": ["lomo deshuesado", "queso"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Pollo Doña Alicia",
+                  "price": 3250.00,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bistec De La Abuela Con Salsa De Cebolla (280g)",
+                  "price": 2000.00,
+                  "essential_ingredients": ["bistec", "cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Lomo Deshuesado En Salsa De Cebolla (280g)",
+                  "price": 2000.00,
+                  "essential_ingredients": ["lomo deshuesado", "cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Fajitas De Pollo A La Campesina (280g)",
+                  "price": 2400.00,
+                  "essential_ingredients": ["pollo", "pimientos", "cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Fricase De Cerdo (240g)",
+                  "price": 2600.00,
+                  "essential_ingredients": ["cerdo", "salsa fricasé"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Arroz Marinero",
+                  "price": 3550.00,
+                  "essential_ingredients": ["arroz", "mariscos"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Pizza De Jamón",
+                  "price": 1600.00,
+                  "essential_ingredients": ["masa de pizza", "jamón", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza De Camarones",
+                  "price": 2000.00,
+                  "essential_ingredients": ["masa de pizza", "camarones", "queso"],
+                  "allergy_info": ["gluten", "lactosa", "mariscos"]
+                },
+                {
+                  "name": "Pizza De Atún",
+                  "price": 1750.00,
+                  "essential_ingredients": ["masa de pizza", "atún", "queso"],
+                  "allergy_info": ["gluten", "lactosa", "pescado"]
+                },
+                {
+                  "name": "Pizza De Bacon",
+                  "price": 2000.00,
+                  "essential_ingredients": ["masa de pizza", "bacon", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza Napolitana",
+                  "price": 1150.00,
+                  "essential_ingredients": ["masa de pizza", "salsa napolitana", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza De Aji Y Cebolla",
+                  "price": 1550.00,
+                  "essential_ingredients": ["masa de pizza", "aji", "cebolla", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza Estilo Margarita",
+                  "price": 1250.00,
+                  "essential_ingredients": ["masa de pizza", "salsa de tomate", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza Ropa Vieja De Cerdo",
+                  "price": 1800.00,
+                  "essential_ingredients": ["masa de pizza", "ropa vieja de cerdo", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza 4 Queso",
+                  "price": 2000.00,
+                  "essential_ingredients": ["masa de pizza", "cuatro tipos de queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza Hawaiana",
+                  "price": 1625.00,
+                  "essential_ingredients": ["masa de pizza", "piña", "jamón", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza De Salsa Pesto",
+                  "price": 1200.00,
+                  "essential_ingredients": ["masa de pizza", "salsa pesto", "queso"],
+                  "allergy_info": ["gluten", "lactosa", "frutos secos"]
+                },
+                {
+                  "name": "Pizza Al Pastor",
+                  "price": 2000.00,
+                  "essential_ingredients": ["masa de pizza", "cerdo al pastor", "piña", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza De Ropa Vieja De Res",
+                  "price": 2150.00,
+                  "essential_ingredients": ["masa de pizza", "ropa vieja de res", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Lasaña De Jamón",
+                  "price": 1650.00,
+                  "essential_ingredients": ["pasta", "jamón", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Espaguetis Con Jamón Y Queso Gouda",
+                  "price": 1510.00,
+                  "essential_ingredients": ["pasta", "jamón", "queso gouda"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Espaguetis Con Camarones Y Queso Gouda",
+                  "price": 2220.00,
+                  "essential_ingredients": ["pasta", "camarones", "queso gouda"],
+                  "allergy_info": ["gluten", "lactosa", "mariscos"]
+                },
+                {
+                  "name": "Espaguetis Carbonara",
+                  "price": 2115.00,
+                  "essential_ingredients": ["pasta", "tocino", "huevos", "queso"],
+                  "allergy_info": ["gluten", "lactosa", "huevos"]
+                },
+                {
+                  "name": "Espaguetis Nápoles C/ Gouda",
+                  "price": 1105.00,
+                  "essential_ingredients": ["pasta", "salsa napolitana", "queso gouda"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Espaguetis Con Atun",
+                  "price": 1660.00,
+                  "essential_ingredients": ["pasta", "atún"],
+                  "allergy_info": ["gluten", "pescado"]
+                },
+                {
+                  "name": "Canelon De Camaron",
+                  "price": 1850.00,
+                  "essential_ingredients": ["pasta", "camarones"],
+                  "allergy_info": ["gluten", "mariscos"]
+                },
+                {
+                  "name": "Canelones De Jamón",
+                  "price": 1650.00,
+                  "essential_ingredients": ["pasta", "jamón"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Espaguetis En Salsa Blanca Cremosa Con Parmesano Y Albahaca Natural",
+                  "price": 1500.00,
+                  "essential_ingredients": ["pasta", "queso parmesano", "albahaca"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Espaguetis De Vegetales Con Grana Padano",
+                  "price": 1650.00,
+                  "essential_ingredients": ["pasta de vegetales", "queso grana padano"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pollo Entero Relleno 2500gr (Ordenar Mínimo 6 Horas De Antelación)",
+                  "price": 10000.00,
+                  "essential_ingredients": ["pollo", "relleno"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Adiciones",
+              "items": [
+                {
+                  "name": "Agrego De Jamón",
+                  "price": 300.00,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Agrego De Queso",
+                  "price": 600.00,
+                  "essential_ingredients": ["queso"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Agrego De Champiñones",
+                  "price": 375.00,
+                  "essential_ingredients": ["champiñones"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Agrego De Cebolla",
+                  "price": 275.00,
+                  "essential_ingredients": ["cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Agrego De Pimiento",
+                  "price": 205.00,
+                  "essential_ingredients": ["pimiento"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Agrego De Atún",
+                  "price": 550.00,
+                  "essential_ingredients": ["atún"],
+                  "allergy_info": ["pescado"]
+                }
+              ]
+            },
+            {
+              "category": "Acompañamientos",
+              "items": [
+                {
+                  "name": "Tostones Naturales",
+                  "price": 250.00,
+                  "essential_ingredients": ["plátano", "aceite", "sal"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Vegetales De Temporada",
+                  "price": 350.00,
+                  "essential_ingredients": ["vegetales"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Arroz Blanco",
+                  "price": 220.00,
+                  "essential_ingredients": ["arroz"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Arroz Moro",
+                  "price": 320.00,
+                  "essential_ingredients": ["arroz", "frijoles"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Toston Al Ajo",
+                  "price": 350.00,
+                  "essential_ingredients": ["plátano", "ajo", "aceite", "sal"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Postres",
+              "items": [
+                {
+                  "name": "Cake De Chocolate (Porción)",
+                  "price": 850.00,
+                  "essential_ingredients": ["chocolate", "harina", "azúcar"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Cisne",
+                  "price": 95.00,
+                  "essential_ingredients": ["azúcar", "harina"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Trufa De Chocolate",
+                  "price": 160.00,
+                  "essential_ingredients": ["chocolate", "crema"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Eclear",
+                  "price": 530.00,
+                  "essential_ingredients": ["harina", "azúcar", "crema"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Rosca Reyes",
+                  "price": 350.00,
+                  "essential_ingredients": ["harina", "azúcar"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Arroz Con Leche",
+                  "price": 580.00,
+                  "essential_ingredients": ["arroz", "leche", "azúcar"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Cheesecake De Fresa (Porción)",
+                  "price": 520.00,
+                  "essential_ingredients": ["queso crema", "fresas", "azúcar"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Tortica",
+                  "price": 100.00,
+                  "essential_ingredients": ["harina", "azúcar"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Bebidas",
+              "items": [
+                {
+                  "name": "Malta Nacional Bucanero",
+                  "price": 405.00,
+                  "essential_ingredients": ["malta"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pepsi Cola De Lata",
+                  "price": 380.00,
+                  "essential_ingredients": ["agua carbonatada", "azúcar", "colorante"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Refresco Importado 7 Up",
+                  "price": 320.00,
+                  "essential_ingredients": ["agua carbonatada", "azúcar", "saborizantes"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Jugo Kermato",
+                  "price": 710.00,
+                  "essential_ingredients": ["tomate", "condimentos"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Red Bull",
+                  "price": 900.00,
+                  "essential_ingredients": ["cafeína", "azúcar", "taurina"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Agua Tónica Mg",
+                  "price": 600.00,
+                  "essential_ingredients": ["agua carbonatada", "quinina"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Agua Natural Buona",
+                  "price": 280.00,
+                  "essential_ingredients": ["agua"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Refresco Santa Naranja",
+                  "price": 350.00,
+                  "essential_ingredients": ["agua carbonatada", "azúcar", "sabor a naranja"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Agua Gaseada Tehuacan",
+                  "price": 650.00,
+                  "essential_ingredients": ["agua carbonatada"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Refresco Ritz Cola",
+                  "price": 345.00,
+                  "essential_ingredients": ["agua carbonatada", "azúcar", "sabor a cola"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Cerveza Importada Modelo Especial",
+                  "price": 650.00,
+                  "essential_ingredients": ["cebada", "lúpulo", "agua"],
+                  "allergy_info": ["gluten", "alcohol"]
+                },
+                {
+                  "name": "Cerveza Presidente",
+                  "price": 595.00,
+                  "essential_ingredients": ["cebada", "lúpulo", "agua"],
+                  "allergy_info": ["gluten", "alcohol"]
+                },
+                {
+                  "name": "Heineken Botella 330 Ml",
+                  "price": 495.00,
+                  "essential_ingredients": ["cebada", "lúpulo", "agua"],
+                  "allergy_info": ["gluten", "alcohol"]
+                },
+                {
+                  "name": "Johnnie Walker Etiqueta Roja (750ml)",
+                  "price": 9050.00,
+                  "essential_ingredients": ["whisky"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Chivas Regal 12 (750ml)",
+                  "price": 19500.00,
+                  "essential_ingredients": ["whisky"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "H.c Selección De Maestros (700ml)",
+                  "price": 8950.00,
+                  "essential_ingredients": ["ron"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "H.c Añejo Reserva (700cl)",
+                  "price": 4300.00,
+                  "essential_ingredients": ["ron"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "H.c Añejo Especial (700ml)",
+                  "price": 2625.00,
+                  "essential_ingredients": ["ron"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Tequila Olmeca Silver (700ml)",
+                  "price": 5800.00,
+                  "essential_ingredients": ["tequila"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Cerveza Nacional Cristal",
+                  "price": 440.00,
+                  "essential_ingredients": ["cebada", "lúpulo", "agua"],
+                  "allergy_info": ["gluten", "alcohol"]
+                },
+                {
+                  "name": "Ron Santiago De Cuba Carta Blanca (700ml)",
+                  "price": 3500.00,
+                  "essential_ingredients": ["ron"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Whisky Black & White (750ml)",
+                  "price": 4125.00,
+                  "essential_ingredients": ["whisky"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Whisky J/w Black Label (750ml)",
+                  "price": 17500.00,
+                  "essential_ingredients": ["whisky"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Ron Santiago De Cuba Añejo 12",
+                  "price": 12000.00,
+                  "essential_ingredients": ["ron"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Black Tears (700ml)",
+                  "price": 2000.00,
+                  "essential_ingredients": ["ron", "especias"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Cerveza Corona",
+                  "price": 660.00,
+                  "essential_ingredients": ["cebada", "lúpulo", "agua"],
+                  "allergy_info": ["gluten", "alcohol"]
+                },
+                {
+                  "name": "H.c.pacto Navío",
+                  "price": 10000.00,
+                  "essential_ingredients": ["ron"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Cerveza Presidente Licht",
+                  "price": 570.00,
+                  "essential_ingredients": ["cebada", "lúpulo", "agua"],
+                  "allergy_info": ["gluten", "alcohol"]
+                },
+                {
+                  "name": "Vt Frontera Merlot (Botella)",
+                  "price": 2300.00,
+                  "essential_ingredients": ["vino tinto merlot"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Espumoso Cava Mistinguett Brut",
+                  "price": 3800.00,
+                  "essential_ingredients": ["cava", "brut"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Espumoso Cava Brut Reserva Mistinguett",
+                  "price": 3800.00,
+                  "essential_ingredients": ["cava", "brut reserva"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Espumoso Gran Barón Cava Brut",
+                  "price": 3800.00,
+                  "essential_ingredients": ["cava", "brut"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Vt Frontera Cabernet Sauvignon (Mercado)",
+                  "price": 2100.00,
+                  "essential_ingredients": ["cabernet sauvignon"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Vb Frontera Chardonay (Mercado)",
+                  "price": 2100.00,
+                  "essential_ingredients": ["chardonnay"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Vt Frontera Merlot (Mercado)",
+                  "price": 2100.00,
+                  "essential_ingredients": ["merlot"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Espumoso Torre De La Vid (Brut)",
+                  "price": 2750.00,
+                  "essential_ingredients": ["espumoso", "brut"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Vino Espumoso Rocamar (Brut)",
+                  "price": 2750.00,
+                  "essential_ingredients": ["vino espumoso", "brut"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Vino Rosado Espumoso Calaviña",
+                  "price": 2500.00,
+                  "essential_ingredients": ["vino rosado espumoso"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Vino Blanco Espumoso Calaviña Brut",
+                  "price": 2500.00,
+                  "essential_ingredients": ["vino blanco espumoso", "brut"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Cava Brut Rose Gran Baron",
+                  "price": 2250.00,
+                  "essential_ingredients": ["cava", "brut rose"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Vino Blanco Espumoso Semisecos Condelier",
+                  "price": 2625.00,
+                  "essential_ingredients": ["vino blanco espumoso", "semiseco"],
+                  "allergy_info": ["alcohol"]
+                }
+              ]
+            }
+          ]
+        }
+      }

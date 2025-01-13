@@ -1,0 +1,426 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Don Burguer",
+    "cuisine": ["Comida rápida"],
+    "description": null,
+    "contact_info": {
+      "phone": {
+        "number": "+53 56073379",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "10:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "10:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "10:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "10:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "10:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "10:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "10:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Calzada de 10 de Octubre, entre Aranguren y Santa Isabel, La Palma, Arroyo Naranjo",
+    "municipality": "Arroyo Naranjo",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": "Don Burguer JJ",
+      "instagram": "@donburguercuba"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 5%",
+      "description": "Se incluye un 5% del servicio en la cuenta.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": true
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+  "menu": {
+    "categories": [
+      {
+        "category": "Entrantes",
+        "items": [
+          {
+            "name": "Ensalada fría",
+            "price": 580.00,
+            "essential_ingredients": ["Lechuga", "Tomate", "Pepino", "Aderezo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Aceitunas (ración)",
+            "price": 420.00,
+            "essential_ingredients": ["Aceitunas"],
+            "allergy_info": []
+          },
+          {
+            "name": "Bolitas de queso",
+            "price": 640.00,
+            "essential_ingredients": ["Queso", "Harina", "Huevo", "Pan rallado"],
+            "allergy_info": ["Lactosa", "Gluten", "Huevo"]
+          },
+          {
+            "name": "Frituras de malanga",
+            "price": 510.00,
+            "essential_ingredients": ["Malanga", "Harina", "Huevo"],
+            "allergy_info": ["Gluten", "Huevo"]
+          },
+          {
+            "name": "Croquetas",
+            "price": 640.00,
+            "essential_ingredients": ["Harina", "Leche", "Huevo", "Pan rallado"],
+            "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+          },
+          {
+            "name": "Papitas",
+            "price": 640.00,
+            "essential_ingredients": ["Papas", "Aceite", "Sal"],
+            "allergy_info": []
+          },
+          {
+            "name": "Fajitas de pollo",
+            "price": 940.00,
+            "essential_ingredients": ["Pollo", "Pimientos", "Cebolla"],
+            "allergy_info": []
+          },
+          {
+            "name": "Entremes surtido",
+            "price": 1720.00,
+            "essential_ingredients": ["Queso", "Jamón", "Pepinillos", "Aceitunas"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Brusquetas",
+            "price": 780.00,
+            "essential_ingredients": ["Pan", "Tomate", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Burritos de jamón y queso",
+            "price": 1260.00,
+            "essential_ingredients": ["Tortilla", "Jamón", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          }
+        ]
+      },
+      {
+        "category": "Plato principal",
+        "items": [
+          {
+            "name": "Tacos de vegetales",
+            "price": 620.00,
+            "essential_ingredients": ["Tortilla", "Lechuga", "Tomate", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Tacos de cerdo",
+            "price": 1120.00,
+            "essential_ingredients": ["Tortilla", "Cerdo", "Lechuga", "Tomate"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Tacos de pollo",
+            "price": 1120.00,
+            "essential_ingredients": ["Tortilla", "Pollo", "Lechuga", "Tomate"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Tacos de res",
+            "price": 1280.00,
+            "essential_ingredients": ["Tortilla", "Res", "Lechuga", "Tomate"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Hamburguesa (cerdo)",
+            "price": 740.00,
+            "essential_ingredients": ["Pan", "Cerdo", "Queso", "Lechuga", "Tomate"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Hamburguesa (pollo)",
+            "price": 740.00,
+            "essential_ingredients": ["Pan", "Pollo", "Queso", "Lechuga", "Tomate"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Hamburguesa (res)",
+            "price": 860.00,
+            "essential_ingredients": ["Pan", "Res", "Queso", "Lechuga", "Tomate"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Doble hamburguesa (cerdo)",
+            "price": 1040.00,
+            "essential_ingredients": ["Pan", "Cerdo", "Queso", "Lechuga", "Tomate"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Doble hamburguesa (pollo)",
+            "price": 1040.00,
+            "essential_ingredients": ["Pan", "Pollo", "Queso", "Lechuga", "Tomate"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Doble hamburguesa (res)",
+            "price": 1480.00,
+            "essential_ingredients": ["Pan", "Res", "Queso", "Lechuga", "Tomate"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Doble hamburguesa de cerdo (bistec de cerdo y 3 agregos / jamón vicking, queso y chorizo)",
+            "price": 2680.00,
+            "essential_ingredients": ["Pan", "Cerdo", "Jamón", "Queso", "Chorizo"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Pan con bistec de cerdo",
+            "price": 840.00,
+            "essential_ingredients": ["Pan", "Cerdo", "Lechuga", "Tomate"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Pan con bistec de pollo",
+            "price": 810.00,
+            "essential_ingredients": ["Pan", "Pollo", "Lechuga", "Tomate"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Pan con lechón",
+            "price": 890.00,
+            "essential_ingredients": ["Pan", "Lechón", "Lechuga", "Tomate"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Bocadito de atún",
+            "price": 840.00,
+            "essential_ingredients": ["Pan", "Atún", "Lechuga", "Tomate"],
+            "allergy_info": ["Gluten", "Pescado"]
+          },
+          {
+            "name": "Sandwich de jamón queso y chorizo",
+            "price": 890.00,
+            "essential_ingredients": ["Pan", "Jamón", "Queso", "Chorizo"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          }
+        ]
+      },
+      {
+        "category": "Agregos",
+        "items": [
+          {
+            "name": "Sandwich cubano",
+            "price": 1290.00,
+            "essential_ingredients": ["Pan", "Jamón", "Queso", "Cerdo asado", "Pepinillos", "Mostaza"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Jamón vicking",
+            "price": 120.00,
+            "essential_ingredients": ["Jamón vicking"],
+            "allergy_info": []
+          },
+          {
+            "name": "Jamón pierna",
+            "price": 190.00,
+            "essential_ingredients": ["Jamón pierna"],
+            "allergy_info": []
+          },
+          {
+            "name": "Bacon",
+            "price": 190.00,
+            "essential_ingredients": ["Bacon"],
+            "allergy_info": []
+          },
+          {
+            "name": "Queso",
+            "price": 150.00,
+            "essential_ingredients": ["Queso"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Chorizo",
+            "price": 120.00,
+            "essential_ingredients": ["Chorizo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Huevo",
+            "price": 190.00,
+            "essential_ingredients": ["Huevo"],
+            "allergy_info": ["Huevo"]
+          },
+          {
+            "name": "Cebolla",
+            "price": 60.00,
+            "essential_ingredients": ["Cebolla"],
+            "allergy_info": []
+          },
+          {
+            "name": "Tomate",
+            "price": 60.00,
+            "essential_ingredients": ["Tomate"],
+            "allergy_info": []
+          },
+          {
+            "name": "Lechuga",
+            "price": 30.00,
+            "essential_ingredients": ["Lechuga"],
+            "allergy_info": []
+          },
+          {
+            "name": "Pepinillo encurtido",
+            "price": 30.00,
+            "essential_ingredients": ["Pepinillo encurtido"],
+            "allergy_info": []
+          },
+          {
+            "name": "Piña glaseada",
+            "price": 80.00,
+            "essential_ingredients": ["Piña", "Azúcar"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Postres",
+        "items": [
+          {
+            "name": "3 Gracias",
+            "price": 740.00,
+            "essential_ingredients": ["Helado", "Dulce de leche", "Nueces"],
+            "allergy_info": ["Lactosa", "Frutos secos"]
+          },
+          {
+            "name": "Ensalada",
+            "price": 1080.00,
+            "essential_ingredients": ["Frutas mixtas"],
+            "allergy_info": []
+          },
+          {
+            "name": "Suero de helado",
+            "price": 840.00,
+            "essential_ingredients": ["Helado", "Leche condensada"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Casquitos de guayaba",
+            "price": 560.00,
+            "essential_ingredients": ["Guayaba", "Azúcar"],
+            "allergy_info": []
+          },
+          {
+            "name": "Flan",
+            "price": 560.00,
+            "essential_ingredients": ["Leche", "Huevos", "Azúcar"],
+            "allergy_info": ["Lactosa", "Huevos"]
+          },
+          {
+            "name": "Dulce de coco",
+            "price": 460.00,
+            "essential_ingredients": ["Coco", "Azúcar"],
+            "allergy_info": []
+          },
+          {
+            "name": "Torrejas",
+            "price": 680.00,
+            "essential_ingredients": ["Pan", "Leche", "Huevos", "Azúcar"],
+            "allergy_info": ["Gluten", "Lactosa", "Huevos"]
+          },
+          {
+            "name": "Dulce de fruta bomba",
+            "price": 460.00,
+            "essential_ingredients": ["Papaya", "Azúcar"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Bebidas no alcoholicas",
+        "items": [
+          {
+            "name": "Agua",
+            "price": 150.00,
+            "essential_ingredients": ["Agua"],
+            "allergy_info": []
+          },
+          {
+            "name": "Refresco",
+            "price": 240.00,
+            "essential_ingredients": ["Refresco"],
+            "allergy_info": []
+          },
+          {
+            "name": "Batido de frutas",
+            "price": 390.00,
+            "essential_ingredients": ["Frutas", "Leche"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Limonada frape",
+            "price": 380.00,
+            "essential_ingredients": ["Limon", "Hielo", "Azúcar"],
+            "allergy_info": []
+          },
+          {
+            "name": "Limonada con hierba buena",
+            "price": 460.00,
+            "essential_ingredients": ["Limon", "Hierbabuena", "Azúcar"],
+            "allergy_info": []
+          },
+          {
+            "name": "Malta",
+            "price": 400.00,
+            "essential_ingredients": ["Malta"],
+            "allergy_info": []
+          }
+        ]
+      }
+    ]
+  }
+}

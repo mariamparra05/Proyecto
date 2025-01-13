@@ -1,0 +1,264 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Mc César",
+    "cuisine": ["Comida Criolla", "Comida Italiana", "Tapas"],
+    "description": "Mc César es una cafetería en el municipio Cotorro, conocida por su especialidad en comida criolla, italiana y tapas. Es famoso por sus hamburguesas y cerveza, además de ofrecer entretenimiento en vivo con shows humorísticos y cantantes.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": null,
+        "close": null
+      },
+      "tuesday": {
+        "open": "11:30",
+        "close": "11:00"
+      },
+      "wednesday": {
+        "open": "11:30",
+        "close": "11:00"
+      },
+      "thursday": {
+        "open": "11:30",
+        "close": "11:00"
+      },
+      "friday": {
+        "open": "11:30",
+        "close": "11:00"
+      },
+      "saturday": {
+        "open": "11:30",
+        "close": "11:00"
+      },
+      "sunday": {
+        "open": "11:30",
+        "close": "11:00"
+      }
+    },
+    "address": null,
+    "municipality": "Cotorro",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Hamburguesas"],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable"],
+      "usual_customers": ["Turistas"],
+      "planning": ["Show Humorista", "Cantantes"],
+      "children": false,
+      "pets": false,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": ["Almuerzo", "Comida"],
+    "advantages": ["Alternativas para apagones"],
+    "highlights": ["Ambiente climatizado"]
+  },
+
+        "menu": {
+          "categories": [
+            {
+              "category": "Mariscos",
+              "items": [
+                {
+                  "name": "Langosta Enchilada",
+                  "price": 2000,
+                  "essential_ingredients": ["langosta", "salsa"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Langosta al Ajillo",
+                  "price": 2000,
+                  "essential_ingredients": ["langosta", "ajo"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Langosta Mariposa",
+                  "price": 2300,
+                  "essential_ingredients": ["langosta"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Pescado Grillé",
+                  "price": 1500,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Pescado Mc César",
+                  "price": 2500,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Canciller de Pescado",
+                  "price": 1800,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Pescado Empanado",
+                  "price": 1600,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Pescado con Salsa de Limón",
+                  "price": 1700,
+                  "essential_ingredients": ["pescado", "limón"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Camarón Grillé",
+                  "price": 1900,
+                  "essential_ingredients": ["camarones"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Camarón al Ajillo",
+                  "price": 1900,
+                  "essential_ingredients": ["camarones", "ajo"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Camarón Enchilado",
+                  "price": 2000,
+                  "essential_ingredients": ["camarones", "salsa"],
+                  "allergy_info": ["mariscos"]
+                }
+              ]
+            },
+            {
+              "category": "Pastas",
+              "items": [
+                {
+                  "name": "Espaguetti",
+                  "price": 500,
+                  "essential_ingredients": ["espaguetis", "salsa"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Pizzas",
+              "items": [
+                {
+                  "name": "Pizza",
+                  "price": 500,
+                  "essential_ingredients": ["masa de pizza", "salsa"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Agregados",
+              "items": [
+                {
+                  "name": "Atún",
+                  "price": 400,
+                  "essential_ingredients": ["atún"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Cebolla",
+                  "price": 250,
+                  "essential_ingredients": ["cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pimiento",
+                  "price": 300,
+                  "essential_ingredients": ["pimiento"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Queso",
+                  "price": 300,
+                  "essential_ingredients": ["queso"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Jamón",
+                  "price": 200,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Piña",
+                  "price": 200,
+                  "essential_ingredients": ["piña"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chorizo",
+                  "price": 200,
+                  "essential_ingredients": ["chorizo"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Postres",
+              "items": [
+                {
+                  "name": "Torrejas",
+                  "price": 250,
+                  "essential_ingredients": ["pan", "leche"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Ensalada de Helado",
+                  "price": 500,
+                  "essential_ingredients": ["helado"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Bola de Helado",
+                  "price": 100,
+                  "essential_ingredients": ["helado"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Batido de Helado",
+                  "price": 500,
+                  "essential_ingredients": ["helado", "leche"],
+                  "allergy_info": ["lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Bebidas",
+              "items": []
+            }
+          ]
+        }
+      }
+      

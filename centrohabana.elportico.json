@@ -1,0 +1,190 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Bar - Restaurante"]
+    },
+    "name": "El Pórtico",
+    "cuisine": [],
+    "description": "El Pórtico es un bar - restaurante ubicado en Centro Habana.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": null,
+        "close": null
+      },
+      "tuesday": {
+        "open": "00:00",
+        "close": "24:00"
+      },
+      "wednesday": {
+        "open": "00:00",
+        "close": "24:00"
+      },
+      "thursday": {
+        "open": "00:00",
+        "close": "24:00"
+      },
+      "friday": {
+        "open": "00:00",
+        "close": "24:00"
+      },
+      "saturday": {
+        "open": "00:00",
+        "close": "24:00"
+      },
+      "sunday": {
+        "open": "00:00",
+        "close": "24:00"
+      }
+    },
+    "address": "Centro Habana",
+    "municipality": "Centro Habana",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.13385424944992,
+      "longitude": -82.36160649338726
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+    "menu": {
+      "categories": [
+        {
+          "category": "Entrantes",
+          "items": [
+            {
+              "name": "pollo chiflado",
+              "price": 400,
+              "essential_ingredients": ["pollo", "especias"],
+              "allergy_info": []
+            },
+            {
+              "name": "chuleton",
+              "price": 950,
+              "essential_ingredients": ["carne de res", "especias"],
+              "allergy_info": []
+            },
+            {
+              "name": "papas fritas",
+              "price": 350,
+              "essential_ingredients": ["papas", "aceite"],
+              "allergy_info": []
+            },
+            {
+              "name": "croquetas",
+              "price": 350,
+              "essential_ingredients": ["harina", "leche", "jamón"],
+              "allergy_info": ["gluten", "lactosa", "cerdo"]
+            },
+            {
+              "name": "tostones",
+              "price": 250,
+              "essential_ingredients": ["plátano", "aceite"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Bebidas alcohólicas",
+          "items": [
+            {
+              "name": "cerveza dispensada (jarra)",
+              "price": 300,
+              "essential_ingredients": ["cerveza"],
+              "allergy_info": ["gluten", "alcohol"]
+            },
+            {
+              "name": "cerveza dispensada (termo)",
+              "price": 2000,
+              "essential_ingredients": ["cerveza"],
+              "allergy_info": ["gluten", "alcohol"]
+            },
+            {
+              "name": "cerveza parranda",
+              "price": 400,
+              "essential_ingredients": ["cerveza"],
+              "allergy_info": ["gluten", "alcohol"]
+            },
+            {
+              "name": "cerveza hollandia",
+              "price": 200,
+              "essential_ingredients": ["cerveza"],
+              "allergy_info": ["gluten", "alcohol"]
+            },
+            {
+              "name": "cerveza cacique",
+              "price": 240,
+              "essential_ingredients": ["cerveza"],
+              "allergy_info": ["gluten", "alcohol"]
+            },
+            {
+              "name": "cerveza unlaguer",
+              "price": 200,
+              "essential_ingredients": ["cerveza"],
+              "allergy_info": ["gluten", "alcohol"]
+            },
+            {
+              "name": "cerveza La Fria",
+              "price": 180,
+              "essential_ingredients": ["cerveza"],
+              "allergy_info": ["gluten", "alcohol"]
+            },
+            {
+              "name": "cerveza almara",
+              "price": 180,
+              "essential_ingredients": ["cerveza"],
+              "allergy_info": ["gluten", "alcohol"]
+            },
+            {
+              "name": "cerveza bucanero",
+              "price": 240,
+              "essential_ingredients": ["cerveza"],
+              "allergy_info": ["gluten", "alcohol"]
+            },
+            {
+              "name": "cerveza cristal",
+              "price": 250,
+              "essential_ingredients": ["cerveza"],
+              "allergy_info": ["gluten", "alcohol"]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,382 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Magic's Cream & Burguer",
+    "cuisine": ["Comida rapida"],
+    "description": null,
+    "contact_info": {
+      "phone": 
+        {
+          "number": null,
+          "type": "mobile"
+        },
+      "email": null,
+      "website": null,
+      "instagram": null,
+      "facebook": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "tuesday": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "wednesday": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "thursday": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "friday": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "saturday": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "sunday": {
+        "open": "11:00",
+        "close": "22:00"
+      }
+    },
+    "address": "Calzada de 10 de Octubre, % Santa Amalia y Arnao, Arroyo Naranjo",
+    "municipality": "Arroyo Naranjo",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+  "menu": {
+    "categories": [
+      {
+        "category": "Entrantes",
+        "items": [
+          {
+            "name": "Croquetas Magic's",
+            "price": 400.00,
+            "essential_ingredients": ["Harina", "Leche", "Huevo", "Pan rallado"],
+            "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+          },
+          {
+            "name": "Fritura de Malanga",
+            "price": 400.00,
+            "essential_ingredients": ["Malanga", "Harina", "Huevo"],
+            "allergy_info": ["Gluten", "Huevo"]
+          },
+          {
+            "name": "Tacos de Pollo",
+            "price": 700.00,
+            "essential_ingredients": ["Tortilla", "Pollo", "Lechuga", "Tomate"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Tacos de Cerdo",
+            "price": 800.00,
+            "essential_ingredients": ["Tortilla", "Cerdo", "Lechuga", "Tomate"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Fajas de Pollo",
+            "price": 600.00,
+            "essential_ingredients": ["Pollo", "Pimientos", "Cebolla"],
+            "allergy_info": []
+          },
+          {
+            "name": "Bolitas de Queso",
+            "price": 500.00,
+            "essential_ingredients": ["Queso", "Harina", "Huevo", "Pan rallado"],
+            "allergy_info": ["Lactosa", "Gluten", "Huevo"]
+          },
+          {
+            "name": "Papas Fritas",
+            "price": 500.00,
+            "essential_ingredients": ["Papas", "Aceite", "Sal"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Plato principal",
+        "items": [
+          {
+            "name": "Hamburguesas de Cerdo",
+            "price": 430.00,
+            "essential_ingredients": ["Pan", "Cerdo", "Lechuga", "Tomate"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Hamburguesas de Pollo",
+            "price": 430.00,
+            "essential_ingredients": ["Pan", "Pollo", "Lechuga", "Tomate"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Hamburguesas Doble",
+            "price": 1000.00,
+            "essential_ingredients": ["Pan", "Cerdo", "Pollo", "Lechuga", "Tomate"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Hamburguesas Super Magic's",
+            "price": 1500.00,
+            "essential_ingredients": ["Pan", "Cerdo", "Pollo", "Lechuga", "Tomate"],
+            "allergy_info": ["Gluten"]
+          }
+        ]
+      },
+      {
+        "category": "Agregos",
+        "items": [
+          {
+            "name": "Jamon",
+            "price": 100.00,
+            "essential_ingredients": ["Jamon"],
+            "allergy_info": []
+          },
+          {
+            "name": "Queso",
+            "price": 100.00,
+            "essential_ingredients": ["Queso"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Vegetales",
+            "price": 100.00,
+            "essential_ingredients": ["Lechuga", "Tomate"],
+            "allergy_info": []
+          },
+          {
+            "name": "Papas",
+            "price": 500.00,
+            "essential_ingredients": ["Papas", "Aceite", "Sal"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Postres",
+        "items": [
+          {
+            "name": "Bola de helado",
+            "price": 70.00,
+            "essential_ingredients": ["Helado"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Jimaguas",
+            "price": 195.00,
+            "essential_ingredients": ["Helado", "Chocolate"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Ensalada de helado",
+            "price": 350.00,
+            "essential_ingredients": ["Helado", "Frutas"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Batido de helado",
+            "price": 395.00,
+            "essential_ingredients": ["Helado", "Leche"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Tres gracias",
+            "price": 245.00,
+            "essential_ingredients": ["Helado", "Dulce de leche", "Frutas"],
+            "allergy_info": ["Lactosa"]
+          }
+        ]
+      },
+      {
+        "category": "Bebidas alcoholicas",
+        "items": [
+          {
+            "name": "Cervezas Importadas",
+            "price": 220.00,
+            "essential_ingredients": ["Cerveza"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cervezas Nacionales",
+            "price": 300.00,
+            "essential_ingredients": ["Cerveza"],
+            "allergy_info": []
+          },
+          {
+            "name": "Piña Colada con Alcohol",
+            "price": 575.00,
+            "essential_ingredients": ["Piña", "Coco", "Ron"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cuba Libre",
+            "price": 500.00,
+            "essential_ingredients": ["Ron", "Refresco de cola", "Limon"],
+            "allergy_info": []
+          },
+          {
+            "name": "Mojito",
+            "price": 500.00,
+            "essential_ingredients": ["Ron", "Hierbabuena", "Limon", "Azucar", "Agua mineral"],
+            "allergy_info": []
+          },
+          {
+            "name": "Botella Label 5",
+            "price": 3500.00,
+            "essential_ingredients": ["Whisky"],
+            "allergy_info": []
+          },
+          {
+            "name": "JW Red Label",
+            "price": 600.00,
+            "essential_ingredients": ["Whisky"],
+            "allergy_info": []
+          },
+          {
+            "name": "Ballantine's",
+            "price": 550.00,
+            "essential_ingredients": ["Whisky"],
+            "allergy_info": []
+          },
+          {
+            "name": "Howells",
+            "price": 300.00,
+            "essential_ingredients": ["Whisky"],
+            "allergy_info": []
+          },
+          {
+            "name": "Gran Marchell",
+            "price": 300.00,
+            "essential_ingredients": ["Whisky"],
+            "allergy_info": []
+          },
+          {
+            "name": "Pacto Navio",
+            "price": 700.00,
+            "essential_ingredients": ["Ron"],
+            "allergy_info": []
+          },
+          {
+            "name": "Havana Club Añejo Reserva",
+            "price": 400.00,
+            "essential_ingredients": ["Ron"],
+            "allergy_info": []
+          },
+          {
+            "name": "Havana Club Añejo 3 Años",
+            "price": 350.00,
+            "essential_ingredients": ["Ron"],
+            "allergy_info": []
+          },
+          {
+            "name": "Ginebra",
+            "price": 300.00,
+            "essential_ingredients": ["Ginebra"],
+            "allergy_info": []
+          },
+          {
+            "name": "Vodka",
+            "price": 300.00,
+            "essential_ingredients": ["Vodka"],
+            "allergy_info": []
+          },
+          {
+            "name": "Copa Vino Tinto",
+            "price": 600.00,
+            "essential_ingredients": ["Vino tinto"],
+            "allergy_info": []
+          },
+          {
+            "name": "Copa Vino Blanco",
+            "price": 550.00,
+            "essential_ingredients": ["Vino blanco"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Bebidas no alcoholicas",
+        "items": [
+          {
+            "name": "Malta",
+            "price": 300.00,
+            "essential_ingredients": ["Malta"],
+            "allergy_info": []
+          },
+          {
+            "name": "Pepsi",
+            "price": 300.00,
+            "essential_ingredients": ["Refresco"],
+            "allergy_info": []
+          },
+          {
+            "name": "Refresco de Lata",
+            "price": 210.00,
+            "essential_ingredients": ["Refresco"],
+            "allergy_info": []
+          },
+          {
+            "name": "Limonada Frappe",
+            "price": 250.00,
+            "essential_ingredients": ["Limon", "Hielo", "Azucar"],
+            "allergy_info": []
+          },
+          {
+            "name": "Agrego de Michelada",
+            "price": 250.00,
+            "essential_ingredients": ["Limon", "Salsa inglesa", "Sal"],
+            "allergy_info": []
+          },
+          {
+            "name": "Piña Colada sin Alcohol",
+            "price": 500.00,
+            "essential_ingredients": ["Piña", "Coco"],
+            "allergy_info": []
+          }
+        ]
+      }
+    ]
+  }
+}
+
+  

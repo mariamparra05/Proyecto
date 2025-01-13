@@ -1,0 +1,294 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Tu Tiempo",
+    "cuisine": ["Restaurante"],
+    "description": "Tu Tiempo es un restaurante ubicado en Centro Habana.",
+    "contact_info": {
+      "phone": {
+        "number": "78737259",
+        "type": "landline"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tuesday": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wednesday": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thursday": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "friday": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "saturday": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sunday": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "address": "Centro Habana",
+    "municipality": "Centro Habana",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.1401557660662,
+      "longitude": -82.37586279184762
+    },
+    "social_media": {},
+    "accepted_payment_methods": ["Efectivo", "Transfermovil"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+        "menu": {
+          "categories": [
+            {
+              "category": "Platos Principales",
+              "items": [
+                {
+                  "name": "combo 17",
+                  "price": 2000,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 18",
+                  "price": 2000,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 19",
+                  "price": 2300,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 20",
+                  "price": 2300,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 21",
+                  "price": 3000,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 22",
+                  "price": 3000,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 23",
+                  "price": 3000,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 24",
+                  "price": 2000,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 25",
+                  "price": 2500,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 26 (tu tiempo)",
+                  "price": 5000,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "fricase de pollo",
+                  "price": 2000,
+                  "essential_ingredients": ["pollo", "vegetales", "salsa"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "bistec de res",
+                  "price": 3300,
+                  "essential_ingredients": ["res", "especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "arroz con pollo",
+                  "price": 2000,
+                  "essential_ingredients": ["arroz", "pollo", "vegetales"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "combo 1",
+                  "price": 1500,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 2",
+                  "price": 1800,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 3",
+                  "price": 2000,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 4",
+                  "price": 2000,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 5",
+                  "price": 2300,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 6",
+                  "price": 2600,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 7",
+                  "price": 3000,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 8",
+                  "price": 2000,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 9",
+                  "price": 2000,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 10",
+                  "price": 2100,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 11",
+                  "price": 2000,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 12",
+                  "price": 2000,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 13",
+                  "price": 2000,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 14",
+                  "price": 2000,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 15",
+                  "price": 2000,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                },
+                {
+                  "name": "combo 16",
+                  "price": 2300,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["varios"]
+                }
+              ]
+            },
+            {
+              "category": "Postres",
+              "items": [
+                {
+                  "name": "arroz con leche",
+                  "price": 300,
+                  "essential_ingredients": ["arroz", "leche", "azúcar"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "coctel de frutas",
+                  "price": 150,
+                  "essential_ingredients": ["frutas variadas"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Bebidas",
+              "items": [
+                {
+                  "name": "batido de helado",
+                  "price": 400,
+                  "essential_ingredients": ["helado", "leche"],
+                  "allergy_info": ["lactosa"]
+                }
+              ]
+            }
+          ]
+        }
+      }
+      

@@ -1,0 +1,287 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Restaurante"]
+      },
+      "name": "El Pellizco",
+      "cuisine": ["Criolla"],
+      "description": null,
+      "contact_info": {
+        "phone": {
+          "number": null,
+          "type": "mobile"
+        },
+        "email": null,
+        "website": null
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "11:00",
+          "close": "24:00"
+        },
+        "tuesday": {
+          "open": "11:00",
+          "close": "24:00"
+        },
+        "wednesday": {
+          "open": "11:00",
+          "close": "24:00"
+        },
+        "thursday": {
+          "open": "11:00",
+          "close": "24:00"
+        },
+        "friday": {
+          "open": "11:00",
+          "close": "24:00"
+        },
+        "saturday": {
+          "open": "11:00",
+          "close": "24:00"
+        },
+        "sunday": {
+          "open": "11:00",
+          "close": "24:00"
+        }
+      },
+      "address": "3Q5F+6C6, La Habana",
+      "municipality": "Guanabacoa",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": "Instagram"
+      },
+      "accepted_payment_methods": ["Efectivo", "Transferencia"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Tarifa de servicio 10%",
+        "description": "Se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": [],
+        "ambience": [],
+        "usual_customers": [],
+        "planning": [],
+        "children": null,
+        "pets": null,
+        "parking": null
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },
+            "menu": {
+              "categories": [
+                {
+                  "category": "Entrantes",
+                  "items": [
+                    {
+                      "name": "Racion de chicharron",
+                      "price": 150.00,
+                      "essential_ingredients": ["Cerdo"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Racion de empella",
+                      "price": 100.00,
+                      "essential_ingredients": ["Cerdo"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Caldoza de la casa",
+                      "price": 250.00,
+                      "essential_ingredients": ["Carne", "Vegetales"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Racion de tostones",
+                      "price": 80.00,
+                      "essential_ingredients": ["Platano"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Racion de mariquitas",
+                      "price": 80.00,
+                      "essential_ingredients": ["Platano"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Platano maduro frito",
+                      "price": 80.00,
+                      "essential_ingredients": ["Platano"],
+                      "allergy_info": []
+                    }
+                  ]
+                },
+                {
+                  "category": "Plato principal",
+                  "items": [
+                    {
+                      "name": "Bistec de higado",
+                      "price": 400.00,
+                      "essential_ingredients": ["Higado", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Higado a la italiana",
+                      "price": 450.00,
+                      "essential_ingredients": ["Higado", "Salsa italiana"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Bistec de cerdo",
+                      "price": 600.00,
+                      "essential_ingredients": ["Cerdo", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Masa de cerdo",
+                      "price": 650.00,
+                      "essential_ingredients": ["Cerdo", "Aceite", "Ajo"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Chuleta de cerdo",
+                      "price": 650.00,
+                      "essential_ingredients": ["Cerdo"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Lomo ahumado",
+                      "price": 650.00,
+                      "essential_ingredients": ["Cerdo", "Ajo", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Lonjas de cerdo asada",
+                      "price": 600.00,
+                      "essential_ingredients": ["Cerdo", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Pollo asado",
+                      "price": 450.00,
+                      "essential_ingredients": ["Pollo", "Ajo", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Costilla asada",
+                      "price": 650.00,
+                      "essential_ingredients": ["Cerdo", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Ropa vieja de cerdo",
+                      "price": 650.00,
+                      "essential_ingredients": ["Cerdo", "Cebolla", "Pimientos", "Tomate"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Fricase de costilla",
+                      "price": 650.00,
+                      "essential_ingredients": ["Cerdo", "Tomate", "Especias"],
+                      "allergy_info": []
+                    }
+                  ]
+                },
+                {
+                  "category": "Pizzas",
+                  "items": [
+                    {
+                      "name": "Pizza napolitana",
+                      "price": 200.00,
+                      "essential_ingredients": ["Masa de pizza", "Tomate", "Queso"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    }
+                  ]
+                },
+                {
+                  "category": "Pasta",
+                  "items": [
+                    {
+                      "name": null,
+                      "price": null,
+                      "essential_ingredients": [],
+                      "allergy_info": []
+                    }
+                  ]
+                },
+                {
+                  "category": "Postres",
+                  "items": [
+                    {
+                      "name": null,
+                      "price": null,
+                      "essential_ingredients": [],
+                      "allergy_info": []
+                    }
+                  ]
+                },
+                {
+                  "category": "Bebidas alcoholicas",
+                  "items": [
+                    {
+                      "name": "Cerveza nacional",
+                      "price": 220.00,
+                      "essential_ingredients": ["Cerveza"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Cerveza importada",
+                      "price": 220.00,
+                      "essential_ingredients": ["Cerveza"],
+                      "allergy_info": []
+                    }
+                  ]
+                },
+                {
+                  "category": "Bebidas no alcoholicas",
+                  "items": [
+                    {
+                      "name": "Jugo de caja",
+                      "price": 150.00,
+                      "essential_ingredients": ["Jugo"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Jugo de botella",
+                      "price": 120.00,
+                      "essential_ingredients": ["Jugo"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Malta",
+                      "price": 150.00,
+                      "essential_ingredients": ["Malta"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Agua natural",
+                      "price": 100.00,
+                      "essential_ingredients": ["Agua"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Energizante",
+                      "price": 220.00,
+                      "essential_ingredients": ["Bebida energetica"],
+                      "allergy_info": []
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+          
