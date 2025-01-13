@@ -3,6 +3,8 @@
 
 Quiero comenzar con una disculpa por la organización del proyecto. Pasé varios días intentando subirlo desde mi computadora, pero debido a problemas técnicos y al límite de tiempo, la única forma en que logré hacerlo fue desde mi teléfono. Esto afectó la estructura que planeaba implementar, ya que no pude ordenar los archivos como quería. Mi intención era organizarlos en carpetas específicas: una para los datos (data), otra para los notebooks (notebook), otra para diseño (design), y otras adicionales según las necesidades del proyecto.
 
+#Aclaracion Importante: el notebook es final.ipynb 
+
 #Sobre el proyecto
 
 Sé que este proyecto tiene áreas que pude haber trabajado mucho mejor, pero traté de hacer todo lo posible para pulir los detalles y entregar algo funcional. Estoy consciente de que hay espacio para mejorar y espero poder superarme en el examen extraordinario. A pesar de las dificultades, me enfoqué en:
