@@ -1,0 +1,193 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Bar Colina",
+    "cuisine": ["Italiana", "Criolla"],
+    "description": "Bar Colina es un bar-restaurante localizado en San Miguel del Padron. Es conocido por su ambiente acogedor y su especializacion en comida italiana. Llevan 6 años ofreciendo un excelente servicio y sus tapas son muy populares entre los clientes.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "11:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Esquina B y Calzada de Guines, Reparto Merceditas, San Miguel del Padron",
+    "municipality": "San Miguel del Padron",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": "Instagram"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Tapas"],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable"],
+      "usual_customers": ["Turistas"],
+      "planning": [],
+      "children": true,
+      "pets": false,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": ["Almuerzo", "Cena"],
+    "advantages": ["Accesible"],
+    "highlights": [ "Alternativas para apagones", "Asientos para niños", "Ambiente climatizado" ]
+  },
+
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "Chicharrita",
+                  "price": 300,
+                  "essential_ingredients": ["plátano"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Croquetas",
+                  "price": 400,
+                  "essential_ingredients": ["harina", "leche"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Tostones",
+                  "price": 400,
+                  "essential_ingredients": ["plátano", "aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Frituras de malanga",
+                  "price": 550,
+                  "essential_ingredients": ["malanga", "aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Tostones rellenos",
+                  "price": 600,
+                  "essential_ingredients": ["plátano", "relleno"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Entremes de jamón y queso",
+                  "price": 600,
+                  "essential_ingredients": ["jamón", "queso"],
+                  "allergy_info": ["lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Pastas",
+              "items": [
+                {
+                  "name": "Espaguetti Napolitano",
+                  "price": 550,
+                  "essential_ingredients": ["espaguetis", "salsa napolitana"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Pizzas",
+              "items": [
+                {
+                  "name": "Pizza Napolitana",
+                  "price": 220,
+                  "essential_ingredients": ["masa de pizza", "salsa napolitana"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pizza Napolitana Grande",
+                  "price": 650,
+                  "essential_ingredients": ["masa de pizza", "salsa napolitana"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Agregos",
+              "items": [
+                {
+                  "name": "Piña",
+                  "price": 150,
+                  "essential_ingredients": ["piña"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Queso",
+                  "price": 200,
+                  "essential_ingredients": ["queso"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Chorizo",
+                  "price": 300,
+                  "essential_ingredients": ["chorizo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Jamón",
+                  "price": 300,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Bebidas",
+              "items": []
+            }
+          ]
+        }
+      }
+      

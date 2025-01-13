@@ -1,0 +1,348 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "La Patrona",
+    "cuisine": ["Criolla", "Italiana"],
+    "description": "La Patrona es una Restaurante-Cafeteria en el municipio San Miguel del Padron, ubicada en Calzada de Guines en San Francisco de Paula. Con apertura reciente, ofrece una deliciosa seleccion de comida criolla e italiana, destacando sus especialidades en lasana, canelones y espagueti carbonara. Es un lugar ideal para disfrutar de un almuerzo relajado y una cerveza refrescante.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": null,
+        "close": null
+      },
+      "tuesday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "wednesday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "thursday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "friday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "saturday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "sunday": {
+        "open": "08:00",
+        "close": "00:00"
+      }
+    },
+    "address": "Calzada de Guines en San Francisco de Paula",
+    "municipality": "San Miguel del Padron",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Arroz Frito", "Lasana", "Canelones", "Espagueti Carbonara"],
+      "local_options": [],
+      "services": [],
+      "ambience": ["Agradable"],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": ["Almuerzo"],
+    "advantages": [],
+    "highlights": ["Ambiente climatizado"]
+  },
+
+        "menu": {
+          "categories": [
+            {
+              "category": "Hamburguesas",
+              "items": [
+                {
+                  "name": "Hamburguesa Clásica",
+                  "price": 500,
+                  "essential_ingredients": ["pan de hamburguesa", "carne"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Hamburguesa Sencilla",
+                  "price": 700,
+                  "essential_ingredients": ["pan de hamburguesa", "carne"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Hamburguesa Grosera",
+                  "price": 1200,
+                  "essential_ingredients": ["pan de hamburguesa", "carne", "otros ingredientes"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Hamburguesa Patrona",
+                  "price": 1000,
+                  "essential_ingredients": ["pan de hamburguesa", "carne", "otros ingredientes"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Platos Principales",
+              "items": [
+                {
+                  "name": "Bistec Uruguayo",
+                  "price": 2600,
+                  "essential_ingredients": ["bistec de res"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Ropa Vieja",
+                  "price": 1400,
+                  "essential_ingredients": ["res"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Escalope de Cerdo",
+                  "price": 1800,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bistec de Cerdo",
+                  "price": 1600,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Arroz Frito",
+                  "price": 1000,
+                  "essential_ingredients": ["arroz", "varios ingredientes"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Pastas",
+              "items": [
+                {
+                  "name": "Lasaña",
+                  "price": 1250,
+                  "essential_ingredients": ["pasta", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Canelones",
+                  "price": 1100,
+                  "essential_ingredients": ["pasta", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Espaguetti Carbonara",
+                  "price": 1500,
+                  "essential_ingredients": ["espaguetis", "carbonara"],
+                  "allergy_info": ["gluten", "lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Pizzas",
+              "items": [
+                {
+                  "name": "Pizza La Patrona",
+                  "price": 1800,
+                  "essential_ingredients": ["masa de pizza", "varios ingredientes"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Agregos",
+              "items": [
+                {
+                  "name": "Jamón Serrano",
+                  "price": 800,
+                  "essential_ingredients": ["jamón serrano"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Jamón",
+                  "price": 400,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chorizo",
+                  "price": 400,
+                  "essential_ingredients": ["chorizo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bacon",
+                  "price": 400,
+                  "essential_ingredients": ["bacon"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pepperoni",
+                  "price": 400,
+                  "essential_ingredients": ["pepperoni"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Queso Parmesano",
+                  "price": 400,
+                  "essential_ingredients": ["queso parmesano"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Queso Blanco",
+                  "price": 300,
+                  "essential_ingredients": ["queso blanco"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Queso Gouda",
+                  "price": 400,
+                  "essential_ingredients": ["queso gouda"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Cebolla",
+                  "price": 300,
+                  "essential_ingredients": ["cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Piña",
+                  "price": 300,
+                  "essential_ingredients": ["piña"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Aceitunas",
+                  "price": 300,
+                  "essential_ingredients": ["aceitunas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Atún",
+                  "price": 500,
+                  "essential_ingredients": ["atún"],
+                  "allergy_info": ["pescado"]
+                }
+              ]
+            },
+            {
+              "category": "Postres",
+              "items": [
+                {
+                  "name": "Flan",
+                  "price": 200,
+                  "essential_ingredients": ["leche", "huevos"],
+                  "allergy_info": ["lactosa", "huevo"]
+                },
+                {
+                  "name": "Copa Lolita",
+                  "price": 400,
+                  "essential_ingredients": ["helado", "otros ingredientes"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Cesta Helado",
+                  "price": 500,
+                  "essential_ingredients": ["helado", "otros ingredientes"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Tres Gracias",
+                  "price": 300,
+                  "essential_ingredients": ["otros ingredientes"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Infusiones",
+              "items": [
+                {
+                  "name": "Café Express",
+                  "price": 150,
+                  "essential_ingredients": ["café"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Café con Crema",
+                  "price": 180,
+                  "essential_ingredients": ["café", "crema"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Café La Patrona",
+                  "price": 250,
+                  "essential_ingredients": ["café", "otros ingredientes"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Frapuchino",
+                  "price": 250,
+                  "essential_ingredients": ["café", "otros ingredientes"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Bebidas no Alcoholicas",
+              "items": [
+                {
+                  "name": "Jugos",
+                  "price": 100,
+                  "essential_ingredients": ["frutas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Suero Helado",
+                  "price": 350,
+                  "essential_ingredients": ["helado"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Batidos",
+                  "price": 300,
+                  "essential_ingredients": ["frutas", "leche"],
+                  "allergy_info": ["lactosa"]
+                }
+              ]
+            }
+          ]
+        }
+      }
+      
+  

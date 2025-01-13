@@ -1,0 +1,438 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Bar-Restaurant"]
+    },
+    "name": "La Catedral",
+    "cuisine": ["Spanish", "Cuban"],
+    "description": "",
+    "contact_info": {
+      "phone": {
+        "number": "078300793",
+        "type": "mobile"
+      },
+      "email": "catedralrestaurantecuba@gmail.com",
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "08:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "08:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "08:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "08:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "08:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "08:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "08:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Calle 8 e/ Calzada 5ta, Vedado. Plaza de la Revolucion, La Habana 10400 Cuba",
+    "municipality": "Plaza de la Revolucion",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.135892638151837,
+      "longitude": -82.40453312083959
+    },
+    "social_media": {
+      "facebook": "https://www.facebook.com/mirestaurantencuba",
+      "instagram": "https://www.instagram.com/lacatedralcuba"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia", "Tarjeta de Credito"],
+    "delivery_available": null,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": false,
+      "takeaway": true,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": true
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+
+        "menu": {
+          "categories": [
+            {
+              "category": "Appetizer",
+              "items": [
+                {
+                  "name": "bombones de queso y pescado",
+                  "price": 499,
+                  "essential_ingredients": ["queso", "pescado"],
+                  "allergy_info": ["lactosa", "pescado"]
+                },
+                {
+                  "name": "mariquitas de yuca",
+                  "price": 350,
+                  "essential_ingredients": ["yuca"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "brusquetas",
+                  "price": 350,
+                  "essential_ingredients": ["pan", "tomate"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "garbanzos fritos",
+                  "price": 700,
+                  "essential_ingredients": ["garbanzos"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "entremeses surtido",
+                  "price": 799,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "picadera obispo",
+                  "price": 1350,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "fuente de eperlan",
+                  "price": 1400,
+                  "essential_ingredients": ["eperlan"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "tabla de embutidos",
+                  "price": 1500,
+                  "essential_ingredients": ["embutidos"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "tacos de cerdo y pollo",
+                  "price": 1500,
+                  "essential_ingredients": ["cerdo", "pollo", "tortilla"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "fajitas de pollo frito",
+                  "price": 1500,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "tabla de jamón serrano, chorizo y queso",
+                  "price": 1900,
+                  "essential_ingredients": ["jamón serrano", "chorizo", "queso"],
+                  "allergy_info": ["lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Main Course",
+              "items": [
+                {
+                  "name": "lasaña de res",
+                  "price": 1600,
+                  "essential_ingredients": ["res", "pasta", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "ropa vieja",
+                  "price": 1800,
+                  "essential_ingredients": ["res"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "bistec de cerdo al mojo criollo",
+                  "price": 1500,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "fajita de cerdo al grill",
+                  "price": 1500,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "lonjas de pierna ahumado salsa agridulce",
+                  "price": 1700,
+                  "essential_ingredients": ["cerdo", "salsa agridulce"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "lonjas de pierna ahumado con queso y piña",
+                  "price": 1800,
+                  "essential_ingredients": ["cerdo", "queso", "piña"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "milanesa de cerdo con espaguettis",
+                  "price": 1500,
+                  "essential_ingredients": ["cerdo", "pasta", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "arroz frito",
+                  "price": 1500,
+                  "essential_ingredients": ["arroz", "vegetales"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "arroz frito especial con camarones",
+                  "price": 1700,
+                  "essential_ingredients": ["arroz", "camarones", "vegetales"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "pollo deshuesado a la plancha",
+                  "price": 1400,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "fajitas de pollo salteadas",
+                  "price": 1400,
+                  "essential_ingredients": ["pollo", "vegetales"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "milanesa de pollo con espaguettis",
+                  "price": 1400,
+                  "essential_ingredients": ["pollo", "pasta", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "arroz con pollo a la chorrera",
+                  "price": 1500,
+                  "essential_ingredients": ["arroz", "pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "filete de pescado maitre de hotel",
+                  "price": 1700,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "filete de pescado frito",
+                  "price": 1800,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                }
+            ]
+          },
+          {
+  
+                      "category": "Beverages",
+                      "items": [
+                        { 
+                          "name": "refrescos",
+                          "price": 199,
+                          "essential_ingredients": ["refresco"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "limonada de fresas",
+                          "price": 250,
+                          "essential_ingredients": ["limón", "fresas"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "jugos de frutas",
+                          "price": 199,
+                          "essential_ingredients": ["frutas"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "agua natural",
+                          "price": 199,
+                          "essential_ingredients": ["agua"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "malta perla negra",
+                          "price": 350,
+                          "essential_ingredients": ["malta"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "cristal (barril) 500ml",
+                          "price": 350,
+                          "essential_ingredients": ["cerveza"],
+                          "allergy_info": ["gluten", "alcohol"]
+                        },
+                        {
+                          "name": "cristal (botella)",
+                          "price": 350,
+                          "essential_ingredients": ["cerveza"],
+                          "allergy_info": ["gluten", "alcohol"]
+                        },
+                        {
+                          "name": "bucanero (barril) 500ml",
+                          "price": 350,
+                          "essential_ingredients": ["cerveza"],
+                          "allergy_info": ["gluten", "alcohol"]
+                        },
+                        {
+                          "name": "bucanero (botella)",
+                          "price": 350,
+                          "essential_ingredients": ["cerveza"],
+                          "allergy_info": ["gluten", "alcohol"]
+                        },
+                        {
+                          "name": "cubetazo 4+1",
+                          "price": 1500,
+                          "essential_ingredients": ["cerveza"],
+                          "allergy_info": ["gluten", "alcohol"]
+                        },
+                        {
+                          "name": "michelada clásica",
+                          "price": 425,
+                          "essential_ingredients": ["cerveza", "limón", "salsa picante"],
+                          "allergy_info": ["gluten", "alcohol"]
+                        },
+                        {
+                          "name": "michelada al mojito",
+                          "price": 425,
+                          "essential_ingredients": ["cerveza", "mojito"],
+                          "allergy_info": ["gluten", "alcohol"]
+                        },
+                        {
+                          "name": "michelada vampira",
+                          "price": 425,
+                          "essential_ingredients": ["cerveza", "salsa picante"],
+                          "allergy_info": ["gluten", "alcohol"]
+                        },
+                        {
+                          "name": "michelada salsanera",
+                          "price": 425,
+                          "essential_ingredients": ["cerveza", "salsa picante"],
+                          "allergy_info": ["gluten", "alcohol"]
+                        },
+                        {
+                          "name": "mojito",
+                          "price": 340,
+                          "essential_ingredients": ["ron", "menta", "limón", "azúcar", "agua con gas"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "daiquirí",
+                          "price": 340,
+                          "essential_ingredients": ["ron", "limón", "azúcar"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "daiquirí de fresas",
+                          "price": 499,
+                          "essential_ingredients": ["ron", "fresas", "azúcar"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "cubalibre",
+                          "price": 340,
+                          "essential_ingredients": ["ron", "cola", "limón"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "cubanito",
+                          "price": 399,
+                          "essential_ingredients": ["ron", "tomate", "salsa picante"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "blody mary",
+                          "price": 499,
+                          "essential_ingredients": ["vodka", "tomate", "salsa picante"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "sangria",
+                          "price": 499,
+                          "essential_ingredients": ["vino", "frutas"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "screw driver",
+                          "price": 599,
+                          "essential_ingredients": ["vodka", "jugo de naranja"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "caipiriña",
+                          "price": 599,
+                          "essential_ingredients": ["cachaça", "limón", "azúcar"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "piña colada",
+                          "price": 599,
+                          "essential_ingredients": ["ron", "piña", "coco"],
+                          "allergy_info": ["alcohol", "lactosa"]
+                        },
+                        {
+                          "name": "martini",
+                          "price": 599,
+                          "essential_ingredients": ["ginebra", "vermú"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "old fashioned",
+                          "price": 599,
+                          "essential_ingredients": ["whisky", "azúcar", "amargo"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "whiskey sour",
+                          "price": 599,
+                          "essential_ingredients": ["whisky", "limón", "azúcar"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "manhatan",
+                          "price": 599,
+                          "essential_ingredients": ["whisky", "vermú"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "negroni",
+                          "price": 599,
+                          "essential_ingredients": ["ginebra", "vermú", "campari"],
+                          "allergy_info": ["alcohol"]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+              
+       

@@ -1,0 +1,456 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Bar-Restaurante"]
+    },
+    "name": "Spot Bar",
+    "cuisine": ["Criolla", "Internacional", "Italiana", "Tragos"],
+    "description": "",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": "landline"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "24:00",
+        "close": "23:59"
+      },
+      "tuesday": {
+        "open": "24:00",
+        "close": "23:59"
+      },
+      "wednesday": {
+        "open": "24:00",
+        "close": "23:59"
+      },
+      "thursday": {
+        "open": "24:00",
+        "close": "23:59"
+      },
+      "friday": {
+        "open": "24:00",
+        "close": "23:59"
+      },
+      "saturday": {
+        "open": "24:00",
+        "close": "23:59"
+      },
+      "sunday": {
+        "open": "24:00",
+        "close": "23:59"
+      }
+    },
+    "address": "23 y 12, Vedado, Plaza",
+    "municipality": "Plaza de la Revolucion",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.12739793607911,
+      "longitude": -82.3996550067848
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": "https://www.instagram.com/sportbar_23y12/"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": false,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+
+    "menu": {
+      "categories": [
+        {
+          "category": "Breakfast",
+          "items": [
+            {
+              "name": "waffles",
+              "price": 600,
+              "essential_ingredients": ["harina", "huevos", "leche"],
+              "allergy_info": ["gluten", "huevos", "lactosa"]
+            },
+            {
+              "name": "americano",
+              "price": 1000,
+              "essential_ingredients": ["huevos", "bacon", "tostadas"],
+              "allergy_info": ["huevos", "gluten"]
+            }
+          ]
+        },
+        {
+          "category": "Appetizer",
+          "items": [
+            {
+              "name": "brusquetas",
+              "price": 500,
+              "essential_ingredients": ["pan", "tomate", "ajo"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "croquetas del día",
+              "price": 550,
+              "essential_ingredients": ["harina", "leche"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "fritura de malanga",
+              "price": 450,
+              "essential_ingredients": ["malanga"],
+              "allergy_info": []
+            },
+            {
+              "name": "papas fritas",
+              "price": 550,
+              "essential_ingredients": ["papas"],
+              "allergy_info": []
+            },
+            {
+              "name": "picadera 23 y 12",
+              "price": 2500,
+              "essential_ingredients": ["varios"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Main Course",
+          "items": [
+            {
+              "name": "emparedado de atún",
+              "price": 1400,
+              "essential_ingredients": ["pan", "atún"],
+              "allergy_info": ["gluten", "pescado"]
+            },
+            {
+              "name": "emparedado de pollo",
+              "price": 1400,
+              "essential_ingredients": ["pan", "pollo"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "emparedado de lechón",
+              "price": 1600,
+              "essential_ingredients": ["pan", "lechón"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "emparedado de jamón y queso",
+              "price": 1000,
+              "essential_ingredients": ["pan", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "emparedado de 23 y 12",
+              "price": 2000,
+              "essential_ingredients": ["pan", "varios"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "hamburguesa clásica de cerdo",
+              "price": 1450,
+              "essential_ingredients": ["pan", "cerdo"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "tacos de pollo, 3 unidades",
+              "price": 2000,
+              "essential_ingredients": ["tortilla", "pollo"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "tacos de pollo, 8 unidades",
+              "price": 3000,
+              "essential_ingredients": ["tortilla", "pollo"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "tacos de cerdo, 3 unidades",
+              "price": 2500,
+              "essential_ingredients": ["tortilla", "cerdo"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "tacos de camarón, 3 unidades",
+              "price": 2500,
+              "essential_ingredients": ["tortilla", "camarón"],
+              "allergy_info": ["gluten", "mariscos"]
+            },
+            {
+              "name": "pizza napoles",
+              "price": 1250,
+              "essential_ingredients": ["masa de pizza", "queso", "tomate"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "pasta boloñesa",
+              "price": 1800,
+              "essential_ingredients": ["pasta", "salsa boloñesa"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "pasta pesto",
+              "price": 950,
+              "essential_ingredients": ["pasta", "salsa pesto"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "pasta napoles",
+              "price": 1200,
+              "essential_ingredients": ["pasta", "salsa napolitana"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "pasta aljillo",
+              "price": 1000,
+              "essential_ingredients": ["pasta", "ajo"],
+              "allergy_info": ["gluten"]
+            }
+          ]
+        },
+        {
+          "category": "Drinks",
+          "items": [
+            {
+              "name": "cerveza cristal",
+              "price": 400,
+              "essential_ingredients": ["cebada", "lúpulo"],
+              "allergy_info": ["gluten", "alcohol"]
+            },
+            {
+              "name": "cerveza cristal extra",
+              "price": 500,
+              "essential_ingredients": ["cebada", "lúpulo"],
+              "allergy_info": ["gluten", "alcohol"]
+            },
+            {
+              "name": "cerveza bucanero",
+              "price": 400,
+              "essential_ingredients": ["cebada", "lúpulo"],
+              "allergy_info": ["gluten", "alcohol"]
+            },
+            {
+              "name": "cerveza bucanero max",
+              "price": 500,
+              "essential_ingredients": ["cebada", "lúpulo"],
+              "allergy_info": ["gluten", "alcohol"]
+            },
+            {
+              "name": "cerveza dispensada",
+              "price": 350,
+              "essential_ingredients": ["cebada", "lúpulo"],
+              "allergy_info": ["gluten", "alcohol"]
+            },
+            {
+              "name": "agua nacional",
+              "price": 250,
+              "essential_ingredients": ["agua"],
+              "allergy_info": []
+            },
+            {
+              "name": "agua importada",
+              "price": 450,
+              "essential_ingredients": ["agua"],
+              "allergy_info": []
+            },
+            {
+              "name": "refresco nacional",
+              "price": 280,
+              "essential_ingredients": ["agua carbonatada", "azúcar"],
+              "allergy_info": []
+            },
+            {
+              "name": "refresco importado",
+              "price": 300,
+              "essential_ingredients": ["agua carbonatada", "azúcar"],
+              "allergy_info": []
+            },
+            {
+              "name": "malta",
+              "price": 400,
+              "essential_ingredients": ["cebada", "lúpulo"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "energizante",
+              "price": 600,
+              "essential_ingredients": ["cafeína"],
+              "allergy_info": []
+            },
+            {
+              "name": "limonada natural",
+              "price": 400,
+              "essential_ingredients": ["limón", "agua", "azúcar"],
+              "allergy_info": []
+            },
+            {
+              "name": "limonada c/ hierba buena",
+              "price": 425,
+              "essential_ingredients": ["limón", "hierba buena", "agua", "azúcar"],
+              "allergy_info": []
+            },
+            {
+              "name": "jugo natural",
+              "price": 350,
+              "essential_ingredients": ["frutas"],
+              "allergy_info": []
+            },
+            {
+              "name": "café américano",
+              "price": 250,
+              "essential_ingredients": ["café", "agua"],
+              "allergy_info": []
+            },
+            {
+              "name": "café espresso",
+              "price": 250,
+              "essential_ingredients": ["café"],
+              "allergy_info": []
+            },
+            {
+              "name": "café espresso c/ coffemate",
+              "price": 300,
+              "essential_ingredients": ["café", "coffeemate"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "café cortadito",
+              "price": 300,
+              "essential_ingredients": ["café", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "café bombom",
+              "price": 400,
+              "essential_ingredients": ["café", "leche condensada"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "café cappuccino",
+              "price": 500,
+              "essential_ingredients": ["café", "leche", "espuma de leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "café affocato",
+              "price": 500,
+              "essential_ingredients": ["café", "helado"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "café frapuccino",
+              "price": 550,
+              "essential_ingredients": ["café", "hielo", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "café frapuccino 23 y 12",
+              "price": 650,
+              "essential_ingredients": ["café", "hielo", "leche"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Desserts",
+          "items": [
+            {
+              "name": "batido de frutas",
+              "price": 500,
+              "essential_ingredients": ["frutas", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "suero de helado",
+              "price": 650,
+              "essential_ingredients": ["helado"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "malteada",
+              "price": 600,
+              "essential_ingredients": ["helado", "malta"],
+              "allergy_info": ["lactosa", "gluten"]
+            }
+          ]
+        },
+        {
+          "category": "Special",
+          "items": [
+            {
+              "name": "CR7",
+              "price": 700,
+              "essential_ingredients": ["varios"],
+              "allergy_info": []
+            },
+            {
+              "name": "messi",
+              "price": 600,
+              "essential_ingredients": ["varios"],
+              "allergy_info": []
+            },
+            {
+              "name": "lakers",
+              "price": 600,
+              "essential_ingredients": ["varios"],
+              "allergy_info": []
+            },
+            {
+              "name": "habana mule",
+              "price": 600,
+              "essential_ingredients": ["ron", "jengibre", "limón"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "canchancara habana",
+              "price": 600,
+              "essential_ingredients": ["ron", "miel", "limón"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "michelada 23 y 12",
+              "price": 500,
+              "essential_ingredients": ["cerveza", "limón", "salsa picante"],
+              "allergy_info": ["gluten", "alcohol"]
+            },
+            {
+              "name": "zombie",
+              "price": 650,
+              "essential_ingredients": ["ron", "frutas"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "vampiro",
+              "price": 700,
+              "essential_ingredients": ["varios"],
+              "allergy_info": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+ 

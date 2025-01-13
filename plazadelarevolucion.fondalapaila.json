@@ -1,0 +1,394 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurant"]
+    },
+    "name": "Fonda La Paila",
+    "cuisine": ["Cubana"],
+    "description": "",
+    "contact_info": {
+      "phone": {
+        "number": "+5353388837",
+        "type": "mobile"
+      },
+      "email": "fondapaila25@gmail.com",
+      "website": "https://fondalapaila.com/"
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "24:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "24:00"
+      }
+    },
+    "address": "Calle M e/ 25 y 27, Vedado, Plaza",
+    "municipality": "Plaza de la Revolucion",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.155894841159917,
+      "longitude": -82.38263698387051
+    },
+    "social_media": {
+      "facebook": "https://www.facebook.com/lapaila25ym",
+      "instagram": "https://www.instagram.com/lapaila_25ym/"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+
+      "menu": {
+        "categories": [
+          {
+            "category": "Appetizer",
+            "items": [
+              {
+                "name": "Cesta de Pan",
+                "price": 600.00,
+                "essential_ingredients": ["pan"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Frituras de Malanga",
+                "price": 1000.00,
+                "essential_ingredients": ["malanga"],
+                "allergy_info": []
+              },
+              {
+                "name": "Croquetas de la Casa",
+                "price": 1350.00,
+                "essential_ingredients": ["harina", "leche"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Pan con Lechón",
+                "price": 1850.00,
+                "essential_ingredients": ["pan", "lechón"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Tacos Guajiros",
+                "price": 2200.00,
+                "essential_ingredients": ["tortilla", "carne"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Tacos de Camarón",
+                "price": 2200.00,
+                "essential_ingredients": ["tortilla", "camarón"],
+                "allergy_info": ["gluten", "mariscos"]
+              },
+              {
+                "name": "Tostones 25 y M",
+                "price": 1850.00,
+                "essential_ingredients": ["plátano"],
+                "allergy_info": []
+              },
+              {
+                "name": "Bastones Fritos",
+                "price": 2500.00,
+                "essential_ingredients": ["harina", "aceite"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Cóctel de Langosta",
+                "price": 2000.00,
+                "essential_ingredients": ["langosta"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Cóctel de Camarón",
+                "price": 1900.00,
+                "essential_ingredients": ["camarón"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Ceviche Criollo",
+                "price": 2000.00,
+                "essential_ingredients": ["pescado", "limón"],
+                "allergy_info": ["pescado"]
+              },
+              {
+                "name": "Charcutería Criolla",
+                "price": 3000.00,
+                "essential_ingredients": ["embutidos"],
+                "allergy_info": []
+              },
+              {
+                "name": "Tabla La Paila",
+                "price": 4500.00,
+                "essential_ingredients": ["variedad"],
+                "allergy_info": []
+              },
+              {
+                "name": "Papas Prefritas con Chorizo y Queso",
+                "price": 1500.00,
+                "essential_ingredients": ["papas", "chorizo", "queso"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Bastones Fritos de Pescado",
+                "price": 3000.00,
+                "essential_ingredients": ["pescado"],
+                "allergy_info": ["pescado"]
+              },
+              {
+                "name": "Tabla de Jamón Serrano",
+                "price": 3500.00,
+                "essential_ingredients": ["jamón serrano"],
+                "allergy_info": []
+              },
+              {
+                "name": "Tabla de Salmón",
+                "price": 3000.00,
+                "essential_ingredients": ["salmón"],
+                "allergy_info": ["pescado"]
+              }
+            ]
+          },
+          {
+            "category": "Main Course",
+            "items": [
+              {
+                "name": "Arroz con Pollo a la Cubana",
+                "price": 3000.00,
+                "essential_ingredients": ["arroz", "pollo"],
+                "allergy_info": []
+              },
+              {
+                "name": "Pollo Campestre",
+                "price": 2300.00,
+                "essential_ingredients": ["pollo"],
+                "allergy_info": []
+              },
+              {
+                "name": "Pechuga Grillé",
+                "price": 2500.00,
+                "essential_ingredients": ["pollo"],
+                "allergy_info": []
+              },
+              {
+                "name": "Pechuga Salteada",
+                "price": 2500.00,
+                "essential_ingredients": ["pollo"],
+                "allergy_info": []
+              },
+              {
+                "name": "Ropa Vieja Criolla",
+                "price": 3000.00,
+                "essential_ingredients": ["res"],
+                "allergy_info": []
+              },
+              {
+                "name": "Vaca Frita",
+                "price": 3000.00,
+                "essential_ingredients": ["res"],
+                "allergy_info": []
+              },
+              {
+                "name": "Masas a la Paila",
+                "price": 3000.00,
+                "essential_ingredients": ["cerdo"],
+                "allergy_info": []
+              },
+              {
+                "name": "Chuleta a la Parrilla",
+                "price": 3000.00,
+                "essential_ingredients": ["cerdo"],
+                "allergy_info": []
+              },
+              {
+                "name": "Costillas BBQ",
+                "price": 3500.00,
+                "essential_ingredients": ["costillas de cerdo", "salsa BBQ"],
+                "allergy_info": []
+              },
+              {
+                "name": "Brocheta Criolla",
+                "price": 3000.00,
+                "essential_ingredients": ["carne", "vegetales"],
+                "allergy_info": []
+              },
+              {
+                "name": "Lonjas de Cerdo",
+                "price": 2850.00,
+                "essential_ingredients": ["cerdo"],
+                "allergy_info": []
+              },
+              {
+                "name": "Lomo de Cerdo Mechado",
+                "price": 3300.00,
+                "essential_ingredients": ["cerdo", "especias"],
+                "allergy_info": []
+              },
+              {
+                "name": "Pescado al Carbón",
+                "price": 3000.00,
+                "essential_ingredients": ["pescado"],
+                "allergy_info": ["pescado"]
+              },
+              {
+                "name": "Pescado Sauté Papillote",
+                "price": 3600.00,
+                "essential_ingredients": ["pescado", "vegetales"],
+                "allergy_info": ["pescado"]
+              },
+              {
+                "name": "Camarón a su Elección",
+                "price": 3500.00,
+                "essential_ingredients": ["camarón"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Langosta al Carbón",
+                "price": 3600.00,
+                "essential_ingredients": ["langosta"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Langosta Enchilada",
+                "price": 3800.00,
+                "essential_ingredients": ["langosta", "salsa enchilada"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Langosta Termidor",
+                "price": 4000.00,
+                "essential_ingredients": ["langosta", "queso", "crema"],
+                "allergy_info": ["mariscos", "lactosa"]
+              },
+              {
+                "name": "Grillada Mixta",
+                "price": 6500.00,
+                "essential_ingredients": ["variedad de carnes y mariscos"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Pulpo a su Elección",
+                "price": 4200.00,
+                "essential_ingredients": ["pulpo"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Grillada del Mar",
+                "price": 5900.00,
+                "essential_ingredients": ["variedad de mariscos"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Grillada de la Tierra",
+                "price": 5800.00,
+                "essential_ingredients": ["variedad de carnes"],
+                "allergy_info": []
+              },
+              {
+                "name": "Pasta Frutti di Mare",
+                "price": 3500.00,
+                "essential_ingredients": ["pasta", "mariscos"],
+                "allergy_info": ["gluten", "mariscos"]
+              },
+              {
+                "name": "Lechón Ahumado",
+                "price": 3300.00,
+                "essential_ingredients": ["cerdo"],
+                "allergy_info": []
+              }
+            ]
+          },
+          {
+                  "category": "Desserts",
+                  "items": [
+                    {
+                      "name": "helados de crema de fresa",
+                      "price": 550,
+                      "essential_ingredients": ["crema de fresa"],
+                      "allergy_info": ["lactosa"]
+                    },
+                    {
+                      "name": "tarta de chocolate",
+                      "price": 650,
+                      "essential_ingredients": ["chocolate"],
+                      "allergy_info": ["lactosa", "gluten"]
+                    },
+                    {
+                      "name": "postre de paila",
+                      "price": 750,
+                      "essential_ingredients": ["desconocido"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "cheescake de fruta",
+                      "price": 950,
+                      "essential_ingredients": ["queso crema", "fruta"],
+                      "allergy_info": ["lactosa", "gluten"]
+                    },
+                    {
+                      "name": "flan de la casa",
+                      "price": 500,
+                      "essential_ingredients": ["leche", "huevo"],
+                      "allergy_info": ["lactosa", "huevo"]
+                    },
+                    {
+                      "name": "copa lolita",
+                      "price": 750,
+                      "essential_ingredients": ["helado", "azúcar"],
+                      "allergy_info": ["lactosa"]
+                    },
+                    {
+                      "name": "torrejas de la casa con helado",
+                      "price": 500,
+                      "essential_ingredients": ["pan", "helado"],
+                      "allergy_info": ["gluten", "lactosa"]
+                    }
+                  ]
+                }
+        ]
+      }
+    }  
+    

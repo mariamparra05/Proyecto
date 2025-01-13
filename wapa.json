@@ -1,0 +1,527 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Restaurante"]
+      },
+      "name": "Wapa",
+      "cuisine": ["Cuban", "Centroamerican"],
+      "description": null,
+      "contact_info": {
+        "phone": {
+          "number": 5378314553,
+          "type": "mobile"
+        },
+        "email": "info@wapacafeteria.com",
+        "website": null
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "11:30",
+          "close": "23:00"
+        },
+        "tuesday": {
+          "open": "09:00",
+          "close": "23:00"
+        },
+        "wednesday": {
+          "open": "09:00",
+          "close": "23:00"
+        },
+        "thursday": {
+          "open": "09:00",
+          "close": "23:00"
+        },
+        "friday": {
+          "open": "09:00",
+          "close": "23:00"
+        },
+        "saturday": {
+          "open": "09:00",
+          "close": "23:00"
+        },
+        "sunday": {
+          "open": "09:00",
+          "close": "23:00"
+        }
+      },
+      "address": "Calle 4 entre 15 y 17, Vedado, Plaza",
+      "municipality": "Plaza de la Revolucion",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": "23.133054069126786",
+        "longitude": "-82.39869353392423"
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Efectivo", "Transferencia"],
+      "delivery_available": true,
+      "service_fee": {
+        "name": "Ninguno",
+        "description": "No se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": true,
+        "offers": [],
+        "local_options": [],
+        "services": [],
+        "ambience": [],
+        "usual_customers": [],
+        "planning": [],
+        "children": null,
+        "pets": null,
+        "parking": true
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },
+    "menu": {
+      "categories": [
+        {
+          "category": "Desayuno",
+          "items": [
+            {
+              "name": "Combo 1",
+              "price": 1500,
+              "essential_ingredients": ["varios"],
+              "allergy_info": []
+            },
+            {
+              "name": "Combo 2",
+              "price": 1900,
+              "essential_ingredients": ["varios"],
+              "allergy_info": []
+            },
+            {
+              "name": "Combo 3 infantil",
+              "price": 1100,
+              "essential_ingredients": ["varios"],
+              "allergy_info": []
+            },
+            {
+              "name": "Omelette jardinera",
+              "price": 1200,
+              "essential_ingredients": ["huevos", "vegetales"],
+              "allergy_info": []
+            },
+            {
+              "name": "Omelette tentación",
+              "price": 1200,
+              "essential_ingredients": ["huevos", "queso", "jamón"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Omelette del campo",
+              "price": 1100,
+              "essential_ingredients": ["huevos", "vegetales"],
+              "allergy_info": []
+            },
+            {
+              "name": "Omelette",
+              "price": 600,
+              "essential_ingredients": ["huevos"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Entrantes",
+          "items": [
+            {
+              "name": "Croquetas de la abuela",
+              "price": 700,
+              "essential_ingredients": ["harina", "leche", "carne"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Croquetas de jamón serrano",
+              "price": 1000,
+              "essential_ingredients": ["harina", "leche", "jamón serrano"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Bolitas de queso",
+              "price": 1000,
+              "essential_ingredients": ["queso", "harina"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Crema de queso",
+              "price": 600,
+              "essential_ingredients": ["queso", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Ceviche de pescado",
+              "price": 2000,
+              "essential_ingredients": ["pescado", "limón"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "Ceviche mixto tropical",
+              "price": 2600,
+              "essential_ingredients": ["pescado", "mariscos", "limón"],
+              "allergy_info": ["pescado", "mariscos"]
+            },
+            {
+              "name": "Ceviche de camarón",
+              "price": 2900,
+              "essential_ingredients": ["camarones", "limón"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Cóctel de camarón",
+              "price": 2000,
+              "essential_ingredients": ["camarones", "salsa"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Bastón de pollo",
+              "price": 1900,
+              "essential_ingredients": ["pollo", "empanizado"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Daditos de pescado",
+              "price": 2100,
+              "essential_ingredients": ["pescado", "empanizado"],
+              "allergy_info": ["gluten", "pescado"]
+            },
+            {
+              "name": "Fritura de malanga",
+              "price": 500,
+              "essential_ingredients": ["malanga"],
+              "allergy_info": []
+            },
+            {
+              "name": "Brusquetas",
+              "price": 900,
+              "essential_ingredients": ["pan", "tomate"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Tartaleta de jamón y queso",
+              "price": 900,
+              "essential_ingredients": ["masa", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Tartaleta de pollo",
+              "price": 1350,
+              "essential_ingredients": ["masa", "pollo"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Tartaleta de atún",
+              "price": 1100,
+              "essential_ingredients": ["masa", "atún"],
+              "allergy_info": ["gluten", "pescado"]
+            }
+        ]
+      },
+      {
+          "category": "Platos principales",
+          "items": [
+            {
+              "name": "Pizza",
+              "price": 1200,
+              "essential_ingredients": ["masa", "tomate", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Lasaña",
+              "price": 1300,
+              "essential_ingredients": ["pasta", "queso", "carne"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Canelón de jamón",
+              "price": 1200,
+              "essential_ingredients": ["pasta", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Canelón boloñesa",
+              "price": 1750,
+              "essential_ingredients": ["pasta", "carne", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Bebidas no alcohólicas",
+          "items": [
+            {
+              "name": "Agua natural",
+              "price": 300,
+              "essential_ingredients": ["agua"],
+              "allergy_info": []
+            },
+            {
+              "name": "Refresco importado",
+              "price": 400,
+              "essential_ingredients": ["refresco"],
+              "allergy_info": []
+            },
+            {
+              "name": "Malta",
+              "price": 500,
+              "essential_ingredients": ["malta"],
+              "allergy_info": []
+            },
+            {
+              "name": "Malteada",
+              "price": 800,
+              "essential_ingredients": ["helado", "leche"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Bebidas alcohólicas",
+          "items": [
+            {
+              "name": "Cerveza importada",
+              "price": 450,
+              "essential_ingredients": ["cerveza"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Cerveza nacional",
+              "price": 550,
+              "essential_ingredients": ["cerveza"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Michelada",
+              "price": 600,
+              "essential_ingredients": ["cerveza", "limón", "sal", "salsa inglesa"],
+              "allergy_info": []
+            },
+            {
+              "name": "Sangría",
+              "price": 1000,
+              "essential_ingredients": ["vino", "frutas"],
+              "allergy_info": []
+            },
+            {
+              "name": "Copa de vino",
+              "price": 800,
+              "essential_ingredients": ["vino"],
+              "allergy_info": []
+            },
+            {
+              "name": "Cuba libre",
+              "price": 800,
+              "essential_ingredients": ["ron", "cola"],
+              "allergy_info": []
+            },
+            {
+              "name": "Cubata",
+              "price": 850,
+              "essential_ingredients": ["ron", "cola"],
+              "allergy_info": []
+            },
+            {
+              "name": "Mojito",
+              "price": 800,
+              "essential_ingredients": ["ron", "limón", "menta"],
+              "allergy_info": []
+            },
+            {
+              "name": "Caipiriña",
+              "price": 500,
+              "essential_ingredients": ["cachaça", "limón", "azúcar"],
+              "allergy_info": []
+            },
+            {
+              "name": "Caipiroska",
+              "price": 500,
+              "essential_ingredients": ["vodka", "limón", "azúcar"],
+              "allergy_info": []
+            },
+            {
+              "name": "Caipirísima",
+              "price": 550,
+              "essential_ingredients": ["ron", "limón", "azúcar"],
+              "allergy_info": []
+            },
+            {
+              "name": "Ron Collins",
+              "price": 850,
+              "essential_ingredients": ["ron", "limón", "soda"],
+              "allergy_info": []
+            },
+            {
+              "name": "Piña colada",
+              "price": 850,
+              "essential_ingredients": ["ron", "piña", "coco"],
+              "allergy_info": []
+            },
+            {
+              "name": "Barbie",
+              "price": 700,
+              "essential_ingredients": ["varios"],
+              "allergy_info": []
+            },
+            {
+              "name": "Canchánchara",
+              "price": 550,
+              "essential_ingredients": ["ron", "limón", "miel"],
+              "allergy_info": []
+            },
+            {
+              "name": "Daiquirí",
+              "price": 650,
+              "essential_ingredients": ["ron", "limón"],
+              "allergy_info": []
+            }
+        ]
+      },
+      {
+          "category": "Cafés",
+          "items": [
+            {
+              "name": "Expresso",
+              "price": 220,
+              "essential_ingredients": ["café"],
+              "allergy_info": []
+            },
+            {
+              "name": "Americano",
+              "price": 360,
+              "essential_ingredients": ["café", "agua"],
+              "allergy_info": []
+            },
+            {
+              "name": "Cortadito",
+              "price": 250,
+              "essential_ingredients": ["café", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Cappuccino",
+              "price": 550,
+              "essential_ingredients": ["café", "leche", "espuma"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Cappuccino Wapa",
+              "price": 600,
+              "essential_ingredients": ["café", "leche", "espuma"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Bombón",
+              "price": 600,
+              "essential_ingredients": ["café", "leche condensada"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Mocaccino",
+              "price": 550,
+              "essential_ingredients": ["café", "chocolate", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Frappuccino",
+              "price": 950,
+              "essential_ingredients": ["café", "hielo", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Q Locura",
+              "price": 850,
+              "essential_ingredients": ["café", "varios"],
+              "allergy_info": []
+            },
+            {
+              "name": "Café con leche",
+              "price": 550,
+              "essential_ingredients": ["café", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Chocolate caliente",
+              "price": 350,
+              "essential_ingredients": ["chocolate", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Té",
+              "price": 100,
+              "essential_ingredients": ["té"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Postres",
+          "items": [
+            {
+              "name": "Wapetón",
+              "price": 2000,
+              "essential_ingredients": ["varios"],
+              "allergy_info": []
+            },
+            {
+              "name": "Wapetón dinamita",
+              "price": 2000,
+              "essential_ingredients": ["varios"],
+              "allergy_info": []
+            },
+            {
+              "name": "Wapetón volcán",
+              "price": 2000,
+              "essential_ingredients": ["varios"],
+              "allergy_info": []
+            },
+            {
+              "name": "Wapito",
+              "price": 1200,
+              "essential_ingredients": ["varios"],
+              "allergy_info": []
+            },
+            {
+              "name": "Batidos de frutas naturales",
+              "price": 700,
+              "essential_ingredients": ["frutas", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Batidos de helados",
+              "price": 1200,
+              "essential_ingredients": ["helado", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Copa de helado",
+              "price": 1000,
+              "essential_ingredients": ["helado"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Tartaleta",
+              "price": 1000,
+              "essential_ingredients": ["masa", "relleno"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Bola de helado",
+              "price": 300,
+              "essential_ingredients": ["helado"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

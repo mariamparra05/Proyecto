@@ -1,0 +1,271 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Cafe", "Internacional", "Criolla"]
+      },
+      "name": "2KFE",
+      "cuisine": ["Cafe", "Internacional", "Criolla"],
+      "description": null,
+      "contact_info": {
+        "phone": {
+          "number": null,
+          "type": null
+        },
+        "email": null,
+        "website": null
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "tuesday": {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "wednesday": {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "thursday": {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "friday": {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "saturday": {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "sunday": {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      },
+      "address": "4MH8+57M entre Martí y Maceo, Pereira, La Habana",
+      "municipality": "Regla",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Efectivo", "Transfermovil"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Tarifa de servicio 10%",
+        "description": "Se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": ["A la carta"],
+        "ambience": [],
+        "usual_customers": [],
+        "planning": [],
+        "children": null,
+        "pets": null,
+        "parking": null
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },
+    "menu": {
+      "categories": [
+        {
+          "category": "Entrantes",
+          "items": [
+            {
+              "name": "Croquetas",
+              "price": 300.00,
+              "essential_ingredients": ["Harina", "Leche", "Huevo", "Pan rallado"],
+              "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+            },
+            {
+              "name": "Viandas Fritas",
+              "price": 100.00,
+              "essential_ingredients": ["Viandas", "Aceite"],
+              "allergy_info": []
+            },
+            {
+              "name": "Brusquetas",
+              "price": 250.00,
+              "essential_ingredients": ["Pan", "Tomate", "Aceite de oliva"],
+              "allergy_info": ["Gluten"]
+            },
+            {
+              "name": "Entremes Surtido",
+              "price": 800.00,
+              "essential_ingredients": ["Jamón", "Queso", "Chorizo", "Aceituna"],
+              "allergy_info": ["Lactosa"]
+            },
+            {
+              "name": "Mini Gordon Bleu",
+              "price": 800.00,
+              "essential_ingredients": ["Pollo", "Jamón", "Queso", "Vegetal salteado"],
+              "allergy_info": ["Lactosa"]
+            },
+            {
+              "name": "Plato Combinado",
+              "price": 1200.00,
+              "essential_ingredients": ["Fajitas de pollo", "Bolitas de carne", "Croquetas", "Jamón", "Chorizo", "Viandas fritas"],
+              "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+            }
+          ]
+        },
+        {
+          "category": "Platos Principales",
+          "items": [
+            {
+              "name": "Tacos Carnitas",
+              "price": 850.00,
+              "essential_ingredients": ["Cerdo asado", "Cebolla encurtida", "Salsa verde", "Cebollino", "Vegetal salteado"],
+              "allergy_info": ["Gluten"]
+            },
+            {
+              "name": "Tacos Res",
+              "price": 900.00,
+              "essential_ingredients": ["Ropa vieja", "Vegetal salteado", "Salsa chimichurri"],
+              "allergy_info": ["Gluten"]
+            },
+            {
+              "name": "Tacos Pollo",
+              "price": 600.00,
+              "essential_ingredients": ["Hilos de pollo", "Vegetal salteado", "Salsa vinagreta"],
+              "allergy_info": ["Gluten"]
+            },
+            {
+              "name": "Tacos Vegetariano",
+              "price": 400.00,
+              "essential_ingredients": ["Vegetales", "Salsa"],
+              "allergy_info": []
+            },
+            {
+              "name": "Tacos Vegetales Salteados En Mantequilla Y Limón",
+              "price": 0.00,
+              "essential_ingredients": ["Vegetales", "Mantequilla", "Limón"],
+              "allergy_info": ["Lactosa"]
+            },
+            {
+              "name": "Tacos Jamón Y Queso",
+              "price": 650.00,
+              "essential_ingredients": ["Jamón", "Queso", "Tortilla"],
+              "allergy_info": ["Gluten", "Lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Bebidas Alcohólicas",
+          "items": [
+            {
+              "name": "Irlandés",
+              "price": 250.00,
+              "essential_ingredients": ["Café", "Whisky", "Crema"],
+              "allergy_info": ["Lactosa"]
+            },
+            {
+              "name": "Caribeño",
+              "price": 180.00,
+              "essential_ingredients": ["Café", "Ron", "Leche"],
+              "allergy_info": ["Lactosa"]
+            },
+            {
+              "name": "2KF",
+              "price": 250.00,
+              "essential_ingredients": ["Café", "Leche", "Licor"],
+              "allergy_info": ["Lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Bebidas No Alcohólicas",
+          "items": [
+            {
+              "name": "Espresso",
+              "price": 100.00,
+              "essential_ingredients": ["Café"],
+              "allergy_info": []
+            },
+            {
+              "name": "Americano",
+              "price": 100.00,
+              "essential_ingredients": ["Café", "Agua"],
+              "allergy_info": []
+            },
+            {
+              "name": "Frappuccino",
+              "price": 500.00,
+              "essential_ingredients": ["Café", "Leche", "Hielo"],
+              "allergy_info": ["Lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Infusiones",
+          "items": [
+            {
+              "name": "Cortadito",
+              "price": 150.00,
+              "essential_ingredients": ["Café", "Leche"],
+              "allergy_info": ["Lactosa"]
+            },
+            {
+              "name": "Con Leche",
+              "price": 200.00,
+              "essential_ingredients": ["Café", "Leche"],
+              "allergy_info": ["Lactosa"]
+            },
+            {
+              "name": "Espresso Macchiato",
+              "price": 180.00,
+              "essential_ingredients": ["Café", "Leche"],
+              "allergy_info": ["Lactosa"]
+            },
+            {
+              "name": "Caramel Macchiato",
+              "price": 250.00,
+              "essential_ingredients": ["Café", "Leche", "Caramelo"],
+              "allergy_info": ["Lactosa"]
+            },
+            {
+              "name": "Cappuccino",
+              "price": 220.00,
+              "essential_ingredients": ["Café", "Leche", "Espuma de leche"],
+              "allergy_info": ["Lactosa"]
+            },
+            {
+              "name": "Alma Mía",
+              "price": 180.00,
+              "essential_ingredients": ["Café", "Leche", "Menta"],
+              "allergy_info": ["Lactosa"]
+            },
+            {
+              "name": "Minty Coffee",
+              "price": 250.00,
+              "essential_ingredients": ["Café", "Leche", "Menta"],
+              "allergy_info": ["Lactosa"]
+            },
+            {
+              "name": "Lujo",
+              "price": 600.00,
+              "essential_ingredients": ["Café", "Leche", "Chocolate"],
+              "allergy_info": ["Lactosa"]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

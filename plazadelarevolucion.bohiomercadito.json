@@ -1,0 +1,208 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Bohio_Mercadito",
+    "cuisine": [ "Americana"],
+    "description": "",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "tuesday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "wednesday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "thursday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "friday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "saturday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "sunday": {
+        "open": "10:00",
+        "close": "21:00"
+      }
+    },
+    "address": "4HVX+3WQ, y C, Vedado, La, Malecon, La Habana",
+    "municipality": "Plaza de la Revolucion",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transfermovil"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+    "menu": {
+      "categories": [
+        {
+          "category": "Desayunos",
+          "items": [
+            {
+              "name": "Baguette Jamón y Queso",
+              "price": 700.00,
+              "essential_ingredients": ["baguette", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa", "cerdo"]
+            },
+            {
+              "name": "Croissant Nutella",
+              "price": 800.00,
+              "essential_ingredients": ["croissant", "Nutella"],
+              "allergy_info": ["gluten", "frutos secos"]
+            },
+            {
+              "name": "Croissant Jamón y Queso",
+              "price": 900.00,
+              "essential_ingredients": ["croissant", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa", "cerdo"]
+            },
+            {
+              "name": "Mini Croissants Chocolate",
+              "price": 150.00,
+              "essential_ingredients": ["croissant", "chocolate"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Dona Chocolate",
+              "price": 250.00,
+              "essential_ingredients": ["dona", "chocolate"],
+              "allergy_info": ["gluten"]
+            }
+          ]
+        },
+        {
+          "category": "Entrantes",
+          "items": []
+        },
+        {
+          "category": "Platos Principales",
+          "items": []
+        },
+        {
+          "category": "Pizzas",
+          "items": []
+        },
+        {
+          "category": "Pastas",
+          "items": []
+        },
+        {
+          "category": "Postres",
+          "items": []
+        }
+      ]
+    },
+    "drinks": {
+      "categories": [
+        {
+          "category": "Bebidas No Alcohólicas",
+          "items": [
+            {
+              "name": "Capuchino",
+              "price": 250.00,
+              "essential_ingredients": ["café", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Expresso",
+              "price": 100.00,
+              "essential_ingredients": ["café"],
+              "allergy_info": []
+            },
+            {
+              "name": "Cortado",
+              "price": 150.00,
+              "essential_ingredients": ["café", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Bombón",
+              "price": 250.00,
+              "essential_ingredients": ["café", "leche condensada"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Affogato",
+              "price": 500.00,
+              "essential_ingredients": ["café", "helado"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Frappuccino",
+              "price": 500.00,
+              "essential_ingredients": ["café", "leche", "hielo"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Frutos del Bosque/Plátano",
+              "price": 600.00,
+              "essential_ingredients": ["frutos del bosque", "plátano"],
+              "allergy_info": []
+            },
+            {
+              "name": "Mango",
+              "price": 500.00,
+              "essential_ingredients": ["mango"],
+              "allergy_info": []
+            },
+            {
+              "name": "Frutabomba",
+              "price": 500.00,
+              "essential_ingredients": ["frutabomba"],
+              "allergy_info": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

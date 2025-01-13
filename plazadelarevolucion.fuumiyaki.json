@@ -1,0 +1,669 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Fuumiyaki",
+    "cuisine": ["Japonesa"],
+    "description": "",
+    "contact_info": {
+      "phone": {
+        "number": "+5352832188",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": "https://www.fuumiyaki.com/"
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "23:50"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "23:50"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "23:50"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "23:50"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "23:50"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "23:50"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "23:50"
+      }
+    },
+    "address": "Ave 26/23 y 25, Vedado, Plaza de la Revolucion",
+    "municipality": "Plaza de la Revolucion",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.12226101881169,
+      "longitude": -82.40508001808305
+    },
+    "social_media": {
+      "facebook": "https://www.facebook.com/fuumiyaki.cuba/",
+      "instagram": "https://www.instagram.com/fuumiyaki/?hl=es"
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": false,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+
+        "menu": {
+          "categories": [
+            {
+              "category": "Appetizer",
+              "items": [
+                {
+                  "name": "Ceviche de Pescado",
+                  "price": 1000,
+                  "essential_ingredients": ["pescado", "limón", "cebolla", "cilantro"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Ceviche Mixto",
+                  "price": 1500,
+                  "essential_ingredients": ["pescado", "mariscos", "limón", "cebolla", "cilantro"],
+                  "allergy_info": ["pescado", "mariscos"]
+                },
+                {
+                  "name": "Gyozas",
+                  "price": 850,
+                  "essential_ingredients": ["masa", "carne", "vegetales"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Rice paper camarones/langosta/pulpo",
+                  "price": 1400,
+                  "essential_ingredients": ["camarones", "langosta", "pulpo", "papel de arroz"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Rice paper pescado",
+                  "price": 1400,
+                  "essential_ingredients": ["pescado", "papel de arroz"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Rice paper pollo/cerdo",
+                  "price": 900,
+                  "essential_ingredients": ["pollo", "cerdo", "papel de arroz"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Rollitos Primavera",
+                  "price": 500,
+                  "essential_ingredients": ["masa", "vegetales"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Sashimi de pescado",
+                  "price": 1200,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Sopa de Miso",
+                  "price": 750,
+                  "essential_ingredients": ["miso", "tofu"],
+                  "allergy_info": ["soja"]
+                },
+                {
+                  "name": "Tartar de pescado",
+                  "price": 1200,
+                  "essential_ingredients": ["pescado", "limón", "especias"],
+                  "allergy_info": ["pescado"]
+                }
+              ]
+            },
+            {
+              "category": "Main Course",
+              "items": [
+                {
+                  "name": "Bocados de Langosta en Tempura",
+                  "price": 2500,
+                  "essential_ingredients": ["langosta", "tempura"],
+                  "allergy_info": ["mariscos", "gluten"]
+                },
+                {
+                  "name": "Bocados de tempura de camarones",
+                  "price": 2500,
+                  "essential_ingredients": ["camarones", "tempura"],
+                  "allergy_info": ["mariscos", "gluten"]
+                },
+                {
+                  "name": "Bocados de tempura de Cerdo",
+                  "price": 1900,
+                  "essential_ingredients": ["cerdo", "tempura"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Bocados de tempura de Pescado",
+                  "price": 2200,
+                  "essential_ingredients": ["pescado", "tempura"],
+                  "allergy_info": ["pescado", "gluten"]
+                },
+                {
+                  "name": "Bocados de tempura de Pollo",
+                  "price": 1600,
+                  "essential_ingredients": ["pollo", "tempura"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Chop suey de camarones",
+                  "price": 2000,
+                  "essential_ingredients": ["camarones", "vegetales"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Chop suey de cerdo",
+                  "price": 1800,
+                  "essential_ingredients": ["cerdo", "vegetales"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chop suey de langosta",
+                  "price": 2000,
+                  "essential_ingredients": ["langosta", "vegetales"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Chop suey de pollo",
+                  "price": 1500,
+                  "essential_ingredients": ["pollo", "vegetales"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chow mein de camarones",
+                  "price": 2000,
+                  "essential_ingredients": ["camarones", "fideos"],
+                  "allergy_info": ["mariscos", "gluten"]
+                },
+                {
+                  "name": "Chow mein de cerdo",
+                  "price": 1850,
+                  "essential_ingredients": ["cerdo", "fideos"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Chow mein de langosta",
+                  "price": 2000,
+                  "essential_ingredients": ["langosta", "fideos"],
+                  "allergy_info": ["mariscos", "gluten"]
+                },
+                {
+                  "name": "Chow mein de pollo",
+                  "price": 1550,
+                  "essential_ingredients": ["pollo", "fideos"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Danza de la reina",
+                  "price": 2800,
+                  "essential_ingredients": ["carne", "mariscos", "vegetales"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Enchilado de camarones",
+                  "price": 2700,
+                  "essential_ingredients": ["camarones", "salsa enchilada"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Enchilado de langosta",
+                  "price": 2700,
+                  "essential_ingredients": ["langosta", "salsa enchilada"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Kanji bol",
+                  "price": 2200,
+                  "essential_ingredients": ["arroz", "vegetales"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Ramen",
+                  "price": 2200,
+                  "essential_ingredients": ["fideos", "caldo"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Shioyaki de pescado",
+                  "price": 2500,
+                  "essential_ingredients": ["pescado", "sal"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Shogayaki de cerdo",
+                  "price": 2200,
+                  "essential_ingredients": ["cerdo", "jengibre"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Tacos de Camarones",
+                  "price": 1600,
+                  "essential_ingredients": ["camarones", "tortilla"],
+                  "allergy_info": ["mariscos", "gluten"]
+                },
+                {
+                  "name": "Tacos de Cerdo",
+                  "price": 1400,
+                  "essential_ingredients": ["cerdo", "tortilla"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Tacos de Langosta",
+                  "price": 1500,
+                  "essential_ingredients": ["langosta", "tortilla"],
+                  "allergy_info": ["mariscos", "gluten"]
+                },
+                {
+                  "name": "Tacos de Pollo",
+                  "price": 1100,
+                  "essential_ingredients": ["pollo", "tortilla"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Tacos de Ropa vieja",
+                  "price": 1300,
+                  "essential_ingredients": ["ropa vieja", "tortilla"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Teriyaki de Camarones",
+                  "price": 2600,
+                  "essential_ingredients": ["camarones", "salsa teriyaki"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Teriyaki de Cerdo",
+                  "price": 2000,
+                  "essential_ingredients": ["cerdo", "salsa teriyaki"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Teriyaki de Langosta",
+                  "price": 2600,
+                  "essential_ingredients": ["langosta", "salsa teriyaki"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Teriyaki de Pollo",
+                  "price": 1700,
+                  "essential_ingredients": ["pollo", "salsa teriyaki"],
+                  "allergy_info": []
+                },
+                {
+                              "name": "Yaki Tori de Camarones",
+                              "price": 2500,
+                              "essential_ingredients": ["camarones", "salsa teriyaki"],
+                              "allergy_info": ["mariscos"]
+                            },
+                            {
+                              "name": "Yaki Tori de Cerdo",
+                              "price": 1800,
+                              "essential_ingredients": ["cerdo", "salsa teriyaki"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Yaki Tori de Langosta",
+                              "price": 2500,
+                              "essential_ingredients": ["langosta", "salsa teriyaki"],
+                              "allergy_info": ["mariscos"]
+                            },
+                            {
+                              "name": "Yaki Tori de Pollo",
+                              "price": 1500,
+                              "essential_ingredients": ["pollo", "salsa teriyaki"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Yakisoba de Camarones",
+                              "price": 2000,
+                              "essential_ingredients": ["camarones", "fideos"],
+                              "allergy_info": ["mariscos", "gluten"]
+                            },
+                            {
+                              "name": "Yakisoba de Cerdo",
+                              "price": 1850,
+                              "essential_ingredients": ["cerdo", "fideos"],
+                              "allergy_info": ["gluten"]
+                            },
+                            {
+                              "name": "Yakisoba de Langosta",
+                              "price": 2000,
+                              "essential_ingredients": ["langosta", "fideos"],
+                              "allergy_info": ["mariscos", "gluten"]
+                            },
+                            {
+                              "name": "Yakisoba de Pollo",
+                              "price": 1550,
+                              "essential_ingredients": ["pollo", "fideos"],
+                              "allergy_info": ["gluten"]
+                            }
+                        ]
+                      },
+                      {
+                        "category": "Desserts",
+                        "items": [
+                          {
+                            "name": "Ración de tarta flan",
+                            "price": 850,
+                            "essential_ingredients": ["flan", "tarta"],
+                            "allergy_info": ["lactosa", "gluten"]
+                          },
+                          {
+                            "name": "Toffee",
+                            "price": 850,
+                            "essential_ingredients": ["caramelo", "azúcar"],
+                            "allergy_info": ["lactosa"]
+                            }
+                          ]
+                        },
+                        {
+                          "category": "Beverages",
+                          "items": [
+                            {
+                              "name": "Agua Mineral Carbonatada Ciego Montero",
+                              "price": 150,
+                              "essential_ingredients": ["agua carbonatada"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Agua Natural Ciego Montero",
+                              "price": 350,
+                              "essential_ingredients": ["agua"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Cerveza Bucanero",
+                              "price": 500,
+                              "essential_ingredients": ["cerveza"],
+                              "allergy_info": ["gluten"]
+                            },
+                            {
+                              "name": "Cerveza Cristal",
+                              "price": 500,
+                              "essential_ingredients": ["cerveza"],
+                              "allergy_info": ["gluten"]
+                            },
+                            {
+                              "name": "Refresco Santa Isabel",
+                              "price": 350,
+                              "essential_ingredients": ["agua carbonatada", "azúcar"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Refresco Santa Limón",
+                              "price": 350,
+                              "essential_ingredients": ["agua carbonatada", "azúcar", "limón"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Refresco Santa Naranja",
+                              "price": 350,
+                              "essential_ingredients": ["agua carbonatada", "azúcar", "naranja"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Vino tinto Casillero del Diablo Reserva",
+                              "price": 10000,
+                              "essential_ingredients": ["uva"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Vino tinto Trapiche Reserva",
+                              "price": 8000,
+                              "essential_ingredients": ["uva"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Havana Club 7 años",
+                              "price": 600,
+                              "essential_ingredients": ["ron"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Seleccion de Maestros",
+                              "price": 750,
+                              "essential_ingredients": ["ron"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Pacto Navío",
+                              "price": 750,
+                              "essential_ingredients": ["ron"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Santiago Añejo",
+                              "price": 550,
+                              "essential_ingredients": ["ron"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Santiago 11 años",
+                              "price": 800,
+                              "essential_ingredients": ["ron"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Clan Campbell",
+                              "price": 550,
+                              "essential_ingredients": ["whisky"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Jameson",
+                              "price": 650,
+                              "essential_ingredients": ["whisky"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Ballantines",
+                              "price": 600,
+                              "essential_ingredients": ["whisky"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Chivas 12 años",
+                              "price": 750,
+                              "essential_ingredients": ["whisky"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Chivas XV",
+                              "price": 1000,
+                              "essential_ingredients": ["whisky"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Chivas 18 años",
+                              "price": 1150,
+                              "essential_ingredients": ["whisky"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Mojito",
+                              "price": 700,
+                              "essential_ingredients": ["ron", "menta", "azúcar", "agua con gas"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Daiquirí",
+                              "price": 700,
+                              "essential_ingredients": ["ron", "limón", "azúcar"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Caipirinha",
+                              "price": 750,
+                              "essential_ingredients": ["cachaça", "limón", "azúcar"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Caipiroska",
+                              "price": 750,
+                              "essential_ingredients": ["vodka", "limón", "azúcar"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Cubanito",
+                              "price": 800,
+                              "essential_ingredients": ["ron", "tomate", "salsa picante"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Bloody Mary",
+                              "price": 850,
+                              "essential_ingredients": ["vodka", "tomate", "salsa picante"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Piña Colada",
+                              "price": 850,
+                              "essential_ingredients": ["ron", "piña", "coco"],
+                              "allergy_info": ["alcohol", "lactosa"]
+                            },
+                            {
+                              "name": "Mimosa",
+                              "price": 500,
+                              "essential_ingredients": ["champán", "jugo de naranja"],
+                              "allergy_info": ["alcohol"]
+                            },
+                        {
+                              "name": "Gin Tonic",
+                              "price": 850,
+                              "essential_ingredients": ["ginebra", "tónica"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Sangría",
+                              "price": 850,
+                              "essential_ingredients": ["vino", "frutas"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Tequila Sunrise",
+                              "price": 600,
+                              "essential_ingredients": ["tequila", "jugo de naranja", "granadina"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Margarita",
+                              "price": 850,
+                              "essential_ingredients": ["tequila", "limón", "triple sec"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Old Fashion",
+                              "price": 800,
+                              "essential_ingredients": ["whisky", "azúcar", "amargo"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Sake",
+                              "price": 650,
+                              "essential_ingredients": ["sake"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Mojito Sake",
+                              "price": 650,
+                              "essential_ingredients": ["sake", "menta", "limón", "azúcar", "agua con gas"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Umeshu Mojito",
+                              "price": 600,
+                              "essential_ingredients": ["umeshu", "menta", "limón", "azúcar", "agua con gas"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Matcha Highball",
+                              "price": 750,
+                              "essential_ingredients": ["whisky", "matcha", "soda"],
+                              "allergy_info": ["alcohol"]
+                            },
+                            {
+                              "name": "Chuchai",
+                              "price": 650,
+                              "essential_ingredients": ["bebida no especificada"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Café Expresso",
+                              "price": 200,
+                              "essential_ingredients": ["café"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Café Cortado",
+                              "price": 300,
+                              "essential_ingredients": ["café", "leche"],
+                              "allergy_info": ["lactosa"]
+                            },
+                            {
+                              "name": "Té",
+                              "price": 300,
+                              "essential_ingredients": ["té"],
+                              "allergy_info": []
+                            }
+                        ]
+                      },
+                      {
+                        "category": "Desserts",
+                        "items": [
+                          {
+                            "name": "Ración de tarta flan",
+                            "price": 850,
+                            "essential_ingredients": ["flan", "tarta"],
+                            "allergy_info": ["lactosa", "gluten"]
+                          },
+                          {
+                            "name": "Toffee",
+                            "price": 850,
+                            "essential_ingredients": ["caramelo", "azúcar"],
+                            "allergy_info": ["lactosa"]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                  
+   

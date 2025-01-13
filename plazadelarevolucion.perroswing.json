@@ -1,0 +1,269 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Perro Swing",
+    "cuisine": ["Comida rapida"],
+    "description": "Agradable, Informal, Recomendable para ir en grupo",
+    "contact_info": {
+      "phone": {
+        "number": "+5363416069",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": "https://linktr.ee/perroswing?fbclid=PAZXh0bgNhZW0CMTEAAabTnrEJ-4wI3S1hyTJz9Mt6QFCiUIDNOZ0wemS0jJTMmQqiFWyLQANKKUM_aem_fobQ0Urjsl9zdyJ6C93ASA"
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Calle Linea entre 18 y 20, Vedado, Plaza",
+    "municipality": "Plaza de la Revolucion",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": "https://www.instagram.com/perro_swing?igsh=MXd5aWl0bzQ0YXRiMg=="
+    },
+    "accepted_payment_methods": [],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": [],
+      "local_options": ["Almuerzo"],
+      "services": [],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": "Hay suficiente espacio, Estacionamiento gratuito en la calle"
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": ["Agradable", "Informal"]
+  },
+
+    "menu": {
+      "categories": [
+        {
+          "category": "Comida rápida",
+          "items": [
+            {
+              "name": "Papas Fritas",
+              "price": 900,
+              "essential_ingredients": ["papas"],
+              "allergy_info": []
+            },
+            {
+              "name": "Perras Papas",
+              "price": 1400,
+              "essential_ingredients": ["papas fritas", "crema de queso", "bacon", "cebolla"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Nachos",
+              "price": 1500,
+              "essential_ingredients": ["nachos de maíz", "picadillo de cerdo", "frijoles negros"],
+              "allergy_info": []
+            },
+            {
+              "name": "Ensalada",
+              "price": 900,
+              "essential_ingredients": ["vegetales"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Sandwiches",
+          "items": [
+            {
+              "name": "Hot Dog",
+              "price": 800,
+              "essential_ingredients": ["salchicha de cerdo y pollo", "salsas"],
+              "allergy_info": []
+            },
+            {
+              "name": "Perro Hot Dog",
+              "price": 1000,
+              "essential_ingredients": ["salchicha de cerdo y pollo", "relish de pepinillo", "boniato frito", "salsas"],
+              "allergy_info": []
+            },
+            {
+              "name": "Bikini",
+              "price": 1300,
+              "essential_ingredients": ["pan", "jamón", "queso mozarella"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Focaccia Capresse",
+              "price": 1600,
+              "essential_ingredients": ["focaccia de romero", "mozarella fresca", "lechugas", "tomate", "pesto"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Veggie Burger",
+              "price": 1600,
+              "essential_ingredients": ["pan de maíz", "hamburguesa vegana", "chutney de mango", "chipotle", "lechuga", "tomate", "cebolla"],
+              "allergy_info": []
+            },
+            {
+              "name": "Simple Smash Burger",
+              "price": 2100,
+              "essential_ingredients": ["pan Brioche", "hamburguesa de ternera", "lechuga", "tomate", "cebolla", "relish", "ketchup", "mayonesa"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Smash Burger",
+              "price": 3000,
+              "essential_ingredients": ["pan Brioche", "doble hamburguesa de ternera", "queso cheddar gratinado", "mostaza", "relish"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Triple Cheesse and bacon",
+              "price": 5000,
+              "essential_ingredients": ["pan Brioche", "triple hamburguesa de ternera", "queso cheddar gratinado", "bacon grillado", "mostaza", "relish"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Sandwich Cubana",
+              "price": 2900,
+              "essential_ingredients": ["pan cubano", "salami", "lechón asado", "jamón pierna", "queso enmental", "encurtidos", "mostaza"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Sloppy Joes",
+              "price": 1900,
+              "essential_ingredients": ["pan Burger", "picadillo de cerdo"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Sandwich Pastrami",
+              "price": 2800,
+              "essential_ingredients": ["pan Rústico", "Pastrami de ternera", "vegetales", "mostaza"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Perro Pastrami",
+              "price": 4000,
+              "essential_ingredients": ["pan Rústico", "Pastrami de ternera", "col a la plancha", "cheddar gratinado", "cebolla caramelizada", "encurtidos", "salsa americana"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Paquito de Cordero",
+              "price": 1900,
+              "essential_ingredients": ["pan Pita", "cordero estofado", "vegetales frescos", "espinacas salteadas", "alioli de yogurt"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Pulled Pork",
+              "price": 1900,
+              "essential_ingredients": ["pan Brioche", "lechón asado", "salsa barbacoa", "col encurtida"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Chicken Teriyaki",
+              "price": 1900,
+              "essential_ingredients": ["pan Brioche", "pechuga de pollo", "salsa teriyaki", "lechuga", "tomate", "mayonesa"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Poboy",
+              "price": 1900,
+              "essential_ingredients": ["pan Brioche", "camarones rebozados", "tomate", "lechuga", "remolacha encurtida", "mayonesa de siracha"],
+              "allergy_info": ["gluten", "mariscos"]
+          
+                        },
+                        {
+                          "name": "Laks Sandwich",
+                          "price": 2200,
+                          "essential_ingredients": ["pan rústico", "aceitunas", "AOVE", "salmón ahumado", "mezcla de lechugas", "tomate", "queso crema"],
+                          "allergy_info": ["gluten", "pescado", "lactosa"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Salsas y Agregos",
+                      "items": [
+                        {
+                          "name": "Bacon/Jamón/Salami",
+                          "price": 400,
+                          "essential_ingredients": ["bacon", "jamón", "salami"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Lechuga/Rúcula/Tomate/Cebolla",
+                          "price": 150,
+                          "essential_ingredients": ["lechuga", "rúcula", "tomate", "cebolla"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Queso Enmental/Cheddar/Mozarella",
+                          "price": 300,
+                          "essential_ingredients": ["queso enmental", "queso cheddar", "queso mozarella"],
+                          "allergy_info": ["lactosa"]
+                        },
+                        {
+                          "name": "Encurtidos",
+                          "price": 50,
+                          "essential_ingredients": ["encurtidos"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Huevo",
+                          "price": 300,
+                          "essential_ingredients": ["huevo"],
+                          "allergy_info": ["huevos"]
+                        },
+                        {
+                          "name": "Salsas",
+                          "price": 50,
+                          "essential_ingredients": ["ketchup", "mayonesa", "mostaza", "salsas especiales", "salsas picantes"],
+                          "allergy_info": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+              

@@ -1,0 +1,213 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Restaurante Lan",
+    "cuisine": ["Criolla", "Italiana"],
+    "description": null,
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "09:00",
+        "close": "24:00"
+      },
+      "tuesday": {
+        "open": "09:00",
+        "close": "24:00"
+      },
+      "wednesday": {
+        "open": "09:00",
+        "close": "24:00"
+      },
+      "thursday": {
+        "open": "09:00",
+        "close": "24:00"
+      },
+      "friday": {
+        "open": "09:00",
+        "close": "24:00"
+      },
+      "saturday": {
+        "open": "09:00",
+        "close": "24:00"
+      },
+      "sunday": {
+        "open": "09:00",
+        "close": "24:00"
+      }
+    },
+    "address": "Regla",
+    "municipality": "Regla",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": "23.12540621324244",
+      "longitude": "-82.33255714289457"
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": true
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+    "menu": {
+      "categories": [
+        {
+          "category": "Entrantes",
+          "items": [
+            {
+              "name": "Mariquitas",
+              "price": 200,
+              "essential_ingredients": ["plátano"],
+              "allergy_info": []
+            },
+            {
+              "name": "Tostones Rellenos",
+              "price": 300,
+              "essential_ingredients": ["plátano"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Platos Principales",
+          "items": [
+            {
+              "name": "Bistec de Hígado",
+              "price": 500,
+              "essential_ingredients": ["hígado"],
+              "allergy_info": []
+            },
+            {
+              "name": "Fricase de Pollo",
+              "price": 500,
+              "essential_ingredients": ["pollo"],
+              "allergy_info": []
+            },
+            {
+              "name": "Camarones al Ajillo",
+              "price": 550,
+              "essential_ingredients": ["camarones"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Enchilada de Camarones",
+              "price": 550,
+              "essential_ingredients": ["camarones"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Filete de Malanga con Salsa Agridulce",
+              "price": 300,
+              "essential_ingredients": ["malanga"],
+              "allergy_info": []
+            },
+            {
+              "name": "Fajitas de Pollo",
+              "price": 550,
+              "essential_ingredients": ["pollo"],
+              "allergy_info": []
+            },
+            {
+              "name": "Pollo Frito",
+              "price": 500,
+              "essential_ingredients": ["pollo"],
+              "allergy_info": []
+            },
+            {
+              "name": "Bistec de Palillo Empanado",
+              "price": 550,
+              "essential_ingredients": ["palillo", "pan rallado"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Camarones Empanados",
+              "price": 550,
+              "essential_ingredients": ["camarones", "pan rallado"],
+              "allergy_info": ["gluten", "mariscos"]
+            },
+            {
+              "name": "Pizza Mixta Mediana/Familiar",
+              "price": 400,
+              "essential_ingredients": ["varios"],
+              "allergy_info": []
+            },
+            {
+              "name": "Pizza Cebolla Mediana/Familiar",
+              "price": 300,
+              "essential_ingredients": ["cebolla"],
+              "allergy_info": []
+            },
+            {
+              "name": "Pizza Jamón Mediana/Familiar",
+              "price": 350,
+              "essential_ingredients": ["jamón"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Pizza Napolitana Mediana/Familiar",
+              "price": 400,
+              "essential_ingredients": ["queso", "tomate"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Pizza Doble Queso Mediana/Familiar",
+              "price": 350,
+              "essential_ingredients": ["queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Pastas",
+          "items": [
+            {
+              "name": "Spaghetti Napolitano",
+              "price": 250,
+              "essential_ingredients": ["queso", "tomate"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Spaghetti de Jamón",
+              "price": 350,
+              "essential_ingredients": ["jamón"],
+              "allergy_info": ["gluten"]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

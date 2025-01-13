@@ -1,0 +1,415 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "GaraG",
+    "cuisine": ["Italiana", "Criolla", "Internacional"],
+    "description": "GaraG es un restaurante en el municipio San Miguel del Padron, ubicado en Calzada de Guanabacoa entre B y C. Con 5 años de experiencia, es conocido por su especializacion en comida italiana, destacando sus pizzas y cervezas. Es el lugar perfecto para disfrutar de una comida en familia o amigos, con un ambiente acogedor y climatizado.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "12:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "12:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "12:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "12:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "12:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "12:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "12:00"
+      }
+    },
+    "address": "Calzada de Guanabacoa entre B y C",
+    "municipality": "San Miguel del Padron",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Pizza"],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable"],
+      "usual_customers": [],
+      "planning": [],
+      "children": true,
+      "pets": false,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": ["Almuerzo", "Comida"],
+    "advantages": ["Especialidades de la casa: pizza 5 quesos, pizza lechoncito, pizza antihawaiana, filete alfredo"],
+    "highlights": []
+  },
+
+        "menu": {
+          "categories": [
+            {
+              "category": "Guarniciones",
+              "items": [
+                {
+                  "name": "Ensalada Estación",
+                  "price": 350,
+                  "essential_ingredients": ["vegetales"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Vegetales Salteados",
+                  "price": 350,
+                  "essential_ingredients": ["vegetales"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "Tostón Alfredo",
+                  "price": 750,
+                  "essential_ingredients": ["plátano", "queso"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Croquetas de Mima",
+                  "price": 750,
+                  "essential_ingredients": ["harina", "leche"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Ensalada Fría",
+                  "price": 750,
+                  "essential_ingredients": ["vegetales"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Ceviche",
+                  "price": 900,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Tacos de Carne",
+                  "price": 1205,
+                  "essential_ingredients": ["carne", "tortilla"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Fajitas de Pollo",
+                  "price": 1225,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Coctel de Camarón",
+                  "price": 1250,
+                  "essential_ingredients": ["camarón"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Tacos Marineros",
+                  "price": 1295,
+                  "essential_ingredients": ["mariscos", "tortilla"],
+                  "allergy_info": ["gluten", "mariscos"]
+                },
+                {
+                  "name": "Fajitas de Cerdo",
+                  "price": 1550,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Eperlan",
+                  "price": 1650,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Picadera GaraG",
+                  "price": 3500,
+                  "essential_ingredients": ["varios ingredientes"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Platos Principales",
+              "items": [
+                {
+                  "name": "Arroz Frito",
+                  "price": 1200,
+                  "essential_ingredients": ["arroz", "varios ingredientes"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pollo Frito",
+                  "price": 1350,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bistec de Pollo Grillé",
+                  "price": 1350,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Arroz Frito Especial",
+                  "price": 1350,
+                  "essential_ingredients": ["arroz", "varios ingredientes"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pollo Empanado",
+                  "price": 1450,
+                  "essential_ingredients": ["pollo", "harina"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Ropa Vieja",
+                  "price": 1930,
+                  "essential_ingredients": ["carne de res"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pollo Gordon Blue",
+                  "price": 1925,
+                  "essential_ingredients": ["pollo", "queso", "jamón"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Aporreado de Res",
+                  "price": 1950,
+                  "essential_ingredients": ["carne de res"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Mariscos",
+              "items": [
+                {
+                  "name": "Filete de Pescado Grillé",
+                  "price": 1920,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Masa de Pescado al Ajillo",
+                  "price": 1920,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Filete de Pescado Empanado",
+                  "price": 1980,
+                  "essential_ingredients": ["pescado", "harina"],
+                  "allergy_info": ["gluten", "pescado"]
+                },
+                {
+                  "name": "Pescado Canciller",
+                  "price": 2150,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Pargo Frito",
+                  "price": 2150,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Filete Alfredo",
+                  "price": 2195,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Filete de Pescado GaraG",
+                  "price": 2225,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Enchilado de Camarón",
+                  "price": 2230,
+                  "essential_ingredients": ["camarón", "salsa"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Camarón Grillé",
+                  "price": 2105,
+                  "essential_ingredients": ["camarón"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Camarón al Ajillo",
+                  "price": 2300,
+                  "essential_ingredients": ["camarón"],
+                  "allergy_info": ["mariscos"]
+                }
+            ]
+            },
+
+                        {
+                          "category": "Pastas",
+                          "items": [
+                            {
+                              "name": "Espaguetti Napolitano",
+                              "price": 930,
+                              "essential_ingredients": ["espaguetis", "salsa napolitana"],
+                              "allergy_info": ["gluten"]
+                            }
+                          ]
+                        },
+                        {
+                          "category": "Pizzas",
+                          "items": [
+                            {
+                              "name": "Pizza Napolitana",
+                              "price": 930,
+                              "essential_ingredients": ["masa de pizza", "salsa napolitana"],
+                              "allergy_info": ["gluten"]
+                            },
+                            {
+                              "name": "Pizza Antihawaiana",
+                              "price": 1555,
+                              "essential_ingredients": ["masa de pizza", "varios quesos", "otros ingredientes"],
+                              "allergy_info": ["gluten", "lactosa"]
+                            },
+                            {
+                              "name": "Pizza Lechoncito",
+                              "price": 1595,
+                              "essential_ingredients": ["masa de pizza", "lechón", "queso"],
+                              "allergy_info": ["gluten", "lactosa"]
+                            },
+                            {
+                              "name": "Pizza 5 Quesos",
+                              "price": 1650,
+                              "essential_ingredients": ["masa de pizza", "5 tipos de queso"],
+                              "allergy_info": ["gluten", "lactosa"]
+                            }
+                          ]
+                        },
+                        {
+                          "category": "Agregos",
+                          "items": [
+                            {
+                              "name": "4 Quesos",
+                              "price": 800,
+                              "essential_ingredients": ["quesos"],
+                              "allergy_info": ["lactosa"]
+                            },
+                            {
+                              "name": "Jamón",
+                              "price": 300,
+                              "essential_ingredients": ["jamón"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Aceituna",
+                              "price": 290,
+                              "essential_ingredients": ["aceituna"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Piña",
+                              "price": 250,
+                              "essential_ingredients": ["piña"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Chorizo",
+                              "price": 395,
+                              "essential_ingredients": ["chorizo"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Cebolla",
+                              "price": 250,
+                              "essential_ingredients": ["cebolla"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Atún",
+                              "price": 350,
+                              "essential_ingredients": ["atún"],
+                              "allergy_info": ["pescado"]
+                            }
+                          ]
+                        },
+                        {
+                          "category": "Postres",
+                          "items": [
+                            {
+                              "name": "Copa de Helado",
+                              "price": 400,
+                              "essential_ingredients": ["helado"],
+                              "allergy_info": ["lactosa"]
+                            },
+                            {
+                              "name": "Copa Lolita",
+                              "price": 650,
+                              "essential_ingredients": ["helado", "otros ingredientes"],
+                              "allergy_info": ["lactosa"]
+                            },
+                            {
+                              "name": "Cake a la Moda",
+                              "price": 850,
+                              "essential_ingredients": ["pastel", "helado"],
+                              "allergy_info": ["gluten", "lactosa"]
+                            },
+                            {
+                              "name": "Batido de Helado",
+                              "price": 750,
+                              "essential_ingredients": ["helado", "leche"],
+                              "allergy_info": ["lactosa"]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                  
+          

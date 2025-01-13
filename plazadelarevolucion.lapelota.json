@@ -1,0 +1,207 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "La Pelota",
+    "cuisine": [],
+    "description": "",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "09:45",
+        "close": "21:45"
+      },
+      "tuesday": {
+        "open": "09:45",
+        "close": "21:45"
+      },
+      "wednesday": {
+        "open": "09:45",
+        "close": "21:45"
+      },
+      "thursday": {
+        "open": "09:45",
+        "close": "21:45"
+      },
+      "friday": {
+        "open": "09:45",
+        "close": "21:45"
+      },
+      "saturday": {
+        "open": "09:45",
+        "close": "21:45"
+      },
+      "sunday": {
+        "open": "09:45",
+        "close": "21:45"
+      }
+    },
+    "address": "Esquina 23 y 12, Vedado, Plaza",
+    "municipality": "Plaza de la Revolucion",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.127810894630507,
+      "longitude": -82.39959798623943
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo"],
+    "delivery_available": null,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": false,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+
+        "menu": {
+          "categories": [
+            {
+              "category": "Appetizer",
+              "items": [
+                {
+                  "name": "chicharrón 58g",
+                  "price": 120,
+                  "essential_ingredients": ["chicharrón"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "croqueta 36g",
+                  "price": 15,
+                  "essential_ingredients": ["harina", "leche"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "entrante de jamón",
+                  "price": 300,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Main Course",
+              "items": [
+                {
+                  "name": "bistec de cerdo",
+                  "price": 600,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "masa de cerdo frita",
+                  "price": 600,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "costilla de cerdo frito",
+                  "price": 600,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "pollo grillé",
+                  "price": 550,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "pollo asado",
+                  "price": 550,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "picadillo",
+                  "price": 250,
+                  "essential_ingredients": ["res"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "arroz moro",
+                  "price": 100,
+                  "essential_ingredients": ["arroz", "frijoles"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "vianda hervida",
+                  "price": 40,
+                  "essential_ingredients": ["vianda"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Sides",
+              "items": [
+                {
+                  "name": null,
+                  "price": null,
+                  "essential_ingredients": [],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Beverages",
+              "items": [
+                {
+                  "name": "energizante",
+                  "price": 200,
+                  "essential_ingredients": ["energizante"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "refresco de cola",
+                  "price": 190,
+                  "essential_ingredients": ["refresco de cola"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "jugo de frutas",
+                  "price": 180,
+                  "essential_ingredients": ["frutas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "cerveza importada",
+                  "price": 200,
+                  "essential_ingredients": ["cerveza"],
+                  "allergy_info": ["gluten", "alcohol"]
+                }
+              ]
+            }
+          ]
+        }
+      }
+      

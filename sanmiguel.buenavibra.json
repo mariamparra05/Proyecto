@@ -1,0 +1,220 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Buena Vibra",
+    "cuisine": ["Criolla", "Italiana", "Comida Chatarra"],
+    "description": "Buena Vibra es una cafeteria en el municipio San Miguel del Padron. Con un ambiente acogedor y una especializacion en comida criolla, es el lugar ideal para disfrutar de un delicioso bistec de cerdo y una cerveza refrescante.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "22:00"
+      }
+    },
+    "address": null,
+    "municipality": "San Miguel del Padron",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable"],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": ["Almuerzo", "Cena"],
+    "advantages": [],
+    "highlights": ["No incluye propina"]
+
+    },
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "Vianda Frita",
+                  "price": 300,
+                  "essential_ingredients": ["vianda", "aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Tostones Tradicionales",
+                  "price": 300,
+                  "essential_ingredients": ["plátano", "aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Croquetas",
+                  "price": 400,
+                  "essential_ingredients": ["harina", "leche"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Fritura de Malanga",
+                  "price": 400,
+                  "essential_ingredients": ["malanga", "aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Tostones Rellenos",
+                  "price": 500,
+                  "essential_ingredients": ["plátano", "relleno"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Hamburguesas",
+              "items": [
+                {
+                  "name": "Hamburguesa de Pollo",
+                  "price": 300,
+                  "essential_ingredients": ["pollo", "pan"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Platos Principales",
+              "items": [
+                {
+                  "name": "Hígado de Cerdo",
+                  "price": 800,
+                  "essential_ingredients": ["hígado de cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bistec de Pollo",
+                  "price": 850,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bistec de Pollo Empanado",
+                  "price": 900,
+                  "essential_ingredients": ["pollo", "harina"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Lomo Ahumado",
+                  "price": 900,
+                  "essential_ingredients": ["lomo de cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bistec de Cerdo",
+                  "price": 900,
+                  "essential_ingredients": ["bistec de cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pechuga de Pollo",
+                  "price": 900,
+                  "essential_ingredients": ["pechuga de pollo"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Pastas",
+              "items": [
+                {
+                  "name": "Espaguetti con Queso",
+                  "price": 400,
+                  "essential_ingredients": ["espaguetis", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Espaguetti de Jamón",
+                  "price": 550,
+                  "essential_ingredients": ["espaguetis", "jamón"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Bebidas Alcoholicas",
+              "items": [
+                {
+                  "name": "Licor Crema",
+                  "price": 200,
+                  "essential_ingredients": ["licor crema"],
+                  "allergy_info": ["lactosa", "alcohol"]
+                },
+                {
+                  "name": "Tequila Reposado",
+                  "price": 300,
+                  "essential_ingredients": ["tequila"],
+                  "allergy_info": ["alcohol"]
+                },
+                {
+                  "name": "Piña Colada",
+                  "price": 300,
+                  "essential_ingredients": ["piña", "crema de coco", "ron"],
+                  "allergy_info": ["lactosa", "alcohol"]
+                }
+              ]
+            }
+          ]
+        }
+      }
+      
+
+   

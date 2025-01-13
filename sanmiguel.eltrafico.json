@@ -1,0 +1,346 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "El Trafico",
+    "cuisine": ["Italiana", "Criolla"],
+    "description": "El Trafico es un restaurante-cafeteria en el municipio San Miguel del Padron, ubicado en Calzada de Guines entre 90 y 94. Con 10 años de experiencia, ofrece una deliciosa seleccion de comida italiana y criolla, destacando sus pizzas y cervezas. Con un ambiente acogedor y alternativas para apagones, es ideal para disfrutar en familia.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "tuesday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "wednesday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "thursday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "friday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "saturday": {
+        "open": "10:00",
+        "close": "22:00"
+      },
+      "sunday": {
+        "open": "10:00",
+        "close": "22:00"
+      }
+    },
+    "address": "Calzada de Guines entre 90 y 94",
+    "municipality": "San Miguel del Padron",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": "Facebook",
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia", "Pago en linea"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Pizza", "Comida Criolla"],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable"],
+      "usual_customers": [],
+      "planning": [],
+      "children": true,
+      "pets": false,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": ["Almuerzo"],
+    "advantages": ["Alternativas para apagones"],
+    "highlights": []
+  },
+
+        "menu": {
+          "categories": [
+            {
+              "category": "Guarniciones",
+              "items": [
+                {
+                  "name": "Vianda",
+                  "price": 150,
+                  "essential_ingredients": ["vianda"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Ensalada",
+                  "price": 200,
+                  "essential_ingredients": ["vegetales"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Tamal",
+                  "price": 200,
+                  "essential_ingredients": ["maíz"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Arroz Moro",
+                  "price": 300,
+                  "essential_ingredients": ["arroz", "frijoles"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Papas Fritas",
+                  "price": 600,
+                  "essential_ingredients": ["papas", "aceite"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Platos Principales",
+              "items": [
+                {
+                  "name": "Bistec de Pollo",
+                  "price": 1500,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bistec de Cerdo",
+                  "price": 1950,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bistec de Res",
+                  "price": 1950,
+                  "essential_ingredients": ["res"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pechuga de Pollo",
+                  "price": 1950,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chuleta de Cerdo",
+                  "price": 1950,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Masa de Cerdo Frita",
+                  "price": 2000,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Cerdo Guisado",
+                  "price": 2000,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Lomo Ahumado",
+                  "price": 2000,
+                  "essential_ingredients": ["lomo de cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Costilla de Cerdo",
+                  "price": 2000,
+                  "essential_ingredients": ["costilla de cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Ropa Vieja",
+                  "price": 2000,
+                  "essential_ingredients": ["res"],
+                  "allergy_info": []
+            },
+            {
+             
+                  "name": "Filete de Merluza",
+                  "price": 2000,
+                  "essential_ingredients": ["merluza"],
+                  "allergy_info": ["pescado"]
+                }
+              ]
+            },
+            {
+              "category": "Pastas",
+              "items": [
+                {
+                  "name": "Espaguetti con Queso Blanco",
+                  "price": 400,
+                  "essential_ingredients": ["espaguetis", "queso blanco"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Espaguetti con Queso Gouda",
+                  "price": 420,
+                  "essential_ingredients": ["espaguetis", "queso gouda"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Espaguetti con Queso Parmesano",
+                  "price": 450,
+                  "essential_ingredients": ["espaguetis", "queso parmesano"],
+                  "allergy_info": ["gluten", "lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Pizzas",
+              "items": [
+                {
+                  "name": "Pizza de Queso Blanco",
+                  "price": 280,
+                  "essential_ingredients": ["masa de pizza", "queso blanco"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza de Queso Gouda",
+                  "price": 320,
+                  "essential_ingredients": ["masa de pizza", "queso gouda"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza de Queso Parmesano",
+                  "price": 350,
+                  "essential_ingredients": ["masa de pizza", "queso parmesano"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza de Queso Blanco XL",
+                  "price": 770,
+                  "essential_ingredients": ["masa de pizza", "queso blanco"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza de Queso Gouda XL",
+                  "price": 830,
+                  "essential_ingredients": ["masa de pizza", "queso gouda"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza de Queso Parmesano XL",
+                  "price": 850,
+                  "essential_ingredients": ["masa de pizza", "queso parmesano"],
+                  "allergy_info": ["gluten", "lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Agregos",
+              "items": [
+                {
+                  "name": "Cebolla",
+                  "price": 200,
+                  "essential_ingredients": ["cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pimiento",
+                  "price": 200,
+                  "essential_ingredients": ["pimiento"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Piña",
+                  "price": 200,
+                  "essential_ingredients": ["piña"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Jamón",
+                  "price": 200,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chorizo",
+                  "price": 200,
+                  "essential_ingredients": ["chorizo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bacon",
+                  "price": 200,
+                  "essential_ingredients": ["bacon"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Salchicha",
+                  "price": 200,
+                  "essential_ingredients": ["salchicha"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Queso Blanco",
+                  "price": 300,
+                  "essential_ingredients": ["queso blanco"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Aceituna",
+                  "price": 300,
+                  "essential_ingredients": ["aceituna"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Atún",
+                  "price": 300,
+                  "essential_ingredients": ["atún"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Queso Gouda",
+                  "price": 320,
+                  "essential_ingredients": ["queso gouda"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Queso Parmesano",
+                  "price": 350,
+                  "essential_ingredients": ["queso parmesano"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Camarón",
+                  "price": 350,
+                  "essential_ingredients": ["camarón"],
+                  "allergy_info": ["mariscos"]
+                }
+              ]
+            }
+          ]
+        }
+      }
+      
+      

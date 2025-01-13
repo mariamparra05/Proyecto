@@ -1,0 +1,259 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Yesterday Habana",
+    "cuisine": ["Internacional", "Criolla", "Italiana"],
+    "description": "Yesterday Habana es un bar-restaurante en el municipio San Miguel del Padron, ubicado en calle Rita entre Calzada de Guines y Blanchy. Con 2 años de experiencia, ofrece una deliciosa seleccion de comida internacional, criolla e italiana, destacando sus especialidades en mar y tierra, pizza y espaguetis. Es el lugar ideal para disfrutar de una comida en familia o con amigos, con un ambiente acogedor y climatizado.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "00:00"
+      }
+    },
+    "address": "Calle Rita entre Calzada de Guines y Blanchy",
+    "municipality": "San Miguel del Padron",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Mar y Tierra", "Pizza", "Espaguetti"],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable"],
+      "usual_customers": [],
+      "planning": [],
+      "children": true,
+      "pets": false,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": ["Comida"],
+    "advantages": [],
+    "highlights": ["Ambiente climatizado"]
+  },
+
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "Picadera Yesterday",
+                  "price": 1300,
+                  "essential_ingredients": ["varios ingredientes"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Eperlan",
+                  "price": 780,
+                  "essential_ingredients": ["eperlan"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Coctel de Camarones",
+                  "price": 750,
+                  "essential_ingredients": ["camarones"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Entremés de Jamón, Queso y Chorizo",
+                  "price": 800,
+                  "essential_ingredients": ["jamón", "queso", "chorizo"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Ceviche",
+                  "price": 650,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Ensalada Fría",
+                  "price": 650,
+                  "essential_ingredients": ["Varios ingredientes"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Tostones Rellenos",
+                  "price": 600,
+                  "essential_ingredients": ["plátano", "relleno"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Fritura de Malanga",
+                  "price": 350,
+                  "essential_ingredients": ["malanga", "aceite"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Croquetas de la Casa",
+                  "price": 380,
+                  "essential_ingredients": ["harina", "leche"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Fajitas de Pollo",
+                  "price": 750,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Fajitas de Cerdo",
+                  "price": 750,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Mariscos",
+              "items": [
+                {
+                  "name": "Camarones al Ajillo",
+                  "price": 1500,
+                  "essential_ingredients": ["camarones", "ajo"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Camarones Grillé",
+                  "price": 1500,
+                  "essential_ingredients": ["camarones"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Enchilado de Camarones",
+                  "price": 1500,
+                  "essential_ingredients": ["camarones", "salsa"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Filete de Pescado",
+                  "price": 1100,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Filete de Pescado Jhonbill",
+                  "price": 1500,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                }
+              ]
+            },
+            {
+              "category": "Pastas",
+              "items": [
+                {
+                  "name": "Espaguetti Napolitano",
+                  "price": 600,
+                  "essential_ingredients": ["espaguetis", "salsa napolitana"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Pizzas",
+              "items": [
+                {
+                  "name": "Pizza Napolitana",
+                  "price": 550,
+                  "essential_ingredients": ["masa de pizza", "salsa napolitana"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Agregos",
+              "items": [
+                {
+                  "name": "Jamón",
+                  "price": 220,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Queso",
+                  "price": 200,
+                  "essential_ingredients": ["queso"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Cebolla",
+                  "price": 170,
+                  "essential_ingredients": ["cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Piña",
+                  "price": 100,
+                  "essential_ingredients": ["piña"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pimienta",
+                  "price": 150,
+                  "essential_ingredients": ["pimienta"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Atún",
+                  "price": 250,
+                  "essential_ingredients": ["atún"],
+                  "allergy_info": ["pescado"]
+                }
+              ]
+            }
+          ]
+        }
+      }

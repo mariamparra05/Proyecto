@@ -1,0 +1,246 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "KY-13",
+    "cuisine": [ "Italiana"],
+    "description": "KY-13 es un restaurante-cafeteria en el municipio San Miguel del Padron, ubicado en Calzada de Guines #45 e/ 13 y 23 AMP. San Matias. Con 11 años de experiencia, ofrece una deliciosa seleccion de comida criolla e italiana, destacando sus pizzas y cervezas. Es el lugar ideal para disfrutar de una comida en familia o con amigos.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null,
+      "instagram": "Instagram",
+      "facebook": "Facebook"
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "10:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "10:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "10:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "10:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "10:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "10:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "10:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Calzada de Guines #45 e/ 13 y 23 AMP. San Matias",
+    "municipality": "San Miguel del Padron",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": "Facebook",
+      "instagram": "Instagram"
+    },
+    "accepted_payment_methods": ["Transferencia", "Efectivo"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Pizza"],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable"],
+      "usual_customers": ["Turistas"],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": ["Comida"],
+    "advantages": [],
+    "highlights": []
+  },
+
+        "menu": {
+          "categories": [
+            {
+              "category": "Pastas",
+              "items": [
+                {
+                  "name": "Espaguetti de Queso",
+                  "price": 1300,
+                  "essential_ingredients": ["espaguetis", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Lasaña de Jamón",
+                  "price": 1800,
+                  "essential_ingredients": ["pasta", "jamón", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Espaguetti a la Carbonara",
+                  "price": 2000,
+                  "essential_ingredients": ["espaguetis", "carbonara"],
+                  "allergy_info": ["gluten", "lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Pizzas",
+              "items": [
+                {
+                  "name": "Pizza de Queso",
+                  "price": 1200,
+                  "essential_ingredients": ["masa de pizza", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza Familiar de Queso",
+                  "price": 3350,
+                  "essential_ingredients": ["masa de pizza", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Agregos",
+              "items": [
+                {
+                  "name": "Queso Gouda Sencilla",
+                  "price": 560,
+                  "essential_ingredients": ["queso gouda"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Queso Gouda Familiar",
+                  "price": 1400,
+                  "essential_ingredients": ["queso gouda"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Jamón Sencilla",
+                  "price": 620,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Jamón Familiar",
+                  "price": 1550,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Vegetales Sencilla",
+                  "price": 500,
+                  "essential_ingredients": ["vegetales"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Vegetales Familiar",
+                  "price": 1250,
+                  "essential_ingredients": ["vegetales"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chorizo Sencilla",
+                  "price": 450,
+                  "essential_ingredients": ["chorizo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chorizo Familiar",
+                  "price": 825,
+                  "essential_ingredients": ["chorizo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Aceituna Sencilla",
+                  "price": 600,
+                  "essential_ingredients": ["aceituna"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Aceituna Familiar",
+                  "price": 1500,
+                  "essential_ingredients": ["aceituna"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Piña Sencilla",
+                  "price": 300,
+                  "essential_ingredients": ["piña"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Piña Familiar",
+                  "price": 750,
+                  "essential_ingredients": ["piña"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Jamón Pierna Sencilla",
+                  "price": 700,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Jamón Pierna Familiar",
+                  "price": 1750,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Camarón Sencilla",
+                  "price": 800,
+                  "essential_ingredients": ["camarón"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Camarón Familiar",
+                  "price": 2000,
+                  "essential_ingredients": ["camarón"],
+                  "allergy_info": ["mariscos"]
+                },
+                {
+                  "name": "Atún Sencilla",
+                  "price": 790,
+                  "essential_ingredients": ["atún"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Atún Familiar",
+                  "price": 1975,
+                  "essential_ingredients": ["atún"],
+                  "allergy_info": ["pescado"]
+                }
+              ]
+            }
+          ]
+        }
+      }
+  

@@ -1,0 +1,189 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Bar-Restaurante"]
+    },
+    "name": "El Bohio",
+    "cuisine": [],
+    "description": "Realiza tu compra y de paso tomtate un cafe.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "tuesday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "wednesday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "thursday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "friday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "saturday": {
+        "open": "10:00",
+        "close": "21:00"
+      },
+      "sunday": {
+        "open": "10:00",
+        "close": "21:00"
+      }
+    },
+    "address": "Calle 19 entre 10 y 12, Vedado, Plaza",
+    "municipality": "Plaza de la Revolucion",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": "https://www.instagram.com/bohio_mercadito?igsh=bnB2eDBjc2VuMHBq"
+    },
+    "accepted_payment_methods": [],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": false,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+    "menu": {
+      "categories": [
+        {
+          "category": "Cafés",
+          "items": [
+            {
+              "name": "Capuchino",
+              "price": 250,
+              "essential_ingredients": ["café", "leche", "espuma de leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Expresso",
+              "price": 100,
+              "essential_ingredients": ["café"],
+              "allergy_info": []
+            },
+            {
+              "name": "Cortado",
+              "price": 150,
+              "essential_ingredients": ["café", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Bombón",
+              "price": 250,
+              "essential_ingredients": ["café", "leche condensada"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Affogato",
+              "price": 500,
+              "essential_ingredients": ["café", "helado"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Frappuccino",
+              "price": 500,
+              "essential_ingredients": ["café", "hielo", "leche"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Batidos de Fruta",
+          "items": [
+            {
+              "name": "Frutos del Bosque/Plátano",
+              "price": 600,
+              "essential_ingredients": ["frutas del bosque", "plátano", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Mango",
+              "price": 500,
+              "essential_ingredients": ["mango", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Frutabomba",
+              "price": 500,
+              "essential_ingredients": ["frutabomba", "leche"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Snaks",
+          "items": [
+            {
+              "name": "Baguette Jamón y Queso",
+              "price": 700,
+              "essential_ingredients": ["pan", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Croissant Nutella",
+              "price": 800,
+              "essential_ingredients": ["croissant", "Nutella"],
+              "allergy_info": ["gluten", "frutos secos"]
+            },
+            {
+              "name": "Croissant Jamón y Queso",
+              "price": 900,
+              "essential_ingredients": ["croissant", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Mini Croissants Chocolate",
+              "price": 150,
+              "essential_ingredients": ["croissant", "chocolate"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Dona Chocolate",
+              "price": 250,
+              "essential_ingredients": ["harina", "chocolate"],
+              "allergy_info": ["gluten"]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

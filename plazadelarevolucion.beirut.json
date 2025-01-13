@@ -1,0 +1,303 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Beirut",
+    "cuisine": [],
+    "description": null,
+    "contact_info": {
+      "phone": {
+        "number": "78315883",
+        "type": "landline"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "11:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Calle 1ra entre A y B, Vedado",
+    "municipality": "Plaza de la Revolucion",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": true
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": ["Calificacion 4.5"]
+  },
+    "menu": {
+      "categories": [
+        {
+          "category": "Entrantes",
+          "items": [
+            {
+              "name": "",
+              "price": "",
+              "essential_ingredients": [""],
+              "allergy_info": [""]
+            }
+          ]
+        },
+        {
+          "category": "Platos Principales",
+          "items": [
+            {
+              "name": "Shish Taouk",
+              "price": 2950,
+              "essential_ingredients": ["pollo", "pimiento", "cebolla", "arroz", "fideos", "vegetales", "salsa de ajo"],
+              "allergy_info": []
+            },
+            {
+              "name": "Kabab",
+              "price": 2900,
+              "essential_ingredients": ["cordero", "pimienta", "cebolla", "perejil", "arroz", "fideos", "hummus", "vegetales"],
+              "allergy_info": []
+            },
+            {
+              "name": "Shish Taouk-Kabab",
+              "price": 2800,
+              "essential_ingredients": ["pollo", "cordero", "pimiento", "cebolla", "arroz", "fideos", "vegetales", "hummus"],
+              "allergy_info": []
+            },
+            {
+              "name": "Shish Kabab",
+              "price": 2000,
+              "essential_ingredients": ["pollo", "perejil", "cebolla", "ajo", "arroz", "fideos", "salsa de ajo", "vegetales"],
+              "allergy_info": []
+            },
+            {
+              "name": "Tajin",
+              "price": 3500,
+              "essential_ingredients": ["cordero", "cebolla", "perejil", "arroz", "fideos", "vegetales", "hummus", "pisto de vegetales"],
+              "allergy_info": []
+            },
+            {
+              "name": "Mixto Beirut",
+              "price": 3700,
+              "essential_ingredients": ["kabab", "shish taouk", "shish kabab", "shawarma de pollo", "hummus", "vegetales", "pan árabe"],
+              "allergy_info": ["gluten"]
+            }
+          ]
+        },
+        {
+          "category": "Acompañamientos",
+          "items": [
+            {
+              "name": "Fetuche",
+              "price": 1500,
+              "essential_ingredients": ["lechuga", "pepino", "tomate", "cebolla", "costrones de pan", "aceite de oliva"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Ensalada mixta",
+              "price": 2000,
+              "essential_ingredients": ["varios"],
+              "allergy_info": ["varios"]
+            },
+            {
+              "name": "Betabel",
+              "price": 2000,
+              "essential_ingredients": ["remolacha", "queso feta", "lechuga", "cebolla", "vinagre balsámico", "aceite de oliva"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Ensalada Beirut",
+              "price": 2100,
+              "essential_ingredients": ["shawarma de pollo", "vegetales de estación", "costrones de pan", "pasta de ajo", "granada"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Tabule",
+              "price": 3000,
+              "essential_ingredients": ["tomate", "cebolla", "perejil", "trigo bulgur", "limón", "aceite de oliva"],
+              "allergy_info": ["gluten"]
+            }
+        ]
+      },
+      {
+        "category": "Sándwiches",
+        "items": [
+          {
+            "name": "Shawarma de pollo",
+            "price": 1520,
+            "essential_ingredients": ["pan árabe", "pollo asado", "crema de ajo", "pepinillos", "vegetales"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Shawarma árabe",
+            "price": 1520,
+            "essential_ingredients": ["pan árabe", "pollo asado", "crema de ajo", "pepinillos", "vegetales", "hummus"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Sándwich Falafel",
+            "price": 1420,
+            "essential_ingredients": ["pan árabe", "falafel", "hummus", "vegetales", "salsa taratore"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Sándwich Shish Taouk",
+            "price": 1720,
+            "essential_ingredients": ["pan árabe", "pechuga de pollo", "pepinillos", "cebolla", "pimientos", "crema de ajo", "vegetales"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Sándwich Kabab",
+            "price": 1720,
+            "essential_ingredients": ["pan árabe", "carne de cordero", "perejil", "cebolla", "pepinillos", "pimienta", "vegetales", "hummus"],
+            "allergy_info": ["gluten"]
+          }
+        ]
+      },
+      {
+        "category": "Postres",
+        "items": [
+          {
+            "name": "",
+            "price": "",
+            "essential_ingredients": [""],
+            "allergy_info": [""]
+          }
+        ]
+      },
+      {
+        "category": "Cócteles",
+        "items": [
+          {
+            "name": "Limonada",
+            "price": 410,
+            "essential_ingredients": ["limón", "agua", "azúcar"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Bebidas",
+        "items": [
+          {
+            "name": "Agua nacional",
+            "price": 175,
+            "essential_ingredients": ["agua"],
+            "allergy_info": []
+          },
+          {
+            "name": "Refrescos importados",
+            "price": 290,
+            "essential_ingredients": ["agua carbonatada", "azúcar"],
+            "allergy_info": []
+          },
+          {
+            "name": "Maltas",
+            "price": 290,
+            "essential_ingredients": ["cebada", "lúpulo", "agua"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Cervezas",
+            "price": 390,
+            "essential_ingredients": ["cebada", "lúpulo", "agua"],
+            "allergy_info": ["gluten", "alcohol"]
+          },
+          {
+            "name": "Jugos naturales",
+            "price": 410,
+            "essential_ingredients": ["frutas variadas"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Infusiones",
+        "items": [
+          {
+            "name": "Expresso",
+            "price": 125,
+            "essential_ingredients": ["café"],
+            "allergy_info": []
+          },
+          {
+            "name": "Capuccino",
+            "price": 300,
+            "essential_ingredients": ["café", "leche"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Americano",
+            "price": 160,
+            "essential_ingredients": ["café", "agua"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cortado",
+            "price": 200,
+            "essential_ingredients": ["café", "leche"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Té",
+            "price": 150,
+            "essential_ingredients": ["té"],
+            "allergy_info": []
+          }
+        ]
+      }
+    ]
+  }
+}

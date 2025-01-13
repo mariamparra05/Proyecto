@@ -1,0 +1,178 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Don Timbon",
+    "cuisine": ["Italiana"],
+    "description": "Don Timbon es una Restaurante-Cafeteria en el municipio San Miguel del Padron. Con 6 años de experiencia, es conocido por su especializacion en comida criolla e italiana, ofreciendo deliciosas pizzas y cervezas.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "09:00",
+        "close": "22:00"
+      },
+      "tuesday": {
+        "open": "09:00",
+        "close": "22:00"
+      },
+      "wednesday": {
+        "open": "09:00",
+        "close": "22:00"
+      },
+      "thursday": {
+        "open": "09:00",
+        "close": "22:00"
+      },
+      "friday": {
+        "open": "09:00",
+        "close": "22:00"
+      },
+      "saturday": {
+        "open": "09:00",
+        "close": "22:00"
+      },
+      "sunday": {
+        "open": "09:00",
+        "close": "22:00"
+      }
+    },
+    "address": null,
+    "municipality": "San Miguel del Padron",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Pizza"],
+      "local_options": [],
+      "services": ["Sanitario"],
+      "ambience": ["Agradable"],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": true,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": ["Almuerzo"],
+    "advantages": [],
+    "highlights": []
+  },
+
+        "menu": {
+          "categories": [
+            {
+              "category": "Pizzas",
+              "items": [
+                {
+                  "name": "Pizza Napolitana",
+                  "price": 160,
+                  "essential_ingredients": ["masa de pizza", "salsa napolitana"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Agregados",
+              "items": [
+                {
+                  "name": "Jamón",
+                  "price": 80,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chorizo",
+                  "price": 100,
+                  "essential_ingredients": ["chorizo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Atún",
+                  "price": 100,
+                  "essential_ingredients": ["atún"],
+                  "allergy_info": ["pescado"]
+                }
+              ]
+            },
+            {
+              "category": "Pastas",
+              "items": [
+                {
+                  "name": "Espaguetti",
+                  "price": 300,
+                  "essential_ingredients": ["espaguetis"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Lasaña",
+                  "price": 550,
+                  "essential_ingredients": ["pasta", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Hamburguesas",
+              "items": [
+                {
+                  "name": "Hamburguesa Sencilla",
+                  "price": 350,
+                  "essential_ingredients": ["pan de hamburguesa", "carne"],
+                  "allergy_info": ["gluten"]
+                }
+              ]
+            },
+            {
+              "category": "Platos Principales",
+              "items": [
+                {
+                  "name": "Arroz Salteado",
+                  "price": 500,
+                  "essential_ingredients": ["arroz", "varios ingredientes"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Bocadillos",
+              "items": [
+                {
+                  "name": "Pan con Bistec",
+                  "price": 550,
+                  "essential_ingredients": ["pan", "bistec"],
+                  "allergy_info": ["gluten"]
+               
+            }
+          ]
+        }
+      ]
+    }
+  }
+      
+  
+   

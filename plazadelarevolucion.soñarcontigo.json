@@ -1,0 +1,486 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Bar-Restaurante"]
+    },
+    "name": "Sonar Contigo",
+    "cuisine": ["Desayunos", "Cafes"],
+    "description": "",
+    "contact_info": {
+      "phone": {
+        "number": "53395848",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "13:00",
+        "close": "20:00"
+      },
+      "tuesday": {
+        "open": "13:00",
+        "close": "20:00"
+      },
+      "wednesday": {
+        "open": "13:00",
+        "close": "20:00"
+      },
+      "thursday": {
+        "open": "13:00",
+        "close": "20:00"
+      },
+      "friday": {
+        "open": "13:00",
+        "close": "20:00"
+      },
+      "saturday": {
+        "open": "13:00",
+        "close": "20:00"
+      },
+      "sunday": {
+        "open": "13:00",
+        "close": "20:00"
+      }
+    },
+    "address": "Esquina Ave 23 y Calle C",
+    "municipality": "Plaza de la Revolucion",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": false,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": false,
+      "pets": false,
+      "parking": true
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+
+    "menu": {
+      "categories": [
+        {
+          "category": "Starters",
+          "items": [
+            {
+              "name": "Ración de Maní",
+              "price": 150,
+              "essential_ingredients": ["maní"],
+              "allergy_info": ["frutos secos"]
+            },
+            {
+              "name": "Ración de chacharrita",
+              "price": 150,
+              "essential_ingredients": ["chacharrita"],
+              "allergy_info": []
+            },
+            {
+              "name": "Saladitas con jamón",
+              "price": 220,
+              "essential_ingredients": ["saladitas", "jamón"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Saladitas con atún",
+              "price": 250,
+              "essential_ingredients": ["saladitas", "atún"],
+              "allergy_info": ["gluten", "pescado"]
+            },
+            {
+              "name": "Ración de croquetas",
+              "price": 350,
+              "essential_ingredients": ["harina", "leche"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Frituras de malanga",
+              "price": 330,
+              "essential_ingredients": ["malanga"],
+              "allergy_info": []
+            },
+            {
+              "name": "Ración de tostones",
+              "price": 250,
+              "essential_ingredients": ["plátano"],
+              "allergy_info": []
+            },
+            {
+              "name": "Ración de tostones rellenos de jamón",
+              "price": 400,
+              "essential_ingredients": ["plátano", "jamón"],
+              "allergy_info": []
+            },
+            {
+              "name": "Ración de tostones rellenos de atún",
+              "price": 450,
+              "essential_ingredients": ["plátano", "atún"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "Picadera de la casa",
+              "price": 1000,
+              "essential_ingredients": ["varios"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Mains",
+          "items": [
+            {
+              "name": "Tacos de vegetales",
+              "price": 550,
+              "essential_ingredients": ["tortilla", "vegetales"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Tacos de cerdo asado",
+              "price": 720,
+              "essential_ingredients": ["tortilla", "cerdo"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Tacos de cerdo con vegetales",
+              "price": 750,
+              "essential_ingredients": ["tortilla", "cerdo", "vegetales"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Tacos de cerdo agridulce",
+              "price": 800,
+              "essential_ingredients": ["tortilla", "cerdo", "salsa agridulce"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Tacos Mixtos",
+              "price": 850,
+              "essential_ingredients": ["tortilla", "varios"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Brusquetta de tomate, albahaca y queso",
+              "price": 400,
+              "essential_ingredients": ["pan", "tomate", "albahaca", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Brusquetta de atún, cebolla y mayonesa",
+              "price": 480,
+              "essential_ingredients": ["pan", "atún", "cebolla", "mayonesa"],
+              "allergy_info": ["gluten", "pescado", "huevos"]
+            },
+            {
+              "name": "Brusquetta de jamón, queso y especias",
+              "price": 450,
+              "essential_ingredients": ["pan", "jamón", "queso", "especias"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Brusquetta de cerdo agridulce",
+              "price": 550,
+              "essential_ingredients": ["pan", "cerdo", "salsa agridulce"],
+              "allergy_info": ["gluten"]
+            }
+        ]
+      },
+      {
+                      "category": "Sandwich",
+                      "items": [
+                        {
+                          "name": "Sandwich de jamón y queso",
+                          "price": 450,
+                          "essential_ingredients": ["pan", "jamón", "queso"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        },
+                        {
+                          "name": "Sandwich de jamón ahumado y queso",
+                          "price": 600,
+                          "essential_ingredients": ["pan", "jamón ahumado", "queso"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        },
+                        {
+                          "name": "Sandwich de atún",
+                          "price": 500,
+                          "essential_ingredients": ["pan", "atún"],
+                          "allergy_info": ["gluten", "pescado"]
+                        },
+                        {
+                          "name": "Sandwich de cerdo",
+                          "price": 600,
+                          "essential_ingredients": ["pan", "cerdo"],
+                          "allergy_info": ["gluten"]
+                        },
+                        {
+                          "name": "Sandwich Especial",
+                          "price": 720,
+                          "essential_ingredients": ["pan", "varios"],
+                          "allergy_info": ["gluten"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Desserts",
+                      "items": [
+                        {
+                          "name": "Pastel con leche condensada",
+                          "price": 450,
+                          "essential_ingredients": ["harina", "leche condensada"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        },
+                        {
+                          "name": "Pastel con helado",
+                          "price": 420,
+                          "essential_ingredients": ["harina", "helado"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Cocktails",
+                      "items": [
+                        {
+                          "name": "Cuba libre",
+                          "price": 350,
+                          "essential_ingredients": ["ron", "refresco de cola", "limón"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Mojito",
+                          "price": 420,
+                          "essential_ingredients": ["ron", "menta", "limón", "azúcar"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Ron Collins",
+                          "price": 300,
+                          "essential_ingredients": ["ron", "limón", "soda"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Canchánchara",
+                          "price": 400,
+                          "essential_ingredients": ["ron", "miel", "limón"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Daiquirí",
+                          "price": 400,
+                          "essential_ingredients": ["ron", "limón", "azúcar"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Caipirísima",
+                          "price": 400,
+                          "essential_ingredients": ["ron", "limón", "azúcar"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Pina colada",
+                          "price": 550,
+                          "essential_ingredients": ["ron", "piña", "coco"],
+                          "allergy_info": ["alcohol"]
+                        }
+                    ]
+                  },
+                  {
+                    "category": "Drinks",
+                    "items": [
+                      {
+                        "name": "Agua embotellada",
+                        "price": 200,
+                        "essential_ingredients": ["agua"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Limonada natural",
+                        "price": 350,
+                        "essential_ingredients": ["limón", "agua", "azúcar"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Limonada con Hierba buena",
+                        "price": 380,
+                        "essential_ingredients": ["limón", "agua", "azúcar", "hierba buena"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Limonada con piña",
+                        "price": 420,
+                        "essential_ingredients": ["limón", "agua", "azúcar", "piña"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Batido de helado",
+                        "price": 600,
+                        "essential_ingredients": ["helado", "leche"],
+                        "allergy_info": ["lactosa"]
+                      },
+                      {
+                        "name": "Malteada",
+                        "price": 500,
+                        "essential_ingredients": ["helado", "malta"],
+                        "allergy_info": ["lactosa", "gluten"]
+                      },
+                      {
+                        "name": "Refresco",
+                        "price": 260,
+                        "essential_ingredients": ["agua carbonatada", "azúcar"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Jugo",
+                        "price": 220,
+                        "essential_ingredients": ["frutas"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Copa de vino",
+                        "price": 380,
+                        "essential_ingredients": ["uvas"],
+                        "allergy_info": ["alcohol"]
+                      },
+                      {
+                        "name": "Smoothie de plátano",
+                        "price": 530,
+                        "essential_ingredients": ["plátano", "leche"],
+                        "allergy_info": ["lactosa"]
+                      },
+                      {
+                        "name": "Cerveza importada",
+                        "price": 300,
+                        "essential_ingredients": ["cebada", "lúpulo"],
+                        "allergy_info": ["gluten", "alcohol"]
+                      },
+                      {
+                        "name": "Servicio de chelada",
+                        "price": 130,
+                        "essential_ingredients": ["cerveza", "limón", "sal"],
+                        "allergy_info": ["gluten", "alcohol"]
+                      },
+                      {
+                        "name": "Havana Club Especial",
+                        "price": 250,
+                        "essential_ingredients": ["ron"],
+                        "allergy_info": ["alcohol"]
+                      },
+                      {
+                        "name": "Havana Club Reserva",
+                        "price": 280,
+                        "essential_ingredients": ["ron"],
+                        "allergy_info": ["alcohol"]
+                      },
+                      {
+                        "name": "Havana Club 7 anos",
+                        "price": 330,
+                        "essential_ingredients": ["ron"],
+                        "allergy_info": ["alcohol"]
+                      }
+                    ]
+                  },
+                  {
+                    "category": "Infusions",
+                    "items": [
+                      {
+                        "name": "Coladita",
+                        "price": 50,
+                        "essential_ingredients": ["café"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Expresso",
+                        "price": 90,
+                        "essential_ingredients": ["café"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Cortado",
+                        "price": 120,
+                        "essential_ingredients": ["café", "leche"],
+                        "allergy_info": ["lactosa"]
+                      },
+                      {
+                        "name": "Carajillo",
+                        "price": 220,
+                        "essential_ingredients": ["café", "licor"],
+                        "allergy_info": ["alcohol"]
+                      },
+                      {
+                        "name": "Cappuccino",
+                        "price": 250,
+                        "essential_ingredients": ["café", "leche", "espuma de leche"],
+                        "allergy_info": ["lactosa"]
+                      },
+                      {
+                        "name": "Mocaccino",
+                        "price": 260,
+                        "essential_ingredients": ["café", "leche", "chocolate"],
+                        "allergy_info": ["lactosa"]
+                      },
+                      {
+                        "name": "Soñar Contigo",
+                        "price": 300,
+                        "essential_ingredients": ["café", "leche", "varios"],
+                        "allergy_info": ["lactosa"]
+                      },
+                      {
+                        "name": "Café frío",
+                        "price": 100,
+                        "essential_ingredients": ["café", "hielo"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Frappuccino",
+                        "price": 400,
+                        "essential_ingredients": ["café", "hielo", "leche"],
+                        "allergy_info": ["lactosa"]
+                      },
+                      {
+                        "name": "Affogatto",
+                        "price": 260,
+                        "essential_ingredients": ["café", "helado"],
+                        "allergy_info": ["lactosa"]
+                      },
+                      {
+                        "name": "ChocoFrappu",
+                        "price": 550,
+                        "essential_ingredients": ["chocolate", "café", "leche"],
+                        "allergy_info": ["lactosa"]
+                      },
+                      {
+                        "name": "Super Frappu",
+                        "price": 700,
+                        "essential_ingredients": ["varios"],
+                        "allergy_info": ["lactosa"]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+            

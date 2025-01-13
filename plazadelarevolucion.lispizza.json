@@ -1,0 +1,415 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurant"]
+    },
+    "name": "Dona Lis Pizza",
+    "cuisine": ["Pizzas"],
+    "description": "",
+    "contact_info": {
+      "phone": {
+        "number": "5510909",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "10:30",
+        "close": "24:00"
+      },
+      "tuesday": {
+        "open": "10:30",
+        "close": "24:00"
+      },
+      "wednesday": {
+        "open": "10:30",
+        "close": "24:00"
+      },
+      "thursday": {
+        "open": "10:30",
+        "close": "24:00"
+      },
+      "friday": {
+        "open": "10:30",
+        "close": "24:00"
+      },
+      "saturday": {
+        "open": "10:30",
+        "close": "24:00"
+      },
+      "sunday": {
+        "open": "10:30",
+        "close": "24:00"
+      }
+    },
+    "address": "4JPC+W87, 1169 A Neptuno, La Habana",
+    "municipality": "Plaza de la Revolucion",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.135892638151837,
+      "longitude": -82.40453312083959
+    },
+    "social_media": {
+      "facebook": "https://www.facebook.com/mirestaurantencuba",
+      "instagram": "https://www.instagram.com/lacatedralcuba"
+    },
+    "accepted_payment_methods": ["Transfermovil", "Efectivo"],
+    "delivery_available": null,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": null,
+      "dine_in": null,
+      "takeaway": null,
+      "offers": [],
+      "local_options": [],
+      "services": ["A la carta"],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+
+        "menu": {
+          "categories": [
+            {
+              "category": "Starters",
+              "items": [
+                {
+                  "name": "Croquetas",
+                  "price": 400.00,
+                  "essential_ingredients": ["harina", "leche"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Bolitas de queso/jamón",
+                  "price": 500.00,
+                  "essential_ingredients": ["queso", "jamón"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Bolitas de pescado",
+                  "price": 450.00,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Frituras Malanga",
+                  "price": 350.00,
+                  "essential_ingredients": ["malanga"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Papas fritas",
+                  "price": 500.00,
+                  "essential_ingredients": ["papas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Fajitas de pollo",
+                  "price": 600.00,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Tostones rellenos",
+                  "price": 500.00,
+                  "essential_ingredients": ["plátano", "carne"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Nachos",
+                  "price": 300.00,
+                  "essential_ingredients": ["tortilla de maíz"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Ración Yuca/Mojo",
+                  "price": 250.00,
+                  "essential_ingredients": ["yuca", "ajo"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Main Courses",
+              "items": [
+                {
+                  "name": "Don Hamburgueso/Vianda frita",
+                  "price": 550.00,
+                  "essential_ingredients": ["carne de res", "vianda"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Hamburguesa Doña Lis/Vianda frita",
+                  "price": 1000.00,
+                  "essential_ingredients": ["carne de res", "queso", "vianda"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Cheeseburger/Vianda frita",
+                  "price": 650.00,
+                  "essential_ingredients": ["carne de res", "queso", "vianda"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Sándwich Atún/Vianda frita",
+                  "price": 650.00,
+                  "essential_ingredients": ["atún", "vianda"],
+                  "allergy_info": ["pescado"]
+                },
+                {
+                  "name": "Sándwich Jamón y Queso/Vianda frita",
+                  "price": 550.00,
+                  "essential_ingredients": ["jamón", "queso", "vianda"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Sándwich Pollo y Vegetales/Vianda frita",
+                  "price": 650.00,
+                  "essential_ingredients": ["pollo", "vegetales", "vianda"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Tacos al Pastor",
+                  "price": 700.00,
+                  "essential_ingredients": ["cerdo", "tortilla"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Tacos Cerdo",
+                  "price": 800.00,
+                  "essential_ingredients": ["cerdo", "tortilla"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Tacos Pollo/Vegetales",
+                  "price": 700.00,
+                  "essential_ingredients": ["pollo", "vegetales", "tortilla"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Tacos de pescado",
+                  "price": 750.00,
+                  "essential_ingredients": ["pescado", "tortilla"],
+                  "allergy_info": ["pescado", "gluten"]
+                },
+                {
+                  "name": "Pechuga Grillé",
+                  "price": 800.00,
+                  "essential_ingredients": ["pollo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Pechuga empanada",
+                  "price": 850.00,
+                  "essential_ingredients": ["pollo", "pan rallado"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Fajitas salteadas",
+                  "price": 700.00,
+                  "essential_ingredients": ["carne", "vegetales"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bistec de cerdo",
+                  "price": 900.00,
+                  "essential_ingredients": ["cerdo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bistec de cerdo gratinado",
+                  "price": 1000.00,
+                  "essential_ingredients": ["cerdo", "queso"],
+                  "allergy_info": ["lactosa"]
+                },
+                {
+                  "name": "Filete de pescado grillé",
+                  "price": 900.00,
+                  "essential_ingredients": ["pescado"],
+                  "allergy_info": ["pescado"]
+                }
+            ]
+          },
+          {
+                          "category": "Pizzas",
+                          "items": [
+                            {
+                              "name": "Pizza napolitana",
+                              "price": 650.00,
+                              "essential_ingredients": ["tomate", "queso", "albahaca"],
+                              "allergy_info": ["lactosa"]
+                            },
+                            {
+                              "name": "Pizza Margarita",
+                              "price": 700.00,
+                              "essential_ingredients": ["tomate", "queso", "albahaca"],
+                              "allergy_info": ["lactosa"]
+                            },
+                            {
+                              "name": "Pizza Hawaiana",
+                              "price": 900.00,
+                              "essential_ingredients": ["tomate", "queso", "piña", "jamón"],
+                              "allergy_info": ["lactosa"]
+                            },
+                            {
+                              "name": "Pizza Doña Lis",
+                              "price": 1400.00,
+                              "essential_ingredients": ["tomate", "queso", "ingredientes varios"],
+                              "allergy_info": ["lactosa"]
+                            },
+                            {
+                              "name": "Pasta Napolitana",
+                              "price": 500.00,
+                              "essential_ingredients": ["pasta", "salsa napolitana"],
+                              "allergy_info": ["gluten"]
+                            },
+                            {
+                              "name": "Pasta Vegetariana",
+                              "price": 650.00,
+                              "essential_ingredients": ["pasta", "vegetales"],
+                              "allergy_info": ["gluten"]
+                            }
+                          ]
+                        },
+                        {
+                          "category": "Pasta",
+                          "items": [
+                            {
+                              "name": "Lasaña",
+                              "price": 800.00,
+                              "essential_ingredients": ["pasta", "carne", "queso"],
+                              "allergy_info": ["gluten", "lactosa"]
+                            }
+                          ]
+                        },
+                        {
+                          "category": "Desserts",
+                          "items": [
+                            {
+                              "name": "Pote de helado",
+                              "price": 750.00,
+                              "essential_ingredients": ["leche", "azúcar"],
+                              "allergy_info": ["lactosa"]
+                            },
+                            {
+                              "name": "Paleta de helado",
+                              "price": 200.00,
+                              "essential_ingredients": ["leche", "azúcar"],
+                              "allergy_info": ["lactosa"]
+                            }
+                        ]
+                      },
+                      {
+                               "category": "bebidas",
+                          "items": [
+                            {
+                                      "name": "Servicio Michelada",
+                                      "price": 300.00,
+                                      "essential_ingredients": ["cerveza", "limón", "salsa picante"],
+                                      "allergy_info": ["gluten", "alcohol"]
+                                    },
+                                    {
+                                      "name": "Servicio Chelada",
+                                      "price": 200.00,
+                                      "essential_ingredients": ["cerveza", "limón", "sal"],
+                                      "allergy_info": ["gluten", "alcohol"]
+                                    },
+                                    {
+                                      "name": "Cerveza Nacional",
+                                      "price": 300.00,
+                                      "essential_ingredients": ["cerveza"],
+                                      "allergy_info": ["gluten", "alcohol"]
+                                    },
+                                    {
+                                      "name": "Cerveza de botella",
+                                      "price": 300.00,
+                                      "essential_ingredients": ["cerveza"],
+                                      "allergy_info": ["gluten", "alcohol"]
+                                    },
+                                    {
+                                      "name": "Cerveza Importada",
+                                      "price": 280.00,
+                                      "essential_ingredients": ["cerveza"],
+                                      "allergy_info": ["gluten", "alcohol"]
+                                    },
+                                    {
+                                      "name": "Jugo natural",
+                                      "price": 150.00,
+                                      "essential_ingredients": ["frutas"],
+                                      "allergy_info": []
+                                    },
+                                    {
+                                      "name": "Batido de fruta",
+                                      "price": 350.00,
+                                      "essential_ingredients": ["frutas", "leche"],
+                                      "allergy_info": ["lactosa"]
+                                    },
+                                    {
+                                      "name": "Batido de Trigo",
+                                      "price": 500.00,
+                                      "essential_ingredients": ["trigo", "leche"],
+                                      "allergy_info": ["gluten", "lactosa"]
+                                    },
+                                    {
+                                      "name": "Malteada",
+                                      "price": 500.00,
+                                      "essential_ingredients": ["malta", "leche"],
+                                      "allergy_info": ["gluten", "lactosa"]
+                                    },
+                                    {
+                                      "name": "Batido de Helado",
+                                      "price": 500.00,
+                                      "essential_ingredients": ["helado", "leche"],
+                                      "allergy_info": ["lactosa"]
+                                    },
+                                    {
+                                      "name": "Limonada Frappé",
+                                      "price": 300.00,
+                                      "essential_ingredients": ["limón", "hielo", "azúcar"],
+                                      "allergy_info": []
+                                    },
+                                    {
+                                      "name": "Malta",
+                                      "price": 300.00,
+                                      "essential_ingredients": ["malta"],
+                                      "allergy_info": ["gluten"]
+                                    },
+                                    {
+                                      "name": "Energizante",
+                                      "price": 250.00,
+                                      "essential_ingredients": ["energizante"],
+                                      "allergy_info": []
+                                    },
+                                    {
+                                      "name": "Refresco",
+                                      "price": 280.00,
+                                      "essential_ingredients": ["refresco"],
+                                      "allergy_info": []
+                                    },
+                                    {
+                                      "name": "Agua",
+                                      "price": 180.00,
+                                      "essential_ingredients": ["agua"],
+                                      "allergy_info": []
+                                    }
+                                  ]
+                                }
+                            ]
+                    }
+                  }
+                              
