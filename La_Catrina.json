@@ -1,0 +1,477 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "La Catrina",
+    "cuisine": ["Mexicana"],
+    "description": "Privado",
+    "contact_info": {
+      "phone": {
+        "number": "56593890",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": "https://www.instagram.com/lacatrina_havana/?hl=es"
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "23:00"
+      }
+    },
+    "address": "calle 84 #503 e/ 5ta Ave y 5taA, Miramar, La Habana",
+    "municipality": "Playa",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": "23.105644168847277",
+      "longitude": "-82.44212999530603"
+    },
+    "social_media": {
+      "facebook": "https://www.facebook.com/lacatrina.havana/",
+      "instagram": "https://www.instagram.com/lacatrina_havana/?hl=es"
+    },
+    "accepted_payment_methods": ["Efectivo (CUP)", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": true,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": ["Baño", "Bar"],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": ["Fiestas Mexicanas"],
+      "children": false,
+      "pets": null,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": ["Generador"],
+    "highlights": ["Música en Vivo"]
+  },
+      "menu": {
+        "categories": [
+          {
+            "category": "Entrantes",
+            "items": [
+              {
+                "name": "Quesadillas con Tortillas de Trigo con Queso",
+                "price": 1700,
+                "essential_ingredients": ["tortillas de trigo", "queso"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Quesadillas con Queso y Champiñones",
+                "price": 2300,
+                "essential_ingredients": ["tortillas de trigo", "queso", "champiñones"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Quesadillas con Queso y Chorizo Ibérico",
+                "price": 2300,
+                "essential_ingredients": ["tortillas de trigo", "queso", "chorizo ibérico"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Tacos Envenenados",
+                "price": 1900,
+                "essential_ingredients": ["relleno sorpresa"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Tacos Dorados",
+                "price": 1900,
+                "essential_ingredients": ["papa", "pollo", "ensalada", "crema de leche", "salsa taquera"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Frijoles Refritos",
+                "price": 1350,
+                "essential_ingredients": ["frijoles"],
+                "allergy_info": []
+              },
+              {
+                "name": "Ceviche Acapulqueño",
+                "price": 2700,
+                "essential_ingredients": ["pescado"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Ceviche de Atún Rojo",
+                "price": 3950,
+                "essential_ingredients": ["atún"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Carpaccio de Res",
+                "price": 4200,
+                "essential_ingredients": ["res"],
+                "allergy_info": []
+              },
+              {
+                "name": "Carpaccio de Pulpo",
+                "price": 3800,
+                "essential_ingredients": ["pulpo"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Tostada de Atún",
+                "price": 2700,
+                "essential_ingredients": ["atún"],
+                "allergy_info": ["gluten", "pescado"]
+              },
+              {
+                "name": "Aguachile de Camarón",
+                "price": 2900,
+                "essential_ingredients": ["camarón"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Trío de Ceviches",
+                "price": 3800,
+                "essential_ingredients": ["variado"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Salmorejo La Catrina (Pequeña)",
+                "price": 1550,
+                "essential_ingredients": ["tomate"],
+                "allergy_info": []
+              },
+              {
+                "name": "Salmorejo La Catrina (Grande)",
+                "price": 2100,
+                "essential_ingredients": ["tomate"],
+                "allergy_info": []
+              },
+              {
+                "name": "Guacamole",
+                "price": 1750,
+                "essential_ingredients": ["aguacate"],
+                "allergy_info": []
+              }
+            ]
+          },
+          {
+            "category": "Platos principales",
+            "items": [
+              {
+                "name": "Pollo en Mole",
+                "price": 3200,
+                "essential_ingredients": ["pollo", "chiles", "almendras", "cacahuate", "semillas de sésamo", "calabaza", "chocolate"],
+                "allergy_info": ["gluten", "frutos secos"]
+              },
+              {
+                "name": "Albóndigas de la Abuela",
+                "price": 2700,
+                "essential_ingredients": ["res", "cerdo", "salsa de tomate", "vino blanco"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Quesadillas de Huitlacoche",
+                "price": 1700,
+                "essential_ingredients": ["maíz", "queso", "huitlacoche"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Chilaquiles",
+                "price": 2700,
+                "essential_ingredients": ["totopos", "salsa de chile", "pechuga de pollo", "queso", "crema de leche", "cebolla"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Pescado del Día",
+                "price": 3250,
+                "essential_ingredients": ["pescado", "vegetales"],
+                "allergy_info": ["pescado"]
+              },
+              {
+                "name": "Langosta Grillé",
+                "price": 4600,
+                "essential_ingredients": ["langosta", "mantequilla", "vegetales"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Calamares al Ajillo",
+                "price": 3800,
+                "essential_ingredients": ["calamar", "ajo", "perejil", "aceite de oliva", "vino blanco"],
+                "allergy_info": ["mariscos", "alcohol"]
+              },
+              {
+                "name": "Carnitas Michoacanas",
+                "price": 2700,
+                "essential_ingredients": ["cerdo"],
+                "allergy_info": []
+              },
+              {
+                "name": "Tacos al Pastor",
+                "price": 2700,
+                "essential_ingredients": ["cerdo"],
+                "allergy_info": []
+              },
+              {
+                "name": "Cochinita Pibil",
+                "price": 2700,
+                "essential_ingredients": ["cerdo"],
+                "allergy_info": []
+              },
+              {
+                "name": "Tacos de Res",
+                "price": 3100,
+                "essential_ingredients": ["filete de res"],
+                "allergy_info": []
+              },
+              {
+                "name": "Fajitas de Pollo",
+                "price": 2700,
+                "essential_ingredients": ["pechuga de pollo"],
+                "allergy_info": []
+              },
+              {
+                "name": "Fajitas de Res",
+                "price": 3050,
+                "essential_ingredients": ["res"],
+                "allergy_info": []
+              },
+              {
+                "name": "Festival de Tacos (6)",
+                "price": 4600,
+                "essential_ingredients": ["cochinita"],
+                "allergy_info": []
+              },
+              {
+                "name": "Festival de Tacos (12)",
+                "price": 8900,
+                "essential_ingredients": ["cochinita"],
+                "allergy_info": []
+              },
+              {
+                "name": "Ensenada de Pescado",
+                "price": 2900,
+                "essential_ingredients": ["pescado"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Ensenada de Camarón",
+                "price": 3000,
+                "essential_ingredients": ["camarón"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Gobernador",
+                "price": 3350,
+                "essential_ingredients": ["camarón"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Langosta Estilo Baja California",
+                "price": 3050,
+                "essential_ingredients": ["langosta"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Festival de Tacos del Mar",
+                "price": 8800,
+                "essential_ingredients": ["pescado", "langosta", "camarón"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Solomillo de Res",
+                "price": 6900,
+                "essential_ingredients": ["solomillo de res"],
+                "allergy_info": []
+              },
+              {
+                "name": "Entrecot",
+                "price": 10900,
+                "essential_ingredients": ["res"],
+                "allergy_info": []
+              },
+              {
+                "name": "Chuletón",
+                "price": 24700,
+                "essential_ingredients": ["res"],
+                "allergy_info": []
+              },
+              {
+                "name": "Tomahawk",
+                "price": 21000,
+                "essential_ingredients": ["res"],
+                "allergy_info": []
+              },
+              {
+                "name": "Quesadilla Tacos de Fajitas de Pollo",
+                "price": 2450,
+                "essential_ingredients": ["pollo", "queso", "champiñón", "chorizo"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Quesadilla Tacos de Carne de Cerdo",
+                "price": 2300,
+                "essential_ingredients": ["cerdo", "queso", "champiñón", "chorizo"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Eperlán de Pollo y Papas Fritas",
+                "price": 2450,
+                "essential_ingredients": ["pollo", "papas"],
+                "allergy_info": []
+              },
+              {
+                "name": "Eperlán de Pescado y Papas Fritas",
+                "price": 2450,
+                "essential_ingredients": ["pescado", "papas"],
+                "allergy_info": ["pescado"]
+              },
+              {
+                "name": "Bistec de Res y Papas Fritas",
+                "price": 2900,
+                "essential_ingredients": ["res", "papas"],
+                "allergy_info": []
+              }
+            ]
+          },
+          {
+            "category": "Guarniciones",
+            "items": [
+              {
+                "name": "Ensalada La Catrina",
+                "price": 2650,
+                "essential_ingredients": ["lechugas", "rúcula", "tomate", "queso de cabra", "jamón serrano"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Ensalada México Lindo",
+                "price": 2300,
+                "essential_ingredients": ["lechugas", "rúcula", "tomate", "cebolla", "elote", "frijol negro", "queso de cabra", "tortilla de maíz"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Ensalada Pico de Gallo",
+                "price": 1350,
+                "essential_ingredients": ["tomate", "cebolla blanca", "cilantro", "limón"],
+                "allergy_info": []
+              },
+              {
+                "name": "Arroz Blanco",
+                "price": 750,
+                "essential_ingredients": ["arroz"],
+                "allergy_info": []
+              },
+              {
+                "name": "Papas Fritas",
+                "price": 950,
+                "essential_ingredients": ["papas"],
+                "allergy_info": []
+              },
+              {
+                "name": "Puré de Papa",
+                "price": 1150,
+                "essential_ingredients": ["papa"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Champiñones Salteados",
+                "price": 1450,
+                "essential_ingredients": ["champiñones"],
+                "allergy_info": []
+              },
+              {
+                "name": "Vegetales Salteados",
+                "price": 850,
+                "essential_ingredients": ["vegetales"],
+                "allergy_info": []
+              },
+              {
+                "name": "Totopos",
+                "price": 850,
+                "essential_ingredients": ["totopos"],
+                "allergy_info": ["gluten"]
+              },
+              {
+                "name": "Cesta de Pan",
+                "price": 800,
+                "essential_ingredients": ["pan"],
+                "allergy_info": ["gluten"]
+              }
+            ]
+          },
+          {
+            
+                    "category": "Postres",
+                    "items": [
+                      {
+                        "name": "Tartas del Día",
+                        "price": 1400,
+                        "essential_ingredients": ["harina"],
+                        "allergy_info": ["gluten"]
+                      },
+                      {
+                        "name": "Pie de Limón",
+                        "price": 1400,
+                        "essential_ingredients": ["harina", "limón"],
+                        "allergy_info": ["gluten", "lactosa"]
+                      },
+                      {
+                        "name": "Tiramisú",
+                        "price": 1400,
+                        "essential_ingredients": ["bizcocho", "café", "mascarpone"],
+                        "allergy_info": ["gluten", "lactosa"]
+                      },
+                      {
+                        "name": "Cheesecake",
+                        "price": 1400,
+                        "essential_ingredients": ["queso crema"],
+                        "allergy_info": ["gluten", "lactosa"]
+                      },
+                      {
+                        "name": "Gelato Italiano Artesanal",
+                        "price": 1200,
+                        "essential_ingredients": ["leche", "crema", "azúcar", "saborizantes"],
+                        "allergy_info": ["lactosa"]
+                      },
+                      {
+                        "name": "Flan Casero",
+                        "price": 1400,
+                        "essential_ingredients": ["leche", "huevos", "azúcar"],
+                        "allergy_info": ["gluten", "lactosa"]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+            

@@ -1,0 +1,366 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Café Del Ángel",
+    "cousine": ["Desayunos"],
+    "description": "Bar-restaurante con asientos al aire libre, ubicado en Chacón #201 esquina Compostela, Habana Vieja.",
+    "contact_info": {
+      "phone": {
+        "number": "078015162",
+        "type": "landline"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "08:00",
+        "close": "22:00"
+      },
+      "tuesday": {
+        "open": "08:00",
+        "close": "22:00"
+      },
+      "wednesday": {
+        "open": "08:00",
+        "close": "22:00"
+      },
+      "thursday": {
+        "open": "08:00",
+        "close": "22:00"
+      },
+      "friday": {
+        "open": "08:00",
+        "close": "22:00"
+      },
+      "saturday": {
+        "open": "08:00",
+        "close": "22:00"
+      },
+      "sunday": {
+        "open": "08:00",
+        "close": "22:00"
+      }
+    },
+    "address": "Chacón #201 esquina Compostela, Habana Vieja",
+    "municipality": "Habana Vieja",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": [],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Cargo por servicio del 10%",
+      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": true,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Restaurante", "Bar"],
+      "local_options": ["Desayunos", "Almuerzo", "Cena", "Postres"],
+      "services": ["Sanitario", "Tiene bar"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": ["Se aceptan reservas"],
+      "children": null,
+      "pets": null,
+      "parking": null
+    },
+    "dietary_options": ["Opciones vegetarianas", "Opciones veganas"],
+    "meals": ["Comidas", "Cenas", "Brunch"],
+    "advantages": ["Reservas", "Capacidad", "Sirve alcohol", "Bar completo", "Servicio de mesa"],
+    "highlights": ["Aperitivos", "Buenos cócteles", "Agradable", "Informal", "Recomendable para ir en grupo"]
+  },
+    "menu": {
+      "categories": [
+        {
+          "category": "Para Empezar ",
+          "items": [
+            {
+              "name": "Croquetas Serrano",
+              "price": 1480,
+              "essential_ingredients": ["jamón serrano", "harina", "huevos", "pan rallado"],
+              "allergy_info": ["gluten", "huevos"]
+            },
+            {
+              "name": "Rillete de Cerdo",
+              "price": 1500,
+              "essential_ingredients": ["carne de cerdo", "manteca", "especias"],
+              "allergy_info": []
+            },
+            {
+              "name": "Tacos de Cerdo",
+              "price": 2200,
+              "essential_ingredients": ["tortilla", "carne de cerdo", "salsa"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Mixto de Brusquetas",
+              "price": 2200,
+              "essential_ingredients": ["pan", "tomate", "queso", "jamón"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Tacos de Camarones",
+              "price": 2380,
+              "essential_ingredients": ["tortilla", "camarones", "salsa"],
+              "allergy_info": ["gluten", "mariscos"]
+            },
+            {
+              "name": "Empanadillas de Queso",
+              "price": 1400,
+              "essential_ingredients": ["masa", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Tabla Charcutería",
+              "price": 4000,
+              "essential_ingredients": ["jamón", "queso", "chorizo"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Principales ",
+          "items": [
+            {
+              "name": "Solomillo de Cerdo",
+              "price": 4200,
+              "essential_ingredients": ["solomillo de cerdo", "especias"],
+              "allergy_info": []
+            },
+            {
+              "name": "Pescado a la Siciliana",
+              "price": 3580,
+              "essential_ingredients": ["pescado", "tomate", "aceitunas"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "Ropa Vieja",
+              "price": 3580,
+              "essential_ingredients": ["carne de res", "tomate", "pimientos"],
+              "allergy_info": []
+            },
+            {
+              "name": "Costillas de Cerdo",
+              "price": 4950,
+              "essential_ingredients": ["costillas de cerdo", "salsa barbacoa"],
+              "allergy_info": []
+            },
+            {
+              "name": "Hamburguesa de Res",
+              "price": 3200,
+              "essential_ingredients": ["pan", "carne de res", "lechuga", "tomate"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Langosta Caribeña",
+              "price": 5400,
+              "essential_ingredients": ["langosta", "especias"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Pollo Mediterráneo",
+              "price": 2340,
+              "essential_ingredients": ["pollo", "aceitunas", "tomate"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Postres y Dessert",
+          "items": [
+            {
+              "name": "Mousse de Chocolate",
+              "price": 1925,
+              "essential_ingredients": ["chocolate", "huevos", "crema"],
+              "allergy_info": ["lactosa", "huevos"]
+            },
+            {
+              "name": "Esfera de Maracuyá",
+              "price": 1925,
+              "essential_ingredients": ["maracuyá", "chocolate blanco", "crema"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Arroz con Leche",
+              "price": 1500,
+              "essential_ingredients": ["arroz", "leche", "azúcar"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Dados de Guayaba",
+              "price": 1500,
+              "essential_ingredients": ["guayaba", "azúcar"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Desayunos ",
+          "items": [
+            {
+              "name": "Del Angel",
+              "price": 2500,
+              "essential_ingredients": ["huevos", "pan", "tocino"],
+              "allergy_info": ["gluten", "huevos"]
+            },
+            {
+              "name": "Croissant Madame",
+              "price": 2500,
+              "essential_ingredients": ["croissant", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Omelette al Queso",
+              "price": 1630,
+              "essential_ingredients": ["huevos", "queso"],
+              "allergy_info": ["lactosa", "huevos"]
+            },
+            {
+              "name": "Americano",
+              "price": 2400,
+              "essential_ingredients": ["huevos", "tocino", "pan"],
+              "allergy_info": ["gluten", "huevos"]
+            },
+            {
+              "name": "Pancakes",
+              "price": 1700,
+              "essential_ingredients": ["harina", "huevos", "leche"],
+              "allergy_info": ["gluten", "lactosa", "huevos"]
+            },
+            {
+              "name": "Continental",
+              "price": 1600,
+              "essential_ingredients": ["pan", "mantequilla", "mermelada"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Bagel Nórdico",
+              "price": 2450,
+              "essential_ingredients": ["bagel", "salmón", "queso crema"],
+              "allergy_info": ["gluten", "lactosa", "pescado"]
+            },
+            {
+              "name": "Yogurt Parfait",
+              "price": 1360,
+              "essential_ingredients": ["yogurt", "frutas", "granola"],
+              "allergy_info": ["lactosa", "frutos secos"]
+            },
+            {
+              "name": "Bagel Catalán",
+              "price": 2450,
+              "essential_ingredients": ["bagel", "jamón", "tomate"],
+              "allergy_info": ["gluten"]
+            }
+          ]
+        },
+        {
+
+          "category": "Ensaladas",
+          "items": [
+            {
+              "name": "Ensalada del Ángel",
+              "price": 2340,
+              "essential_ingredients": ["lechuga", "tomate", "queso", "aderezo"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Baguette de Jamón & Queso",
+              "price": 1600,
+              "essential_ingredients": ["baguette", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Bocadillos y Sándwiches",
+          "items": [
+            {
+              "name": "Bocata Catalana",
+              "price": 2400,
+              "essential_ingredients": ["pan", "jamón", "tomate"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Sandwich de Atún",
+              "price": 1530,
+              "essential_ingredients": ["pan", "atún", "mayonesa"],
+              "allergy_info": ["gluten", "pescado"]
+            },
+            {
+              "name": "Sandwich Vegetales",
+              "price": 1530,
+              "essential_ingredients": ["pan", "vegetales", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Sandwich Cubano",
+              "price": 2600,
+              "essential_ingredients": ["pan", "jamón", "cerdo", "queso", "pepino"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Huevos & Pesto",
+              "price": 2400,
+              "essential_ingredients": ["huevos", "pesto", "pan"],
+              "allergy_info": ["gluten", "huevos"]
+            }
+          ]
+        },
+        {
+          "category": "Pastas",
+          "items": [
+            {
+              "name": "Spaghetti Pomodoro",
+              "price": 1880,
+              "essential_ingredients": ["spaghetti", "salsa de tomate"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Ragu de Cordero",
+              "price": 3450,
+              "essential_ingredients": ["pasta", "cordero", "salsa"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Ravioli Carbonara",
+              "price": 3200,
+              "essential_ingredients": ["ravioli", "tocino", "salsa carbonara"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Spaghetti al Pesto",
+              "price": 2200,
+              "essential_ingredients": ["spaghetti", "pesto"],
+              "allergy_info": ["gluten", "frutos secos"]
+            },
+            {
+              "name": "Rigatoni Amatriciana",
+              "price": 3200,
+              "essential_ingredients": ["rigatoni", "tocino", "salsa de tomate"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Spaghetti Altamar",
+              "price": 3450,
+              "essential_ingredients": ["spaghetti", "mariscos", "salsa"],
+              "allergy_info": ["gluten", "mariscos"]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

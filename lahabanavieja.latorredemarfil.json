@@ -1,0 +1,467 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["restaurante"]
+    },
+    "name": "La Torre De Marfil",
+    "cousine": ["China", "Caribeña", "Mediterránea", "Cubana"],
+    "description": "Recientemente re-inauguramos este restaurante, ahora administrado por una compañía privada. Ofrecemos comida cubana, internacional y la carta cuenta con toques de la comida oriental, haciendo honor al primer restaurante de comida asiática en la Habana que radicó aquí. La Torre de Marfil es ideal para grupos grandes, con una capacidad de hasta 120 personas, banquetes y celebraciones. Pero también ofrece un ambiente familiar, para grupos más pequeños, amigos, familia, o simplemente clientes que quieran disfrutar del buen sabor de la cocina insular, en un ambiente agradable con música en vivo, y un servicio de primera. Su ubicación es perfecta en el centro histórico de la Habana Vieja, así que ya sea que necesite una bebida refrescante, un plato ligero o una cena festín, aquí lo podrá encontrar.",
+    "contact_info": {
+      "phone": {
+        "number": "052667604",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "11:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Calle Mercaderes entre Obispo y Obrapia, Habana Vieja",
+    "municipality": "Habana Vieja",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": [],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "10% service charge",
+      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Restaurante", "Bar"],
+      "local_options": ["Almuerzo", "Cena", "Postres"],
+      "services": ["Sanitario", "Tiene bar"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": ["Se aceptan reservas"],
+      "children": true,
+      "pets": false,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": ["Comidas", "Cenas", "Bebidas"],
+    "advantages": ["Reservas", "Restaurante privado", "Capacidad", "Sirve alcohol", "Vino y cerveza", "Servicio de mesa", "Música en directo"],
+    "highlights": ["Aperitivos", "Buenos cócteles", "Agradable", "Informal", "Ideal para ir con niños", "Recomendable para ir en grupo"]
+  },
+  "menu": {
+    "categories": [
+      {
+        "category": "Entrantes fríos",
+        "items": [
+          {
+            "name": "La Torre de Marfil",
+            "price": 1100,
+            "essential_ingredients": ["ingredientes variados"],
+            "allergy_info": []
+          },
+          {
+            "name": "Bruschettas",
+            "price": 650,
+            "essential_ingredients": ["pan", "tomate", "ajo", "albahaca"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Ensalada de vegetales",
+            "price": 650,
+            "essential_ingredients": ["vegetales variados"],
+            "allergy_info": []
+          },
+          {
+            "name": "Ensalada de verduras y pollo",
+            "price": 750,
+            "essential_ingredients": ["vegetales", "pollo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Coctel de langosta",
+            "price": 1550,
+            "essential_ingredients": ["langosta", "salsa coctel"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Coctel de camarones",
+            "price": 1150,
+            "essential_ingredients": ["camarones", "salsa coctel"],
+            "allergy_info": ["mariscos"]
+          }
+        ]
+      },
+      {
+        "category": "Entrantes calientes",
+        "items": [
+          {
+            "name": "Maripositas chinas",
+            "price": 500,
+            "essential_ingredients": ["masa", "especias"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Vegetales salteados",
+            "price": 550,
+            "essential_ingredients": ["vegetales variados"],
+            "allergy_info": []
+          },
+          {
+            "name": "Pulpo al pimentón",
+            "price": 2500,
+            "essential_ingredients": ["pulpo", "pimentón"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Shop Suey de marisco",
+            "price": 950,
+            "essential_ingredients": ["mariscos variados", "vegetales"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Sopa estilo Oriental",
+            "price": 750,
+            "essential_ingredients": ["caldo", "vegetales", "fideos"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Croquetas de la casa",
+            "price": 750,
+            "essential_ingredients": ["harina", "leche", "jamón"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Fritura de malanga con miel y mostaza",
+            "price": 650,
+            "essential_ingredients": ["malanga", "miel", "mostaza"],
+            "allergy_info": []
+          },
+          {
+            "name": "Crema de calabaza y malanga",
+            "price": 850,
+            "essential_ingredients": ["calabaza", "malanga", "crema"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Tacos de cerdo",
+            "price": 950,
+            "essential_ingredients": ["tortilla", "cerdo", "especias"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Tacos de vegetales",
+            "price": 650,
+            "essential_ingredients": ["tortilla", "vegetales"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Tacos de pollo",
+            "price": 750,
+            "essential_ingredients": ["tortilla", "pollo", "especias"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Tacos de ropa vieja",
+            "price": 800,
+            "essential_ingredients": ["tortilla", "ropa vieja"],
+            "allergy_info": ["gluten"]
+          }
+        ]
+      },
+      {
+        "category": "Platos principales",
+        "items": [
+          {
+            "name": "Pollo al estilo Torre de Marfil",
+            "price": 1750,
+            "description": "Asado al carbón, ahumado, marinado al estilo asiático",
+            "essential_ingredients": ["pollo", "marinada asiática"],
+            "allergy_info": []
+          },
+          {
+            "name": "Pollo grillé",
+            "price": 1350,
+            "essential_ingredients": ["pollo", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cerdo al estilo Torre de Marfil",
+            "price": 2300,
+            "description": "Asado al carbón, ahumado, marinado al estilo asiático",
+            "essential_ingredients": ["cerdo", "marinada asiática"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cerdo asado con salsa de mostaza y romero",
+            "price": 2100,
+            "essential_ingredients": ["cerdo", "mostaza", "romero"],
+            "allergy_info": []
+          },
+          {
+            "name": "Combinación marinera a la baracoesa",
+            "price": 2550,
+            "description": "Pescado y camarones con leche de coco",
+            "essential_ingredients": ["pescado", "camarones", "leche de coco"],
+            "allergy_info": ["pescado", "mariscos", "coco"]
+          },
+          {
+            "name": "Pescado grillé",
+            "price": 1650,
+            "essential_ingredients": ["pescado", "especias"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Grillada del Mar",
+            "price": 5800,
+            "description": "Pescado y marisco del día",
+            "essential_ingredients": ["pescado", "mariscos"],
+            "allergy_info": ["pescado", "mariscos"]
+          },
+          {
+            "name": "Grillada de Mar y Tierra",
+            "price": 8500,
+            "essential_ingredients": ["carne", "mariscos", "especias"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Grillada de carne",
+            "price": 3500,
+            "essential_ingredients": ["carne", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Langosta al gusto",
+            "price": 4800,
+            "description": "Al grill, al ajillo, a la piña, enchilada",
+            "essential_ingredients": ["langosta", "especias"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Camarones al gusto",
+            "price": 2200,
+            "description": "Al grill, al ajillo, enchilado",
+            "essential_ingredients": ["camarones", "especias"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Cazuelita caribeña con frutos del mar",
+            "price": 4300,
+            "description": "Pescado y marisco del día",
+            "essential_ingredients": ["pescado", "mariscos"],
+            "allergy_info": ["pescado", "mariscos"]
+          },
+          {
+            "name": "Estofado de res con zanahorias confitadas",
+            "price": 1850,
+            "essential_ingredients": ["res", "zanahorias", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Ropa vieja",
+            "price": 1600,
+            "essential_ingredients": ["carne de res", "tomate", "pimientos", "cebolla"],
+            "allergy_info": []
+          },
+          {
+            "name": "Vaca frita",
+            "price": 1600,
+            "essential_ingredients": ["carne de res", "especias"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Arroces",
+        "items": [
+          {
+            "name": "Arroz frito al estilo de la casa",
+            "price": 1200,
+            "essential_ingredients": ["arroz", "vegetales", "huevo", "salsa de soja"],
+            "allergy_info": ["huevos", "soja"]
+          },
+          {
+            "name": "Arroz caldoso de la tierra",
+            "price": 1750,
+            "essential_ingredients": ["arroz", "vegetales", "caldo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Arroz caldoso marinero",
+            "price": 2850,
+            "essential_ingredients": ["arroz", "mariscos", "caldo"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Arroz caldoso Mar y Tierra",
+            "price": 3850,
+            "essential_ingredients": ["arroz", "mariscos", "carne", "caldo"],
+            "allergy_info": ["mariscos"]
+          }
+        ]
+      },
+      {
+        "category": "Para acompañar",
+        "items": [
+          {
+            "name": "Arroz congris",
+            "price": 400,
+            "essential_ingredients": ["arroz", "frijoles negros"],
+            "allergy_info": []
+          },
+          {
+            "name": "Arroz blanco",
+            "price": 300,
+            "essential_ingredients": ["arroz", "agua", "sal"],
+            "allergy_info": []
+          },
+          {
+            "name": "Ensalada de estación",
+            "price": 350,
+            "essential_ingredients": ["vegetales variados"],
+            "allergy_info": []
+          },
+          {
+            "name": "Vianda con mojo",
+            "price": 350,
+            "essential_ingredients": ["viandas", "mojo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Ración de tostones",
+            "price": 450,
+            "essential_ingredients": ["plátanos verdes", "aceite"],
+            "allergy_info": []
+          },
+          {
+            "name": "Frijoles negros",
+            "price": 500,
+            "essential_ingredients": ["frijoles negros", "ajo", "cebolla"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "De la cocina italiana",
+        "items": [
+          {
+            "name": "Pizza de queso",
+            "price": 1200,
+            "essential_ingredients": ["masa", "queso", "salsa de tomate"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Pizza especial de la casa",
+            "price": 2100,
+            "essential_ingredients": ["masa", "queso", "salsa de tomate", "ingredientes variados"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Pastas cortas Rigatoni Frutti di mare",
+            "price": 2700,
+            "essential_ingredients": ["pasta rigatoni", "mariscos", "salsa"],
+            "allergy_info": ["gluten", "mariscos"]
+          },
+          {
+            "name": "Espaguetis con salsa nápoles",
+            "price": 1100,
+            "essential_ingredients": ["espaguetis", "salsa de tomate"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Espaguetis a la bolognesa",
+            "price": 1600,
+            "essential_ingredients": ["espaguetis", "carne molida", "salsa de tomate"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Espaguetis con vegetales",
+            "price": 1200,
+            "essential_ingredients": ["espaguetis", "vegetales"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Espaguetis al alioli con camarones",
+            "price": 1750,
+            "essential_ingredients": ["espaguetis", "camarones", "alioli"],
+            "allergy_info": ["gluten", "mariscos"]
+          }
+        ]
+      },
+      {
+        "category": "Postres",
+        "items": [
+          {
+            "name": "Helado con frutas confitadas",
+            "price": 650,
+            "essential_ingredients": ["helado", "frutas confitadas"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Tarta semifría",
+            "price": 550,
+            "essential_ingredients": ["tarta", "crema", "frutas"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Brownie con helado",
+            "price": 750,
+            "essential_ingredients": ["chocolate", "harina", "helado"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Mixto cubano",
+            "price": 550,
+            "essential_ingredients": ["ingredientes variados"],
+            "allergy_info": []
+          },
+          {
+            "name": "Postres caseros",
+            "price": 550,
+            "essential_ingredients": ["ingredientes variados"],
+            "allergy_info": []
+          },
+          {
+            "name": "Boniatillo con coco estilo Omara Portuondo",
+            "price": 650,
+            "essential_ingredients": ["boniatillo", "coco"],
+            "allergy_info": ["coco"]
+          }
+        ]
+      }
+    ]
+  }
+}

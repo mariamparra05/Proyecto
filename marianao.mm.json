@@ -1,0 +1,575 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Cafeteria-Restaurante"]
+      },
+      "name": "MMCafeteria",
+      "cuisine": ["Variada"],
+      "description": null,
+      "contact_info": {
+        "phone": {
+          "number": "72611382",
+          "type": "landline"
+        },
+        "email": null,
+        "website": "Cafeteria MM"
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        "tuesday": {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        "wednesday": {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        "thursday": {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        "friday": {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        "saturday": {
+          "open": "10:00",
+          "close": "00:00"
+        },
+        "sunday": {
+          "open": "10:00",
+          "close": "00:00"
+        }
+      },
+      "address": "Avenida 41",
+      "municipality": "Marianao",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": 23.08944,
+        "longitude": -82.42139
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Efectivo", "Tarjeta", "Pago Móvil"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Tarifa de servicio 10%",
+        "description": "Se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": [],
+        "ambience": ["Música grabada"],
+        "usual_customers": [],
+        "planning": [],
+        "children": null,
+        "pets": null,
+        "parking": null
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },
+    "menu": {
+        "categories": [
+          {
+            "category": "Hamburguesas",
+            "items": [
+              {
+                "name": "Hamburguesa Clasica",
+                "price": 400.00,
+                "essential_ingredients": ["Carne", "Pan", "Lechuga", "Tomate"],
+                "allergy_info": ["Gluten"]
+              },
+              {
+                "name": "Hamburguesa De Queso",
+                "price": 600.00,
+                "essential_ingredients": ["Carne", "Pan", "Queso", "Lechuga", "Tomate"],
+                "allergy_info": ["Gluten", "Lactosa"]
+              },
+              {
+                "name": "Hamburguesa De Jamon",
+                "price": 550.00,
+                "essential_ingredients": ["Carne", "Pan", "Jamon", "Lechuga", "Tomate"],
+                "allergy_info": ["Gluten"]
+              },
+              {
+                "name": "Hamburguesa Jamon Y Queso",
+                "price": 700.00,
+                "essential_ingredients": ["Carne", "Pan", "Jamon", "Queso", "Lechuga", "Tomate"],
+                "allergy_info": ["Gluten", "Lactosa"]
+              }
+            ]
+          },
+          {
+            "category": "Entrantes",
+            "items": [
+              {
+                "name": "Papas Fritas",
+                "price": 650.00,
+                "essential_ingredients": ["Papas", "Aceite"],
+                "allergy_info": []
+              },
+              {
+                "name": "Croquetas",
+                "price": 550.00,
+                "essential_ingredients": ["Harina", "Leche", "Huevo", "Pan rallado"],
+                "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+              },
+              {
+                "name": "Fritura De Malanga",
+                "price": 550.00,
+                "essential_ingredients": ["Malanga", "Harina", "Aceite"],
+                "allergy_info": ["Gluten"]
+              },
+              {
+                "name": "Tostones Rellenos",
+                "price": 650.00,
+                "essential_ingredients": ["Platano", "Relleno"],
+                "allergy_info": []
+              },
+              {
+                "name": "Ensalada Fria De Jamon",
+                "price": 800.00,
+                "essential_ingredients": ["Jamon", "Vegetales"],
+                "allergy_info": []
+              },
+              {
+                "name": "Ensalada Fria De Atun",
+                "price": 900.00,
+                "essential_ingredients": ["Atun", "Vegetales"],
+                "allergy_info": ["Pescado"]
+              },
+              {
+                "name": "Fajitas De Pechuga Salteada",
+                "price": 1200.00,
+                "essential_ingredients": ["Pechuga de pollo", "Pimientos", "Cebolla"],
+                "allergy_info": []
+              },
+              {
+                "name": "Fajitas De Pechuga Empanada",
+                "price": 1450.00,
+                "essential_ingredients": ["Pechuga de pollo", "Harina", "Huevo", "Pan rallado"],
+                "allergy_info": ["Gluten", "Huevo"]
+              },
+              {
+                "name": "Fajitas De Cerdo Salteadas",
+                "price": 1300.00,
+                "essential_ingredients": ["Cerdo", "Pimientos", "Cebolla"],
+                "allergy_info": []
+              },
+              {
+                "name": "Fajitas De Cerdo Empanada",
+                "price": 1350.00,
+                "essential_ingredients": ["Cerdo", "Harina", "Huevo", "Pan rallado"],
+                "allergy_info": ["Gluten", "Huevo"]
+              },
+              {
+                "name": "Eperlan",
+                "price": 1350.00,
+                "essential_ingredients": ["Pescado", "Harina"],
+                "allergy_info": ["Pescado", "Gluten"]
+              },
+              {
+                "name": "Coctel De Camarones",
+                "price": 2100.00,
+                "essential_ingredients": ["Camarones", "Salsa cocktail"],
+                "allergy_info": ["Mariscos"]
+              }
+          ]
+        },
+        {
+            "category": "Platos Principales",
+            "items": [
+              {
+                "name": "Taco De Cerdo",
+                "price": 1200.00,
+                "essential_ingredients": ["Cerdo", "Tortilla", "Pimientos", "Cebolla"],
+                "allergy_info": ["Gluten"]
+              },
+              {
+                "name": "Taco De Camaron",
+                "price": 1400.00,
+                "essential_ingredients": ["Camarones", "Tortilla", "Pimientos", "Cebolla"],
+                "allergy_info": ["Gluten", "Mariscos"]
+              },
+              {
+                "name": "Taco De Pollo",
+                "price": 1100.00,
+                "essential_ingredients": ["Pollo", "Tortilla", "Pimientos", "Cebolla"],
+                "allergy_info": ["Gluten"]
+              },
+              {
+                "name": "Taco De Res",
+                "price": 1300.00,
+                "essential_ingredients": ["Carne de res", "Tortilla", "Pimientos", "Cebolla"],
+                "allergy_info": ["Gluten"]
+            }
+        ]
+      },
+      {
+                "category": "Pasta",
+                "items": [
+                  {
+                    "name": "Crema De Queso",
+                    "price": 800.00,
+                    "essential_ingredients": ["Queso", "Leche"],
+                    "allergy_info": ["Lactosa"]
+                  },
+                  {
+                    "name": "Lasagña Boloñesa",
+                    "price": 1700.00,
+                    "essential_ingredients": ["Pasta para lasaña", "Carne de res", "Tomate", "Queso"],
+                    "allergy_info": ["Gluten", "Lactosa"]
+                  },
+                  {
+                    "name": "Espaguettis Napolitano",
+                    "price": 700.00,
+                    "essential_ingredients": ["Espaguetis", "Tomate", "Queso"],
+                    "allergy_info": ["Gluten", "Lactosa"]
+                  }
+                ]
+              },
+              {
+                "category": "Pizza",
+                "items": [
+                  {
+                    "name": "Pizzas Napolitanas, 32 cm",
+                    "price": 750.00,
+                    "essential_ingredients": ["Masa de pizza", "Tomate", "Queso"],
+                    "allergy_info": ["Gluten", "Lactosa"]
+                  },
+                  {
+                    "name": "Pizzas Jamon",
+                    "price": 1100.00,
+                    "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Jamon"],
+                    "allergy_info": ["Gluten", "Lactosa"]
+                  },
+                  {
+                    "name": "Pizzas Bacón",
+                    "price": 1650.00,
+                    "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Bacón"],
+                    "allergy_info": ["Gluten", "Lactosa"]
+                  },
+                  {
+                    "name": "Pizzas Pimiento",
+                    "price": 1050.00,
+                    "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Pimiento"],
+                    "allergy_info": ["Gluten", "Lactosa"]
+                  },
+                  {
+                    "name": "Pizzas Cebolla",
+                    "price": 950.00,
+                    "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Cebolla"],
+                    "allergy_info": ["Gluten", "Lactosa"]
+                  },
+                  {
+                    "name": "Pizzas Hawaiana",
+                    "price": 1350.00,
+                    "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Jamon", "Piña"],
+                    "allergy_info": ["Gluten", "Lactosa"]
+                  },
+                  {
+                    "name": "Pizzas Atún",
+                    "price": 1650.00,
+                    "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Atún"],
+                    "allergy_info": ["Gluten", "Lactosa", "Pescado"]
+                  },
+                  {
+                    "name": "Pizzas Camarón",
+                    "price": 1350.00,
+                    "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Camarón"],
+                    "allergy_info": ["Gluten", "Lactosa", "Mariscos"]
+                  },
+                  {
+                    "name": "Pizzas Ropa Vieja",
+                    "price": 1500.00,
+                    "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Ropa Vieja"],
+                    "allergy_info": ["Gluten", "Lactosa"]
+                  },
+                  {
+                    "name": "Pizzas De Chorizo",
+                    "price": 1100.00,
+                    "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Chorizo"],
+                    "allergy_info": ["Gluten", "Lactosa"]
+                  },
+                  {
+                    "name": "Pizzas MM",
+                    "price": 1800.00,
+                    "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Variedad de ingredientes"],
+                    "allergy_info": ["Gluten", "Lactosa"]
+                  }
+                ]
+              },
+              {
+                "category": "Cerdo",
+                "items": [
+                  {
+                    "name": "Bistec De Cerdo Grille",
+                    "price": 1400.00,
+                    "essential_ingredients": ["Cerdo", "Especias"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Cerdo Bistec Empanizado",
+                    "price": 1600.00,
+                    "essential_ingredients": ["Cerdo", "Harina", "Huevo", "Pan rallado"],
+                    "allergy_info": ["Gluten", "Huevo"]
+                  },
+                  {
+                    "name": "Bistec De Cerdo Uruguayo",
+                    "price": 1950.00,
+                    "essential_ingredients": ["Cerdo", "Especias"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Masa De Cerdo Salteada",
+                    "price": 1350.00,
+                    "essential_ingredients": ["Cerdo", "Pimientos", "Cebolla"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Lomo De Cerdo",
+                    "price": 1500.00,
+                    "essential_ingredients": ["Cerdo", "Especias"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Fricase De Cerdo",
+                    "price": 1400.00,
+                    "essential_ingredients": ["Cerdo", "Tomate", "Especias"],
+                    "allergy_info": []
+                  }
+              ]
+            },
+            {
+            "category": "Pollo",
+            "items": [
+              {
+                "name": "Bistec De Pollo Gordon Blue",
+                "price": 1900.00,
+                "essential_ingredients": ["Pollo", "Queso", "Jamón"],
+                "allergy_info": ["Lactosa"]
+              },
+              {
+                "name": "Bistec De Pechuga Gordon Blue",
+                "price": 1900.00,
+                "essential_ingredients": ["Pechuga de pollo", "Queso", "Jamón"],
+                "allergy_info": ["Lactosa"]
+              },
+              {
+                "name": "Pechuga De Pollo Grille",
+                "price": 1500.00,
+                "essential_ingredients": ["Pechuga de pollo", "Especias"],
+                "allergy_info": []
+              },
+              {
+                "name": "Pechuga De Pollo Empanada",
+                "price": 1400.00,
+                "essential_ingredients": ["Pechuga de pollo", "Harina", "Huevo", "Pan rallado"],
+                "allergy_info": ["Gluten", "Huevo"]
+              }
+            ]
+          },
+          {
+            "category": "Res",
+            "items": [
+              {
+                "name": "Vaca Frita",
+                "price": 1900.00,
+                "essential_ingredients": ["Carne de res", "Cebolla"],
+                "allergy_info": []
+              },
+              {
+                "name": "Ropa Vieja",
+                "price": 1900.00,
+                "essential_ingredients": ["Carne de res", "Cebolla", "Pimientos", "Tomate"],
+                "allergy_info": []
+              }
+            ]
+          },
+          {
+            "category": "Mariscos",
+            "items": [
+              {
+                "name": "Pescado Grille",
+                "price": 1500.00,
+                "essential_ingredients": ["Pescado", "Especias"],
+                "allergy_info": ["Pescado"]
+              },
+              {
+                "name": "Pescado Empanizado",
+                "price": 1900.00,
+                "essential_ingredients": ["Pescado", "Harina"],
+                "allergy_info": ["Pescado", "Gluten"]
+              },
+              {
+                "name": "Enchilado De Camarón",
+                "price": 1400.00,
+                "essential_ingredients": ["Camarones", "Tomate", "Especias"],
+                "allergy_info": ["Mariscos"]
+              },
+              {
+                "name": "Camarón Al Ajillo",
+                "price": 1700.00,
+                "essential_ingredients": ["Camarones", "Ajo"],
+                "allergy_info": ["Mariscos"]
+              },
+              {
+                "name": "Camaron Empanado",
+                "price": 2000.00,
+                "essential_ingredients": ["Camarones", "Harina"],
+                "allergy_info": ["Mariscos", "Gluten"]
+              },
+              {
+                "name": "Canciller 190Grs",
+                "price": 2000.00,
+                "essential_ingredients": ["Pescado", "Salsa"],
+                "allergy_info": ["Pescado"]
+              },
+              {
+                "name": "Langosta",
+                "price": 2100.00,
+                "essential_ingredients": ["Langosta", "Especias"],
+                "allergy_info": ["Mariscos"]
+              },
+              {
+                "name": "Cazuela De Mariscos",
+                "price": 2100.00,
+                "essential_ingredients": ["Mariscos", "Tomate", "Especias"],
+                "allergy_info": ["Mariscos"]
+              },
+              {
+                "name": "Canciller 180 Grs",
+                "price": 2000.00,
+                "essential_ingredients": ["Pescado", "Salsa"],
+                "allergy_info": ["Pescado"]
+              }
+            ]
+          },
+          {
+            "category": "Extras",
+            "items": [
+              {
+                "name": "Arroz Blanco",
+                "price": 200.00,
+                "essential_ingredients": ["Arroz", "Sal", "Aceite"],
+                "allergy_info": []
+              },
+              {
+                "name": "Arroz Congrí",
+                "price": 300.00,
+                "essential_ingredients": ["Arroz", "Frijoles negros", "Ajo", "Aceite"],
+                "allergy_info": []
+              },
+              {
+                "name": "Arroz Frito",
+                "price": 1550.00,
+                "essential_ingredients": ["Arroz", "Huevo", "Vegetales"],
+                "allergy_info": ["Huevo"]
+              },
+              {
+                "name": "Arroz Imperial",
+                "price": 1650.00,
+                "essential_ingredients": ["Arroz", "Pollo", "Queso"],
+                "allergy_info": ["Lactosa"]
+              },
+              {
+                "name": "Paella",
+                "price": 2100.00,
+                "essential_ingredients": ["Arroz", "Mariscos", "Especias"],
+                "allergy_info": ["Mariscos"]
+              },
+              {
+                "name": "Arroz Frito De Cerdo, Pollo Y Mejillon",
+                "price": 1450.00,
+                "essential_ingredients": ["Arroz", "Cerdo", "Pollo", "Mejillon", "Especias"],
+                "allergy_info": ["Mariscos"]
+              }
+            ]
+          },
+          {
+            "category": "Postres",
+            "items": [
+              {
+                "name": "Helado CID",
+                "price": 850.00,
+                "essential_ingredients": ["Helado"],
+                "allergy_info": ["Lactosa"]
+              }
+            ]
+          },
+          {
+            "category": "Bebidas",
+            "items": [
+              {
+                "name": "Agua",
+                "price": 130.00,
+                "essential_ingredients": ["Agua"],
+                "allergy_info": []
+              },
+              {
+                "name": "Refresco Santa",
+                "price": 200.00,
+                "essential_ingredients": ["Refresco"],
+                "allergy_info": []
+              },
+              {
+                "name": "Sprite",
+                "price": 450.00,
+                "essential_ingredients": ["Refresco"],
+                "allergy_info": []
+              },
+              {
+                "name": "Santa Isabel",
+                "price": 250.00,
+                "essential_ingredients": ["Refresco"],
+                "allergy_info": []
+              },
+              {
+                "name": "Energizante",
+                "price": 260.00,
+                "essential_ingredients": ["Bebida energética"],
+                "allergy_info": []
+              },
+              {
+                "name": "Cristal V",
+                "price": 245.00,
+                "essential_ingredients": ["Agua"],
+                "allergy_info": []
+              },
+              {
+                "name": "Cristal B",
+                "price": 200.00,
+                "essential_ingredients": ["Agua"],
+                "allergy_info": []
+              },
+              {
+                "name": "Bucanero",
+                "price": 240.00,
+                "essential_ingredients": ["Cerveza"],
+                "allergy_info": []
+              },
+              {
+                "name": "Jugo Lata",
+                "price": 265.00,
+                "essential_ingredients": ["Jugo"],
+                "allergy_info": []
+              }
+            ]
+          }
+        ]
+      }
+    }

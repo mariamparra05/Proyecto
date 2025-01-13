@@ -1,0 +1,326 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Bar-Restaurante"]
+      },
+      "name": "Beer para creer",
+      "cuisine": ["Comida mixta"],
+      "description": null,
+      "contact_info": {
+        "phone": {
+          "number": null,
+          "type": "landline"
+        },
+        "email": null,
+        "website": null
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "10:00",
+          "close": "21:00"
+        },
+        "tuesday": {
+          "open": "10:00",
+          "close": "21:00"
+        },
+        "wednesday": {
+          "open": "10:00",
+          "close": "21:00"
+        },
+        "thursday": {
+          "open": "10:00",
+          "close": "21:00"
+        },
+        "friday": {
+          "open": "10:00",
+          "close": "21:00"
+        },
+        "saturday": {
+          "open": "10:00",
+          "close": "21:00"
+        },
+        "sunday": {
+          "open": "10:00",
+          "close": "21:00"
+        }
+      },
+      "address": "Centro comercial Falcon, Alamar",
+      "municipality": "Habana del Este",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Tarjeta", "Efectivo (MN o moneda extranjera)"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Tarifa de servicio 10%",
+        "description": "Se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": [],
+        "ambience": [],
+        "usual_customers": [],
+        "planning": [],
+        "children": null,
+        "pets": null,
+        "parking": true
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },
+            "menu": {
+              "categories": [
+                {
+                  "category": "Entrantes",
+                  "items": [
+                    {
+                      "name": "Hamburguesa simple",
+                      "price": 450.00,
+                      "essential_ingredients": ["Pan", "Carne de res", "Lechuga", "Tomate"],
+                      "allergy_info": ["Gluten"]
+                    },
+                    {
+                      "name": "Hamburguesa especial",
+                      "price": 550.00,
+                      "essential_ingredients": ["Pan", "Carne de res", "Lechuga", "Tomate", "Queso"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    },
+                    {
+                      "name": "Sandwich pinareno",
+                      "price": 900.00,
+                      "essential_ingredients": ["Pan", "Carne de cerdo", "Queso"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    },
+                    {
+                      "name": "Croquetas del Chef",
+                      "price": 650.00,
+                      "essential_ingredients": ["Harina", "Leche", "Huevo", "Pan rallado"],
+                      "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+                    },
+                    {
+                      "name": "Pan con lechon",
+                      "price": 350.00,
+                      "essential_ingredients": ["Pan", "Lechon"],
+                      "allergy_info": ["Gluten"]
+                    },
+                    {
+                      "name": "Sandwich cubano con lechon",
+                      "price": 950.00,
+                      "essential_ingredients": ["Pan", "Lechon", "Queso", "Pepinillos"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    }
+                  ]
+                },
+                {
+                  "category": "Plato principal",
+                  "items": [
+                    {
+                      "name": "Fajitas de pollo",
+                      "price": 850.00,
+                      "essential_ingredients": ["Pollo", "Pimientos", "Cebolla"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Spaghettis napolitanos",
+                      "price": 520.00,
+                      "essential_ingredients": ["Espaguetis", "Tomate", "Queso"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    },
+                    {
+                      "name": "Arroz frito",
+                      "price": 800.00,
+                      "essential_ingredients": ["Arroz", "Vegetales", "Huevo"],
+                      "allergy_info": ["Huevo"]
+                    },
+                    {
+                      "name": "Masas de cerdo fritas",
+                      "price": 1350.00,
+                      "essential_ingredients": ["Cerdo", "Ajo", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Ropa vieja de cerdo",
+                      "price": 1400.00,
+                      "essential_ingredients": ["Cerdo", "Cebolla", "Pimientos", "Tomate"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Fricase de cerdo",
+                      "price": 1400.00,
+                      "essential_ingredients": ["Cerdo", "Tomate", "Especias"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Bistec de cerdo grille",
+                      "price": 850.00,
+                      "essential_ingredients": ["Cerdo", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Bistec de cerdo Princesa",
+                      "price": 1100.00,
+                      "essential_ingredients": ["Cerdo", "Queso"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Milanesa de cerdo",
+                      "price": 1100.00,
+                      "essential_ingredients": ["Cerdo", "Harina", "Huevo", "Pan rallado"],
+                      "allergy_info": ["Gluten", "Huevo"]
+                    },
+                    {
+                      "name": "Envoltino de cerdo",
+                      "price": 1250.00,
+                      "essential_ingredients": ["Cerdo", "Jamon", "Queso"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Lomo ahumado",
+                      "price": 1000.00,
+                      "essential_ingredients": ["Lomo de cerdo", "Ajo", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Lonjas de cerdo asadas al carbon",
+                      "price": 1300.00,
+                      "essential_ingredients": ["Cerdo", "Aceite", "Especias"],
+                      "allergy_info": []
+                    },
+                 {
+                      "name": "Uruguayo de cerdo",
+                      "price": 1150.00,
+                      "essential_ingredients": ["Cerdo", "Especias"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Escalope de cerdo",
+                      "price": 950.00,
+                      "essential_ingredients": ["Cerdo", "Harina", "Huevo", "Pan rallado"],
+                      "allergy_info": ["Gluten", "Huevo"]
+                    },
+                    {
+                      "name": "Gordon Blue de cerdo",
+                      "price": 1250.00,
+                      "essential_ingredients": ["Cerdo", "Jamon", "Queso"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Bistec de pollo grille",
+                      "price": 850.00,
+                      "essential_ingredients": ["Pollo", "Ajo", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Bistec de pollo gratinado",
+                      "price": 1200.00,
+                      "essential_ingredients": ["Pollo", "Queso"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Fricase de pollo",
+                      "price": 1400.00,
+                      "essential_ingredients": ["Pollo", "Tomate", "Especias"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Arroz a la chorrera",
+                      "price": 1400.00,
+                      "essential_ingredients": ["Arroz", "Pollo", "Vegetales"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Pollo chiflado",
+                      "price": 850.00,
+                      "essential_ingredients": ["Pollo", "Especias"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Pizza de queso blanco",
+                      "price": 160.00,
+                      "essential_ingredients": ["Masa de pizza", "Tomate", "Queso blanco"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    },
+                    {
+                      "name": "Pizza de queso gouda",
+                      "price": 250.00,
+                      "essential_ingredients": ["Masa de pizza", "Tomate", "Queso gouda"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    }
+                  ]
+                },
+                {
+                  "category": "Adicionales",
+                  "items": [
+                    {
+                      "name": "Jamon",
+                      "price": 100.00,
+                      "essential_ingredients": ["Jamon"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Queso blanco",
+                      "price": 80.00,
+                      "essential_ingredients": ["Queso blanco"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Cebolla",
+                      "price": 120.00,
+                      "essential_ingredients": ["Cebolla"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Chorizo",
+                      "price": 100.00,
+                      "essential_ingredients": ["Chorizo"],
+                      "allergy_info": []
+                    }
+                  ]
+                },
+                {
+                  "category": "Acompañamientos",
+                  "items": [
+                    {
+                      "name": "Arroz blanco",
+                      "price": 250.00,
+                      "essential_ingredients": ["Arroz", "Sal", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Arroz moro",
+                      "price": 180.00,
+                      "essential_ingredients": ["Arroz", "Frijoles negros", "Ajo", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Vianda frita",
+                      "price": 100.00,
+                      "essential_ingredients": ["Vianda", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Ensalada de vegetales",
+                      "price": 80.00,
+                      "essential_ingredients": ["Vegetales"],
+                      "allergy_info": []
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        

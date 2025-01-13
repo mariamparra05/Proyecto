@@ -1,0 +1,269 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["restaurante"]
+    },
+    "name": "Habana Tokio",
+    "categories": ["Restaurante Japonés"],
+    "description": "Restaurante japonés con karaoke, ubicado en La Habana Vieja, Cuba. Ideal para disfrutar de una experiencia gastronómica y de entretenimiento.",
+    "contact_info": {
+      "phone": 
+        {
+          "number": "+53 59172392",
+          "type": "mobile"
+        },
+       
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "11:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Calle Obrapía entre Bernaza y Villegas, Habana Vieja",
+    "municipality": "Habana Vieja",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "accepted_payment_methods": ["cash", "bank_transfer"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "10% service charge",
+      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": ["Restaurante", "Bar"],
+      "local_options": ["Almuerzo", "Cena", "Postres"],
+      "services": ["Sanitario", "Tiene bar"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": ["Se aceptan reservas"],
+      "children": ["Ideal para ir con niños"],
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": ["Comidas", "Cenas"],
+    "advantages": ["Para llevar", "Reservas", "Capacidad", "Sirve alcohol", "Bar completo", "Servicio de mesa"],
+    "highlights": ["Aperitivos", "Agradable", "Informal", "Ideal para ir con niños", "Recomendable para ir en grupo"]
+  },
+  "menu": {
+    "categories": [
+      {
+        "category": "Platos Especiales",
+        "items": [
+          {
+            "name": "Takoyaki",
+            "price": 1000,
+            "essential_ingredients": ["pulpo", "masa", "salsa takoyaki", "alga nori"],
+            "allergy_info": ["mariscos", "gluten"]
+          },
+          {
+            "name": "Sushi (Makizushi) Atún",
+            "price": 1750,
+            "essential_ingredients": ["arroz", "atún", "alga nori"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Sushi (Makizushi) Salmón",
+            "price": 2100,
+            "essential_ingredients": ["arroz", "salmón", "alga nori"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Sushi (Makizushi) Mixto",
+            "price": 2750,
+            "essential_ingredients": ["arroz", "atún", "salmón", "alga nori"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Chashu",
+            "price": 1000,
+            "essential_ingredients": ["cerdo", "salsa de soja", "especias"],
+            "allergy_info": ["soja"]
+          },
+          {
+            "name": "Sashimi Salmón",
+            "price": 2900,
+            "essential_ingredients": ["salmón"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Sashimi Calamar",
+            "price": 2900,
+            "essential_ingredients": ["calamar"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Tataki Atún",
+            "price": 2300,
+            "essential_ingredients": ["atún", "salsa de soja", "jengibre"],
+            "allergy_info": ["pescado", "soja"]
+          },
+          {
+            "name": "Yakitori",
+            "price": 2400,
+            "essential_ingredients": ["pollo", "salsa teriyaki"],
+            "allergy_info": ["soja"]
+          },
+          {
+            "name": "Karaage",
+            "price": 2400,
+            "essential_ingredients": ["pollo", "harina", "especias"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Chicken Teriyaki",
+            "price": 2400,
+            "essential_ingredients": ["pollo", "salsa teriyaki"],
+            "allergy_info": ["soja"]
+          },
+          {
+            "name": "Tempura Vegetales",
+            "price": 2300,
+            "essential_ingredients": ["vegetales", "harina", "aceite"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Tempura Calamar o Camarón",
+            "price": 3000,
+            "essential_ingredients": ["calamar o camarón", "harina", "aceite"],
+            "allergy_info": ["mariscos", "gluten"]
+          },
+          {
+            "name": "Tempura Udon",
+            "price": 2000,
+            "essential_ingredients": ["udon", "caldo", "tempura"],
+            "allergy_info": ["gluten", "mariscos"]
+          },
+          {
+            "name": "Ramen (Shoyu o Miso) Camarón",
+            "price": 2550,
+            "essential_ingredients": ["ramen", "camarón", "caldo shoyu o miso"],
+            "allergy_info": ["gluten", "mariscos"]
+          },
+          {
+            "name": "Ramen (Shoyu o Miso) Camarón Grande",
+            "price": 3000,
+            "essential_ingredients": ["ramen", "camarón", "caldo shoyu o miso"],
+            "allergy_info": ["gluten", "mariscos"]
+          },
+          {
+            "name": "Katsudon",
+            "price": 2850,
+            "essential_ingredients": ["cerdo empanizado", "arroz", "salsa tonkatsu"],
+            "allergy_info": ["gluten", "soja"]
+          },
+          {
+            "name": "Tonkatsu",
+            "price": 2750,
+            "essential_ingredients": ["cerdo empanizado", "salsa tonkatsu"],
+            "allergy_info": ["gluten", "soja"]
+          },
+          {
+            "name": "Yakisoba",
+            "price": 2750,
+            "essential_ingredients": ["fideos soba", "vegetales", "salsa yakisoba"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Yakisoba Mariscos o Calamar",
+            "price": 3100,
+            "essential_ingredients": ["fideos soba", "mariscos o calamar", "salsa yakisoba"],
+            "allergy_info": ["gluten", "mariscos"]
+          },
+          {
+            "name": "Yakisoba Camarón",
+            "price": 3100,
+            "essential_ingredients": ["fideos soba", "camarón", "salsa yakisoba"],
+            "allergy_info": ["gluten", "mariscos"]
+          },
+          {
+            "name": "Combo Habana-Tokio",
+            "price": 3900,
+            "essential_ingredients": ["variedad de sushi, sashimi, tempura"],
+            "allergy_info": ["pescado", "mariscos", "gluten"]
+          },
+          {
+            "name": "Combo Sashimi Atún",
+            "price": 4200,
+            "essential_ingredients": ["atún"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Combo Sashimi Salmón",
+            "price": 4400,
+            "essential_ingredients": ["salmón"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Oyakodon",
+            "price": 2800,
+            "essential_ingredients": ["pollo", "huevo", "arroz"],
+            "allergy_info": ["huevos"]
+          },
+          {
+            "name": "Okonomiyaki",
+            "price": 800,
+            "essential_ingredients": ["harina", "col", "salsa okonomiyaki"],
+            "allergy_info": ["gluten"]
+          }
+        ]
+      },
+      {
+    
+        "category": "Postres",
+        "items": [
+          {
+            "name": "Kakigoori",
+            "price": 800,
+            "essential_ingredients": ["hielo", "jarabe", "frutas"],
+            "allergy_info": []
+          },
+          {
+            "name": "Flan",
+            "price": 600,
+            "essential_ingredients": ["leche", "huevos", "azúcar", "vainilla"],
+            "allergy_info": ["lactosa", "huevos"]
+          }
+        ]
+      }
+    ]
+  }
+}

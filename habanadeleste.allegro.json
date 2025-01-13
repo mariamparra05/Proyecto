@@ -1,0 +1,193 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Restaurant"]
+      },
+      "name": "Allegro",
+      "cuisine": ["Comida italiana"],
+      "description": null,
+      "contact_info": {
+        "phone": {
+          "number": "7661010",
+          "type": "landline"
+        },
+        "email": null,
+        "website": null
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "12:00",
+          "close": "21:00"
+        },
+        "tuesday": {
+          "open": "12:00",
+          "close": "21:00"
+        },
+        "wednesday": {
+          "open": "12:00",
+          "close": "21:00"
+        },
+        "thursday": {
+          "open": "12:00",
+          "close": "21:00"
+        },
+        "friday": {
+          "open": "12:00",
+          "close": "21:00"
+        },
+        "saturday": {
+          "open": "12:00",
+          "close": "21:00"
+        },
+        "sunday": {
+          "open": "12:00",
+          "close": "21:00"
+        }
+      },
+      "address": "Paseo de la Villa, Villa Panamericana",
+      "municipality": "Habana del Este",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Tarjeta", "Efectivo (MN)"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Tarifa de servicio 10%",
+        "description": "Se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": [],
+        "ambience": [],
+        "usual_customers": [],
+        "planning": [],
+        "children": null,
+        "pets": null,
+        "parking": false
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "Crema de queso",
+                  "price": 313.00,
+                  "essential_ingredients": ["Queso", "Leche"],
+                  "allergy_info": ["Lactosa"]
+                },
+                {
+                  "name": "Crema Aurora",
+                  "price": 315.00,
+                  "essential_ingredients": ["Tomate", "Queso", "Leche"],
+                  "allergy_info": ["Lactosa"]
+                },
+                {
+                  "name": "Crema Virginia",
+                  "price": 329.00,
+                  "essential_ingredients": ["Verduras", "Queso", "Leche"],
+                  "allergy_info": ["Lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Plato principal",
+              "items": [
+                {
+                  "name": "Spaghettis napolitanos",
+                  "price": 410.00,
+                  "essential_ingredients": ["Espaguetis", "Tomate", "Queso"],
+                  "allergy_info": ["Gluten", "Lactosa"]
+                },
+                {
+                  "name": "Spaghettis de jamon",
+                  "price": 570.00,
+                  "essential_ingredients": ["Espaguetis", "Jamon", "Queso"],
+                  "allergy_info": ["Gluten", "Lactosa"]
+                },
+                {
+                  "name": "Lasagna de jamon",
+                  "price": 550.00,
+                  "essential_ingredients": ["Lasagna", "Jamon", "Queso"],
+                  "allergy_info": ["Gluten", "Lactosa"]
+                },
+                {
+                  "name": "Pizza napolitana",
+                  "price": 390.00,
+                  "essential_ingredients": ["Masa de pizza", "Tomate", "Queso"],
+                  "allergy_info": ["Gluten", "Lactosa"]
+                },
+                {
+                  "name": "Pizza de jamon",
+                  "price": 540.00,
+                  "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Jamon"],
+                  "allergy_info": ["Gluten", "Lactosa"]
+                },
+                {
+                  "name": "Pizza de chorizo",
+                  "price": 588.00,
+                  "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Chorizo"],
+                  "allergy_info": ["Gluten", "Lactosa"]
+                },
+                {
+                  "name": "Pizza de bacon",
+                  "price": 735.00,
+                  "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Bacon"],
+                  "allergy_info": ["Gluten", "Lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Acompañamientos",
+              "items": [
+                {
+                  "name": null,
+                  "price": null,
+                  "essential_ingredients": [],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Bebidas",
+              "items": [
+                {
+                  "name": null,
+                  "price": null,
+                  "essential_ingredients": [],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Postres",
+              "items": [
+                {
+                  "name": null,
+                  "price": null,
+                  "essential_ingredients": [],
+                  "allergy_info": []
+                }
+              ]
+            }
+          ]
+        }
+      }
+      

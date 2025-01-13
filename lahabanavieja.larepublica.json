@@ -1,0 +1,574 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["restaurante"]
+    },
+    "name": "La República",
+    "cousine": [ "Cubana"],
+    "description": "Restaurante italiano con una amplia gama de platos, bebidas y una atmósfera acogedora.",
+    "contact_info": {
+      "phone": 
+        {
+          "number": "(07) 860080",
+          "type": "landline"
+        },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "22:00"
+      }
+    },
+    "address": "Calle Cuba #90 esquina Chacón, Habana Vieja",
+    "municipality": "Habana Vieja",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": [],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Sin cargo adicional",
+      "description": "No se cobra un 10% adicional por el servicio.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": ["Restaurante"],
+      "local_options": ["Comidas", "Cenas", "Bebidas"],
+      "services": ["Sanitario", "Wifi gratuito"],
+      "ambience": ["Casual", "Acogedor"],
+      "usual_customers": ["Grupos", "Familias"],
+      "planning": ["Reservas"],
+      "children": true,
+      "pets": null,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": ["Comidas", "Cenas", "Bebidas"],
+    "advantages": ["Reservas", "Restaurante privado", "Acceso para discapacitados", "Sirve alcohol", "Vino y cerveza", "Wifi gratuito", "Restaurantes de no fumadores"],
+    "highlights": ["Platos pequeños", "Acogedor", "Casual", "Bueno para niños", "Bueno para grupos"]
+  },
+    "menu": {
+      "categories": [
+        {
+          "category": "Salsas al óleo",
+          "items": [
+            {
+              "name": "Al ajo, aceite de oliva y camarones",
+              "price": 2250.00,
+              "essential_ingredients": ["ajo", "aceite de oliva", "camarones"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Al pesto genovese",
+              "price": 2100.00,
+              "essential_ingredients": ["albahaca", "piñones", "queso parmesano", "aceite de oliva"],
+              "allergy_info": ["frutos secos", "lactosa"]
+            },
+            {
+              "name": "Aglio, óleo y peperoncino",
+              "price": 850.00,
+              "essential_ingredients": ["ajo", "aceite de oliva", "peperoncino"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Salsas blancas",
+          "items": [
+            {
+              "name": "Napolitana con jamón y queso",
+              "price": 650.00,
+              "essential_ingredients": ["salsa napolitana", "jamón", "queso"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "A la carbonara",
+              "price": 1600.00,
+              "essential_ingredients": ["tocino", "huevo", "queso parmesano"],
+              "allergy_info": ["huevos", "lactosa"]
+            },
+            {
+              "name": "Con crema alfredo y pollo",
+              "price": 2450.00,
+              "essential_ingredients": ["crema alfredo", "pollo"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "A la crema de jamón y champiñones",
+              "price": 1350.00,
+              "essential_ingredients": ["crema", "jamón", "champiñones"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Al gran caruso",
+              "price": 1850.00,
+              "essential_ingredients": ["crema", "jamón", "queso parmesano"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Especiales rellenos",
+          "items": [
+            {
+              "name": "Penne con albóndigas de carne gratinada",
+              "price": 2300.00,
+              "essential_ingredients": ["penne", "albóndigas", "queso gratinado"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Canelones de jamón",
+              "price": 1800.00,
+              "essential_ingredients": ["canelones", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Lasagna carne alfredo",
+              "price": 2700.00,
+              "essential_ingredients": ["lasagna", "carne", "crema alfredo"],
+              "allergy_info": ["gluten", "lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Aperitivos",
+          "items": [
+            {
+              "name": "Focaccia al orégano",
+              "price": 350.00,
+              "essential_ingredients": ["harina", "orégano", "aceite de oliva"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Selección de embutidos y queso de la casa",
+              "price": 2700.00,
+              "essential_ingredients": ["embutidos", "queso"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Berenjena a la parmesana",
+              "price": 1600.00,
+              "essential_ingredients": ["berenjena", "queso parmesano"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Brusqueta de pomodoro gratinada",
+              "price": 1400.00,
+              "essential_ingredients": ["tomate", "queso gratinado", "pan"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Ensalada césar de pollo a la parrilla",
+              "price": 1450.00,
+              "essential_ingredients": ["lechuga", "pollo a la parrilla", "queso parmesano", "crutones"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Ensalada estación",
+              "price": 650.00,
+              "essential_ingredients": ["vegetales variados"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Cremas",
+          "items": [
+            {
+              "name": "Tomate, albahaca y parmigiano",
+              "price": 840.00,
+              "essential_ingredients": ["tomate", "albahaca", "queso parmigiano"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Bechamel y mucho queso",
+              "price": 850.00,
+              "essential_ingredients": ["salsa bechamel", "queso"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Pastas",
+          "items": [
+            {
+              "name": "A la napolitana",
+              "price": 800.00,
+              "essential_ingredients": ["tomate", "ajo", "aceite de oliva"],
+              "allergy_info": []
+            },
+            {
+              "name": "A la bolognesa",
+              "price": 1800.00,
+              "essential_ingredients": ["carne molida", "tomate", "zanahoria", "vino"],
+              "allergy_info": []
+            },
+            {
+              "name": "A la arrabiata",
+              "price": 1000.00,
+              "essential_ingredients": ["tomate", "ajo", "chile", "aceite de oliva"],
+              "allergy_info": []
+            },
+            {
+              "name": "A la puttanesca",
+              "price": 1350.00,
+              "essential_ingredients": ["tomate", "aceitunas", "alcaparras", "anchoas"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "A la amatriciana",
+              "price": 1300.00,
+              "essential_ingredients": ["tocino", "tomate", "queso pecorino"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "A la marinera",
+              "price": 2000.00,
+              "essential_ingredients": ["mariscos", "tomate", "vino blanco"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Con atún",
+              "price": 2200.00,
+              "essential_ingredients": ["atún", "tomate", "aceitunas"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "A la langosta",
+              "price": 1670.00,
+              "essential_ingredients": ["langosta", "tomate", "vino blanco"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Con albóndigas de carne",
+              "price": 2400.00,
+              "essential_ingredients": ["albóndigas", "tomate", "especias"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Pizzas 20cm 30cm",
+          "items": [
+            {
+              "name": "Pizza margarita",
+              "price": [750.00, 1500.00],
+              "essential_ingredients": ["masa", "tomate", "queso mozarella", "albahaca"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Pizza 4 estaciones",
+              "price": [1000.00, 2000.00],
+              "essential_ingredients": ["masa", "tomate", "alcachofas", "jamón", "setas", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Pizza atún y cebolla",
+              "price": [1250.00, 2500.00],
+              "essential_ingredients": ["masa", "tomate", "atún", "cebolla"],
+              "allergy_info": ["gluten", "pescado"]
+            },
+            {
+              "name": "Pizza jamón y champiñón",
+              "price": [1200.00, 2400.00],
+              "essential_ingredients": ["masa", "tomate", "jamón", "champiñones"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Pizza hawaiana",
+              "price": [950.00, 1900.00],
+              "essential_ingredients": ["masa", "tomate", "jamón", "piña"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Pizza jamón serrano",
+              "price": [1000.00, 2000.00],
+              "essential_ingredients": ["masa", "tomate", "jamón serrano"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Pizza cuatro quesos",
+              "price": [1350.00, 2700.00],
+              "essential_ingredients": ["masa", "queso mozzarella", "queso gorgonzola", "queso parmesano", "queso ricotta"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Pizza caprichosa",
+              "price": [1350.00, 2700.00],
+              "essential_ingredients": ["masa", "tomate", "jamón", "setas", "alcachofas"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Pizza honolulu",
+              "price": [1135.00, 2270.00],
+              "essential_ingredients": ["masa", "tomate", "jamón", "piña", "pimientos"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Calzone",
+              "price": [1100.00, 2200.00],
+              "essential_ingredients": ["masa", "tomate", "queso", "jamón"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Pizza italiana",
+              "price": [1175.00, 2350.00],
+              "essential_ingredients": ["masa", "tomate", "queso mozzarella", "albahaca"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Pizza pepperoni",
+              "price": [1000.00, 2000.00],
+              "essential_ingredients": ["masa", "tomate", "pepperoni", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Pizza a la aragosta",
+              "price": [1200.00, 2400.00],
+              "essential_ingredients": ["masa", "tomate", "langosta"],
+              "allergy_info": ["gluten", "mariscos"]
+            },
+            {
+              "name": "Pizza de frutos del mar",
+              "price": [1250.00, 2500.00],
+              "essential_ingredients": ["masa", "tomate", "mariscos variados"],
+              "allergy_info": ["gluten", "mariscos"]
+            }
+          ]
+        },
+        {
+          "category": "Agregos",
+          "items": [
+            {
+              "name": "Jamón cocido",
+              "price": 360.00,
+              "essential_ingredients": ["jamón"],
+              "allergy_info": []
+            },
+            {
+              "name": "Jamón serrano",
+              "price": 590.00,
+              "essential_ingredients": ["jamón serrano"],
+              "allergy_info": []
+            },
+            {
+              "name": "Bacon",
+              "price": 260.00,
+              "essential_ingredients": ["tocino"],
+              "allergy_info": []
+            },
+            {
+              "name": "Salami",
+              "price": 480.00,
+              "essential_ingredients": ["salami"],
+              "allergy_info": []
+            },
+            {
+              "name": "Atún",
+              "price": 240.00,
+              "essential_ingredients": ["atún"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "Camarones",
+              "price": 440.00,
+              "essential_ingredients": ["camarones"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Queso azul",
+              "price": 420.00,
+              "essential_ingredients": ["queso azul"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Piña",
+              "price": 100.00,
+              "essential_ingredients": ["piña"],
+              "allergy_info": []
+            },
+            {
+              "name": "Queso parmesano",
+              "price": 450.00,
+              "essential_ingredients": ["queso parmesano"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Queso mozzarella",
+              "price": 440.00,
+              "essential_ingredients": ["queso mozzarella"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Queso gouda",
+              "price": 250.00,
+              "essential_ingredients": ["queso gouda"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Pimiento",
+              "price": 90.00,
+              "essential_ingredients": ["pimiento"],
+              "allergy_info": []
+            },
+            {
+              "name": "Cebolla",
+                          "price": 90.00,
+                          "essential_ingredients": ["cebolla"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Tomate natural",
+                          "price": 150.00,
+                          "essential_ingredients": ["tomate"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Huevo",
+                          "price": 100.00,
+                          "essential_ingredients": ["huevo"],
+                          "allergy_info": ["huevos"]
+                        },
+                        {
+                          "name": "Champiñones",
+                          "price": 200.00,
+                          "essential_ingredients": ["champiñones"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Maíz dulce",
+                          "price": 150.00,
+                          "essential_ingredients": ["maíz"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Aceituna verde o negras",
+                          "price": [150.00, 180.00],
+                          "essential_ingredients": ["aceitunas"],
+                          "allergy_info": []
+                        }
+                      ]
+                    },
+                    {
+                      "category": "De carne, pescados y mariscos",
+                      "items": [
+                        {
+                          "name": "Involtino de cerdo con jamón y queso",
+                          "price": 2700.00,
+                          "essential_ingredients": ["cerdo", "jamón", "queso"],
+                          "allergy_info": ["lactosa"]
+                        },
+                        {
+                          "name": "Filete de pescado grille",
+                          "price": 2500.00,
+                          "essential_ingredients": ["pescado", "especias", "aceite"],
+                          "allergy_info": ["pescado"]
+                        },
+                        {
+                          "name": "Langosta grille",
+                          "price": 2600.00,
+                          "essential_ingredients": ["langosta", "especias", "aceite"],
+                          "allergy_info": ["mariscos"]
+                        },
+                        {
+                          "name": "Langosta asada con camarones",
+                          "price": 3800.00,
+                          "essential_ingredients": ["langosta", "camarones", "especias"],
+                          "allergy_info": ["mariscos"]
+                        },
+                        {
+                          "name": "Filete de salmón",
+                          "price": 3300.00,
+                          "essential_ingredients": ["salmón", "especias", "aceite"],
+                          "allergy_info": ["pescado"]
+                        },
+                        {
+                          "name": "Entrecotte grille a la mantequilla y romero",
+                          "price": 7500.00,
+                          "essential_ingredients": ["entrecotte", "mantequilla", "romero"],
+                          "allergy_info": ["lactosa"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Postres",
+                      "items": [
+                        {
+                          "name": "Brownie con helado",
+                          "price": 800.00,
+                          "essential_ingredients": ["chocolate", "helado", "huevos"],
+                          "allergy_info": ["lactosa", "huevos"]
+                        },
+                        {
+                          "name": "Tarta de manzana con helado",
+                          "price": 800.00,
+                          "essential_ingredients": ["manzana", "masa", "helado"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        },
+                        {
+                          "name": "Tarta de chocolate con helado",
+                          "price": 600.00,
+                          "essential_ingredients": ["chocolate", "masa", "helado"],
+                          "allergy_info": ["gluten", "lactosa"]
+                        },
+                        {
+                          "name": "Flan napolitano",
+                          "price": 800.00,
+                          "essential_ingredients": ["leche", "huevos", "azúcar", "vainilla"],
+                          "allergy_info": ["lactosa", "huevos"]
+                        },
+                        {
+                          "name": "Helado de la casa",
+                          "price": 450.00,
+                          "essential_ingredients": ["leche", "azúcar"],
+                          "allergy_info": ["lactosa"]
+                        },
+                        {
+                          "name": "3 leches de la casa",
+                          "price": 1300.00,
+                          "essential_ingredients": ["leche evaporada", "leche condensada", "leche entera"],
+                          "allergy_info": ["lactosa"]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+              
+                             

@@ -1,0 +1,583 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["bar-restaurante"]
+    },
+    "name": "Sibarita",
+    "cousine": ["Caribeña", "Latina", "Bar", "Internacional", "Mediterránea", "Cubana", "Centroamericana"],
+    "description": "Restaurante con terraza chill out, especializada en la coctelería Tiki y comida internacional, los mejores cócteles de la Habana!!!",
+    "contact_info": {
+      "phone": {
+        "number": "078672450",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "00:00"
+      }
+    },
+    "address": "O'Reilly #528 entre Bernaza y Villegas, Habana Vieja",
+    "municipality": "Habana Vieja",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "10% service charge",
+      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": true,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Restaurante", "Bar"],
+      "local_options": ["Almuerzo", "Cena", "Postres"],
+      "services": ["Sanitario", "Tiene bar"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": ["Se aceptan reservas"],
+      "children": null,
+      "pets": null,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": ["Comidas", "Cenas"],
+    "advantages": ["Reservas", "Capacidad", "Sirve alcohol", "Bar completo", "Servicio de mesa"],
+    "highlights": ["Aperitivos", "Buenos cócteles", "Agradable", "Informal", "Recomendable para ir en grupo"]
+  },
+
+    "menu": {
+      "categories": [
+        {
+                "category": "Entradas",
+                "items": [
+                  {
+                    "name": "Tamal con salsa BBQ",
+                    "price": 600,
+                    "essential_ingredients": ["maíz", "carne", "salsa BBQ"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Selección del panadero",
+                    "price": 600,
+                    "essential_ingredients": ["pan"],
+                    "allergy_info": ["gluten"]
+                  },
+                  {
+                    "name": "Tostas de cangrejo",
+                    "price": 800,
+                    "essential_ingredients": ["pan", "cangrejo"],
+                    "allergy_info": ["gluten", "mariscos"]
+                  },
+                  {
+                    "name": "Croquetas de la casa",
+                    "price": 1200,
+                    "essential_ingredients": ["harina", "leche", "jamón"],
+                    "allergy_info": ["gluten", "lactosa"]
+                  },
+                  {
+                    "name": "Tartar de albacora",
+                    "price": 1300,
+                    "essential_ingredients": ["albacora", "especias"],
+                    "allergy_info": ["pescado"]
+                  },
+                  {
+                    "name": "Ceviche Sibarita",
+                    "price": 1300,
+                    "essential_ingredients": ["pescado", "limón", "cebolla"],
+                    "allergy_info": ["pescado"]
+                  },
+                  {
+                    "name": "Bruschettas Mix",
+                    "price": 1350,
+                    "essential_ingredients": ["pan", "tomate", "ajo", "albahaca"],
+                    "allergy_info": ["gluten"]
+                  },
+                  {
+                    "name": "Tacos de ropa vieja",
+                    "price": 1700,
+                    "essential_ingredients": ["tortilla", "carne de res", "especias"],
+                    "allergy_info": ["gluten"]
+                  },
+                  {
+                    "name": "Tacos de cerdo",
+                    "price": 1600,
+                    "essential_ingredients": ["tortilla", "cerdo", "especias"],
+                    "allergy_info": ["gluten"]
+                  },
+                  {
+                    "name": "Tataki de albacora",
+                    "price": 1950,
+                    "essential_ingredients": ["albacora", "especias"],
+                    "allergy_info": ["pescado"]
+                  },
+                  {
+                    "name": "Tabla de jamón serrano, embutidos y queso",
+                    "price": 2700,
+                    "essential_ingredients": ["jamón serrano", "embutidos", "queso"],
+                    "allergy_info": ["lactosa"]
+                  },
+                  {
+                    "name": "Tacos de camarón y bacón",
+                    "price": 2950,
+                    "essential_ingredients": ["tortilla", "camarón", "bacón"],
+                    "allergy_info": ["gluten", "mariscos"]
+                  },
+                  {
+                    "name": "Carpaccio de Res (Angus Prime)",
+                    "price": 3500,
+                    "essential_ingredients": ["carne de res", "queso parmesano"],
+                    "allergy_info": ["lactosa"]
+                  }
+                ]
+              },
+              {
+                "category": "Ensaladas de la Casa",
+                "items": [
+                  {
+                    "name": "Natural",
+                    "price": 800,
+                    "essential_ingredients": ["vegetales variados"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Chicken Little",
+                    "price": 1650,
+                    "essential_ingredients": ["pollo grillado", "piña glaseada", "fruta deshidratada", "vinagreta"],
+                    "allergy_info": []
+                  }
+                ]
+              },
+              {
+                "category": "De la Finca",
+                "items": [
+                  {
+                    "name": "Ropa Vieja",
+                    "price": 1950,
+                    "essential_ingredients": ["carne de res", "tomate", "pimientos", "cebolla"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Cerdo Teriyaki",
+                    "price": 2350,
+                    "essential_ingredients": ["cerdo", "salsa teriyaki"],
+                    "allergy_info": ["soja"]
+                  },
+                  {
+                    "name": "Pollo Grillé",
+                    "price": 2300,
+                    "essential_ingredients": ["pollo", "especias"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Solomillo de Cerdo",
+                    "price": 2350,
+                    "essential_ingredients": ["cerdo", "especias"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Pollo Kekou",
+                    "price": 2750,
+                    "essential_ingredients": ["pollo", "especias"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Risotto Carbonara",
+                    "price": 3100,
+                    "essential_ingredients": ["arroz", "tocino", "queso parmesano"],
+                    "allergy_info": ["lactosa"]
+                  },
+                  {
+                    "name": "Cordero del Chef",
+                    "price": 3900,
+                    "essential_ingredients": ["cordero", "especias"],
+                    "allergy_info": []
+                  }
+                ]
+              },
+              {
+                "category": "Cortes de Res",
+                "items": [
+                  {
+                    "name": "Rib Eye (350g)",
+                    "price": 10000,
+                    "essential_ingredients": ["res"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Churrasco Australiano (300g)",
+                    "price": 10800,
+                    "essential_ingredients": ["res"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "New York (400g)",
+                    "price": 11000,
+                    "essential_ingredients": ["res"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Entrecot de Res Español (450g)",
+                    "price": 9800,
+                    "essential_ingredients": ["res"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Picaña (300g)",
+                    "price": 11000,
+                    "essential_ingredients": ["res"],
+                    "allergy_info": []
+                  }
+                ]
+              },
+              {
+                "category": "Del Mar",
+                "items": [
+                  {
+                    "name": "Pescado Grillé",
+                    "price": 2150,
+                    "essential_ingredients": ["pescado"],
+                    "allergy_info": ["pescado"]
+                  },
+                  {
+                    "name": "Pasta de Salmón",
+                    "price": 3100,
+                    "essential_ingredients": ["pasta", "salmón"],
+                    "allergy_info": ["gluten", "pescado"]
+                  },
+                  {
+                    "name": "Escalopinas de Pescado",
+                    "price": 2850,
+                    "essential_ingredients": ["pescado"],
+                    "allergy_info": ["pescado"]
+                  },
+                  {
+                    "name": "Pasta Zakay",
+                    "price": 3100,
+                    "essential_ingredients": ["pasta", "especias"],
+                    "allergy_info": ["gluten"]
+                  },
+                  {
+                    "name": "Camarón al Ajillo",
+                    "price": 3900,
+                    "essential_ingredients": ["camarón", "ajo"],
+                    "allergy_info": ["mariscos"]
+                  },
+                  {
+                    "name": "Langosta al Cartouch",
+                    "price": 3800,
+                    "essential_ingredients": ["langosta"],
+                    "allergy_info": ["mariscos"]
+                  },
+                  {
+                    "name": "Pescado Entero Frito (3Lb)",
+                    "price": 5800,
+                    "essential_ingredients": ["pescado"],
+                    "allergy_info": ["pescado"]
+                  },
+                  {
+                    "name": "Camarón Jumbo en costra de ajo y parmesano",
+                    "price": 6350,
+                    "essential_ingredients": ["camarón", "ajo", "queso parmesano"],
+                    "allergy_info": ["mariscos", "lactosa"]
+                  },
+                  {
+                    "name": "Saltado de Pulpo",
+                    "price": 6800,
+                    "essential_ingredients": ["pulpo", "especias"],
+                    "allergy_info": ["mariscos"]
+                  }
+                ]
+              },
+              {
+                "category": "Hamburguesas",
+                "items": [
+                  {
+                    "name": "Burguerita (250g)",
+                    "price": 4200,
+                    "essential_ingredients": ["carne Angus Prime", "aros de cebolla empanados", "papas fritas", "vegetales", "queso", "salsas"],
+                    "allergy_info": ["gluten", "lactosa"]
+                  },
+                  {
+                    "name": "Burguerita Gold 24k",
+                    "price": 12000,
+                    "essential_ingredients": ["carne Angus Prime", "oro comestible"],
+                    "allergy_info": []
+                  }
+                ]
+              },
+              {
+                "category": "Bebidas Alcohólicas",
+                "items": [
+                  {
+                    "name": "Sibarazo",
+                    "price": 1500,
+                    "essential_ingredients": ["ron HC Especial", "Don' Spice# 13", "sirope #2", "jugo de naranja", "zumo de limón"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Mai-tai",
+                    "price": 1300,
+                    "essential_ingredients": ["Ron HC 3 Años", "Ron Añejo Especial", "sirope simple", "sirope orgeat", "triple sec", "zumo de limón"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Zombie",
+                    "price": 1450,
+                    "essential_ingredients": ["Ron HC 3 Años", "Ron HC Añejo Especial", "Don's Mix #2", "Don's Spice #8", "granadina", "pernod", "zumo de limón", "angostura"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Blue Hawaii",
+                    "price": 1600,
+                    "essential_ingredients": ["Ron HC Añejo Especial", "licor de coco", "curacao azul", "jugo de piña", "zumo de limón"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Juanito",
+                    "price": 1600,
+                    "essential_ingredients": ["JW Red Label", "Don's Mix #1", "Don's Spice #4", "licor de maracuyá", "zumo de limón", "angostura"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Aloha Havana",
+                    "price": 1550,
+                    "essential_ingredients": ["Ron HC Añejo Especial", "jugo de melón", "Don's Mix #1", "Don's Spice #4", "angostura"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "San Tiki",
+                    "price": 1500,
+                    "essential_ingredients": ["Ron Santiago 7 Años", "Don's Spice #4", "Don's Mix #1", "agua de coco", "zumo de limón", "licor de plátano"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Gran Kahuna",
+                    "price": 1500,
+                    "essential_ingredients": ["Ron HC 3 Años", "Don's Spice #13", "sirope #6", "sirope #2", "licor de manzana", "zumo de limón"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "El Popi",
+                    "price": 1300,
+                    "essential_ingredients": ["Ron Santiago 8 Años", "Don's Spice #7", "sirope #11", "zumo de limón", "fermentado de manzana"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Kala",
+                    "price": 1650,
+                    "essential_ingredients": ["Ron HC Cuban Spiced", "Don's Spice #7", "sirope #14", "Jagger", "zumo de limón", "licor de coco", "licor de plátano"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Mojito",
+                    "price": 1400,
+                    "essential_ingredients": ["Ron HC 3 Años", "sirope simple", "zumo de limón", "hierbabuena", "angostura", "agua gaseada"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Daiquiri",
+                    "price": 1250,
+                    "essential_ingredients": ["Ron HC 3 años", "sirope simple", "zumo de limón", "marrasquino"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Sangría",
+                    "price": 1600,
+                    "essential_ingredients": ["vino tinto", "triple sec", "azúcar", "zumo de limón", "jugo de naranja", "agua gaseada"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Caipiriña",
+                    "price": 1150,
+                    "essential_ingredients": ["aguardiente", "azúcar", "limón"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Caipiroska",
+                    "price": 1250,
+                    "essential_ingredients": ["vodka", "azúcar", "limón"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Piña Colada",
+                    "price": 1800,
+                    "essential_ingredients": ["Ron HC 3 Años", "horchata", "jugo de piña"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Gin Tonic",
+                    "price": 1450,
+                    "essential_ingredients": ["Beefeater", "agua tónica"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Cubanito",
+                    "price": 1150,
+                    "essential_ingredients": ["Ron HC 3 Años", "sal", "salsa inglesa", "zumo de limón", "jugo de tomate"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Bloody Mary",
+                    "price": 1150,
+                    "essential_ingredients": ["vodka", "sal", "salsa inglesa", "tabasco", "zumo de limón", "jugo de tomate"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Margarita",
+                    "price": 1350,
+                    "essential_ingredients": ["tequila", "zumo de limón", "triple sec"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Martini",
+                    "price": 1450,
+                    "essential_ingredients": ["vermouth", "gin", "aceitunas"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Cubalibre",
+                    "price": 1150,
+                    "essential_ingredients": ["Ron HC 3 años", "zumo de limón", "refresco de cola"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Cubata",
+                    "price": 1250,
+                    "essential_ingredients": ["Ron HC 7 Años", "zumo de limón", "refresco de cola"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Sexy Mojito",
+                    "price": 1500,
+                    "essential_ingredients": ["Ron HC Añejo Especial", "Don' Spice 47", "sirope simple", "zumo de limón", "angostura", "hierbabuena", "agua gaseada"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Exótico Daiquiri",
+                    "price": 1400,
+                    "essential_ingredients": ["ron", "zumo de limón", "sirope"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Negroni Especiado",
+                    "price": 1750,
+                    "essential_ingredients": ["gin", "vermouth rosso (spice)", "campari", "angostura de cacao"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Cuban Old Fashion",
+                    "price": 1450,
+                    "essential_ingredients": ["Ron HC Smoky", "sirope #1", "angostura de cacao"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "MB",
+                    "price": 1450,
+                    "essential_ingredients": ["tequila blanco", "sirope #3", "triple sec", "zumo de limón"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "#528",
+                    "price": 1450,
+                    "essential_ingredients": ["ginebra Beefeater", "sirope #7", "licor de manzana", "zumo de limón", "cerveza de jengibre", "angostura de naranja"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Vodnilla",
+                    "price": 1400,
+                    "essential_ingredients": ["vodka de vainilla", "sirope #5", "licor de piña", "zumo de limón", "cerveza de jengibre", "angostura de naranja"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "El Güero",
+                    "price": 1400,
+                    "essential_ingredients": ["tequila blanco", "aperol", "sirope #8", "licor de piña", "zumo de limón", "angostura de naranja"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Rich People",
+                    "price": 1550,
+                    "essential_ingredients": ["vodka", "campari", "sirope #17", "zumo de limón", "jugo de naranja", "licor de piña"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Cachucha",
+                    "price": 1450,
+                    "essential_ingredients": ["Ron HC Smoky", "vermouth especiado", "sirope #13", "zumo de limón", "angostura de naranja"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Maui",
+                    "price": 1550,
+                    "essential_ingredients": ["ginebra Beefeater", "vermouth blanco", "sirope #15", "sirope #16", "zumo de limón", "aquafaba"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Éxtasis",
+                    "price": 1950,
+                    "essential_ingredients": ["vino blanco", "vodka de hibisco", "sirope #5", "licor de melocotón", "fermentado de manzana"],
+                    "allergy_info": ["alcohol"]
+                  }
+                ]
+              },
+              {
+                "category": "Servicios Especiales",
+                "items": [
+                  {
+                    "name": "Servicio de Hookah",
+                    "price": 4000,
+                    "essential_ingredients": ["tabaco", "carbón"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Cambio de carbón",
+                    "price": 1500,
+                    "essential_ingredients": ["carbón"],
+                    "allergy_info": []
+                  }
+                ]
+              }
+            ]
+          }
+        }
+        
+
+   

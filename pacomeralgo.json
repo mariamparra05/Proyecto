@@ -1,0 +1,364 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Restaurante"]
+      },
+      "name": "Pacomeralgo",
+      "cuisine": ["Italiana"],
+      "description": null,
+      "contact_info": {
+        "phone": {
+          "number": null,
+          "type": null
+        },
+        "email": null,
+        "website": null
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "10:30",
+          "close": "01:00"
+        },
+        "tuesday": {
+          "open": "10:30",
+          "close": "01:00"
+        },
+        "wednesday": {
+          "open": "10:30",
+          "close": "01:00"
+        },
+        "thursday": {
+          "open": "10:30",
+          "close": "01:00"
+        },
+        "friday": {
+          "open": "10:30",
+          "close": "01:00"
+        },
+        "saturday": {
+          "open": "10:30",
+          "close": "01:00"
+        },
+        "sunday": {
+          "open": "10:30",
+          "close": "01:00"
+        }
+      },
+      "address": "La Lisa",
+      "municipality": "La Lisa",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": "23.066165087925306",
+        "longitude": "-82.45070559198918"
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Efectivo", "Transferencia"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Ninguno",
+        "description": "No se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": [],
+        "ambience": [],
+        "usual_customers": [],
+        "planning": [],
+        "children": true,
+        "pets": null,
+        "parking": false
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },  
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "Entremés de Jamón y Queso",
+                  "price": 450,
+                  "essential_ingredients": ["jamón", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Entremés de Aceitunas",
+                  "price": 300,
+                  "essential_ingredients": ["aceitunas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Croquetas",
+                  "price": 300,
+                  "essential_ingredients": ["masa"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Papas Fritas",
+                  "price": 333,
+                  "essential_ingredients": ["papas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Picadera Paco",
+                  "price": 850,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Platos Principales",
+              "items": [
+                {
+                  "name": "Sandwich de Queso",
+                  "price": 400,
+                  "essential_ingredients": ["queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Sandwich de Jamón",
+                  "price": 400,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Sandwich de Jamón y Queso",
+                  "price": 450,
+                  "essential_ingredients": ["jamón", "queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Sandwich de Atún",
+                  "price": 450,
+                  "essential_ingredients": ["atún"],
+                  "allergy_info": ["gluten", "mariscos"]
+                },
+                {
+                  "name": "Pan con Hamburguesa",
+                  "price": 450,
+                  "essential_ingredients": ["carne"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Lasagna",
+                  "price": 615,
+                  "essential_ingredients": ["carne", "queso", "pasta"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza de Queso",
+                  "price": 600,
+                  "essential_ingredients": ["queso"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Pizza de Jamón",
+                  "price": 770,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pizza de Chorizo",
+                  "price": 770,
+                  "essential_ingredients": ["chorizo"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pizza de Cebolla",
+                  "price": 750,
+                  "essential_ingredients": ["cebolla"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pizza de Ají",
+                  "price": 730,
+                  "essential_ingredients": ["ají"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pizza de Aceituna",
+                  "price": 780,
+                  "essential_ingredients": ["aceituna"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pizza Hawaiana",
+                  "price": 820,
+                  "essential_ingredients": ["piña", "jamón"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pizza de Pasas con Piña",
+                  "price": 730,
+                  "essential_ingredients": ["pasas", "piña"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Pizza de Atún",
+                  "price": 840,
+                  "essential_ingredients": ["atún"],
+                  "allergy_info": ["gluten", "mariscos"]
+                },
+                {
+                  "name": "Pizza Paco",
+                  "price": 1000,
+                  "essential_ingredients": ["varios"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Spaghetti Napolitano",
+                  "price": 600,
+                  "essential_ingredients": ["queso", "salsa napolitana"],
+                  "allergy_info": ["gluten", "lactosa"]
+                },
+                {
+                  "name": "Spaghetti de Jamón",
+                  "price": 720,
+                  "essential_ingredients": ["jamón"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Spaghetti de Chorizo",
+                  "price": 720,
+                  "essential_ingredients": ["chorizo"],
+                  "allergy_info": ["gluten"]
+                },
+                {
+                  "name": "Spaghetti de Atún",
+                  "price": 790,
+                  "essential_ingredients": ["atún"],
+                  "allergy_info": ["gluten", "mariscos"]
+                }
+              ]
+            },
+            {
+              "category": "Bebidas",
+              "groups": [
+                {
+                  "group": "Refrescos",
+                  "items": [
+                    {
+                      "name": "Refresco de Cola",
+                      "price": 250,
+                      "essential_ingredients": ["cola"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Refresco de Limón",
+                      "price": 250,
+                      "essential_ingredients": ["limón"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Refresco de Naranja",
+                      "price": 250,
+                      "essential_ingredients": ["naranja"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Malta",
+                      "price": 350,
+                      "essential_ingredients": ["malta"],
+                      "allergy_info": ["gluten"]
+                    },
+                    {
+                      "name": "Malteada",
+                      "price": 650,
+                      "essential_ingredients": ["malta"],
+                      "allergy_info": ["gluten", "lactosa"]
+                    },
+                    {
+                      "name": "Energizante",
+                      "price": 350,
+                      "essential_ingredients": ["energizante"],
+                      "allergy_info": []
+                    }
+                  ]
+                },
+                {
+                  "group": "Jugos",
+                  "items": [
+                    {
+                      "name": "Jugo Pequeño",
+                      "price": 250,
+                      "essential_ingredients": ["frutas"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Jugo Grande",
+                      "price": 900,
+                      "essential_ingredients": ["frutas"],
+                      "allergy_info": []
+                    }
+                  ]
+                },
+                {
+                  "group": "Batidos",
+                  "items": [
+                    {
+                      "name": "Yogurt Vaso",
+                      "price": 200,
+                      "essential_ingredients": ["yogurt"],
+                      "allergy_info": ["lactosa"]
+                    }
+                  ]
+                },
+                {
+                  "group": "Bebidas Alcohólicas",
+                  "items": [
+                    {
+                      "name": "Cerveza",
+                      "price": 250,
+                      "essential_ingredients": ["cerveza"],
+                      "allergy_info": ["gluten"]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "category": "Cafés",
+              "items": [
+                {
+                  "name": "Expresso",
+                  "price": 150,
+                  "essential_ingredients": ["café"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Americano",
+                  "price": 150,
+                  "essential_ingredients": ["café"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Cortadito",
+                  "price": 220,
+                  "essential_ingredients": ["café"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Bombón",
+                  "price": 350,
+                  "essential_ingredients": ["café", "leche condensada"],
+                  "allergy_info": ["lactosa"]
+                }
+              ]
+            }
+          ]
+        }
+      }
+      

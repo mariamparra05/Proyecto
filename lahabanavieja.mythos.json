@@ -1,0 +1,406 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["bar-restaurante"]
+    },
+    "name": "Mythos",
+    "cousine": ["Bar", "Café", "Griega", "Pub"],
+    "description": "Es el único restaurante de comida griega en Cuba y cumple con lo que promete. Es bonito, agradable y la atención fue muy buena.",
+    "contact_info": {
+      "phone": {
+        "number": "+53 63691718",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "08:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "08:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "08:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "08:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "08:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "08:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "08:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Calle Cuba No. 211 entre Empedrado y O'Reilly, Habana Vieja",
+    "municipality": "Habana Vieja",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "10% service charge",
+      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Restaurante", "Bar"],
+      "local_options": ["Almuerzo", "Cena", "Postres"],
+      "services": ["Sanitario", "Tiene bar"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": ["Se aceptan reservas"],
+      "children": null,
+      "pets": null,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": ["Desayuno", "Comidas", "Cenas"],
+    "advantages": ["Reservas", "Capacidad", "Sirve alcohol", "Bar completo", "Servicio de mesa"],
+    "highlights": ["Aperitivos", "Agradable", "Informal", "Recomendable para ir en grupo"]
+  },
+      "menu": {
+        "categories": [
+          {
+            "category": "Mezze",
+            "items": [
+              {
+                "name": "Hummus de Garbanzo",
+                "price": 700,
+                "essential_ingredients": ["garbanzos", "aceite de oliva", "ajo", "limón"],
+                "allergy_info": []
+              },
+              {
+                "name": "Melitzanosalata",
+                "price": 800,
+                "essential_ingredients": ["berenjena", "ajo", "aceite de oliva", "limón"],
+                "allergy_info": []
+              },
+              {
+                "name": "Tzatziki",
+                "price": 600,
+                "essential_ingredients": ["yogur griego", "pepino", "ajo", "eneldo"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Papas fritas con queso feta y orégano",
+                "price": 1300,
+                "essential_ingredients": ["papas", "queso feta", "orégano"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Tyropitakias",
+                "price": 1000,
+                "essential_ingredients": ["queso feta", "hojaldre"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Aceitunas marinadas con queso feta",
+                "price": 700,
+                "essential_ingredients": ["aceitunas", "queso feta"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Griego pobre",
+                "price": 750,
+                "essential_ingredients": ["ingredientes variados"],
+                "allergy_info": []
+              },
+              {
+                "name": "Saganaki",
+                "price": 1500,
+                "essential_ingredients": ["queso feta", "harina", "aceite"],
+                "allergy_info": ["gluten", "lactosa"]
+              }
+            ]
+          },
+          {
+            "category": "Souvlakis",
+            "items": [
+              {
+                "name": "Souvlaki de cerdo",
+                "price": 2500,
+                "essential_ingredients": ["cerdo", "especias"],
+                "allergy_info": []
+              },
+              {
+                "name": "Souvlaki de pechuga de pollo",
+                "price": 2100,
+                "essential_ingredients": ["pollo", "especias"],
+                "allergy_info": []
+              },
+              {
+                "name": "Souvlaki de res",
+                "price": 2800,
+                "essential_ingredients": ["res", "especias"],
+                "allergy_info": []
+              },
+              {
+                "name": "Souvlaki vegano",
+                "price": 2000,
+                "essential_ingredients": ["vegetales variados", "especias"],
+                "allergy_info": []
+              },
+              {
+                "name": "Souvlaki de queso feta",
+                "price": 2500,
+                "essential_ingredients": ["queso feta", "especias"],
+                "allergy_info": ["lactosa"]
+              }
+            ]
+          },
+          {
+            "category": "Platos Fuertes",
+            "items": [
+              {
+                "name": "Pastitsio",
+                "price": 2300,
+                "essential_ingredients": ["pasta", "carne molida", "bechamel"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Imam",
+                "price": 2000,
+                "essential_ingredients": ["berenjena", "tomate", "ajo", "aceite de oliva"],
+                "allergy_info": []
+              },
+              {
+                "name": "Saganaki de langosta o camarón",
+                "price": 3500,
+                "essential_ingredients": ["langosta o camarón", "queso feta"],
+                "allergy_info": ["mariscos", "lactosa"]
+              },
+              {
+                "name": "Saganaki de frutos del mar",
+                "price": 4000,
+                "essential_ingredients": ["mariscos variados", "queso feta"],
+                "allergy_info": ["mariscos", "lactosa"]
+              },
+              {
+                "name": "Risotto de yogurt griego",
+                "price": 3000,
+                "essential_ingredients": ["arroz", "yogur griego", "especias"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Risotto de pulpo",
+                "price": 3700,
+                "essential_ingredients": ["arroz", "pulpo", "especias"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Risotto de frutos del mar",
+                "price": 4100,
+                "essential_ingredients": ["arroz", "mariscos variados", "especias"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Pulpo Grille",
+                "price": 4200,
+                "essential_ingredients": ["pulpo", "especias"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Solomillo de cerdo en salsa de limón griega",
+                "price": 3500,
+                "essential_ingredients": ["cerdo", "limón", "especias"],
+                "allergy_info": []
+              }
+            ]
+          },
+          {
+            "category": "Platos Fuertes",
+            "items": [
+              {
+                "name": "Pastitsio",
+                "price": 2300,
+                "essential_ingredients": ["pasta", "carne molida", "bechamel"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Imam",
+                "price": 2000,
+                "essential_ingredients": ["berenjena", "tomate", "ajo", "aceite de oliva"],
+                "allergy_info": []
+              },
+              {
+                "name": "Saganaki de langosta o camarón",
+                "price": 3500,
+                "essential_ingredients": ["langosta o camarón", "queso feta"],
+                "allergy_info": ["mariscos", "lactosa"]
+              },
+              {
+                "name": "Saganaki de frutos del mar",
+                "price": 4000,
+                "essential_ingredients": ["mariscos variados", "queso feta"],
+                "allergy_info": ["mariscos", "lactosa"]
+              },
+              {
+                "name": "Risotto de yogurt griego",
+                "price": 3000,
+                "essential_ingredients": ["arroz", "yogur griego", "especias"],
+                "allergy_info": ["lactosa"]
+              },
+              {
+                "name": "Risotto de pulpo",
+                "price": 3700,
+                "essential_ingredients": ["arroz", "pulpo", "especias"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Risotto de frutos del mar",
+                "price": 4100,
+                "essential_ingredients": ["arroz", "mariscos variados", "especias"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Pulpo Grille",
+                "price": 4200,
+                "essential_ingredients": ["pulpo", "especias"],
+                "allergy_info": ["mariscos"]
+              },
+              {
+                "name": "Solomillo de cerdo en salsa de limón griega",
+                "price": 3500,
+                "essential_ingredients": ["cerdo", "limón", "especias"],
+                "allergy_info": []
+              }
+            ]
+          },
+          {
+            "category": "Pastas",
+            "items": [
+              {
+                "name": "Pasta Mediterránea",
+                "price": 3000,
+                "description": "Pasta con queso feta, tomate natural, cebolla, pimiento, aceitunas negras",
+                "essential_ingredients": ["pasta", "queso feta", "tomate", "cebolla", "pimiento", "aceitunas negras"],
+                "allergy_info": ["gluten", "lactosa"]
+              },
+              {
+                "name": "Pasta de Camarón al Anís",
+                "price": 3200,
+                "essential_ingredients": ["pasta", "camarón", "anís"],
+                "allergy_info": ["gluten", "mariscos"]
+              }
+            ]
+          },
+          {
+            "category": "Postres",
+            "items": [
+              {
+                "name": "Tarta de Yogurt Griego con reducción de vino tinto",
+                "price": 1000,
+                "essential_ingredients": ["yogur griego", "vino tinto", "harina"],
+                "allergy_info": ["gluten", "lactosa"]
+              }
+            ]
+          },
+          {
+            "category": "Cócteles de Autor",
+            "items": [
+              {
+                "name": "Demeter",
+                "price": 1800,
+                "description": "Ginebra, mix de pepino y jengibre, zumo de piña",
+                "essential_ingredients": ["ginebra", "pepino", "jengibre", "zumo de piña"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Afrodita",
+                "price": 2000,
+                "description": "Ginebra, mix no. 2, licor de orgeat",
+                "essential_ingredients": ["ginebra", "licor de orgeat"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Persefone",
+                "price": 2100,
+                "description": "Ginebra, licor de grosella, vermouth rosso, jarabe de hibiscus",
+                "essential_ingredients": ["ginebra", "licor de grosella", "vermouth rosso", "jarabe de hibiscus"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Hades",
+                "price": 2500,
+                "description": "Detalles no especificados",
+                "essential_ingredients": ["ingredientes variados"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Dionisio",
+                "price": 2800,
+                "description": "Ron blanco, reducción de vino tinto, mix no. 3",
+                "essential_ingredients": ["ron blanco", "vino tinto"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Poseidón",
+                "price": 2500,
+                "description": "Detalles no especificados",
+                "essential_ingredients": ["ingredientes variados"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Ares",
+                "price": 2400,
+                "description": "Ron oscuro, mix no. 5, tajin, mango",
+                "essential_ingredients": ["ron oscuro", "tajin", "mango"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Apolo",
+                "price": 2300,
+                "description": "Ron blanco, Ruavieja, mix no. 7",
+                "essential_ingredients": ["ron blanco", "Ruavieja"],
+                "allergy_info": ["alcohol"]
+              }
+            ]
+          },
+          {
+            "category": "Cafés",
+            "items": [
+              {
+                "name": "Freddo Expresso",
+                "price": 450,
+                "description": "Café batido servido con hielo",
+                "essential_ingredients": ["café", "hielo"],
+                "allergy_info": []
+              },
+              {
+                "name": "Freddo Capucchino",
+                "price": 650,
+                "description": "Café batido servido con leche, nata y hielo",
+                "essential_ingredients": ["café", "leche", "nata", "hielo"],
+                "allergy_info": ["lactosa"]
+              }
+            ]
+          }
+        ]
+      }
+    }
+       
+       

@@ -1,0 +1,222 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Restaurante"]
+      },
+      "name": "Ranchon de 41",
+      "cuisine": ["Variada"],
+      "description": null,
+      "contact_info": {
+        "phone": {
+          "number": "52014975",
+          "type": "mobile"
+        },
+        "email": null,
+        "website": null
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "tuesday": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "wednesday": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "thursday": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "friday": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "saturday": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "sunday": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "address": "Avenida 41 y 84",
+      "municipality": "Marianao",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Efectivo", "Tarjeta", "Pago Móvil"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Tarifa de servicio 10%",
+        "description": "Se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": [],
+        "ambience": ["Música grabada"],
+        "usual_customers": [],
+        "planning": [],
+        "children": null,
+        "pets": null,
+        "parking": null
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },
+        "menu": {
+          "categories": [
+            {
+              "category": "Entrantes",
+              "items": [
+                {
+                  "name": "Croquetas De La Casa",
+                  "price": 400.00,
+                  "essential_ingredients": ["Harina", "Leche", "Huevo", "Pan rallado"],
+                  "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+                },
+                {
+                  "name": "Coctel De Camaron",
+                  "price": 650.00,
+                  "essential_ingredients": ["Camaron", "Salsa cocktail"],
+                  "allergy_info": ["Mariscos"]
+                },
+                {
+                  "name": "Picadera El Toro Bravo",
+                  "price": 1700.00,
+                  "essential_ingredients": ["Variedad de carnes y embutidos"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Pasta",
+              "items": [
+                {
+                  "name": "Espaguetis",
+                  "price": 700.00,
+                  "essential_ingredients": ["Espaguetis", "Salsa", "Queso"],
+                  "allergy_info": ["Gluten", "Lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Pizza",
+              "items": [
+                {
+                  "name": "Pizza De Queso Blanco",
+                  "price": 400.00,
+                  "essential_ingredients": ["Masa de pizza", "Queso blanco"],
+                  "allergy_info": ["Gluten", "Lactosa"]
+                },
+                {
+                  "name": "Pizza De Queso Gouda",
+                  "price": 680.00,
+                  "essential_ingredients": ["Masa de pizza", "Queso gouda"],
+                  "allergy_info": ["Gluten", "Lactosa"]
+                }
+              ]
+            },
+            {
+              "category": "Pollo",
+              "items": [
+                {
+                  "name": "Pollo Chiflado",
+                  "price": 1200.00,
+                  "essential_ingredients": ["Pollo", "Especias"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Fajitas De Pollo",
+                  "price": 750.00,
+                  "essential_ingredients": ["Pollo", "Pimientos", "Cebolla"],
+                  "allergy_info": []
+                }
+              ]
+            },
+            {
+              "category": "Extras",
+              "items": [
+                {
+                  "name": "Queso",
+                  "price": 200.00,
+                  "essential_ingredients": ["Queso"],
+                  "allergy_info": ["Lactosa"]
+                },
+                {
+                  "name": "Jamon",
+                  "price": 150.00,
+                  "essential_ingredients": ["Jamon"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Chorizo",
+                  "price": 150.00,
+                  "essential_ingredients": ["Chorizo"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Cebolla",
+                  "price": 150.00,
+                  "essential_ingredients": ["Cebolla"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Piña",
+                  "price": 150.00,
+                  "essential_ingredients": ["Piña"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Aceituna",
+                  "price": 200.00,
+                  "essential_ingredients": ["Aceitunas"],
+                  "allergy_info": []
+                },
+                {
+                  "name": "Queso Gouda",
+                  "price": 500.00,
+                  "essential_ingredients": ["Queso gouda"],
+                  "allergy_info": ["Lactosa"]
+                },
+                {
+                  "name": "Atun",
+                  "price": 300.00,
+                  "essential_ingredients": ["Atun"],
+                  "allergy_info": ["Pescado"]
+                }
+              ]
+            },
+            {
+              "category": "Postres",
+              "items": [
+                {
+                  "name": "Suero De Helado",
+                  "price": 400.00,
+                  "essential_ingredients": ["Helado", "Leche"],
+                  "allergy_info": ["Lactosa"]
+                }
+              ]
+            }
+          ]
+        }
+      }
+      

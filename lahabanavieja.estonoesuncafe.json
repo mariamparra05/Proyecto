@@ -1,0 +1,738 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Esto No Es Un Café",
+    "cousine": [],
+    "description": "Un espacio multifuncional que relaciona la cocina artística con las artes visuales. Ofrece una cocina de autor que combina recetas de la cocina internacional con el sabor de la tradición culinaria cubana.",
+    "contact_info": {
+      "phone": {
+        "number": "78013109",
+        "type": "landline"
+      },
+      "email": "estonoesuncafe@gmail.com",
+      "website": "https://estonoesuncafe.wordpress.com"
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "tuesday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "wednesday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "thursday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "friday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "saturday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "sunday": {
+        "open": "08:00",
+        "close": "00:00"
+      }
+    },
+    "address": "Calle Ignacio #58-A entre OReilly y Empedrado, Callejón del Chorro, Plaza de la Catedral, Habana Vieja",
+    "municipality": "Habana Vieja",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 23.140497,
+      "longitude": -82.351910
+    },
+    "social_media": {
+      "instagram": "https://www.instagram.com/estonoesuncafe",
+      "facebook": "https://www.facebook.com/estonoesuncafe"
+    },
+    "accepted_payment_methods": ["Pagos digitales", "Solo efectivo"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "10% por servicios prestados",
+      "description": "Se adiciona el 10% a su cuenta por servicios prestados.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": true,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Restaurante"],
+      "local_options": ["Comidas", "Cenas"],
+      "services": ["Sanitario", "Servicio de mesa"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Ideal para ir con niños", "Recomendable para ir en grupo"],
+      "planning": ["Reservas"],
+      "children": true,
+      "pets": null,
+      "parking": null
+    },
+    "dietary_options": ["Opciones vegetarianas", "Opciones veganas", "Opciones sin gluten"],
+    "meals": ["Comidas", "Cenas"],
+    "advantages": ["Reservas", "Capacidad", "Acceso para discapacitados", "Sirve alcohol", "Bar completo", "Vino y cerveza"],
+    "highlights": ["Asientos al aire libre", "Aperitivos", "Buenos cócteles", "Agradable", "Informal"]
+  },
+  "menu": {
+    "categories": [
+      {
+        "category": "Entrantes / First Plates",
+        "items": [
+          {
+            "name": "Croquetas de la casa / Homemade rissole",
+            "price": 1050,
+            "essential_ingredients": ["pollo", "harina", "huevos", "pan rallado"],
+            "allergy_info": ["gluten", "huevos"]
+          },
+          {
+            "name": "Tostones rellenos / Stuffed tostones",
+            "price": 1050,
+            "essential_ingredients": ["plátano", "carne", "queso"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Ratatouille / Vegetable Ratatouille",
+            "price": 1200,
+            "essential_ingredients": ["berenjena", "tomate", "pimientos"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cuarteto de camarones / Shrimp quartet",
+            "price": 2100,
+            "essential_ingredients": ["camarones", "salsa"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Pimientos rellenos con farsa de atún / Peppers with tuna paste",
+            "price": 1350,
+            "essential_ingredients": ["pimientos", "atún", "mayonesa"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Bruschettas de berenjena, tomate y mozzarella / Bruschettas with eggplant, tomatoes, and mozzarella",
+            "price": 1200,
+            "essential_ingredients": ["pan", "berenjena", "tomate", "mozzarella"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Tempura de vegetales / Vegetables tempura",
+            "price": 1350,
+            "essential_ingredients": ["vegetales", "harina", "huevos"],
+            "allergy_info": ["gluten", "huevos"]
+          }
+        ]
+      },
+      {
+        "category": "Los Especiales / Second Plates",
+        "items": [
+          {
+            "name": "La Fuente de Duchamp / Duchamp's Fontain",
+            "description": "Lonjas de pierna de cerdo asadas con adobo tradicional cubano acompañado con puré de malanga / Roasted pork leg slices with traditional Cuban marinade accompanied with malanga puree",
+            "price": 2400,
+            "essential_ingredients": ["pierna de cerdo", "adobo", "malanga"],
+            "allergy_info": []
+          },
+          {
+            "name": "Pollo Pollock / Pollock's Chicken",
+            "description": "Pollo asado con delicado sabor a menta y chocolate, acompañado con vegetales salteados / Roast chicken with a delicate taste of chocolate and mint, decorated with parsley and soy sauces",
+            "price": 2550,
+            "essential_ingredients": ["pollo", "menta", "chocolate"],
+            "allergy_info": []
+          },
+          {
+            "name": "Tercer Mundo de Lam / Lam's Third World",
+            "description": "Carne de res cocida, deshilachada y salteada con pimientos, cebollas y aceitunas: \"Ropa vieja\" / Beef cooked, frayed and sauteed with peppers, onions and olives: \"Ropa vieja\"",
+            "price": 3150,
+            "essential_ingredients": ["carne de res", "pimientos", "cebollas", "aceitunas"],
+            "allergy_info": []
+          },
+          {
+            "name": "El Pez de Christo / Christo's Fish",
+            "description": "Pescado cocido en papillote acompañado de vegetales aderezado con mantequilla, aceite de oliva y perejil / Fish in papillote with steamed vegetables, butter and olive oil",
+            "price": 3300,
+            "essential_ingredients": ["pescado", "vegetales", "mantequilla", "aceite de oliva"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Azul Klein / Klein's Blue",
+            "description": "Estofado especiado de cordero en salsa roja, al vino tinto y queso azul / Spiced lamb stew in red sauce, red wine and blue cheese",
+            "price": 3900,
+            "essential_ingredients": ["cordero", "salsa roja", "vino tinto", "queso azul"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "La Cacerola de Broodthaers / Broodthaers's Casserole",
+            "description": "Enchilado de mariscos en salsa roja con picante al gusto / Seafood enchilado in red sauce with spices to taste",
+            "price": 5400,
+            "essential_ingredients": ["mariscos", "salsa roja"],
+            "allergy_info": ["mariscos"]
+          }
+        ]
+      },
+      {
+        "category": "Guarniciones / Side Dishes",
+        "items": [
+          {
+            "name": "Arroz blanco / White rice",
+            "price": 450,
+            "essential_ingredients": ["arroz"],
+            "allergy_info": []
+          },
+          {
+            "name": "Frijoles negros / Black beans",
+            "price": 750,
+            "essential_ingredients": ["frijoles", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Yuca con mojo / Yucca with traditional sauce",
+            "price": 600,
+            "essential_ingredients": ["yuca", "mojo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Vegetales salteados / Sauteed vegetables",
+            "price": 600,
+            "essential_ingredients": ["vegetales", "aceite"],
+            "allergy_info": []
+          },
+          {
+            "name": "Chicharritas de plátano / Banana chips",
+            "price": 600,
+            "essential_ingredients": ["plátano", "aceite"],
+            "allergy_info": []
+          }
+        ]
+     },
+   {
+        "category": "Dulces / Desserts",
+        "items": [
+          {
+            "name": "Postre de la Casa / Dessert of the house (Pie de chocolate / Chocolate pie, Pie de limón / Lemon pie, Tarta de queso / Cheesecake)",
+            "price": 1200,
+            "essential_ingredients": ["chocolate", "limón", "queso crema"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Brownie",
+            "price": 1500,
+            "essential_ingredients": ["chocolate", "harina", "huevos"],
+            "allergy_info": ["gluten", "huevos"]
+          },
+          {
+            "name": "Copa de helado / Glass of ice cream",
+            "price": 1350,
+            "essential_ingredients": ["leche", "azúcar"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Crepe de frutas / Fruits crêpe",
+            "price": 1200,
+            "essential_ingredients": ["harina", "frutas", "azúcar"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Crepe de chocolate / Chocolate crêpe",
+            "price": 1050,
+            "essential_ingredients": ["harina", "chocolate", "azúcar"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Crepe de limón / Lemon crêpe",
+            "price": 600,
+            "essential_ingredients": ["harina", "limón", "azúcar"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Crepe Franz / Franz crêpe",
+            "price": 1350,
+            "essential_ingredients": ["harina", "azúcar"],
+            "allergy_info": ["gluten"]
+          }
+        ]
+      },
+      {
+        "category": "Bebidas Alcohólicas",
+        "items": [
+          {
+            "name": "Mojito clásico",
+            "price": 1050,
+            "essential_ingredients": ["ron", "menta", "limón", "azúcar"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Mojito frapé",
+            "price": 1200,
+            "essential_ingredients": ["ron", "menta", "limón", "azúcar", "hielo"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Mojito de frutas",
+            "price": 1350,
+            "essential_ingredients": ["ron", "menta", "limón", "azúcar", "frutas"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Cuba libre",
+            "price": 1050,
+            "essential_ingredients": ["ron", "refresco de cola", "limón"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Daiquiri de limón",
+            "price": 1050,
+            "essential_ingredients": ["ron", "limón", "azúcar"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Daiquiri de plátano",
+            "price": 1200,
+            "essential_ingredients": ["ron", "plátano", "azúcar"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Daiquiri de fresa",
+            "price": 1350,
+            "essential_ingredients": ["ron", "fresa", "azúcar"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Daiquiri de mango",
+            "price": 1350,
+            "essential_ingredients": ["ron", "mango", "azúcar"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Piña colada",
+            "price": 1350,
+            "essential_ingredients": ["ron", "piña", "coco"],
+            "allergy_info": ["alcohol", "lactosa"]
+          },
+          {
+            "name": "Habana especial",
+            "price": 900,
+            "essential_ingredients": ["ron", "limón", "azúcar"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Cubanito",
+            "price": 1200,
+            "essential_ingredients": ["ron", "jugo de tomate", "limón", "salsa inglesa"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Cubata",
+            "price": 1350,
+            "essential_ingredients": ["ron", "refresco de cola"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Presidente",
+            "price": 1050,
+            "essential_ingredients": ["ron", "granadina", "limón"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Mary Pickford",
+            "price": 900,
+            "essential_ingredients": ["ron", "piña", "granadina"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Esto no es un café",
+            "price": 1350,
+            "essential_ingredients": ["ron", "café", "azúcar"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Michelada",
+            "price": 1050,
+            "essential_ingredients": ["cerveza", "limón", "salsa"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Gin Tonic",
+            "price": 1350,
+            "essential_ingredients": ["gin", "agua tónica"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Vodka Tonic",
+            "price": 1350,
+            "essential_ingredients": ["vodka", "agua tónica"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Caipiriña",
+            "price": 1200,
+            "essential_ingredients": ["cachaça", "limón", "azúcar"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Screwdriver",
+            "price": 1200,
+            "essential_ingredients": ["vodka", "jugo de naranja"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Caipiroska",
+            "price": 1350,
+            "essential_ingredients": ["vodka", "limón", "azúcar"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Bloody Mary",
+            "price": 1350,
+            "essential_ingredients": ["vodka", "jugo de tomate", "salsa inglesa"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Manhattan",
+            "price": 1350,
+            "essential_ingredients": ["whisky", "vermut"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Margarita",
+            "price": 1200,
+            "essential_ingredients": ["tequila", "limón", "triple sec"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Margarita de frutas",
+            "price": 1350,
+            "essential_ingredients": ["tequila", "jugo de frutas", "triple sec"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Dry Martini cocktail",
+            "price": 1350,
+            "essential_ingredients": ["gin", "vermut"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Americano",
+            "price": 1350,
+            "essential_ingredients": ["vermut", "Campari", "agua con gas"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Black Russian",
+            "price": 1200,
+            "essential_ingredients": ["vodka", "licor de café"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "White Russian",
+            "price": 1350,
+            "essential_ingredients": ["vodka", "licor de café", "crema"],
+            "allergy_info": ["alcohol", "lactosa"]
+          },
+          {
+            "name": "Sex on the Beach",
+            "price": 1500,
+            "essential_ingredients": ["vodka", "licor de durazno", "jugo de naranja"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Long Iceland Iced Tea",
+            "price": 1500,
+            "essential_ingredients": ["vodka", "gin", "tequila", "ron", "triple sec", "refresco de cola"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Negroni",
+            "price": 1500,
+            "essential_ingredients": ["gin", "vermut", "Campari"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Sangría",
+            "price": 1200,
+            "essential_ingredients": ["vino tinto", "frutas", "brandy"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Copa de vino de la casa / Glass of house wine",
+            "price": 1350,
+            "essential_ingredients": ["vino"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Cervezas / Beers",
+            "price": 750,
+            "essential_ingredients": ["cebada", "lúpulo", "agua"],
+            "allergy_info": ["gluten", "alcohol"]
+          },
+          {
+            "name": "Havana Club Ritual",
+            "price": 750,
+            "essential_ingredients": ["ron"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Havana Club Añejo 7 años",
+            "price": 1200,
+            "essential_ingredients": ["ron"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Havana Club Selección de Maestros",
+            "price": 2400,
+            "essential_ingredients": ["ron"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Havana Club Pacto Navío",
+            "price": 3000,
+            "essential_ingredients": ["ron"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Havana Club Añejo 15 años",
+            "price": 8400,
+            "essential_ingredients": ["ron"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Ron Santiago de Cuba 11 Años",
+            "price": 1950,
+            "essential_ingredients": ["ron"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Ron Santiago de Cuba 20 Años",
+            "price": 6000,
+            "essential_ingredients": ["ron"],
+            "allergy_info": ["alcohol"]
+          }
+        ]
+      },
+      {
+        "category": "Bebidas No Alcohólicas",
+        "items": [
+          {
+            "name": "San Francisco",
+            "price": 750,
+            "essential_ingredients": ["jugo de frutas", "granadina"],
+            "allergy_info": []
+          },
+          {
+            "name": "Shirley Temple",
+            "price": 750,
+            "essential_ingredients": ["refresco de limón", "granadina"],
+            "allergy_info": []
+          },
+          {
+            "name": "Piña colada virgen",
+            "price": 1050,
+            "essential_ingredients": ["piña", "coco"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Batidos / Milk shake",
+            "price": 750,
+            "essential_ingredients": ["leche", "frutas", "azúcar"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Limonada frapé / Frozen lemonade",
+            "price": 600,
+            "essential_ingredients": ["limón", "agua", "azúcar", "hielo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Limonada natural / Natural lemonade",
+            "price": 450,
+            "essential_ingredients": ["limón", "agua", "azúcar"],
+            "allergy_info": []
+          },
+          {
+            "name": "Agua mineral 500 ml / Mineral water",
+            "price": 450,
+            "essential_ingredients": ["agua"],
+            "allergy_info": []
+          },
+          {
+            "name": "Agua mineral 1.5lt / Mineral water",
+            "price": 900,
+            "essential_ingredients": ["agua"],
+            "allergy_info": []
+          },
+          {
+            "name": "Refrescos / Soft drinks",
+            "price": 540,
+            "essential_ingredients": ["agua carbonatada", "azúcar", "aroma"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Infusiones",
+        "items": [
+          {
+            "name": "Café expreso / Espresso coffee",
+            "price": 300,
+            "essential_ingredients": ["café"],
+            "allergy_info": []
+          },
+          {
+            "name": "Doble expreso / Double espresso",
+            "price": 600,
+            "essential_ingredients": ["café"],
+            "allergy_info": []
+          },
+          {
+            "name": "Descafeinado / Decaffeinated",
+            "price": 480,
+            "essential_ingredients": ["café"],
+            "allergy_info": []
+          },
+          {
+            "name": "Café americano / American coffee",
+            "price": 450,
+            "essential_ingredients": ["café", "agua"],
+            "allergy_info": []
+          },
+          {
+            "name": "Café cortado / Espresso coffee with a dash of milk",
+            "price": 450,
+            "essential_ingredients": ["café", "leche"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Capuchino / Cappuccino",
+            "price": 600,
+            "essential_ingredients": ["café", "leche", "espuma de leche"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Café con leche / White coffee",
+            "price": 600,
+            "essential_ingredients": ["café", "leche"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Café con hielo / Iced coffee",
+            "price": 450,
+            "essential_ingredients": ["café", "hielo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Café americano con leche / American coffee with milk",
+            "price": 750,
+            "essential_ingredients": ["café", "agua", "leche"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Café bombón / Bondon coffee",
+            "price": 900,
+            "essential_ingredients": ["café", "leche condensada"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Hangover Fix",
+            "price": 450,
+            "essential_ingredients": ["café", "limón"],
+            "allergy_info": []
+          },
+          {
+            "name": "Café Carajillo",
+            "price": 750,
+            "essential_ingredients": ["café", "licor"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Café brasileño / Brazilian coffee",
+            "price": 1050,
+            "essential_ingredients": ["café", "licor de café"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Café español / Spanish coffee",
+            "price": 1050,
+            "essential_ingredients": ["café", "brandy"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Café irlandés / Irish coffee",
+            "price": 1050,
+            "essential_ingredients": ["café", "whisky", "crema"],
+            "allergy_info": ["alcohol", "lactosa"]
+          },
+          {
+            "name": "Café francés / French coffee",
+            "price": 1050,
+            "essential_ingredients": ["café", "Cointreau"],
+            "allergy_info": ["alcohol"]
+          },
+          {
+            "name": "Frapurhino / Frappuccino",
+            "price": 1050,
+            "essential_ingredients": ["café", "leche", "hielo", "azúcar"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Chocolate frío / Cold chocolate",
+            "price": 1050,
+            "essential_ingredients": ["chocolate", "leche", "hielo"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Chocolate caliente / Hot chocolate",
+            "price": 1050,
+            "essential_ingredients": ["chocolate", "leche"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Batido de helado / Milk shake",
+            "price": 1200,
+            "essential_ingredients": ["helado", "leche"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Té negro / Black tea",
+            "price": 450,
+            "essential_ingredients": ["té negro"],
+            "allergy_info": []
+          },
+          {
+            "name": "Té rojo / Red tea",
+            "price": 540,
+            "essential_ingredients": ["té rojo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Té verde / Green tea",
+            "price": 540,
+            "essential_ingredients": ["té verde"],
+            "allergy_info": []
+          },
+          {
+            "name": "Té de hierbas naturales / Natural herbal tea",
+            "price": 300,
+            "essential_ingredients": ["hierbas"],
+            "allergy_info": []
+          },
+          {
+            "name": "Infusión de Hierba buena o albahaca / Mint or basil infusion",
+            "price": 300,
+            "essential_ingredients": ["hierba buena", "albahaca"],
+            "allergy_info": []
+          }
+        ]
+      }
+    ]
+  }
+}
+
+   

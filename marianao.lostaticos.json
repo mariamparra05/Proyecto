@@ -1,0 +1,319 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Restaurante"]
+      },
+      "name": "Los taticos",
+      "cuisine": ["Variada"],
+      "description": null,
+      "contact_info": {
+        "phone": {
+          "number": null,
+          "type": null
+        },
+        "email": null,
+        "website": null
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "08:00",
+          "close": "00:00"
+        },
+        "tuesday": {
+          "open": "08:00",
+          "close": "00:00"
+        },
+        "wednesday": {
+          "open": "08:00",
+          "close": "00:00"
+        },
+        "thursday": {
+          "open": "08:00",
+          "close": "00:00"
+        },
+        "friday": {
+          "open": "08:00",
+          "close": "00:00"
+        },
+        "saturday": {
+          "open": "08:00",
+          "close": "00:00"
+        },
+        "sunday": {
+          "open": "08:00",
+          "close": "00:00"
+        }
+      },
+      "address": "27 y 27A",
+      "municipality": "Marianao",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Efectivo", "Tarjeta", "Pago Móvil"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Tarifa de servicio 10%",
+        "description": "Se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": [],
+        "ambience": ["Música grabada", "Domino"],
+        "usual_customers": [],
+        "planning": [],
+        "children": "Sillas para niños",
+        "pets": null,
+        "parking": null
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },
+                "menu": {
+                  "categories": [
+                    {
+                      "category": "Hamburguesas",
+                      "items": [
+                        {
+                          "name": "Super Hamburguesa Tatico",
+                          "price": 900.00,
+                          "essential_ingredients": ["Carne", "Pan", "Lechuga", "Tomate"],
+                          "allergy_info": ["Gluten"]
+                        },
+                        {
+                          "name": "Hamburguesa Tatico",
+                          "price": 750.00,
+                          "essential_ingredients": ["Carne", "Pan", "Lechuga", "Tomate"],
+                          "allergy_info": ["Gluten"]
+                        },
+                        {
+                          "name": "Super Hamburguesa Queso",
+                          "price": 800.00,
+                          "essential_ingredients": ["Carne", "Pan", "Queso", "Lechuga", "Tomate"],
+                          "allergy_info": ["Gluten", "Lactosa"]
+                        },
+                        {
+                          "name": "Hamburguesa Queso",
+                          "price": 650.00,
+                          "essential_ingredients": ["Carne", "Pan", "Queso", "Lechuga", "Tomate"],
+                          "allergy_info": ["Gluten", "Lactosa"]
+                        },
+                        {
+                          "name": "Super Hamburguesa Sencilla",
+                          "price": 700.00,
+                          "essential_ingredients": ["Carne", "Pan", "Lechuga", "Tomate"],
+                          "allergy_info": ["Gluten"]
+                        },
+                        {
+                          "name": "Hamburguesa Sencilla",
+                          "price": 600.00,
+                          "essential_ingredients": ["Carne", "Pan", "Lechuga", "Tomate"],
+                          "allergy_info": ["Gluten"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Sándwiches",
+                      "items": [
+                        {
+                          "name": "Sándwich Tatico",
+                          "price": 650.00,
+                          "essential_ingredients": ["Pan", "Carne", "Lechuga", "Tomate"],
+                          "allergy_info": ["Gluten"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Pan",
+                      "items": [
+                        {
+                          "name": "Bocadito De Atun",
+                          "price": 600.00,
+                          "essential_ingredients": ["Pan", "Atun"],
+                          "allergy_info": ["Gluten", "Pescado"]
+                        },
+                        {
+                          "name": "Pan Con Lechon",
+                          "price": 650.00,
+                          "essential_ingredients": ["Pan", "Lechon"],
+                          "allergy_info": ["Gluten"]
+                        },
+                        {
+                          "name": "Pan Con Croqueta",
+                          "price": 240.00,
+                          "essential_ingredients": ["Pan", "Croqueta"],
+                          "allergy_info": ["Gluten"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Entrantes",
+                      "items": [
+                        {
+                          "name": "Picadera Tatico",
+                          "price": 2800.00,
+                          "essential_ingredients": ["Variedad de carnes y embutidos"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Entremes Surtido",
+                          "price": 800.00,
+                          "essential_ingredients": ["Variedad de ingredientes"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Tostones Rellenos",
+                          "price": 800.00,
+                          "essential_ingredients": ["Platano", "Relleno"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Bolitas De Queso",
+                          "price": 800.00,
+                          "essential_ingredients": ["Queso"],
+                          "allergy_info": ["Lactosa"]
+                        },
+                        {
+                          "name": "Bolitas De Carne",
+                          "price": 800.00,
+                          "essential_ingredients": ["Carne"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Croquetas Caseras",
+                          "price": 800.00,
+                          "essential_ingredients": ["Harina", "Leche", "Huevo", "Pan rallado"],
+                          "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+                        }
+                    ]
+                  },
+                  {
+                          "category": "Pasta",
+                          "items": [
+                            {
+                              "name": "Lasagña",
+                              "price": 1250.00,
+                              "essential_ingredients": ["Pasta para lasaña", "Carne", "Queso", "Tomate"],
+                              "allergy_info": ["Gluten", "Lactosa"]
+                            }
+                          ]
+                        },
+                        {
+                          "category": "Pizza",
+                          "items": [
+                            {
+                              "name": "Pizza Tatico",
+                              "price": 1200.00,
+                              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso"],
+                              "allergy_info": ["Gluten", "Lactosa"]
+                            },
+                            {
+                              "name": "Pizza Mixta",
+                              "price": 680.00,
+                              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Carnes"],
+                              "allergy_info": ["Gluten", "Lactosa"]
+                            },
+                            {
+                              "name": "Pizza Hawaiana",
+                              "price": 680.00,
+                              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Jamon", "Piña"],
+                              "allergy_info": ["Gluten", "Lactosa"]
+                            },
+                            {
+                              "name": "Pizza Jamon",
+                              "price": 680.00,
+                              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Jamon"],
+                              "allergy_info": ["Gluten", "Lactosa"]
+                            },
+                            {
+                              "name": "Pizza De Queso",
+                              "price": 680.00,
+                              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso"],
+                              "allergy_info": ["Gluten", "Lactosa"]
+                            }
+                        ]
+                      },
+                      {
+                        "category": "Cerdo",
+                        "items": [
+                          {
+                            "name": "Taco De Cerdo",
+                            "price": 650.00,
+                            "essential_ingredients": ["Cerdo", "Tortilla", "Pimientos", "Cebolla"],
+                            "allergy_info": ["Gluten"]
+                          }
+                        ]
+                      },
+                      {
+                        "category": "Pollo",
+                        "items": [
+                          {
+                            "name": "Pollo Al Carbon",
+                            "price": 1200.00,
+                            "essential_ingredients": ["Pollo", "Especias"],
+                            "allergy_info": []
+                          }
+                        ]
+                      },
+                      {
+                        "category": "Res",
+                        "items": [
+                          {
+                            "name": "Taco De Carne",
+                            "price": 800.00,
+                            "essential_ingredients": ["Carne de res", "Tortilla", "Pimientos", "Cebolla"],
+                            "allergy_info": ["Gluten"]
+                          }
+                        ]
+                      },
+                      {
+                        "category": "Mar",
+                        "items": [
+                          {
+                            "name": "Taco De Atun",
+                            "price": 800.00,
+                            "essential_ingredients": ["Atun", "Tortilla", "Pimientos", "Cebolla"],
+                            "allergy_info": ["Gluten", "Pescado"]
+                          }
+                        ]
+                      },
+                      {
+                        "category": "Extras",
+                        "items": [
+                          {
+                            "name": "Arroz Blanco",
+                            "price": null,
+                            "essential_ingredients": ["Arroz", "Sal", "Aceite"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Frijoles",
+                            "price": null,
+                            "essential_ingredients": ["Frijoles", "Especias"],
+                            "allergy_info": []
+                          },
+                          {
+                            "name": "Arroz Moro",
+                            "price": null,
+                            "essential_ingredients": ["Arroz", "Frijoles negros", "Ajo", "Aceite"],
+                            "allergy_info": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+                

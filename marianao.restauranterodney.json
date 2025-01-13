@@ -1,0 +1,351 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Bar"]
+      },
+      "name": "Tropicana Restaurante",
+      "cuisine": ["Variada"],
+      "description": null,
+      "contact_info": {
+        "phone": {
+          "number": "7279147",
+          "type": "landline"
+        },
+        "email": null,
+        "website": "Cabaret-Tropicana.com"
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        "tuesday": {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        "wednesday": {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        "thursday": {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        "friday": {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        "saturday": {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        "sunday": {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      },
+      "address": "72A, Avenida 41",
+      "municipality": "Marianao",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Efectivo", "Tarjeta", "Pago Móvil"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Tarifa de servicio 10%",
+        "description": "Se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": true,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": ["Reservaciones"],
+        "ambience": ["Show"],
+        "usual_customers": [],
+        "planning": [],
+        "children": null,
+        "pets": null,
+        "parking": null
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },
+                "menu": {
+                  "categories": [
+                    {
+                      "category": "Sándwiches",
+                      "items": [
+                        {
+                          "name": "Sándwich De Un Agrego",
+                          "price": 230.00,
+                          "essential_ingredients": ["Pan", "Relleno"],
+                          "allergy_info": ["Gluten"]
+                        },
+                        {
+                          "name": "Sándwich De Dos Agregos",
+                          "price": 300.00,
+                          "essential_ingredients": ["Pan", "Relleno"],
+                          "allergy_info": ["Gluten"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Entrantes",
+                      "items": [
+                        {
+                          "name": "Picadera De La Casa",
+                          "price": 650.00,
+                          "essential_ingredients": ["Variedad de carnes y embutidos"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Entremes De Embutido Y Queso",
+                          "price": 400.00,
+                          "essential_ingredients": ["Embutido", "Queso"],
+                          "allergy_info": ["Lactosa"]
+                        },
+                        {
+                          "name": "Tacos Mexicanos De Pollo",
+                          "price": 700.00,
+                          "essential_ingredients": ["Tortilla", "Pollo", "Pimientos", "Cebolla"],
+                          "allergy_info": ["Gluten"]
+                        },
+                        {
+                          "name": "Tacos Mexicanos De Cerdo",
+                          "price": 1400.00,
+                          "essential_ingredients": ["Tortilla", "Cerdo", "Pimientos", "Cebolla"],
+                          "allergy_info": ["Gluten"]
+                        },
+                        {
+                          "name": "Sopa Del Dia",
+                          "price": 125.00,
+                          "essential_ingredients": ["Variedad de ingredientes"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Croquetas",
+                          "price": 250.00,
+                          "essential_ingredients": ["Harina", "Leche", "Huevo", "Pan rallado"],
+                          "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+                        },
+                        {
+                          "name": "Crema Aurora",
+                          "price": 350.00,
+                          "essential_ingredients": ["Variedad de ingredientes"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Crema Virginia",
+                          "price": 480.00,
+                          "essential_ingredients": ["Variedad de ingredientes"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Crema De Calabaza Con Queso",
+                          "price": 400.00,
+                          "essential_ingredients": ["Calabaza", "Queso"],
+                          "allergy_info": ["Lactosa"]
+                        },
+                        {
+                          "name": "Eperlan De Pescado",
+                          "price": 600.00,
+                          "essential_ingredients": ["Pescado", "Harina"],
+                          "allergy_info": ["Pescado", "Gluten"]
+                        },
+                        {
+                          "name": "Fajitas De Pollo",
+                          "price": 500.00,
+                          "essential_ingredients": ["Pollo", "Pimientos", "Cebolla"],
+                          "allergy_info": []
+                        }
+                    ]
+                  },
+                  {
+                          "category": "Pasta",
+                          "items": [
+                            {
+                              "name": "Pasta Napolitana",
+                              "price": 500.00,
+                              "essential_ingredients": ["Pasta", "Tomate", "Queso"],
+                              "allergy_info": ["Gluten", "Lactosa"]
+                            }
+                          ]
+                        },
+                        {
+                          "category": "Pizza",
+                          "items": [
+                            {
+                              "name": "Pizza Napolitana",
+                              "price": 500.00,
+                              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso"],
+                              "allergy_info": ["Gluten", "Lactosa"]
+                            },
+                            {
+                              "name": "Pizza Campesina",
+                              "price": 1200.00,
+                              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Vegetales"],
+                              "allergy_info": ["Gluten", "Lactosa"]
+                            },
+                            {
+                              "name": "Pizza Especial Rodney (Rellena Con Queso)",
+                              "price": 800.00,
+                              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso"],
+                              "allergy_info": ["Gluten", "Lactosa"]
+                            },
+                            {
+                              "name": "Pizza Especial Rodney (Rellena Con Embutido)",
+                              "price": 900.00,
+                              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Embutido"],
+                              "allergy_info": ["Gluten", "Lactosa"]
+                            },
+                            {
+                              "name": "Pizza Super Especial Rodney (Rellena Con Queso Y Varios Embutidos)",
+                              "price": 1200.00,
+                              "essential_ingredients": ["Masa de pizza", "Tomate", "Queso", "Varios embutidos"],
+                              "allergy_info": ["Gluten", "Lactosa"]
+                            }
+                        ]
+                      },
+                      {
+                      "category": "Cerdo",
+                      "items": [
+                        {
+                          "name": "Lonjas De Cerdo Asada",
+                          "price": 2000.00,
+                          "essential_ingredients": ["Cerdo", "Especias"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Fricase De Cerdo",
+                          "price": 2300.00,
+                          "essential_ingredients": ["Cerdo", "Tomate", "Especias"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Bistec De Cerdo Grille",
+                          "price": 1800.00,
+                          "essential_ingredients": ["Cerdo", "Especias"],
+                          "allergy_info": []
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Pollo",
+                      "items": [
+                        {
+                          "name": "Pollo Asado",
+                          "price": 850.00,
+                          "essential_ingredients": ["Pollo", "Especias"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Pollo Frito",
+                          "price": 900.00,
+                          "essential_ingredients": ["Pollo", "Harina", "Aceite"],
+                          "allergy_info": ["Gluten"]
+                        },
+                        {
+                          "name": "Pollo Deshuesado",
+                          "price": 900.00,
+                          "essential_ingredients": ["Pollo", "Especias"],
+                          "allergy_info": []
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Res",
+                      "items": [
+                        {
+                          "name": "Filete Migñon",
+                          "price": 3000.00,
+                          "essential_ingredients": ["Res", "Especias"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Steack De Res",
+                          "price": 1400.00,
+                          "essential_ingredients": ["Res", "Especias"],
+                          "allergy_info": []
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Mar",
+                      "items": [
+                        {
+                          "name": "Filete De Pescado A La Plancha",
+                          "price": 1500.00,
+                          "essential_ingredients": ["Pescado", "Especias"],
+                          "allergy_info": ["Pescado"]
+                        },
+                        {
+                          "name": "Filete De Pescado Gratinado Con Queso",
+                          "price": 1750.00,
+                          "essential_ingredients": ["Pescado", "Queso"],
+                          "allergy_info": ["Pescado", "Lactosa"]
+                        },
+                        {
+                          "name": "Filete De Pescado Canciller",
+                          "price": 2000.00,
+                          "essential_ingredients": ["Pescado", "Salsa"],
+                          "allergy_info": ["Pescado"]
+                        },
+                        {
+                          "name": "Langosta A La Plancha",
+                          "price": 1800.00,
+                          "essential_ingredients": ["Langosta", "Especias"],
+                          "allergy_info": ["Mariscos"]
+                        },
+                        {
+                          "name": "Langosta Enchilada",
+                          "price": 1900.00,
+                          "essential_ingredients": ["Langosta", "Tomate", "Especias"],
+                          "allergy_info": ["Mariscos"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Extras",
+                      "items": [
+                        {
+                          "name": "Arroz Rodney",
+                          "price": 780.00,
+                          "essential_ingredients": ["Arroz", "Especias"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Filete Bacalao A La Plancha",
+                          "price": 250.00,
+                          "essential_ingredients": ["Bacalao", "Especias"],
+                          "allergy_info": ["Pescado"]
+                        },
+                        {
+                          "name": "Arroz Blanco",
+                          "price": 120.00,
+                          "essential_ingredients": ["Arroz", "Sal", "Aceite"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Ensalada De Vegetales",
+                          "price": 120.00,
+                          "essential_ingredients": ["Vegetales"],
+                          "allergy_info": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+              

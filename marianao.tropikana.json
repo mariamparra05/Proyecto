@@ -1,0 +1,305 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Restaurante"]
+      },
+      "name": "Tropikana",
+      "cuisine": ["Variada"],
+      "description": null,
+     "contact_info": {
+        "phone": {
+          "number": null,
+          "type": null
+        },
+        "email": null,
+        "website": null
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "tuesday": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "wednesday": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "thursday": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "friday": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "saturday": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "sunday": {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      },
+      "address": "Avenida 41, calle 72",
+      "municipality": "Marianao",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Efectivo", "Tarjeta", "Pago Móvil"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Tarifa de servicio 10%",
+        "description": "Se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": [],
+        "ambience": [],
+        "usual_customers": [],
+        "planning": [],
+        "children": null,
+        "pets": null,
+        "parking": null
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },
+                "menu": {
+                  "categories": [
+                    {
+                      "category": "Hamburguesas",
+                      "items": [
+                        {
+                          "name": "Super Hamburguesa",
+                          "price": 560.00,
+                          "essential_ingredients": ["Carne", "Pan", "Lechuga", "Tomate"],
+                          "allergy_info": ["Gluten"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Pan",
+                      "items": [
+                        {
+                          "name": "Pan Con Jamon Y Queso",
+                          "price": 280.00,
+                          "essential_ingredients": ["Pan", "Jamon", "Queso"],
+                          "allergy_info": ["Gluten", "Lactosa"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Entrantes",
+                      "items": [
+                        {
+                          "name": "Tostones",
+                          "price": 350.00,
+                          "essential_ingredients": ["Platano", "Aceite"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Tostones Rellenos",
+                          "price": 450.00,
+                          "essential_ingredients": ["Platano", "Relleno"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Crema De Queso",
+                          "price": 450.00,
+                          "essential_ingredients": ["Queso", "Leche"],
+                          "allergy_info": ["Lactosa"]
+                        },
+                        {
+                          "name": "Crema Aurora",
+                          "price": 450.00,
+                          "essential_ingredients": ["Variedad de ingredientes"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Crema De Jamon",
+                          "price": 450.00,
+                          "essential_ingredients": ["Jamon", "Leche"],
+                          "allergy_info": ["Lactosa"]
+                        },
+                        {
+                          "name": "Consome",
+                          "price": 450.00,
+                          "essential_ingredients": ["Caldo", "Verduras"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Eperlan",
+                          "price": 500.00,
+                          "essential_ingredients": ["Pescado", "Harina"],
+                          "allergy_info": ["Pescado", "Gluten"]
+                        },
+                        {
+                          "name": "Croquetas",
+                          "price": 500.00,
+                          "essential_ingredients": ["Harina", "Leche", "Huevo", "Pan rallado"],
+                          "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+                        },
+                        {
+                          "name": "Picadera De La Casa",
+                          "price": 100.00,
+                          "essential_ingredients": ["Variedad de ingredientes"],
+                          "allergy_info": []
+                        }
+                    ]
+                  },
+                  {
+                          "category": "Pasta",
+                          "items": [
+                            {
+                              "name": "Espaguettis A La Carbonara",
+                              "price": 750.00,
+                              "essential_ingredients": ["Espaguetis", "Huevo", "Queso", "Panceta"],
+                              "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+                            },
+                            {
+                              "name": "Espaguettis Queso Gouda",
+                              "price": 650.00,
+                              "essential_ingredients": ["Espaguetis", "Queso gouda"],
+                              "allergy_info": ["Gluten", "Lactosa"]
+                            }
+                          ]
+                        },
+                        {
+                          "category": "Pizza",
+                          "items": [
+                            {
+                              "name": "Pizza De Queso Gouda",
+                              "price": 750.00,
+                              "essential_ingredients": ["Masa de pizza", "Queso gouda"],
+                              "allergy_info": ["Gluten", "Lactosa"]
+                            },
+                            {
+                              "name": "Pizza Hawaiana",
+                              "price": 800.00,
+                              "essential_ingredients": ["Masa de pizza", "Queso", "Jamon", "Piña"],
+                              "allergy_info": ["Gluten", "Lactosa"]
+                            },
+                            {
+                              "name": "Pizza Tropicana",
+                              "price": 950.00,
+                              "essential_ingredients": ["Masa de pizza", "Queso", "Variedad de ingredientes"],
+                              "allergy_info": ["Gluten", "Lactosa"]
+                            }
+                          ]
+                        },
+                        {
+                          "category": "Platos Principales",
+                          "items": [
+                            {
+                              "name": "Bistec De Cerdo",
+                              "price": 1300.00,
+                              "essential_ingredients": ["Cerdo", "Especias"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Bistec De Cerdo A La Milanesa",
+                              "price": 1800.00,
+                              "essential_ingredients": ["Cerdo", "Harina", "Huevo", "Pan rallado"],
+                              "allergy_info": ["Gluten", "Huevo"]
+                            },
+                            {
+                              "name": "Bistec De Pollo",
+                              "price": 1000.00,
+                              "essential_ingredients": ["Pollo", "Especias"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Pollo Frito",
+                              "price": 1000.00,
+                              "essential_ingredients": ["Pollo", "Harina", "Aceite"],
+                              "allergy_info": ["Gluten"]
+                            },
+                            {
+                              "name": "Pollo A La Milanesa",
+                              "price": 1500.00,
+                              "essential_ingredients": ["Pollo", "Harina", "Huevo", "Pan rallado"],
+                              "allergy_info": ["Gluten", "Huevo"]
+                            },
+                            {
+                              "name": "Ropa Vieja",
+                              "price": 1550.00,
+                              "essential_ingredients": ["Carne de res", "Cebolla", "Pimientos", "Tomate"],
+                              "allergy_info": []
+                            },
+                            {
+                              "name": "Canciller",
+                              "price": 2500.00,
+                              "essential_ingredients": ["Pescado", "Salsa"],
+                              "allergy_info": ["Pescado"]
+                            },
+                            {
+                              "name": "Pescado Entero",
+                              "price": 2000.00,
+                              "essential_ingredients": ["Pescado", "Especias"],
+                              "allergy_info": ["Pescado"]
+                            },
+                            {
+                              "name": "Rueda De Atun",
+                              "price": 1700.00,
+                              "essential_ingredients": ["Atun", "Especias"],
+                              "allergy_info": ["Pescado"]
+                            },
+                            {
+                              "name": "Camarones",
+                              "price": 1700.00,
+                              "essential_ingredients": ["Camarones", "Especias"],
+                              "allergy_info": ["Mariscos"]
+                            },
+                            {
+                              "name": "Filete De Pescado",
+                              "price": 1500.00,
+                              "essential_ingredients": ["Pescado", "Especias"],
+                              "allergy_info": ["Pescado"]
+                            }
+                          ]
+                        },
+                        {
+                          "category": "Extras",
+                          "items": [
+                            {
+                              "name": "Arroz Frito",
+                              "price": 700.00,
+                              "essential_ingredients": ["Arroz", "Huevo", "Vegetales"],
+                              "allergy_info": ["Huevo"]
+                            }
+                        ]
+                      },
+                      {
+                      "category": "Postres",
+                      "items": [
+                        {
+                          "name": "Helado Gusto 1L",
+                          "price": 1000.00,
+                          "essential_ingredients": ["Helado"],
+                          "allergy_info": ["Lactosa"]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+              
+     

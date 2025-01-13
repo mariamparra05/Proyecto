@@ -1,0 +1,886 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["restaurante"]
+      },
+      "name": "Star Cafe",
+      "cousine": ["Bar", "Pizza", "Café", "Internacional", "Pub", "Cubana"],
+      "description": "Local acogedor en la Habana Vieja…café y no solo",
+      "contact_info": {
+        "phone": {
+          "number": null,
+          "type": null
+        },
+        "email": null,
+        "website": "https://m.facebook.com/starcafecuba/"
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "07:00",
+          "close": "02:00"
+        },
+        "tuesday": {
+          "open": "07:00",
+          "close": "02:00"
+        },
+        "wednesday": {
+          "open": "07:00",
+          "close": "02:00"
+        },
+        "thursday": {
+          "open": "07:00",
+          "close": "02:00"
+        },
+        "friday": {
+          "open": "07:00",
+          "close": "02:00"
+        },
+        "saturday": {
+          "open": "07:00",
+          "close": "02:00"
+        },
+        "sunday": {
+          "open": "07:00",
+          "close": "02:00"
+        }
+      },
+      "address": "Calle Compostela 13 e/Chacón y Cuarteles, Habana Vieja",
+      "municipality": "Habana Vieja",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "social_media": {
+        "instagram": "https://www.instagram.com/starcafe_cuba?igsh=MXc1NnFlMmZubGZnag==",
+        "facebook": "https://m.facebook.com/starcafecuba/"
+      },
+      "accepted_payment_methods": ["Efectivo", "Transferencia"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Tarifa de servicio 10%",
+        "description": "Se cobra un 10% de los servicios.",
+        "applies": true
+      },
+      "features": {
+        "reservation_required": true,
+        "outdoor_seating": true,
+        "dine_in": true,
+        "takeaway": true,
+        "offers": ["Café", "Bar completo"],
+        "local_options": ["Desayuno", "Brunch", "Almuerzo", "Cena", "Postre"],
+        "services": ["Aseos", "Bar en el lugar"],
+        "ambience": ["Informal", "Acogedor"],
+        "usual_customers": ["Grupos"],
+        "planning": ["Acepta reservas"],
+        "children": null,
+        "pets": true,
+        "parking": "Hay mucho aparcamiento"
+      },
+      "dietary_options": [],
+      "meals": ["Desayuno", "Comidas", "Cenas", "Brunch", "Abierto hasta tarde", "Bebidas"],
+      "advantages": ["Para llevar", "Reservas", "Terraza exterior", "Capacidad", "Aparcamiento disponible", "Aparcamiento en la calle", "Aparcacoches", "Televisión", "Acceso para discapacitados", "Sirve alcohol", "Vino y cerveza", "Pagos digitales", "Wifi gratuito", "Servicio de mesa", "Música en directo", "Lleva tu propia bebida", "Admite perros"],
+      "highlights": ["Asientos al aire libre", "Platos pequeños", "Grandes cócteles", "Acogedor", "Informal", "Bueno para grupos", "Música en directo"]
+    },
+    "menu": {
+      "categories": [
+        {
+          "category": "Desayuno",
+          "items": [
+            {
+              "name": "Huevos al gusto",
+              "price": 950,
+              "essential_ingredients": ["huevos"],
+              "allergy_info": ["huevo"]
+            },
+            {
+              "name": "Jamon y queso",
+              "price": 1300,
+              "essential_ingredients": ["jamón", "queso"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Crêpes dulce",
+              "price": 1700,
+              "essential_ingredients": ["crêpes", "Nutella"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Crêpes salada",
+              "price": 1900,
+              "essential_ingredients": ["crêpes", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Croissant dulce",
+              "price": 1600,
+              "essential_ingredients": ["croissant", "Nutella"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Croissant salada",
+              "price": 1900,
+              "essential_ingredients": ["croissant", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Hot Cake Pancake",
+              "price": 1700,
+              "essential_ingredients": ["pancakes", "Nutella", "mermelada"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Torrejas French Toast",
+              "price": 1300,
+              "essential_ingredients": ["pan de molde", "leche", "canela", "huevo", "azúcar", "sirope de maple"],
+              "allergy_info": ["gluten", "lactosa", "huevo"]
+            }
+        ]
+      },
+      {
+          "category": "Tapas",
+          "items": [
+            {
+              "name": "Croquetas",
+              "price": 900,
+              "essential_ingredients": ["croquetas"],
+              "allergy_info": []
+            },
+            {
+              "name": "Bruschetta mixta",
+              "price": 900,
+              "essential_ingredients": ["bruschetta"],
+              "allergy_info": []
+            },
+            {
+              "name": "Tostón de plátano maduro",
+              "price": 500,
+              "essential_ingredients": ["plátano maduro"],
+              "allergy_info": []
+            },
+            {
+              "name": "Tostón de plátano maduro con jamón y queso",
+              "price": 1000,
+              "essential_ingredients": ["plátano maduro", "jamón", "queso"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Tostón de plátano maduro con atún",
+              "price": 1100,
+              "essential_ingredients": ["plátano maduro", "atún"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "Berenjena a la Parmesana",
+              "price": 1800,
+              "essential_ingredients": ["berenjena", "queso parmesano"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Lasagna de jamón y queso",
+              "price": 1800,
+              "essential_ingredients": ["lasagna", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Platos únicos",
+          "items": [
+            {
+              "name": "Penne con salmón",
+              "price": 2500,
+              "essential_ingredients": ["penne", "salmón"],
+              "allergy_info": ["gluten", "pescado"]
+            },
+            {
+              "name": "Penne con camarones",
+              "price": 2700,
+              "essential_ingredients": ["penne", "camarones"],
+              "allergy_info": ["gluten", "mariscos"]
+            },
+            {
+              "name": "Penne con atún",
+              "price": 2500,
+              "essential_ingredients": ["penne", "atún"],
+              "allergy_info": ["gluten", "pescado"]
+            },
+            {
+              "name": "Penne vegetariano",
+              "price": 2000,
+              "essential_ingredients": ["penne", "vegetales"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Camarones al gusto",
+              "price": 3600,
+              "essential_ingredients": ["camarones"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Pulpo al gusto",
+              "price": 4000,
+              "essential_ingredients": ["pulpo"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Taco de cerdo o res",
+              "price": 4200,
+              "essential_ingredients": ["cerdo", "res", "tortilla"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Nachos",
+              "price": 4200,
+              "essential_ingredients": ["nachos", "lechuga", "tomate", "carne", "queso"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Picadera",
+              "price": 6000,
+              "essential_ingredients": ["platos variados"],
+              "allergy_info": []
+            },
+            {
+              "name": "Brocheta de pollo y cerdo",
+              "price": 4200,
+              "essential_ingredients": ["pollo", "cerdo", "vegetales de temporada"],
+              "allergy_info": []
+            },
+            {
+              "name": "Masa de cerdo frita",
+              "price": 4000,
+              "essential_ingredients": ["cerdo", "vegetales de temporada"],
+              "allergy_info": []
+            },
+            {
+              "name": "Bistec encebollado",
+              "price": 4000,
+              "essential_ingredients": ["bistec de cerdo", "cebolla", "vegetales de temporada"],
+              "allergy_info": []
+            },
+            {
+              "name": "Cordón Blue",
+              "price": 4000,
+              "essential_ingredients": ["pechuga de pollo", "jamón", "queso", "vegetales", "puré de malanga", "congrí"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Ropa vieja",
+              "price": 4000,
+              "essential_ingredients": ["carne de cerdo", "salsa de tomate", "ají", "cebolla", "ajo", "vino seco", "vegetales", "tostones", "congrí"],
+              "allergy_info": []
+            },
+            {
+              "name": "Pechuga a la Milanesa",
+              "price": 4000,
+              "essential_ingredients": ["pechuga de pollo", "vegetales", "puré de malanga", "congrí"],
+              "allergy_info": ["gluten"]
+            }
+        ]
+      },
+      {
+          "category": "Guarniciones",
+          "items": [
+            {
+              "name": "Congris",
+              "price": 800,
+              "essential_ingredients": ["arroz", "frijoles negros"],
+              "allergy_info": []
+            },
+            {
+              "name": "Judías",
+              "price": 1100,
+              "essential_ingredients": ["judías"],
+              "allergy_info": []
+            },
+            {
+              "name": "Patatas fritas",
+              "price": 1100,
+              "essential_ingredients": ["patatas"],
+              "allergy_info": []
+            },
+            {
+              "name": "Verduras saladas",
+              "price": 800,
+              "essential_ingredients": ["verduras"],
+              "allergy_info": []
+            },
+            {
+              "name": "Ensalada mixta",
+              "price": 1050,
+              "essential_ingredients": ["vegetales variados"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Brunch",
+          "items": [
+            {
+              "name": "STAR CAFE",
+              "price": 2850,
+              "essential_ingredients": ["croissant", "Nutella", "jamón", "queso", "jugo", "yogur", "cereales"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "CONTINENTAL",
+              "price": 2500,
+              "essential_ingredients": ["pan tostado", "mantequilla", "mermelada", "fruta", "jugo"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "AMERICANO",
+              "price": 2700,
+              "essential_ingredients": ["huevo", "tocino", "pan tostado", "jugo"],
+              "allergy_info": ["gluten", "huevo"]
+            },
+            {
+              "name": "FRANCESA",
+              "price": 2750,
+              "essential_ingredients": ["crêpes", "Nutella", "mermelada", "jamón", "queso", "jugo", "yogur"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "MAÑANA DULCE",
+              "price": 2900,
+              "essential_ingredients": ["hot cake", "sirope", "nata", "fruta", "mermelada", "yogur", "jugo"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "NORDIC BRUNCH",
+              "price": 3200,
+              "essential_ingredients": ["pan", "salmón ahumado", "crema de queso", "aguacate", "lechuga", "tomate", "jugo"],
+              "allergy_info": ["gluten", "lactosa", "pescado"]
+            }
+          ]
+        },
+        {
+          "category": "Sandwiches",
+          "items": [
+            {
+              "name": "Tostón Europeo",
+              "price": 1600,
+              "essential_ingredients": ["plátano", "jamón", "queso", "salsa cóctel"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Club Sandwich",
+              "price": 2400,
+              "essential_ingredients": ["jamón", "queso", "lechuga", "tomate", "huevo", "salsa cóctel"],
+              "allergy_info": ["gluten", "huevo", "lactosa"]
+            },
+            {
+              "name": "Sándwich de atún",
+              "price": 2000,
+              "essential_ingredients": ["atún", "mayonesa", "lechuga", "tomate"],
+              "allergy_info": ["gluten", "pescado"]
+            },
+            {
+              "name": "Pan Perro",
+              "price": 1600,
+              "essential_ingredients": ["pan", "salsa"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Hamburguesa Combo",
+              "price": 2150,
+              "essential_ingredients": ["carne de res", "lechuga", "tomate", "queso", "tocino", "ketchup", "mayonesa"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Huevo adicional",
+              "price": 700,
+              "essential_ingredients": ["huevo"],
+              "allergy_info": ["huevo"]
+            },
+            {
+              "name": "Sandwich Cubano",
+              "price": 3000,
+              "essential_ingredients": ["lechuga", "tomate", "chorizo", "jamón", "queso", "cerdo", "papas fritas"],
+              "allergy_info": ["gluten", "lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Focaccia",
+          "items": [
+            {
+              "name": "Porción de focaccia natural",
+              "price": 600,
+              "essential_ingredients": ["focaccia"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Porción de focaccia con jamón y queso",
+              "price": 850,
+              "essential_ingredients": ["focaccia", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Focaccia entera natural",
+              "price": 1100,
+              "essential_ingredients": ["focaccia"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Focaccia entera con jamón y queso",
+              "price": 1800,
+              "essential_ingredients": ["focaccia", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Pizza",
+          "items": [
+            {
+              "name": "Margarita",
+              "price": 1300,
+              "essential_ingredients": ["salsa de tomate", "mozzarella", "albahaca"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Jamón",
+              "price": 1700,
+              "essential_ingredients": ["jamón"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Jamón Serrano",
+              "price": 3000,
+              "essential_ingredients": ["jamón serrano"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Chorizo",
+              "price": 1800,
+              "essential_ingredients": ["chorizo"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Atún",
+              "price": 2400,
+              "essential_ingredients": ["atún"],
+              "allergy_info": ["gluten", "pescado"]
+            },
+            {
+              "name": "Atún y cebolla",
+              "price": 2400,
+              "essential_ingredients": ["atún", "cebolla"],
+              "allergy_info": ["gluten", "pescado"]
+            },
+            {
+              "name": "Hawaiana",
+              "price": 1800,
+              "essential_ingredients": ["jamón", "piña"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Vegetales",
+              "price": 2400,
+              "essential_ingredients": ["vegetales"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Pizza focaccia",
+              "price": 1200,
+              "essential_ingredients": ["focaccia"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Pizza Mixta",
+              "price": 2500,
+              "essential_ingredients": ["salsa de tomate", "mozzarella", "ingredientes variados"],
+              "allergy_info": ["gluten", "lactosa"]
+            }
+        ]
+      },
+      {
+          "category": "Ensaladas",
+          "items": [
+            {
+              "name": "Caesar salad",
+              "price": 2600,
+              "essential_ingredients": ["pan", "pechuga de pollo", "parmesano", "salsa"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Caraibi salad",
+              "price": 3000,
+              "essential_ingredients": ["lechuga", "tomate", "pepino", "piña", "atún", "cebolla"],
+              "allergy_info": ["pescado"]
+            }
+          ]
+        },
+        {
+          "category": "Momentos Dulces",
+          "items": [
+            {
+              "name": "Torrejas",
+              "price": 1300,
+              "essential_ingredients": ["pan de molde", "leche", "canela", "huevo", "azúcar", "sirope de maple"],
+              "allergy_info": ["gluten", "lactosa", "huevo"]
+            },
+            {
+              "name": "Arroz con leche",
+              "price": 950,
+              "essential_ingredients": ["arroz", "leche", "azúcar", "canela"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Dulce de coco",
+              "price": 950,
+              "essential_ingredients": ["coco", "almíbar", "canela"],
+              "allergy_info": []
+            },
+            {
+              "name": "Dulce de fruta",
+              "price": 1050,
+              "essential_ingredients": ["fruta bomba", "almíbar", "queso"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Crepes",
+              "price": 1600,
+              "essential_ingredients": ["crepes", "Nutella", "mermelada"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Cascaquito de guayaba",
+              "price": 950,
+              "essential_ingredients": ["guayaba", "almíbar", "queso"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Churros",
+              "price": 1200,
+              "essential_ingredients": ["churros", "Nutella"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Pizza frita dulce",
+              "price": 1400,
+              "essential_ingredients": ["pizza frita", "Nutella", "mermelada"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Pizza frita salada",
+              "price": 1700,
+              "essential_ingredients": ["pizza frita", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Cafés",
+          "items": [
+            {
+              "name": "Espresso",
+              "price": 450,
+              "essential_ingredients": ["café"],
+              "allergy_info": []
+            },
+            {
+              "name": "Americano",
+              "price": 550,
+              "essential_ingredients": ["café"],
+              "allergy_info": []
+            },
+            {
+              "name": "Macchiato",
+              "price": 500,
+              "essential_ingredients": ["café", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Espresso con nata",
+              "price": 700,
+              "essential_ingredients": ["café", "nata"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Café con leche",
+              "price": 700,
+              "essential_ingredients": ["café", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Cappuccino",
+              "price": 650,
+              "essential_ingredients": ["café", "poca leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Café Latte",
+              "price": 650,
+              "essential_ingredients": ["café", "mucha leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Mocha",
+              "price": 950,
+              "essential_ingredients": ["café", "chocolate", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Irlandés",
+              "price": 1400,
+              "essential_ingredients": ["café", "whisky", "crema batida"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Frappe",
+              "price": 750,
+              "essential_ingredients": ["café helado", "hielo"],
+              "allergy_info": []
+            },
+            {
+              "name": "Frappe con nata",
+              "price": 1100,
+              "essential_ingredients": ["café helado", "hielo", "nata"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Caramel",
+              "price": 950,
+              "essential_ingredients": ["café", "caramelo", "espuma de leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Bonbon",
+              "price": 1100,
+              "essential_ingredients": ["café", "leche condensada", "espuma de leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Bonmello",
+              "price": 1300,
+              "essential_ingredients": ["café", "leche condensada", "caramelo", "nata"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Cococcino",
+              "price": 1400,
+              "essential_ingredients": ["café", "leche condensada", "coco"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Muy Nuit",
+              "price": 1500,
+              "essential_ingredients": ["café", "Nutella", "nata"],
+              "allergy_info": ["lactosa"]
+            }
+        ]
+      },
+      {
+          "category": "Bebida",
+          "items": [
+            {
+              "name": "Agua natural",
+              "price": 400,
+              "essential_ingredients": ["agua"],
+              "allergy_info": []
+            },
+            {
+              "name": "Refresco",
+              "price": 700,
+              "essential_ingredients": ["refresco"],
+              "allergy_info": []
+            },
+            {
+              "name": "Malta",
+              "price": 800,
+              "essential_ingredients": ["malta"],
+              "allergy_info": []
+            },
+            {
+              "name": "Energizzante",
+              "price": 800,
+              "essential_ingredients": ["bebida energética"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Cocktail",
+          "items": [
+            {
+              "name": "Mojito",
+              "price": 1000,
+              "essential_ingredients": ["ron", "hierbabuena", "azúcar", "soda"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Cuba libre",
+              "price": 1050,
+              "essential_ingredients": ["ron", "cola", "limón"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Cubata",
+              "price": 1100,
+              "essential_ingredients": ["ron", "cola"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Caipiriña",
+              "price": 1100,
+              "essential_ingredients": ["cachaça", "limón", "azúcar"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Caipiroska",
+              "price": 1100,
+              "essential_ingredients": ["vodka", "limón", "azúcar"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Caipirissima",
+              "price": 1100,
+              "essential_ingredients": ["ron", "limón", "azúcar"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Piña Colada",
+              "price": 1200,
+              "essential_ingredients": ["ron", "crema de coco", "jugo de piña"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Sangria",
+              "price": 1200,
+              "essential_ingredients": ["vino tinto", "frutas", "brandy"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Tinto verano",
+              "price": 1100,
+              "essential_ingredients": ["vino tinto", "soda"],
+              "allergy_info": ["alcohol"]
+            }
+          ]
+        },
+        {
+          "category": "Shoot",
+          "items": [
+            {
+              "name": "Havana 3 años",
+              "price": 800,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Havana Especial",
+              "price": 950,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Havana Reserva",
+              "price": 1050,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Havana 7 años",
+              "price": 1100,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Santiago 12 años",
+              "price": 1200,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            }
+          ]
+        },
+        {
+          "category": "Café",
+          "items": [
+            {
+              "name": "Café expreso",
+              "price": 450,
+              "essential_ingredients": ["café"],
+              "allergy_info": []
+            },
+            {
+              "name": "Café Americano",
+              "price": 550,
+              "essential_ingredients": ["café"],
+              "allergy_info": []
+            },
+            {
+              "name": "Cappuccino",
+              "price": 650,
+              "essential_ingredients": ["café", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Nespresso",
+              "price": 650,
+              "essential_ingredients": ["café"],
+              "allergy_info": []
+            },
+            {
+              "name": "Cappuccino Nespresso",
+              "price": 750,
+              "essential_ingredients": ["café", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Frapuccino (chocolate, vainilla, fresa, caramelo)",
+              "price_12oz": 1350,
+              "price_16oz": 1650,
+              "price_20oz": 2150,
+              "essential_ingredients": ["café", "chocolate", "vainilla", "fresa", "caramelo"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Jugos",
+          "items": [
+            {
+              "name": "Jugos Naturales",
+              "price": 600,
+              "essential_ingredients": ["frutas variadas"],
+              "allergy_info": []
+            },
+            {
+              "name": "Limonada Frappè",
+              "price": 600,
+              "essential_ingredients": ["limón", "hielo"],
+              "allergy_info": []
+            },
+            {
+              "name": "Limonada Frescura",
+              "price": 750,
+              "essential_ingredients": ["limón", "menta"],
+              "allergy_info": []
+            },
+            {
+              "name": "Limonada con Fruta",
+              "price": 800,
+              "essential_ingredients": ["limón", "frutas"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Batidos",
+          "items": [
+            {
+              "name": "Smoothies (2 sabores a elegir)",
+              "price": 1600,
+              "essential_ingredients": ["mango", "piña", "fresa", "coco", "fruta bomba", "plátano", "fruta de la pasión"],
+              "allergy_info": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+          
+  

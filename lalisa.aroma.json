@@ -1,0 +1,711 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Cafetería"]
+    },
+    "name": "Aroma de Cafe",
+    "cuisine": ["Cocina Mixta", "Coctelería"],
+    "description": "Privado",
+    "contact_info": {
+      "phone": {
+        "number": "53397639",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "tuesday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "00:00"
+      }
+    },
+    "address": "#5106, Calle 244 entre 51 y 61",
+    "municipality": "La Lisa",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Transferencia", "Efectivo (CUP, USD, EUR)"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": true
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+  "menu": {
+    "categories": [
+      {
+        "category": "Entradas",
+        "items": [
+          {
+            "name": "Sandwich De Jamon Y Queso",
+            "price": 320.00,
+            "essential_ingredients": ["Sandwich", "Queso", "Jamón"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Sandwich De Jamon Y Queso",
+            "price": 360.00,
+            "essential_ingredients": ["Sandwich", "Gouda", "Queso", "Jamón"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Sandwich De Jamon",
+            "price": 360.00,
+            "essential_ingredients": ["Sandwich", "Jamón"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Sandwich De Queso",
+            "price": 320.00,
+            "essential_ingredients": ["Sandwich", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Sandwich De Queso",
+            "price": 360.00,
+            "essential_ingredients": ["Sandwich", "Gouda", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Sandwich De Pollo",
+            "price": 370.00,
+            "essential_ingredients": ["Sandwich", "Pollo"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Sandwich De Atun",
+            "price": 480.00,
+            "essential_ingredients": ["Sandwich", "Pescado", "Atún"],
+            "allergy_info": ["Gluten", "Pescado"]
+          },
+          {
+            "name": "Sandwich Hawaiano",
+            "price": 380.00,
+            "essential_ingredients": ["Sandwich", "Piña", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Sandwich Hawaiano",
+            "price": 430.00,
+            "essential_ingredients": ["Sandwich", "Piña", "Gouda", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          }
+        ]
+      },
+      {
+        "category": "Platos Principales",
+        "items": [
+          {
+            "name": "Nachos Con Salsa",
+            "price": 200.00,
+            "essential_ingredients": ["Nachos"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Croquetas",
+            "price": 320.00,
+            "essential_ingredients": ["Croquetas"],
+            "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+          },
+          {
+            "name": "Picadera Aroma",
+            "price": 550.00,
+            "essential_ingredients": ["Picadera"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Garbanzos Fritos",
+            "price": 600.00,
+            "essential_ingredients": ["Garbanzos"],
+            "allergy_info": []
+          },
+          {
+            "name": "Eperlan De Pescado",
+            "price": 700.00,
+            "essential_ingredients": ["Pescado"],
+            "allergy_info": ["Pescado", "Gluten"]
+          },
+          {
+            "name": "Enchilado De Cangrejo",
+            "price": 600.00,
+            "essential_ingredients": ["Cangrejo"],
+            "allergy_info": ["Mariscos"]
+          },
+          {
+            "name": "Fajitas De Cerdo",
+            "price": 600.00,
+            "essential_ingredients": ["Cerdo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Tacos De Pollo",
+            "price": 500.00,
+            "essential_ingredients": ["Taco", "Pollo"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Tacos De Cangrejo",
+            "price": 600.00,
+            "essential_ingredients": ["Taco", "Cangrejo"],
+            "allergy_info": ["Gluten", "Mariscos"]
+          },
+          {
+            "name": "Tacos De Cerdo",
+            "price": 620.00,
+            "essential_ingredients": ["Taco", "Cerdo"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Tacos De Ropa Vieja",
+            "price": 750.00,
+            "essential_ingredients": ["Taco", "Ropa Vieja"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Tacos De Jamon Pierna",
+            "price": 750.00,
+            "essential_ingredients": ["Taco", "Jamón"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Tostones Rellenos De Jamon Y Queso",
+            "price": 380.00,
+            "essential_ingredients": ["Tostones", "Queso", "Jamón"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Tostones Rellenos De Atun",
+            "price": 400.00,
+            "essential_ingredients": ["Tostones", "Pescado", "Atún"],
+            "allergy_info": ["Lactosa", "Pescado"]
+          },
+          {
+            "name": "Tostones Rellenos De Ropa Vieja",
+            "price": 500.00,
+            "essential_ingredients": ["Tostones", "Ropa Vieja"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Hamburguesa Sencilla",
+            "price": 450.00,
+            "essential_ingredients": ["Burger", "Pan"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Hamburguesa Con Agregos",
+            "price": [
+              450.00,
+              220, 200, 220, 200, 170, 250
+            ],
+            "essential_ingredients": [
+              "Burger", "Pan", ["Jamón", "Queso Blanco", "Queso Gouda", "Aceitunas", "Piña", "Atún"]
+            ],
+            "allergy_info": ["Gluten", "Lactosa", "Pescado"]
+          }
+        ]
+      },
+      {
+        "category": "Postres",
+        "items": [
+          {
+            "name": "Donas",
+            "price": 200.00,
+            "essential_ingredients": ["Donut"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Helado/Galletas",
+            "price": 320.00,
+            "essential_ingredients": ["Helado", "Galletas"],
+            "allergy_info": ["Lactosa", "Gluten"]
+          },
+          {
+            "name": "Bola De Helado",
+            "price": 140.00,
+            "essential_ingredients": ["Helado"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Dulce Aroma",
+            "price": 350.00,
+            "essential_ingredients": ["Dulce"],
+            "allergy_info": ["Gluten"]
+          }
+        ]
+      },
+      {
+        "category": "Bebidas Alcohólicas",
+        "items": [
+          {
+            "name": "Caipirinha",
+            "price": 250.00,
+            "essential_ingredients": ["Caipirinha"],
+            "allergy_info": []
+          },
+          {
+            "name": "Daiquiri",
+            "price": 250.00,
+            "essential_ingredients": ["Daiquiri"],
+            "allergy_info": []
+          },
+          {
+            "name": "Caipiroska",
+            "price": 280.00,
+            "essential_ingredients": ["Caipirinha", "Vodka"],
+            "allergy_info": []
+          },
+          {
+            "name": "Caipirisima",
+            "price": 280.00,
+            "essential_ingredients": ["Caipirinha"],
+            "allergy_info": []
+          },
+          {
+            "name": "Screwdriver",
+            "price": 280.00,
+            "essential_ingredients": ["Screwdriver", "Vodka"],
+            "allergy_info": []
+          },
+          {
+            "name": "Mojito",
+            "price": 300.00,
+            "essential_ingredients": ["Mojito"],
+            "allergy_info": []
+          },
+          {
+            "name": "Mojito Ruso",
+            "price": 300.00,
+            "essential_ingredients": ["Mojito", "Vodka"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cremas De Tequila",
+            "price": 320.00,
+            "essential_ingredients": ["Tequila"],
+            "allergy_info": []
+          },
+          {
+            "name": "Pina Colada",
+            "price": 350.00,
+            "essential_ingredients": ["PinaColada"],
+            "allergy_info": []
+          },
+          {
+            "name": "Martini",
+            "price": 300.00,
+            "essential_ingredients": ["Martini"],
+            "allergy_info": []
+          },
+          {
+            "name": "Copa De Vino",
+            "price": 300.00,
+            "essential_ingredients": ["Vino"],
+            "allergy_info": []
+          },
+          {
+            "name": "Gin & Tonic",
+            "price": 350.00,
+            "essential_ingredients": ["Gin"],
+            "allergy_info": []
+          },
+          {
+            "name": "Sex On The Beach",
+            "price": 320.00,
+            "essential_ingredients": [],
+            "allergy_info": []
+          },
+          {
+            "name": "Sangria",
+            "price": 350.00,
+            "essential_ingredients": ["Sangria"],
+            "allergy_info": []
+          },
+          {
+            "name": "Margarita",
+            "price": 350.00,
+            "essential_ingredients": ["Margarita"],
+            "allergy_info": []
+          },
+          {
+            "name": "Orgasmo",
+            "price": 350.00,
+            "essential_ingredients": [],
+            "allergy_info": []
+          },
+          {
+            "name": "Cervezas Importadas",
+            "price": 230.00,
+            "essential_ingredients": ["Cerveza"],
+            "allergy_info": []
+          },
+          {
+            "name": "Habana Club 3 Anos",
+            "price": 250.00,
+            "essential_ingredients": ["Rhum", "3anos"],
+            "allergy_info": []
+          },
+          {
+            "name": "Habana Club Especial",
+            "price": 280.00,
+            "essential_ingredients": ["Rhum", "Especial"],
+            "allergy_info": []
+          },
+          {
+            "name": "Habana Club Reserva",
+            "price": 300.00,
+            "essential_ingredients": ["Rhum", "Reserva"],
+            "allergy_info": []
+          },
+          {
+            "name": "Habana Club 7 Anos",
+            "price": 350.00,
+            "essential_ingredients": ["Rhum", "7anos"],
+            "allergy_info": []
+          },
+          {
+            "name": "Habana Club Smoky",
+            "price": 350.00,
+            "essential_ingredients": ["Rhum", "Smoky"],
+            "allergy_info": []
+          },
+          {
+            "name": "Seleccion De Maestros",
+            "price": 600.00,
+            "essential_ingredients": ["Rhum", "SeleccionDeMaestros"],
+            "allergy_info": []
+          },
+          {
+            "name": "Pacto Navio",
+            "price": 600.00,
+            "essential_ingredients": ["Rhum"],
+            "allergy_info": []
+          },
+          {
+            "name": "Black Tears Super Dry",
+            "price": 250.00,
+            "essential_ingredients": ["Rhum"],
+            "allergy_info": []
+          },
+          {
+            "name": "Black Tears Roble Superior",
+            "price": 300.00,
+            "essential_ingredients": ["Rhum"],
+            "allergy_info": []
+          },
+          {
+            "name": "Jameson",
+            "price": 450.00,
+            "essential_ingredients": ["Whiskey"],
+            "allergy_info": []
+          },
+          {
+            "name": "Ballantines",
+            "price": 300.00,
+            "essential_ingredients": ["Whiskey"],
+            "allergy_info": []
+          },
+          {
+            "name": "Chivas Regal 12",
+            "price": 500.00,
+            "essential_ingredients": ["Whiskey"],
+            "allergy_info": []
+          },
+          {
+            "name": "Red Label",
+            "price": 450.00,
+            "essential_ingredients": ["Whiskey"],
+            "allergy_info": []
+          },
+          {
+            "name": "Black Label",
+            "price": 500.00,
+            "essential_ingredients": ["Whiskey"],
+            "allergy_info": []
+          },
+          {
+            "name": "Buchanans",
+            "price": 500.00,
+            "essential_ingredients": ["Whiskey"],
+            "allergy_info": []
+          },
+          {
+            "name": "Tequila Olmeca",
+            "price": 300.00,
+            "essential_ingredients": ["Tequila"],
+            "allergy_info": []
+          },
+          {
+            "name": "Crema Baileys",
+            "price": 300.00,
+            "essential_ingredients": [],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Jagermeister",
+            "price": 380.00,
+            "essential_ingredients": ["Jagermeister"],
+            "allergy_info": []
+          },
+          {
+            "name": "Vodka",
+            "price": 250.00,
+            "essential_ingredients": ["Vodka"],
+            "allergy_info": []
+          },
+          {
+            "name": "Ciroc",
+            "price": 400.00,
+            "essential_ingredients": ["Vodka"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Bebidas No Alcohólicas",
+        "items": [
+          {
+            "name": "Expresso",
+            "price": 100.00,
+            "essential_ingredients": ["HotCofee", "Expresso"],
+            "allergy_info": []
+          },
+          {
+            "name": "Capuccino",
+            "price": 150.00,
+            "essential_ingredients": ["HotCofee", "Capuccino"],
+            "allergy_info": ["Lactosa"]
+          }
+        ]
+      },
+      {
+                    "category": "Infusiones",
+                    "items": [
+                      {
+                        "name": "Expresso",
+                        "price": 100.00,
+                        "essential_ingredients": ["Cafe"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Capuccino",
+                        "price": 150.00,
+                        "essential_ingredients": ["Cafe", "Leche", "Espuma De Leche"],
+                        "allergy_info": ["Lactosa"]
+                      },
+                      {
+                        "name": "Cortadito",
+                        "price": 120.00,
+                        "essential_ingredients": ["Cafe", "Leche"],
+                        "allergy_info": ["Lactosa"]
+                      },
+                      {
+                        "name": "Moka",
+                        "price": 180.00,
+                        "essential_ingredients": ["Cafe", "Chocolate"],
+                        "allergy_info": ["Lactosa"]
+                      },
+                      {
+                        "name": "Carajillo",
+                        "price": 180.00,
+                        "essential_ingredients": ["Cafe", "Licor"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Especiado",
+                        "price": 110.00,
+                        "essential_ingredients": ["Cafe", "Especias"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Americano",
+                        "price": 115.00,
+                        "essential_ingredients": ["Cafe", "Agua"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Bombon",
+                        "price": 110.00,
+                        "essential_ingredients": ["Cafe", "Leche Condensada"],
+                        "allergy_info": ["Lactosa"]
+                      },
+                      {
+                        "name": "Cremoso",
+                        "price": 300.00,
+                        "essential_ingredients": ["Cafe", "Leche"],
+                        "allergy_info": ["Lactosa"]
+                      },
+                      {
+                        "name": "Frapuccino",
+                        "price": 550.00,
+                        "essential_ingredients": ["Cafe", "Leche", "Hielo"],
+                        "allergy_info": ["Lactosa"]
+                      },
+                      {
+                        "name": "Frapuccino Moka",
+                        "price": 280.00,
+                        "essential_ingredients": ["Cafe", "Chocolate", "Leche", "Hielo"],
+                        "allergy_info": ["Lactosa"]
+                      },
+                      {
+                        "name": "Frapuccino Aroma",
+                        "price": 300.00,
+                        "essential_ingredients": ["Cafe", "Leche", "Hielo"],
+                        "allergy_info": ["Lactosa"]
+                      },
+                      {
+                        "name": "Frapuccino Sorpresa",
+                        "price": 350.00,
+                        "essential_ingredients": ["Cafe", "Leche", "Hielo"],
+                        "allergy_info": ["Lactosa"]
+                      },
+                      {
+                        "name": "Frapuccino Mousse",
+                        "price": 380.00,
+                        "essential_ingredients": ["Cafe", "Leche", "Hielo"],
+                        "allergy_info": ["Lactosa"]
+                      },
+                      {
+                        "name": "Capricho",
+                        "price": 350.00,
+                        "essential_ingredients": ["Cafe", "Leche", "Hielo"],
+                        "allergy_info": ["Lactosa"]
+                      }
+                    ]
+                  },
+                  {
+                    "category": "Bebidas No Alcoholicas",
+                    "items": [
+                      {
+                        "name": "Jugo Natural",
+                        "price": 250.00,
+                        "essential_ingredients": ["Frutas"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Limonada",
+                        "price": 100.00,
+                        "essential_ingredients": ["Limon", "Azucar", "Agua"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Batido De Chocolate",
+                        "price": 180.00,
+                        "essential_ingredients": ["Leche", "Chocolate"],
+                        "allergy_info": ["Lactosa"]
+                      },
+                      {
+                        "name": "Batido De Frutas",
+                        "price": 280.00,
+                        "essential_ingredients": ["Leche", "Frutas"],
+                        "allergy_info": ["Lactosa"]
+                      },
+                      {
+                        "name": "Batido De Helado",
+                        "price": 330.00,
+                        "essential_ingredients": ["Leche", "Helado"],
+                        "allergy_info": ["Lactosa"]
+                      },
+                      {
+                        "name": "Batido De Helado Plus",
+                        "price": 380.00,
+                        "essential_ingredients": ["Leche", "Helado"],
+                        "allergy_info": ["Lactosa"]
+                      },
+                      {
+                        "name": "Refresco Importado",
+                        "price": 350.00,
+                        "essential_ingredients": ["Refresco"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Malta",
+                        "price": 350.00,
+                        "essential_ingredients": ["Malta"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Agua",
+                        "price": 350.00,
+                        "essential_ingredients": ["Agua"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Jugo De Caja Pequeno",
+                        "price": 350.00,
+                        "essential_ingredients": ["Jugo Artificial"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Jugo De Caja Grande",
+                        "price": 350.00,
+                        "essential_ingredients": ["Jugo Artificial"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Pomo De Refresco",
+                        "price": 350.00,
+                        "essential_ingredients": ["Refresco"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Pina Colada",
+                        "price": 350.00,
+                        "essential_ingredients": ["Pina", "Coco"],
+                        "allergy_info": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+            
+
+     
+

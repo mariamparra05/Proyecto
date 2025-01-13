@@ -1,0 +1,384 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["restaurante"]
+      },
+      "name": "Fonda Al Pirata",
+      "cousine": ["Caribeña", "Cubana"],
+      "description": "Únete a la travesía. Este puerto ofrece una experiencia única con un ambiente agradable e informal. Disfruta de comida caribeña y cubana con opciones vegetarianas, veganas y sin gluten.",
+      "contact_info": {
+        "phone": {
+          "number": "5 2539750",
+          "type": "mobile"
+        },
+        "email": "alpiratasanignacio@gmail.com",
+        "website": "qr14334.buenacarta.com"
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "08:00",
+          "close": "00:00"
+        },
+        "tuesday": {
+          "open": "08:00",
+          "close": "00:00"
+        },
+        "wednesday": {
+          "open": "08:00",
+          "close": "00:00"
+        },
+        "thursday": {
+          "open": "08:00",
+          "close": "00:00"
+        },
+        "friday": {
+          "open": "08:00",
+          "close": "00:00"
+        },
+        "saturday": {
+          "open": "08:00",
+          "close": "00:00"
+        },
+        "sunday": {
+          "open": "08:00",
+          "close": "00:00"
+        }
+      },
+      "address": "San Ignacio #76 e/ O'Reilly y Empedrado, Habana Vieja",
+      "municipality": "Habana Vieja",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "social_media": {
+        "instagram": "https://www.instagram.com/fondaalpirata?igsh=cjBtN3BiaDExdGV3",
+        "facebook": null
+      },
+      "accepted_payment_methods": [],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Tarifa de 10%",
+        "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+        "applies": true
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": true,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": ["Restaurante"],
+        "local_options": ["Desayunos", "Desayuno-almuerzo", "Almuerzo", "Cena", "Postres"],
+        "services": ["Sanitario", "Tiene bar"],
+        "ambience": ["Agradable", "Informal"],
+        "usual_customers": ["Grupos"],
+        "planning": [],
+        "children": null,
+        "pets": false,
+        "parking": null
+      },
+      "dietary_options": ["Opciones vegetarianas", "Opciones veganas", "Opciones sin gluten"],
+      "meals": ["Desayuno", "Comidas", "Cenas", "Brunch"],
+      "advantages": ["Capacidad", "Acceso para discapacitados", "Sirve alcohol", "Servicio de mesa"],
+      "highlights": ["Asientos al aire libre", "Aperitivos", "Agradable", "Informal", "Recomendable para ir en grupo"]
+    },
+    "menu": {
+      "categories": [
+        {
+          "category": "Desayunos",
+          "items": [
+            {
+              "name": "Desayuno Tradicional",
+              "price": 2880,
+              "essential_ingredients": ["ingredientes variados"],
+              "allergy_info": []
+            },
+            {
+              "name": "Desayuno Vegetariano",
+              "price": 2880,
+              "essential_ingredients": ["ingredientes variados"],
+              "allergy_info": []
+            },
+            {
+              "name": "Desayuno Vegano",
+              "price": 2880,
+              "essential_ingredients": ["ingredientes variados"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Entrantes",
+          "items": [
+            {
+              "name": "Tostadas Piratas",
+              "price": 960,
+              "essential_ingredients": ["pan", "ingredientes variados"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Hummus y Vegetales",
+              "price": 1920,
+              "essential_ingredients": ["garbanzos", "vegetales"],
+              "allergy_info": []
+            },
+            {
+              "name": "Tapas Piratas",
+              "price": 1920,
+              "essential_ingredients": ["ingredientes variados"],
+              "allergy_info": []
+            },
+            {
+              "name": "Bolitas de queso",
+              "price": 1920,
+              "essential_ingredients": ["queso", "harina"],
+              "allergy_info": ["lactosa", "gluten"]
+            },
+            {
+              "name": "Bolitas de queso picantes",
+              "price": 1920,
+              "essential_ingredients": ["queso", "harina", "especias"],
+              "allergy_info": ["lactosa", "gluten"]
+            },
+            {
+              "name": "Ceviche",
+              "price": 2240,
+              "essential_ingredients": ["pescado", "limón", "cebolla"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "Cóctel de Langosta",
+              "price": 2720,
+              "essential_ingredients": ["langosta", "salsa"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Crudo de Pulpo",
+              "price": 2880,
+              "essential_ingredients": ["pulpo", "especias"],
+              "allergy_info": ["mariscos"]
+            }
+          ]
+        },
+        {
+          "category": "Principales",
+          "items": [
+            {
+              "name": "Ensaladas Piratas de Corazón",
+              "price": 1440,
+              "essential_ingredients": ["vegetales"],
+              "allergy_info": []
+            },
+            {
+              "name": "Botija Pirata",
+              "price": 1920,
+              "essential_ingredients": ["ingredientes variados"],
+              "allergy_info": []
+            },
+            {
+              "name": "Combinación Pirata",
+              "price": 3200,
+              "essential_ingredients": ["ingredientes variados"],
+              "allergy_info": []
+            },
+            {
+              "name": "Galeón el Olones",
+              "price": 3360,
+              "essential_ingredients": ["ingredientes variados"],
+              "allergy_info": []
+            },
+            {
+              "name": "Filete de Pescado",
+              "price": 3840,
+              "essential_ingredients": ["pescado"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "Pescado Entero",
+              "price": 5120,
+              "essential_ingredients": ["pescado"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "Langosta a su Gusto",
+              "price": 6080,
+              "essential_ingredients": ["langosta"],
+              "allergy_info": ["mariscos"]
+            }
+        ]
+      },
+      {
+          "category": "Panes",
+          "items": [
+            {
+              "name": "Hamburguesa Vegana",
+              "price": 1440,
+              "essential_ingredients": ["pan vegano", "hamburguesa vegana", "vegetales"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Sandwich Verde",
+              "price": 1600,
+              "essential_ingredients": ["pan integral", "vegetales variados"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Hamburguesa Barba Roja",
+              "price": 2240,
+              "essential_ingredients": ["pan", "hamburguesa de res", "queso", "tocino"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Sandwich de Pechuga",
+              "price": 2240,
+              "essential_ingredients": ["pan", "pechuga de pollo", "vegetales"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Sandwich Mary Read",
+              "price": 2240,
+              "essential_ingredients": ["pan", "ingredientes variados"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Club Sandwich Pollo",
+              "price": 2560,
+              "essential_ingredients": ["pan", "pollo", "tocino", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Club Sandwich Atún",
+              "price": 2720,
+              "essential_ingredients": ["pan", "atún", "vegetales"],
+              "allergy_info": ["gluten", "pescado"]
+            },
+            {
+              "name": "Sandwich Abordaje",
+              "price": 3040,
+              "essential_ingredients": ["pan", "ingredientes variados"],
+              "allergy_info": ["gluten"]
+            }
+          ]
+        },
+        {
+          "category": "Bebidas con alcohol",
+          "items": [
+            {
+              "name": "Coctelería",
+              "price": 1104,
+              "essential_ingredients": ["varios ingredientes"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Cócteles Afrutados",
+              "price": 1216,
+              "essential_ingredients": ["varios ingredientes"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Piña Colada",
+              "price": 1440,
+              "essential_ingredients": ["ron", "crema de coco", "jugo de piña"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Sangría",
+              "price": 1440,
+              "essential_ingredients": ["vino tinto", "frutas", "azúcar", "brandy"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+                "name": "Piña Colada",
+                "price": 1280,
+                "essential_ingredients": ["ron", "crema de coco", "jugo de piña"],
+                "allergy_info": ["alcohol"]
+            }
+        ]
+      },
+      {
+          "category": "Bebidas No Alcohólicas",
+          "items": [
+            {
+              "name": "Jugo Natural",
+              "price": 640,
+              "essential_ingredients": ["frutas variadas"],
+              "allergy_info": []
+            },
+            {
+              "name": "Limonada",
+              "price": 640,
+              "essential_ingredients": ["limón", "agua", "azúcar"],
+              "allergy_info": []
+            },
+            {
+              "name": "Limonada de Frutas",
+              "price": 720,
+              "essential_ingredients": ["limón", "frutas variadas", "agua", "azúcar"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Infusiones",
+          "items": [
+            {
+              "name": "Té",
+              "price": 384,
+              "essential_ingredients": ["té"],
+              "allergy_info": []
+            },
+            {
+              "name": "Café expreso",
+              "price": 480,
+              "essential_ingredients": ["café"],
+              "allergy_info": []
+            },
+            {
+              "name": "Café americano",
+              "price": 480,
+              "essential_ingredients": ["café"],
+              "allergy_info": []
+            },
+            {
+              "name": "Cortadito",
+              "price": 512,
+              "essential_ingredients": ["café", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Café Bombón",
+              "price": 608,
+              "essential_ingredients": ["café", "leche condensada"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Café expreso doble",
+              "price": 640,
+              "essential_ingredients": ["café"],
+              "allergy_info": []
+            },
+            {
+              "name": "Café con leche",
+              "price": 672,
+              "essential_ingredients": ["café", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Frappuccino",
+              "price": 1232,
+              "essential_ingredients": ["café", "leche", "hielo"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Frappuccino Mocca",
+              "price": 1232,
+              "essential_ingredients": ["café", "leche", "chocolate", "hielo"],
+              "allergy_info": ["lactosa"]
+           
+            }
+          ]
+        }
+      ]
+    }
+  }
+        

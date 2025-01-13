@@ -1,0 +1,207 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Restaurante"]
+      },
+      "name": "La Baliza",
+      "cuisine": ["Americana", "Italiana"],
+      "description": null,
+      "contact_info": {
+        "phone": {
+          "number": "78322553",
+          "type": "landline"
+        },
+        "email": null,
+        "website": null
+      },
+      "opening_hours": {
+        "monday": {
+          "open": null,
+          "close": null
+        },
+        "tuesday": {
+          "open": "10:00",
+          "close": "21:30"
+        },
+        "wednesday": {
+          "open": "10:00",
+          "close": "21:30"
+        },
+        "thursday": {
+          "open": "10:00",
+          "close": "21:30"
+        },
+        "friday": {
+          "open": "10:00",
+          "close": "21:30"
+        },
+        "saturday": {
+          "open": "10:00",
+          "close": "21:30"
+        },
+        "sunday": {
+          "open": "10:00",
+          "close": "21:30"
+        }
+      },
+      "address": "La Lisa",
+      "municipality": "La Lisa",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": "23.06752335433779",
+        "longitude": "-82.46813129014343"
+      },
+      "social_media": {
+        "facebook": "La Baliza",
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Efectivo", "Transferencia"],
+      "delivery_available": true,
+      "service_fee": {
+        "name": "Ninguno",
+        "description": "No se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": true,
+        "offers": [],
+        "local_options": [],
+        "services": ["Baño"],
+        "ambience": [],
+        "usual_customers": [],
+        "planning": [],
+        "children": true,
+        "pets": null,
+        "parking": true
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },
+       "menu": {
+              "categories": [
+                {
+                  "category": "Platos Principales",
+                  "items": [
+                    {
+                      "name": "Sandwich de Jamón y Queso",
+                      "price": 500,
+                      "essential_ingredients": ["jamón", "queso"],
+                      "allergy_info": ["gluten", "lactosa"]
+                    },
+                    {
+                      "name": "Hamburguesa",
+                      "price": 490,
+                      "essential_ingredients": ["carne"],
+                      "allergy_info": ["gluten"]
+                    },
+                    {
+                      "name": "Super Hamburguesa",
+                      "price": 950,
+                      "essential_ingredients": ["carne", "queso"],
+                      "allergy_info": ["gluten", "lactosa"]
+                    },
+                    {
+                      "name": "Pizza con Queso Gouda (Small)",
+                      "price": 450,
+                      "essential_ingredients": ["queso gouda"],
+                      "allergy_info": ["gluten", "lactosa"]
+                    },
+                    {
+                      "name": "Pizza con Queso Gouda (Large)",
+                      "price": 700,
+                      "essential_ingredients": ["queso gouda"],
+                      "allergy_info": ["gluten", "lactosa"]
+                    },
+                    {
+                      "name": "Pizza de Queso Blanco (Small)",
+                      "price": 350,
+                      "essential_ingredients": ["queso blanco"],
+                      "allergy_info": ["gluten", "lactosa"]
+                    },
+                    {
+                      "name": "Pizza de Queso Blanco (Large)",
+                      "price": 520,
+                      "essential_ingredients": ["queso blanco"],
+                      "allergy_info": ["gluten", "lactosa"]
+                    }
+                  ]
+                },
+                {
+                  "category": "Guarniciones",
+                  "items": [
+                    {
+                      "name": "Queso",
+                      "price": 200,
+                      "essential_ingredients": ["queso"],
+                      "allergy_info": ["lactosa"]
+                    },
+                    {
+                      "name": "Jamón",
+                      "price": 150,
+                      "essential_ingredients": ["jamón"],
+                      "allergy_info": []
+                    }
+                  ]
+                },
+                {
+                  "category": "Postres",
+                  "items": []
+                },
+                {
+                  "category": "Bebidas",
+                  "groups": [
+                    {
+                      "group": "Agua",
+                      "items": [
+                        {
+                          "name": "Agua Mineral Natural",
+                          "price": 150,
+                          "essential_ingredients": ["agua"],
+                          "allergy_info": []
+                        }
+                      ]
+                    },
+                    {
+                      "group": "Refrescos",
+                      "items": [
+                        {
+                          "name": "Refresco Importado",
+                          "price": 230,
+                          "essential_ingredients": ["refresco"],
+                          "allergy_info": []
+                        }
+                      ]
+                    },
+                    {
+                      "group": "Batidos",
+                      "items": [
+                        {
+                          "name": "Batido de Mamey",
+                          "price": 230,
+                          "essential_ingredients": ["mamey"],
+                          "allergy_info": ["lactosa"]
+                        }
+                      ]
+                    },
+                    {
+                      "group": "Bebidas Alcohólicas",
+                      "items": [
+                        {
+                          "name": "Cerveza Importada",
+                          "price": 250,
+                          "essential_ingredients": ["cerveza"],
+                          "allergy_info": ["gluten"]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+          

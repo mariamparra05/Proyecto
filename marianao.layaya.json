@@ -1,0 +1,292 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Restaurante"]
+      },
+      "name": "La yaya",
+      "cuisine": ["Variada"],
+      "description": null,
+      "contact_info": {
+        "phone": {
+          "number": "52016522",
+          "type": "mobile"
+        },
+        "email": null,
+        "website": null
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "tuesday": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "wednesday": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "thursday": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "friday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "saturday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "sunday": {
+          "open": "12:00",
+          "close": "00:00"
+        }
+      },
+      "address": "100 y 51",
+      "municipality": "Marianao",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Efectivo", "Pago Móvil"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Tarifa de servicio 10%",
+        "description": "Se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": [],
+        "ambience": ["Música grabada"],
+        "usual_customers": [],
+        "planning": [],
+        "children": null,
+        "pets": null,
+        "parking": null
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },
+            "menu": {
+              "categories": [
+                {
+                      "category": "Hamburguesa",
+                      "items": [
+                        {
+                          "name": "Hamburguesa",
+                          "price": 400.00,
+                          "essential_ingredients": ["Carne", "Pan", "Lechuga", "Tomate"],
+                          "allergy_info": ["Gluten"]
+                        },
+                        {
+                          "name": "Hamburguesa Yuya",
+                          "price": 900.00,
+                          "essential_ingredients": ["Carne", "Pan", "Lechuga", "Tomate"],
+                          "allergy_info": ["Gluten"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Pan",
+                      "items": [
+                        {
+                          "name": "Pan Con Jamon",
+                          "price": 350.00,
+                          "essential_ingredients": ["Pan", "Jamon"],
+                          "allergy_info": ["Gluten"]
+                        },
+                        {
+                          "name": "Pan Con Perro",
+                          "price": 280.00,
+                          "essential_ingredients": ["Pan", "Salchicha"],
+                          "allergy_info": ["Gluten"]
+                        }
+                    ]
+                  },
+                  {
+                  "category": "Entrantes",
+                  "items": [
+                    {
+                      "name": "Superpicadera",
+                      "price": 2500.00,
+                      "essential_ingredients": ["Variedad de carnes y embutidos"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Tostones Rellenos",
+                      "price": 600.00,
+                      "essential_ingredients": ["Platano", "Relleno"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Frituras De Malanga",
+                      "price": 500.00,
+                      "essential_ingredients": ["Malanga", "Harina", "Aceite"],
+                      "allergy_info": ["Gluten"]
+                    },
+                    {
+                      "name": "Papas Fritas",
+                      "price": 500.00,
+                      "essential_ingredients": ["Papas", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Croquetas",
+                      "price": 600.00,
+                      "essential_ingredients": ["Harina", "Leche", "Huevo", "Pan rallado"],
+                      "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+                    }
+                  ]
+                },
+                {
+                  "category": "Pasta",
+                  "items": [
+                    {
+                      "name": "Spaguettis Con Queso Gouda",
+                      "price": 700.00,
+                      "essential_ingredients": ["Espaguetis", "Queso gouda"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    },
+                    {
+                      "name": "Spaguettis Doble Queso",
+                      "price": 1000.00,
+                      "essential_ingredients": ["Espaguetis", "Queso"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    }
+                  ]
+                },
+                {
+                  "category": "Pizza",
+                  "items": [
+                    {
+                      "name": "Pizza Napolitana",
+                      "price": 1000.00,
+                      "essential_ingredients": ["Masa de pizza", "Tomate", "Queso"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    },
+                    {
+                      "name": "Pizza Doble Queso",
+                      "price": 1300.00,
+                      "essential_ingredients": ["Masa de pizza", "Queso"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    },
+                    {
+                      "name": "Pizza De Jamon",
+                      "price": 1350.00,
+                      "essential_ingredients": ["Masa de pizza", "Queso", "Jamon"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    }
+                  ]
+                },
+                {
+                  "category": "Pollo",
+                  "items": [
+                    {
+                      "name": "Fajitas De Pollo Con Papa",
+                      "price": 900.00,
+                      "essential_ingredients": ["Pollo", "Papas", "Pimientos", "Cebolla"],
+                      "allergy_info": []
+                    }
+                  ]
+                },
+                {
+                  "category": "Extras",
+                  "items": [
+                    {
+                      "name": "Jamon",
+                      "price": 260.00,
+                      "essential_ingredients": ["Jamon"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Queso",
+                      "price": 260.00,
+                      "essential_ingredients": ["Queso"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Salami",
+                      "price": 200.00,
+                      "essential_ingredients": ["Salami"],
+                      "allergy_info": []
+                    }
+                  ]
+                },
+                {
+                  "category": "Postres",
+                  "items": [
+                    {
+                      "name": "Helados Gusto",
+                      "price": 1000.00,
+                      "essential_ingredients": ["Helado"],
+                      "allergy_info": ["Lactosa"]
+                    }
+                  ]
+                },
+                {
+                  "category": "Bebidas",
+                  "items": [
+                    {
+                      "name": "Refrescos Importados",
+                      "price": 250.00,
+                      "essential_ingredients": ["Refresco"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Cervezas Importadas",
+                      "price": 250.00,
+                      "essential_ingredients": ["Cerveza"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Jugo De Lata",
+                      "price": 280.00,
+                      "essential_ingredients": ["Jugo"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Jugos Caja",
+                      "price": 650.00,
+                      "essential_ingredients": ["Jugo"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Malta Santa Isabel",
+                      "price": 280.00,
+                      "essential_ingredients": ["Malta"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Cerveza Cubelazo",
+                      "price": 2700.00,
+                      "essential_ingredients": ["Cerveza"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Termo De Cerveza",
+                      "price": 2000.00,
+                      "essential_ingredients": ["Cerveza"],
+                      "allergy_info": []
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+          
+       

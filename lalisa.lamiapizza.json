@@ -1,0 +1,412 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Cafetería"]
+    },
+    "name": "La Mia Pizza",
+    "cuisine": ["Cocina Italiana"],
+    "description": "Privado",
+    "contact_info": {
+      "phone": {
+        "number": "51469744",
+        "type": "mobile"
+      },
+      "email": "lamiapizzacuba@gmail.com",
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "10:30",
+        "close": "02:00"
+      },
+      "tuesday": {
+        "open": "10:30",
+        "close": "02:00"
+      },
+      "wednesday": {
+        "open": "10:30",
+        "close": "02:00"
+      },
+      "thursday": {
+        "open": "10:30",
+        "close": "02:00"
+      },
+      "friday": {
+        "open": "10:30",
+        "close": "02:00"
+      },
+      "saturday": {
+        "open": "10:30",
+        "close": "02:00"
+      },
+      "sunday": {
+        "open": "10:30",
+        "close": "02:00"
+      }
+    },
+    "address": "Avenida 29 entre 202 y 204, La Coronela",
+    "municipality": "La Lisa",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": "La Mia Pizza",
+      "instagram": "@lamiapizza_"
+    },
+    "accepted_payment_methods": ["Tarjeta", "Efectivo (CUP, USD, EUR)"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Ninguno",
+      "description": "No se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": [],
+      "local_options": [],
+      "services": ["Baño"],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": true
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+  "menu": {
+    "categories": [
+      {
+        "category": "Entradas",
+        "items": [
+          {
+            "name": "Entremes De Jamon Y Queso",
+            "price": 1440.00,
+            "essential_ingredients": ["Jamon", "Queso"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Entremes De Jamon",
+            "price": 500.00,
+            "essential_ingredients": ["Jamon"],
+            "allergy_info": []
+          },
+          {
+            "name": "Entremes De Ahumados",
+            "price": 440.00,
+            "essential_ingredients": ["Ahumados"],
+            "allergy_info": []
+          },
+          {
+            "name": "Entremes De Aceitunas",
+            "price": 300.00,
+            "essential_ingredients": ["Aceitunas"],
+            "allergy_info": []
+          },
+          {
+            "name": "Dados De Queso",
+            "price": 300.00,
+            "essential_ingredients": ["Queso"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Croquetas De Embutidos",
+            "price": 220.00,
+            "essential_ingredients": ["Croquetas"],
+            "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+          },
+          {
+            "name": "Crema De Queso",
+            "price": 250.00,
+            "essential_ingredients": ["Queso"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Crema Aurora",
+            "price": 300.00,
+            "essential_ingredients": ["Queso"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Crema Virginia",
+            "price": 430.00,
+            "essential_ingredients": ["Queso", "Jamon"],
+            "allergy_info": ["Lactosa"]
+          }
+        ]
+      },
+      {
+       
+        "category": "Platos Principales",
+        "items": [
+          {
+            "name": "Lasagna De Jamon",
+            "price": 500.00,
+            "essential_ingredients": ["Lasagna", "Jamon"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Lasagna De Jamon Y Chorizo",
+            "price": 610.00,
+            "essential_ingredients": ["Lasagna", "Jamon", "Chorizo"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Espaguetis Napolitanos",
+            "price": 700.00,
+            "essential_ingredients": ["Espaguetis", "Queso", "Jamon", "Chorizo", "Atun", "Aji Pimiento", "Cebolla", "Pina", "Ahumados", "Aceitunas", "Queso Azul"],
+            "allergy_info": ["Gluten", "Lactosa", "Pescado"]
+          },
+          {
+            "name": "Espaguetis A La Carbonara",
+            "price": 860.00,
+            "essential_ingredients": ["Espaguetis", "Queso", "Jamon", "Chorizo", "Atun", "Aji Pimiento", "Cebolla", "Pina", "Ahumados", "Aceitunas", "Queso Azul"],
+            "allergy_info": ["Gluten", "Lactosa", "Pescado"]
+          },
+          {
+            "name": "Pizza Napolitana",
+            "price": 320.00,
+            "essential_ingredients": ["Pizza", "Tomate", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Pizza La Mia",
+            "price": 700.00,
+            "essential_ingredients": ["Pizza", "Tomate", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Pizza La Mia De Queso",
+            "price": 860.00,
+            "essential_ingredients": ["Pizza", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Pizza Tres Quesos",
+            "price": 700.00,
+            "essential_ingredients": ["Pizza", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Pizza La Mia Familiar",
+            "price": 2500.00,
+            "essential_ingredients": ["Pizza", "Tomate", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Pizza La Mia Familiar De Queso",
+            "price": 1900.00,
+            "essential_ingredients": ["Pizza", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Pizza Familiar Napolitana",
+            "price": 1700.00,
+            "essential_ingredients": ["Pizza", "Tomate", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          }
+        ]
+      },
+      {
+       
+        "category": "Agregos",
+        "items": [
+          {
+            "name": "Queso",
+            "price": 320.00,
+            "essential_ingredients": ["Queso"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Jamon",
+            "price": 300.00,
+            "essential_ingredients": ["Jamon"],
+            "allergy_info": []
+          },
+          {
+            "name": "Chorizo",
+            "price": 220.00,
+            "essential_ingredients": ["Chorizo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Atun",
+            "price": 280.00,
+            "essential_ingredients": ["Atun"],
+            "allergy_info": ["Pescado"]
+          },
+          {
+            "name": "Aji Pimiento",
+            "price": 120.00,
+            "essential_ingredients": ["Aji Pimiento"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cebolla",
+            "price": 120.00,
+            "essential_ingredients": ["Cebolla"],
+            "allergy_info": []
+          },
+          {
+            "name": "Pina",
+            "price": 100.00,
+            "essential_ingredients": ["Pina"],
+            "allergy_info": []
+          },
+          {
+            "name": "Ahumados",
+            "price": 300.00,
+            "essential_ingredients": ["Ahumados"],
+            "allergy_info": []
+          },
+          {
+            "name": "Aceitunas",
+            "price": 200.00,
+            "essential_ingredients": ["Aceitunas"],
+            "allergy_info": []
+          },
+          {
+            "name": "Queso Azul",
+            "price": 500.00,
+            "essential_ingredients": ["Queso Azul"],
+            "allergy_info": ["Lactosa"]
+          }
+        ]
+      },
+      {
+       
+                "category": "Bebidas Alcoholicas",
+                "items": [
+                  {
+                    "name": "Havana Club 3 Anos",
+                    "price": 175.00,
+                    "essential_ingredients": ["Ron", "3 Años"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Havana Club 7 Anos",
+                    "price": 225.00,
+                    "essential_ingredients": ["Ron", "7 Años"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Pina Colada",
+                    "price": 250.00,
+                    "essential_ingredients": ["Piña", "Coco"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Cerveza",
+                    "price": 270.00,
+                    "essential_ingredients": ["Cerveza"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Michelada",
+                    "price": 420.00,
+                    "essential_ingredients": ["Cerveza", "Lima", "Salsa Inglesa"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Vodka",
+                    "price": 340.00,
+                    "essential_ingredients": ["Vodka"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Whisky",
+                    "price": 340.00,
+                    "essential_ingredients": ["Whisky"],
+                    "allergy_info": []
+                  }
+                ]
+              },
+              {
+                "category": "Bebidas No Alcoholicas",
+                "items": [
+                  {
+                    "name": "Jugo De Frutas Naturales",
+                    "price": 200.00,
+                    "essential_ingredients": ["Jugo", "Frutas"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Batido De Frutas Naturales",
+                    "price": 250.00,
+                    "essential_ingredients": ["Leche", "Frutas"],
+                    "allergy_info": ["Lactosa"]
+                  },
+                  {
+                    "name": "Suero De Helado",
+                    "price": 350.00,
+                    "essential_ingredients": ["Helado"],
+                    "allergy_info": ["Lactosa"]
+                  },
+                  {
+                    "name": "Helado Montado",
+                    "price": 350.00,
+                    "essential_ingredients": ["Helado"],
+                    "allergy_info": ["Lactosa"]
+                  },
+                  {
+                    "name": "Pina Colada",
+                    "price": 250.00,
+                    "essential_ingredients": ["Piña", "Coco"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Limonada Frappe",
+                    "price": 1500.00,
+                    "essential_ingredients": ["Limon", "Azucar", "Hielo"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Refresco",
+                    "price": 220.00,
+                    "essential_ingredients": ["Refresco"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Refresco De Pomo",
+                    "price": 280.00,
+                    "essential_ingredients": ["Refresco"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Malta",
+                    "price": 250.00,
+                    "essential_ingredients": ["Malta"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Agua",
+                    "price": 160.00,
+                    "essential_ingredients": ["Agua"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Agua Saborizada",
+                    "price": 170.00,
+                    "essential_ingredients": ["Agua Saborizada"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Bebida Energizante",
+                    "price": 250.00,
+                    "essential_ingredients": ["Bebida Energizante"],
+                    "allergy_info": []
+                  }
+                ]
+              }
+            ]
+          }
+        }
+        

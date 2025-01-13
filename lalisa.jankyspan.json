@@ -1,0 +1,645 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Juanky's Pan",
+    "cuisine": ["Snack Food"],
+    "description": null,
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": null,
+        "close": null
+      },
+      "tuesday": {
+        "open": null,
+        "close": null
+      },
+      "wednesday": {
+        "open": null,
+        "close": null
+      },
+      "thursday": {
+        "open": null,
+        "close": null
+      },
+      "friday": {
+        "open": null,
+        "close": null
+      },
+      "saturday": {
+        "open": null,
+        "close": null
+      },
+      "sunday": {
+        "open": null,
+        "close": null
+      }
+    },
+    "address": "La Lisa",
+    "municipality": "La Lisa",
+    "province": null,
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": null,
+    "delivery_available": null,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": null,
+      "outdoor_seating": null,
+      "dine_in": null,
+      "takeaway": null,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+  "menu": {
+    "categories": [
+      {
+        "category": "Entradas",
+        "items": [
+          {
+            "name": "Croquetas De Jamon",
+            "price": 570.00,
+            "essential_ingredients": ["Croquetas", "Jamon"],
+            "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+          },
+          {
+            "name": "Entremes De Jamon Y Queso",
+            "price": 765.00,
+            "essential_ingredients": ["Jamon", "Queso"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Huevos Rotos",
+            "price": 905.00,
+            "essential_ingredients": ["Huevos", "Papas", "Jamón"],
+            "allergy_info": ["Huevo"]
+          },
+          {
+            "name": "Mixto De Maria",
+            "price": 2200.00,
+            "essential_ingredients": ["Variedad De Ingredientes"],
+            "allergy_info": []
+          },
+          {
+            "name": "Punetazos De Cerdo Con Queso",
+            "price": 895.00,
+            "essential_ingredients": ["Cerdo", "Queso"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Punetazos De Cerdo Con Queso Y Bacon",
+            "price": 1030.00,
+            "essential_ingredients": ["Cerdo", "Queso", "Bacon"],
+            "allergy_info": ["Lactosa"]
+          },
+          {
+            "name": "Punetazos De Cerdo Con Bacon",
+            "price": 955.00,
+            "essential_ingredients": ["Cerdo", "Bacon"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Platos Principales",
+        "items": [
+          {
+            "name": "Tacos De Ropa Vieja De Carnero",
+            "price": 2055.00,
+            "essential_ingredients": ["Carnero", "Tortilla", "Ropa Vieja"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Tacos De Ropa Vieja De Cerdo",
+            "price": 1400.00,
+            "essential_ingredients": ["Cerdo", "Tortilla", "Ropa Vieja"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Hamburguesa A Caballo De Cerdo",
+            "price": 733.00,
+            "essential_ingredients": ["Cerdo", "Pan", "Huevo"],
+            "allergy_info": ["Gluten", "Huevo"]
+          },
+          {
+            "name": "Big Cheese Burger De Cerdo",
+            "price": 890.00,
+            "essential_ingredients": ["Cerdo", "Pan", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Big Tasty Cerdo",
+            "price": 870.00,
+            "essential_ingredients": ["Cerdo", "Pan"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Hamburguesa De Cerdo Con Atun",
+            "price": 1000.00,
+            "essential_ingredients": ["Cerdo", "Pan", "Atun"],
+            "allergy_info": ["Gluten", "Pescado"]
+          },
+          {
+            "name": "Hamburguesa De Cerdo Con Bacon",
+            "price": 995.00,
+            "essential_ingredients": ["Cerdo", "Pan", "Bacon"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Hamburguesa De Cerdo Con Jamon Y Queso",
+            "price": 1000.00,
+            "essential_ingredients": ["Cerdo", "Pan", "Jamon", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Doble Hamburguesa De Cerdo",
+            "price": 1050.00,
+            "essential_ingredients": ["Cerdo", "Pan"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Hamburguesa De Cerdo De Doble Queso",
+            "price": 895.00,
+            "essential_ingredients": ["Cerdo", "Pan", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Hamburguesa Don Juan Cerdo",
+            "price": 1130.00,
+            "essential_ingredients": ["Cerdo", "Pan"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Hamburguesa Don Pascual Cerdo",
+            "price": 1375.00,
+            "essential_ingredients": ["Cerdo", "Pan"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Especial De Cerdo",
+            "price": 800.00,
+            "essential_ingredients": ["Cerdo", "Pan"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Hamburguesa Guajira De Cerdo",
+            "price": 2715.00,
+            "essential_ingredients": ["Cerdo", "Pan"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Juanky's Combo De Cerdo Con Queso + Jugo",
+            "price": 1094.00,
+            "essential_ingredients": ["Cerdo", "Pan", "Queso", "Jugo"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Mix Sin Pan De Cerdo",
+            "price": 830.00,
+            "essential_ingredients": ["Cerdo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Pina Caramelo De Cerdo",
+            "price": 1055.00,
+            "essential_ingredients": ["Cerdo", "Pina", "Caramelo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Premium De Champinon Cerdo",
+            "price": 730.00,
+            "essential_ingredients": ["Cerdo", "Champinon"],
+            "allergy_info": []
+          },
+          {
+            "name": "Hamburguesa Sencilla De Cerdo",
+            "price": 838.00,
+            "essential_ingredients": ["Cerdo", "Pan"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Hamburguesa Taquena De Cerdo",
+            "price": 230.00,
+            "essential_ingredients": ["Cerdo", "Pan"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Juankymon",
+            "price": 594.00,
+            "essential_ingredients": ["Cerdo", "Pan"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Media Noche",
+            "price": 454.00,
+            "essential_ingredients": ["Cerdo", "Pan"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Media Noche Sin Queso",
+            "price": 760.00,
+            "essential_ingredients": ["Cerdo", "Pan"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Sandwich De Atun",
+            "price": 780.00,
+            "essential_ingredients": ["Atun", "Pan"],
+            "allergy_info": ["Gluten", "Pescado"]
+          },
+          {
+            "name": "Sandwich De Queso",
+            "price": 560.00,
+            "essential_ingredients": ["Queso", "Pan"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Sandwich Hawaiano",
+            "price": 1360.00,
+            "essential_ingredients": ["Pan", "Queso", "Pina"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Espaguetis De Bacon Con Queso",
+            "price": 470.00,
+            "essential_ingredients": ["Espaguetis", "Bacon", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Espaguetis Base",
+            "price": 1195.00,
+            "essential_ingredients": ["Espaguetis", "Salsa"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Espaguetis Con Carne De Cerdo",
+            "price": 1390.00,
+            "essential_ingredients": ["Espaguetis", "Carne De Cerdo"],
+            "allergy_info": ["Gluten"]
+          },
+          {
+            "name": "Espaguetis De Chorizo Con Queso",
+            "price": 695.00,
+            "essential_ingredients": ["Espaguetis", "Chorizo", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          },
+          {
+            "name": "Espaguetis De Jamon Con Queso",
+            "price": 985.00,
+            "essential_ingredients": ["Espaguetis", "Jamon", "Queso"],
+            "allergy_info": ["Gluten", "Lactosa"]
+          }
+        ]
+      },
+      {
+        "category": "Bebidas Alcoholicas",
+        "items": [
+          {
+            "name": "Cerveza Stella",
+            "price": 510.00,
+            "essential_ingredients": ["Cerveza"],
+            "allergy_info": []
+          },
+          {
+            "name": "Caipirisima",
+            "price": 600.00,
+            "essential_ingredients": ["Caipirinha"],
+            "allergy_info": []
+          },
+          {
+            "name": "Caipiroska",
+            "price": 520.00,
+            "essential_ingredients": ["Caipirinha", "Vodka"],
+            "allergy_info": []
+          },
+          {
+            "name": "Caipiroska Absolut",
+            "price": 680.00,
+            "essential_ingredients": ["Caipirinha", "Vodka"],
+            "allergy_info": []
+          },
+          {
+            "name": "Caipiroska C/ Cirok",
+            "price": 950.00,
+            "essential_ingredients": ["Caipirinha", "Vodka"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cuba Libre",
+            "price": 530.00,
+            "essential_ingredients": ["Ron", "Cola"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cubanito",
+            "price": 420.00,
+            "essential_ingredients": ["Ron"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cubata C/ 7 Anos",
+            "price": 600.00,
+            "essential_ingredients": ["Cubata", "Ron", "7anos"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cubata C/ Especial",
+            "price": 695.00,
+            "essential_ingredients": ["Cubata", "Ron", "Especial"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cubata C/ Reserva",
+            "price": 580.00,
+            "essential_ingredients": ["Cubata", "Ron", "Reserva"],
+            "allergy_info": []
+          },
+          {
+            "name": "Gin Tonic",
+            "price": 795.00,
+            "essential_ingredients": ["Gin", "Tonicwater"],
+            "allergy_info": []
+          },
+          {
+            "name": "Gin Tonic Beefeater",
+            "price": 940.00,
+            "essential_ingredients": ["Gin", "Tonicwater"],
+            "allergy_info": []
+          },
+          {
+            "name": "Gin Tonic C/ Tanqueray",
+            "price": 990.00,
+            "essential_ingredients": ["Gin", "Tonicwater"],
+            "allergy_info": []
+          },
+          {
+            "name": "Sangria",
+            "price": 600.00,
+            "essential_ingredients": ["Sangria"],
+            "allergy_info": []
+          },
+          {
+            "name": "Screwdriver",
+            "price": 500.00,
+            "essential_ingredients": ["Vodka", "Jugo De Naranja"],
+            "allergy_info": []
+          },
+          {
+            "name": "Screwdriver Absolut",
+            "price": 780.00,
+            "essential_ingredients": ["Vodka", "Jugo De Naranja"],
+            "allergy_info": []
+          },
+          {
+            "name": "Vodka Tonic",
+            "price": 850.00,
+            "essential_ingredients": ["Vodka", "Tonicwater"],
+            "allergy_info": []
+          },
+          {
+            "name": "Vodka Tonic Absolut",
+            "price": 1200.00,
+            "essential_ingredients": ["Vodka", "Tonicwater"],
+            "allergy_info": []
+          },
+          {
+            "name": "Copa De Vino Tinto",
+            "price": 460.00,
+            "essential_ingredients": ["Vino"],
+            "allergy_info": []
+          },
+          {
+            "name": "Copa De Vino Tinto Yzaguirre Vermouth",
+            "price": 450.00,
+            "essential_ingredients": ["Vino"],
+            "allergy_info": []
+          },
+          {
+            "name": "Jagger",
+            "price": 350.00,
+            "essential_ingredients": ["Jager"],
+            "allergy_info": []
+          },
+          {
+            "name": "Ron Anejo 7 Anos",
+            "price": 250.00,
+            "essential_ingredients": ["Ron", "7anos"],
+            "allergy_info": []
+          },
+          {
+            "name": "Ron Anejo Especial",
+            "price": 175.00,
+            "essential_ingredients": ["Ron", "Especial"],
+            "allergy_info": []
+          },
+          {
+            "name": "Ron Anejo Reserva",
+            "price": 195.00,
+            "essential_ingredients": ["Ron", "Reserva"],
+            "allergy_info": []
+          },
+          {
+            "name": "Ron Seleccion De Maestros",
+            "price": 830.00,
+            "essential_ingredients": ["Ron", "Seleccion De Maestros"],
+            "allergy_info": []
+          },
+          {
+            "name": "Tequila Don Julio Reposado",
+            "price": 1400.00,
+            "essential_ingredients": ["Tequila"],
+            "allergy_info": []
+          },
+          {
+            "name": "Tequila Silver Los Corrales",
+            "price": 380.00,
+            "essential_ingredients": ["Tequila"],
+            "allergy_info": []
+          },
+          {
+            "name": "Whisky Ballentines",
+            "price": 450.00,
+            "essential_ingredients": ["Whisky"],
+            "allergy_info": []
+          },
+          {
+            "name": "Whisky Chivas Regal",
+            "price": 790.00,
+            "essential_ingredients": ["Whisky"],
+            "allergy_info": []
+          },
+          {
+            "name": "Whisky J&B",
+            "price": 350.00,
+            "essential_ingredients": ["Whisky"],
+            "allergy_info": []
+          },
+          {
+            "name": "Whisky Jack Daniels Black Label",
+            "price": 495.00,
+            "essential_ingredients": ["Whisky"],
+            "allergy_info": []
+          },
+          {
+            "name": "Whisky Jack Daniels Honey",
+            "price": 380.00,
+            "essential_ingredients": ["Whisky"],
+            "allergy_info": []
+          },
+          {
+            "name": "Whisky Jameson",
+            "price": 575.00,
+            "essential_ingredients": ["Whisky"],
+            "allergy_info": []
+          },
+          {
+            "name": "Whisky JW Black Label",
+            "price": 940.00,
+            "essential_ingredients": ["Whisky"],
+            "allergy_info": []
+          },
+          {
+            "name": "Whisky JW Red Label",
+            "price": 470.00,
+            "essential_ingredients": ["Whisky"],
+            "allergy_info": []
+          },
+          {
+            "name": "Whisky Old Partner",
+            "price": 200.00,
+            "essential_ingredients": ["Whisky"],
+            "allergy_info": []
+          },
+          {
+            "name": "Whisky Spirit Speech",
+            "price": 200.00,
+            "essential_ingredients": ["Whisky"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+
+                "category": "Bebidas No Alcoholicas",
+                "items": [
+                  {
+                    "name": "Jugo De Fruta Bomba",
+                    "price": 185.00,
+                    "essential_ingredients": ["Jugo", "Fruta Bomba"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Jugo De Guayaba",
+                    "price": 185.00,
+                    "essential_ingredients": ["Jugo", "Guayaba"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Liminada",
+                    "price": 415.00,
+                    "essential_ingredients": ["Limonada"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Jugo De Melon",
+                    "price": 185.00,
+                    "essential_ingredients": ["Jugo", "Melon"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Jugo De Platano",
+                    "price": 185.00,
+                    "essential_ingredients": ["Jugo", "Platano"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Batido De Helado",
+                    "price": 850.00,
+                    "essential_ingredients": ["Batido", "Helado"],
+                    "allergy_info": ["Lactosa"]
+                  },
+                  {
+                    "name": "Batido De Fruta Bomba",
+                    "price": 300.00,
+                    "essential_ingredients": ["Batido", "Fruta Bomba"],
+                    "allergy_info": ["Lactosa"]
+                  },
+                  {
+                    "name": "Batido De Guayaba",
+                    "price": 300.00,
+                    "essential_ingredients": ["Batido", "Guayaba"],
+                    "allergy_info": ["Lactosa"]
+                  },
+                  {
+                    "name": "Helado Montado",
+                    "price": 580.00,
+                    "essential_ingredients": ["Helado"],
+                    "allergy_info": ["Lactosa"]
+                  },
+                  {
+                    "name": "Suero De Helado",
+                    "price": 950.00,
+                    "essential_ingredients": ["Helado"],
+                    "allergy_info": ["Lactosa"]
+                  },
+                  {
+                    "name": "Belga Star",
+                    "price": 300.00,
+                    "essential_ingredients": ["Malta"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Refresco De Cola",
+                    "price": 300.00,
+                    "essential_ingredients": ["Refresco", "Cola"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Refresco De Limon",
+                    "price": 300.00,
+                    "essential_ingredients": ["Refresco", "Limon"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Refresco De Naranja",
+                    "price": 300.00,
+                    "essential_ingredients": ["Refresco", "Naranja"],
+                    "allergy_info": []
+                  }
+                ]
+              }
+            ]
+          }
+        }
+        

@@ -1,0 +1,382 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Bar-Restaurant"]
+    },
+    "name": "El Chanchullero",
+    "cuisine": ["Comida criolla"],
+    "description": null,
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "00:00"
+      }
+    },
+    "address": "#162D entre Calle 5G y Calle 162, zona 6, Alamar",
+    "municipality": "Habana del Este",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "instagram": "@chanchullerobar.zona6",
+      "facebook": "El Chanchullero de Alamar Bar&Restaurant"
+    },
+    "accepted_payment_methods": ["Tarjeta", "Efectivo (MN o moneda extranjera)"],
+    "delivery_available": true,
+    "delivery_areas": ["Habana del Este", "Guanabacoa"],
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": false
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+
+    "menu": {
+      "categories": [
+        {
+          "category": "Entrantes",
+          "items": [
+            {
+              "name": "Chicharrita de platano macho",
+              "price": 250.00,
+              "essential_ingredients": ["Platano macho", "Aceite"],
+              "allergy_info": []
+            },
+            {
+              "name": "Toston relleno con cerdo",
+              "price": 375.00,
+              "essential_ingredients": ["Platano", "Cerdo"],
+              "allergy_info": []
+            },
+            {
+              "name": "Fritura de malanga con miel",
+              "price": 375.00,
+              "essential_ingredients": ["Malanga", "Miel", "Harina"],
+              "allergy_info": ["Gluten"]
+            },
+            {
+              "name": "Ceviche de pulpo y pescado",
+              "price": 450.00,
+              "essential_ingredients": ["Pulpo", "Pescado", "Limon", "Cebolla"],
+              "allergy_info": ["Mariscos", "Pescado"]
+            }
+          ]
+        },
+        {
+          "category": "Plato principal",
+          "items": [
+            {
+              "name": "Cerdo al perejil",
+              "price": 795.00,
+              "essential_ingredients": ["Cerdo", "Perejil"],
+              "allergy_info": []
+            },
+            {
+              "name": "Brochetas de cerdo",
+              "price": 795.00,
+              "essential_ingredients": ["Cerdo", "Pimientos", "Cebolla"],
+              "allergy_info": []
+            },
+            {
+              "name": "Bistec encebollado",
+              "price": 800.00,
+              "essential_ingredients": ["Res", "Cebolla"],
+              "allergy_info": []
+            },
+            {
+              "name": "Ropa vieja",
+              "price": 800.00,
+              "essential_ingredients": ["Res", "Cebolla", "Pimientos", "Tomate"],
+              "allergy_info": []
+            },
+            {
+              "name": "Cerdo asado al horno",
+              "price": 795.00,
+              "essential_ingredients": ["Cerdo", "Especias"],
+              "allergy_info": []
+            },
+            {
+              "name": "Pulpo al ajillo",
+              "price": 925.00,
+              "essential_ingredients": ["Pulpo", "Ajo", "Aceite"],
+              "allergy_info": ["Mariscos"]
+            },
+            {
+              "name": "Pescado chanchullero (castero)",
+              "price": 800.00,
+              "essential_ingredients": ["Pescado", "Especias"],
+              "allergy_info": ["Pescado"]
+            },
+            {
+              "name": "Enchilado de langosta",
+              "price": 975.00,
+              "essential_ingredients": ["Langosta", "Tomate", "Especias"],
+              "allergy_info": ["Mariscos"]
+            },
+            {
+              "name": "Langosta a la plancha",
+              "price": 975.00,
+              "essential_ingredients": ["Langosta", "Ajo", "Aceite"],
+              "allergy_info": ["Mariscos"]
+            },
+            {
+              "name": "Masas de cerdo",
+              "price": 800.00,
+              "essential_ingredients": ["Cerdo", "Ajo", "Aceite"],
+              "allergy_info": []
+            }
+          ]
+        },
+     {
+
+    "category": "Postres",
+    "items": [
+      {
+        "name": "Flan al caramelo",
+        "price": 150.00,
+        "essential_ingredients": ["Leche", "Huevos", "Azúcar"],
+        "allergy_info": ["Lactosa", "Huevo"]
+    }
+]
+},
+{
+        "category": "Infusiones",
+        "items": [
+          {
+            "name": "Cafe expreso",
+            "price": 100.00,
+            "essential_ingredients": ["Cafe"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Bebidas alcohólicas",
+        "items": [
+          {
+            "name": "Cuba Libre",
+            "price": 275.00,
+            "essential_ingredients": ["Ron", "Refresco de cola", "Limon"],
+            "allergy_info": []
+          },
+          {
+            "name": "Mojito",
+            "price": 275.00,
+            "essential_ingredients": ["Ron", "Hierbabuena", "Limon", "Azucar", "Agua mineral"],
+            "allergy_info": []
+          },
+          {
+            "name": "Caipirisima",
+            "price": 275.00,
+            "essential_ingredients": ["Ron", "Limon", "Azucar"],
+            "allergy_info": []
+          },
+          {
+            "name": "Ron Coli",
+            "price": 275.00,
+            "essential_ingredients": ["Ron", "Refresco de cola"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cosita de esa",
+            "price": 275.00,
+            "essential_ingredients": ["Variedad de ingredientes"],
+            "allergy_info": []
+          },
+          {
+            "name": "Caipiroska",
+            "price": 275.00,
+            "essential_ingredients": ["Vodka", "Limon", "Azucar"],
+            "allergy_info": []
+          },
+          {
+            "name": "Caipirina",
+            "price": 300.00,
+            "essential_ingredients": ["Cachaça", "Limon", "Azucar"],
+            "allergy_info": []
+          },
+          {
+            "name": "Daiquiri",
+            "price": 300.00,
+            "essential_ingredients": ["Ron", "Limon", "Azucar"],
+            "allergy_info": []
+          },
+          {
+            "name": "Pina colada",
+            "price": 300.00,
+            "essential_ingredients": ["Ron", "Coco", "Pina"],
+            "allergy_info": []
+          },
+          {
+            "name": "Vodka con naranja",
+            "price": 300.00,
+            "essential_ingredients": ["Vodka", "Jugo de naranja"],
+            "allergy_info": []
+          },
+          {
+            "name": "Copa de vino",
+            "price": 300.00,
+            "essential_ingredients": ["Vino"],
+            "allergy_info": []
+          },
+          {
+            "name": "Ron HC Club Especial",
+            "price": 325.00,
+            "essential_ingredients": ["Ron"],
+            "allergy_info": []
+          },
+          {
+            "name": "Chelada",
+            "price": 400.00,
+            "essential_ingredients": ["Cerveza", "Limon", "Sal"],
+            "allergy_info": []
+          },
+          {
+            "name": "Michelada",
+            "price": 450.00,
+            "essential_ingredients": ["Cerveza", "Limon", "Salsa inglesa"],
+            "allergy_info": []
+          },
+          {
+            "name": "Botella de vino",
+            "price": 1200.00,
+            "essential_ingredients": ["Vino"],
+            "allergy_info": []
+          },
+          {
+            "name": "Vodka absolut",
+            "price": 525.00,
+            "essential_ingredients": ["Vodka"],
+            "allergy_info": []
+          },
+          {
+            "name": "Whiskey Black and White",
+            "price": 395.00,
+            "essential_ingredients": ["Whisky"],
+            "allergy_info": []
+          },
+          {
+            "name": "Clan Cambell",
+            "price": 425.00,
+            "essential_ingredients": ["Whisky"],
+            "allergy_info": []
+          },
+          {
+            "name": "Jameson",
+            "price": 425.00,
+            "essential_ingredients": ["Whisky"],
+            "allergy_info": []
+          },
+          {
+            "name": "Finest Blended (Speech)",
+            "price": 400.00,
+            "essential_ingredients": ["Whisky"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Bebidas no alcohólicas",
+        "items": [
+          {
+            "name": "Jugo de fruta natural",
+            "price": 140.00,
+            "essential_ingredients": ["Jugo de fruta"],
+            "allergy_info": []
+          },
+          {
+            "name": "Agua natural",
+            "price": 130.00,
+            "essential_ingredients": ["Agua"],
+            "allergy_info": []
+          },
+          {
+            "name": "Agua gaseada",
+            "price": 180.00,
+            "essential_ingredients": ["Agua con gas"],
+            "allergy_info": []
+          },
+          {
+            "name": "Refrescos importados",
+            "price": 240.00,
+            "essential_ingredients": ["Refresco"],
+            "allergy_info": []
+          },
+          {
+            "name": "Refrescos nacionales",
+            "price": 200.00,
+            "essential_ingredients": ["Refresco"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cerveza importada",
+            "price": 275.00,
+            "essential_ingredients": ["Cerveza"],
+            "allergy_info": []
+          },
+          {
+            "name": "Red Bull",
+            "price": 300.00,
+            "essential_ingredients": ["Bebida energética"],
+            "allergy_info": []
+          }
+        ]
+      }
+    ]
+  }
+}
+
+    

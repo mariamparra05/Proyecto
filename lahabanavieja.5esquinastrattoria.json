@@ -1,0 +1,838 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["restaurante"]
+      },
+      "name": "5 Esquinas Trattoria",
+      "cousine": ["Italiana", "Pizza", "Mediterránea", "Europea"],
+      "description": "Un sitio para disfrutar de pastas frescas, de preparaciones sacadas del horno de leña y de esos sabores entrañables de la cocina italiana. Con un equipo pendiente de sus gustos y de lograr la combinación perfecta entre lo elegido en la carta y el trago perfecto, 5 Esquinas invita a una experiencia de alta calidad.",
+      "contact_info": {
+        "phone": {
+          "number": "+53 7 860 6295",
+          "type": "mobile"
+        },
+        "email": "trattoria5esquinashabana@gmail.com",
+        "website": null
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "11:00",
+          "close": "22:30"
+        },
+        "tuesday": {
+          "open": "11:00",
+          "close": "22:30"
+        },
+        "wednesday": {
+          "open": "11:00",
+          "close": "22:30"
+        },
+        "thursday": {
+          "open": "11:00",
+          "close": "22:30"
+        },
+        "friday": {
+          "open": "11:00",
+          "close": "22:30"
+        },
+        "saturday": {
+          "open": "11:00",
+          "close": "22:30"
+        },
+        "sunday": {
+          "open": "11:00",
+          "close": "22:30"
+        }
+      },
+      "address": "Calle Habana #104 Esquina Cuarteles, Habana Vieja",
+      "municipality": "Habana Vieja",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "social_media": {
+        "instagram": "https://www.instagram.com/5esquinastrattoria?igsh=MXc0c3BjemhhbjZzaA==",
+        "facebook": "https://www.facebook.com/5esquinastrattoria/"
+      },
+      "accepted_payment_methods": ["efectivo", "transferencia"],
+      "delivery_available": true,
+      "service_fee": {
+        "name": "Tarifa de servicio",
+        "description": "Se le adiciona una tarifa de servicio a su cuenta.",
+        "applies": true
+      },
+      "features": {
+        "reservation_required": true,
+        "outdoor_seating": true,
+        "dine_in": true,
+        "takeaway": true,
+        "offers": ["Restaurante"],
+        "local_options": ["Desayuno", "Brunch", "Almuerzo", "Cena", "Postre"],
+        "services": ["Aseos", "Bar en el lugar"],
+        "ambience": ["Informal", "Acogedor"],
+        "usual_customers": ["Grupos", "Niños"],
+        "planning": [],
+        "children": true,
+        "pets": false,
+        "parking": null
+      },
+      "dietary_options": ["Opciones vegetarianas", "Opciones veganas"],
+      "meals": ["Comidas", "Cenas", "Brunch", "Abierto hasta tarde", "Bebidas"],
+      "advantages": ["Para llevar", "Reservas", "Terraza exterior", "Capacidad", "Acceso para discapacitados", "Sirve alcohol", "Bar completo", "Servicio de mesa"],
+      "highlights": ["Asientos al aire libre", "Platos pequeños", "Grandes cócteles", "Acogedor", "Informal", "Bueno para los niños", "Bueno para grupos"]
+    },
+    "menu": {
+      "categories": [
+        {
+          "category": "Combinaciones",
+          "items": [
+            {
+              "name": "Focaccia de la Casa",
+              "price": 1200,
+              "essential_ingredients": ["focaccia", "hierbas"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Cesta de Panecillos",
+              "price": 300,
+              "essential_ingredients": ["panecillos", "mantequilla"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Combinación Françoise (Focaccia + Berenjena Parmesana)",
+              "price": 3000,
+              "essential_ingredients": ["focaccia", "berenjena", "queso parmesano"],
+              "allergy_info": ["gluten", "lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Entrantes",
+          "items": [
+            {
+              "name": "Brusqueta Mixta",
+              "price": 1200,
+              "essential_ingredients": ["pan", "tomate", "queso"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Ensalada de Pulpo y Vegetales en Pesto de Hierbabuena",
+              "price": 2500,
+              "essential_ingredients": ["pulpo", "vegetales", "hierbabuena"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Croquetas de la Casa",
+              "price": 1200,
+              "essential_ingredients": ["harina", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Tabla de Jamón Serrano y Salami al Olivo",
+              "price": 6000,
+              "essential_ingredients": ["jamón serrano", "salami", "aceitunas"],
+              "allergy_info": []
+            },
+            {
+              "name": "Carpaccio de Res al Parmesano y Alcaparras",
+              "price": 2500,
+              "essential_ingredients": ["res", "queso parmesano", "alcaparras"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Ensaladas",
+          "items": [
+            {
+              "name": "Ensalada Griega",
+              "price": 2000,
+              "essential_ingredients": ["tomate", "pepino", "queso feta"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Ensalada César",
+              "price": 2000,
+              "essential_ingredients": ["lechuga", "pollo", "queso parmesano", "aderezo César"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Ensalada de Vegetales Frescos",
+              "price": 1000,
+              "essential_ingredients": ["vegetales variados"],
+              "allergy_info": []
+            },
+            {
+              "name": "Ensalada Caprese",
+              "price": 2000,
+              "essential_ingredients": ["tomate", "mozzarella", "albahaca"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Sopas y Cremas",
+          "items": [
+            {
+              "name": "Sopa de Verduras",
+              "price": 1200,
+              "essential_ingredients": ["verduras variadas"],
+              "allergy_info": []
+            },
+            {
+              "name": "Crema de Queso Azul con Frutas Confitadas",
+              "price": 1600,
+              "essential_ingredients": ["queso azul", "frutas confitadas"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Sopa de Vegetales y Mariscos",
+              "price": 2000,
+              "essential_ingredients": ["vegetales variados", "mariscos"],
+              "allergy_info": ["mariscos"]
+            }
+        ]
+      },
+      {
+          "category": "Pizzas",
+          "items": [
+            {
+              "name": "Margarita (Queso, Tomate y Albahaca)",
+              "price": 2000,
+              "essential_ingredients": ["queso", "tomate", "albahaca"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Marinara (Tomate, Ajo y Orégano)",
+              "price": 2000,
+              "essential_ingredients": ["tomate", "ajo", "orégano"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Cuatro Estaciones (Queso, Aceitunas Negras y Verdes, Champiñones, Pimientos)",
+              "price": 2500,
+              "essential_ingredients": ["queso", "aceitunas negras", "aceitunas verdes", "champiñones", "pimientos"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Charcuteria (Queso, Blanqueta, Jamón Serrano, Jamon Pierna y Chorizo)",
+              "price": 2700,
+              "essential_ingredients": ["queso", "blanqueta", "jamón serrano", "jamón pierna", "chorizo"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Napolitana (Queso, Tomate, Anchoa y Orégano)",
+              "price": 2600,
+              "essential_ingredients": ["queso", "tomate", "anchoa", "orégano"],
+              "allergy_info": ["gluten", "lactosa", "pescado"]
+            },
+            {
+              "name": "Calzone (Queso, Vegetales, Champiñones y Jamón Pierna)",
+              "price": 2700,
+              "essential_ingredients": ["queso", "vegetales", "champiñones", "jamón pierna"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Gustosa (Queso, Anchoas, Calamares y Camarones)",
+              "price": 3200,
+              "essential_ingredients": ["queso", "anchoas", "calamares", "camarones"],
+              "allergy_info": ["gluten", "lactosa", "mariscos"]
+            },
+            {
+              "name": "5 Esquinas (Cinco Quesos)",
+              "price": 2800,
+              "essential_ingredients": ["quesos variados"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Pepperoni",
+              "price": 2800,
+              "essential_ingredients": ["queso", "pepperoni"],
+              "allergy_info": ["gluten", "lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Órdenes Extra",
+          "items": [
+            {
+              "name": "Aceitunas",
+              "price": 400,
+              "essential_ingredients": ["aceitunas"],
+              "allergy_info": []
+            },
+            {
+              "name": "Queso Mozzarella",
+              "price": 700,
+              "essential_ingredients": ["queso mozzarella"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Chorizo",
+              "price": 600,
+              "essential_ingredients": ["chorizo"],
+              "allergy_info": []
+            },
+            {
+              "name": "Champignones",
+              "price": 400,
+              "essential_ingredients": ["champiñones"],
+              "allergy_info": []
+            },
+            {
+              "name": "Aji",
+              "price": 350,
+              "essential_ingredients": ["aji"],
+              "allergy_info": []
+            },
+            {
+              "name": "Berenjena",
+              "price": 350,
+              "essential_ingredients": ["berenjena"],
+              "allergy_info": []
+            },
+            {
+              "name": "Cebolla",
+              "price": 350,
+              "essential_ingredients": ["cebolla"],
+              "allergy_info": []
+            },
+            {
+              "name": "Rúcula",
+              "price": 350,
+              "essential_ingredients": ["rúcula"],
+              "allergy_info": []
+            },
+            {
+              "name": "Piña",
+              "price": 350,
+              "essential_ingredients": ["piña"],
+              "allergy_info": []
+            },
+            {
+              "name": "Huevo",
+              "price": 350,
+              "essential_ingredients": ["huevo"],
+              "allergy_info": ["huevo"]
+            },
+            {
+              "name": "Jamón Pierna",
+              "price": 600,
+              "essential_ingredients": ["jamón pierna"],
+              "allergy_info": []
+            },
+            {
+              "name": "Atún",
+              "price": 600,
+              "essential_ingredients": ["atún"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "Queso Parmesano",
+              "price": 700,
+              "essential_ingredients": ["queso parmesano"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Jamón Serrano",
+              "price": 800,
+              "essential_ingredients": ["jamón serrano"],
+              "allergy_info": []
+            },
+            {
+              "name": "Camarones",
+              "price": 800,
+              "essential_ingredients": ["camarones"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Anchoas",
+              "price": 600,
+              "essential_ingredients": ["anchoas"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "Pepperoni",
+              "price": 600,
+              "essential_ingredients": ["pepperoni"],
+              "allergy_info": []
+            },
+            {
+              "name": "Bacon",
+              "price": 600,
+              "essential_ingredients": ["bacon"],
+              "allergy_info": []
+            },
+            {
+              "name": "Queso Azul",
+              "price": 700,
+              "essential_ingredients": ["queso azul"],
+              "allergy_info": ["lactosa"]
+            }
+        ]
+      },
+      {
+          "category": "Salsa para Pastas",
+          "items": [
+            {
+              "name": "Tomate",
+              "price": 2200,
+              "essential_ingredients": ["tomate"],
+              "allergy_info": []
+            },
+            {
+              "name": "Pesto a la Genovesa",
+              "price": 2500,
+              "essential_ingredients": ["albahaca", "ajo", "aceite de oliva", "queso parmesano"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Ajo, Aceite de Oliva y Peperonchini",
+              "price": 2500,
+              "essential_ingredients": ["ajo", "aceite de oliva", "peperonchini"],
+              "allergy_info": []
+            },
+            {
+              "name": "Alfredo (Jamón Pierna, Cebolla, Crema de Leche)",
+              "price": 2600,
+              "essential_ingredients": ["jamón pierna", "cebolla", "crema de leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Sorrentina (Mozzarella, Tomate, Albahaca)",
+              "price": 2500,
+              "essential_ingredients": ["mozzarella", "tomate", "albahaca"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Arrabiata (Tomate y Peperonchini)",
+              "price": 2500,
+              "essential_ingredients": ["tomate", "peperonchini"],
+              "allergy_info": []
+            },
+            {
+              "name": "Amatriciana (Bacon, Cebolla, Tomate, Vino Tinto y Peperonchini)",
+              "price": 2600,
+              "essential_ingredients": ["bacon", "cebolla", "tomate", "vino tinto", "peperonchini"],
+              "allergy_info": []
+            },
+            {
+              "name": "Bolonesa",
+              "price": 2700,
+              "essential_ingredients": ["carne molida", "tomate", "especias"],
+              "allergy_info": []
+            },
+            {
+              "name": "Carbonara",
+              "price": 2700,
+              "essential_ingredients": ["pasta", "tocino", "crema de leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Mariscos",
+              "price": 3200,
+              "essential_ingredients": ["mariscos variados"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Salsa Puttanesca",
+              "price": 2800,
+              "essential_ingredients": ["tomate", "aceitunas", "alcaparras"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Nuestras Pastas Rellenas",
+          "items": [
+            {
+              "name": "Lasaña de Mejillones y Perejil",
+              "price": 3000,
+              "essential_ingredients": ["mejillones", "perejil", "pasta"],
+              "allergy_info": ["gluten", "mariscos"]
+            },
+            {
+              "name": "Lasaña de Mariscos",
+              "price": 3500,
+              "essential_ingredients": ["mariscos variados", "pasta"],
+              "allergy_info": ["gluten", "mariscos"]
+            },
+            {
+              "name": "Lasaña de Frutos Secos y Judias Blancas",
+              "price": 3000,
+              "essential_ingredients": ["frutos secos", "judías blancas", "pasta"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Lasaña a la Bolonesa",
+              "price": 3000,
+              "essential_ingredients": ["carne molida", "tomate", "pasta"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Noquis a los Cuatro Quesos",
+              "price": 3000,
+              "essential_ingredients": ["noquis", "quesos variados"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Raviolis a la Mantequilla y Ajo",
+              "price": 2800,
+              "essential_ingredients": ["raviolis", "mantequilla", "ajo"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Raviolis al Pesto",
+              "price": 2800,
+              "essential_ingredients": ["raviolis", "pesto"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Raviolis a la Boloñesa",
+              "price": 2800,
+              "essential_ingredients": ["raviolis", "boloñesa"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Berenjena Parmesana",
+              "price": 2800,
+              "essential_ingredients": ["berenjena", "queso parmesano"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Risotto",
+          "items": [
+            {
+              "name": "Risotto con Hongos",
+              "price": 3500,
+              "essential_ingredients": ["arroz", "hongos"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Risotto Marinero",
+              "price": 3500,
+              "essential_ingredients": ["arroz", "mariscos variados"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Risotto 5 Esquinas",
+              "price": 3500,
+              "essential_ingredients": ["arroz", "quesos variados"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Pescados y Mariscos",
+          "items": [
+            {
+              "name": "Filete de Pescado en Salsa Verde",
+              "price": 3500,
+              "essential_ingredients": ["pescado", "salsa verde"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "Suprema de Pescado al Limón",
+              "price": 3500,
+              "essential_ingredients": ["pescado", "limón"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "Filete de Pescado a la Milanesa",
+              "price": 3500,
+              "essential_ingredients": ["pescado", "harina"],
+              "allergy_info": ["gluten", "pescado"]
+            },
+            {
+              "name": "Camarones a su Gusto",
+              "price": 4500,
+              "essential_ingredients": ["camarones", "especias"],
+              "allergy_info": ["mariscos"]
+            }
+          ]
+        },
+        {
+          "category": "Carnes",
+          "items": [
+            {
+              "name": "Solomillo de Cerdo en Salsa de Vinagre Balsámico, Rúcula y Tomate",
+              "price": 3900,
+              "essential_ingredients": ["solomillo de cerdo", "vinagre balsámico", "rúcula", "tomate"],
+              "allergy_info": []
+            },
+            {
+              "name": "Filete de Res a la Milanesa",
+              "price": 4500,
+              "essential_ingredients": ["res", "harina"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Filete de Res a la Pimienta Verde",
+              "price": 4500,
+              "essential_ingredients": ["res", "pimienta verde"],
+              "allergy_info": []
+            }
+        ]
+      },
+      {
+          "category": "Postres",
+          "items": [
+            {
+              "name": "Tiramisú de la Casa",
+              "price": 800,
+              "essential_ingredients": ["café", "mascarpone", "huevo", "azúcar", "bizcochos"],
+              "allergy_info": ["gluten", "huevo", "lactosa"]
+            },
+            {
+              "name": "Cheesecake",
+              "price": 800,
+              "essential_ingredients": ["queso crema", "azúcar", "huevo", "harina"],
+              "allergy_info": ["gluten", "lactosa", "huevo"]
+            },
+            {
+              "name": "Selva Negra",
+              "price": 800,
+              "essential_ingredients": ["chocolate", "crema", "cerezas", "bizcocho"],
+              "allergy_info": ["gluten", "huevo", "lactosa"]
+           
+            }
+        ]
+      },
+      {
+          "category": "Bebidas alcohólicas",
+          "items": [
+            {
+              "name": "Mojito",
+              "price": 1200,
+              "essential_ingredients": ["ron", "hierbabuena", "azúcar", "soda"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Piña Colada",
+              "price": 1200,
+              "essential_ingredients": ["ron", "crema de coco", "jugo de piña"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Daiquiri",
+              "price": 1200,
+              "essential_ingredients": ["ron", "limón", "azúcar"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Havana Special",
+              "price": 1200,
+              "essential_ingredients": ["ron", "piña", "limón"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Cubalibre",
+              "price": 1200,
+              "essential_ingredients": ["ron", "cola", "limón"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Cubata",
+              "price": 1400,
+              "essential_ingredients": ["ron", "cola"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Caipiriña",
+              "price": 1200,
+              "essential_ingredients": ["cachaça", "azúcar", "limón"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Caipiroska",
+              "price": 1200,
+              "essential_ingredients": ["vodka", "azúcar", "limón"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Sangria",
+              "price": 1400,
+              "essential_ingredients": ["vino tinto", "frutas", "brandy"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Tinto de Verano",
+              "price": 1400,
+              "essential_ingredients": ["vino tinto", "soda"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Gin Tonic",
+              "price": 1600,
+              "essential_ingredients": ["gin", "agua tónica"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Vodka Tonic",
+              "price": 1600,
+              "essential_ingredients": ["vodka", "agua tónica"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Cubanito",
+              "price": 1200,
+              "essential_ingredients": ["ron", "tomate", "salsa inglesa"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Bloddy Mary",
+              "price": 1200,
+              "essential_ingredients": ["vodka", "tomate", "salsa inglesa"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Margarita",
+              "price": 1200,
+              "essential_ingredients": ["tequila", "limón", "triple sec"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Copa de Vino Tinto",
+              "price": 1200,
+              "essential_ingredients": ["vino tinto"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Copa de Vino Blanco",
+              "price": 1200,
+              "essential_ingredients": ["vino blanco"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Cervezas Nacionales",
+              "price": 600,
+              "essential_ingredients": ["cerveza"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Cervezas Importadas",
+              "price": 550,
+              "essential_ingredients": ["cerveza"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Michelada (Nacional)",
+              "price": 900,
+              "essential_ingredients": ["cerveza", "limón", "salsa inglesa"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Michelada (Importada)",
+              "price": 800,
+              "essential_ingredients": ["cerveza", "limón", "salsa inglesa"],
+              "allergy_info": ["alcohol"]
+            }
+          ]
+        },
+        {
+          "category": "Bebidas no alcohólicas",
+          "items": [
+            {
+              "name": "Agua Natural",
+              "price": 400,
+              "essential_ingredients": ["agua"],
+              "allergy_info": []
+            },
+            {
+              "name": "Agua Gaseada",
+              "price": 400,
+              "essential_ingredients": ["agua con gas"],
+              "allergy_info": []
+            },
+            {
+              "name": "Agua Tónica Nacional",
+              "price": 400,
+              "essential_ingredients": ["agua tónica"],
+              "allergy_info": []
+            },
+            {
+              "name": "Agua Tónica Importada",
+              "price": 600,
+              "essential_ingredients": ["agua tónica"],
+              "allergy_info": []
+            },
+            {
+              "name": "Refrescos Importados",
+              "price": 500,
+              "essential_ingredients": ["refresco"],
+              "allergy_info": []
+            },
+            {
+              "name": "Jugos Naturales",
+              "price": 400,
+              "essential_ingredients": ["frutas variadas"],
+              "allergy_info": []
+            },
+            {
+              "name": "Limonada Natural",
+              "price": 500,
+              "essential_ingredients": ["limón", "agua", "azúcar"],
+              "allergy_info": []
+            },
+            {
+              "name": "Limonada Frappe",
+              "price": 500,
+              "essential_ingredients": ["limón", "agua", "azúcar", "hielo"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Infusiones",
+          "items": [
+            {
+              "name": "Café Expreso",
+              "price": 300,
+              "essential_ingredients": ["café"],
+              "allergy_info": []
+            },
+            {
+              "name": "Café con Leche",
+              "price": 500,
+              "essential_ingredients": ["café", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Café Americano",
+              "price": 350,
+              "essential_ingredients": ["café"],
+              "allergy_info": []
+            },
+            {
+              "name": "Café Carajillo",
+              "price": 800,
+              "essential_ingredients": ["café", "licor"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Capuccino",
+              "price": 350,
+              "essential_ingredients": ["café", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Café Rocío de Gallo",
+              "price": 700,
+              "essential_ingredients": ["café", "leche condensada"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Café Cortado",
+              "price": 350,
+              "essential_ingredients": ["café", "leche"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        }
+      ]
+    }
+  }
+          

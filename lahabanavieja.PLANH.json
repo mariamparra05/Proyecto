@@ -1,0 +1,748 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["bar-restaurant"]
+    },
+    "name": "Planh Enoteca & Restaurante Mithai",
+    "cousine": ["Asiática", "Internacional", "Tailandesa"],
+    "description": "Disfruta de las experiencias que PlanH tiene para ti! La primera enoteca de Cuba con la más amplia colección de vinos en el país (más de 12 países representados y 240 tipos) que fusionan armónicamente con la carta menú de MiThai, nuestro Restaurante de comida tailandesa único en la isla. Catas de vinos, maridajes, Habanos, conciertos en vivo, realización de eventos (cenas, eventos personalizados, privados, corporativos) con el ambiente elegante y acogedor del espacio, hacen de nuestro local un lugar placentero y diferente en La Habana.",
+    "contact_info": {
+      "phone": 
+        {
+          "number": "78616212",
+          "type": "landline"
+        },
+        
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "Closed",
+        "close": "Closed"
+      },
+      "tuesday": {
+        "open": "11:30",
+        "close": "00:00"
+      },
+      "wednesday": {
+        "open": "11:30",
+        "close": "00:00"
+      },
+      "thursday": {
+        "open": "11:30",
+        "close": "00:00"
+      },
+      "friday": {
+        "open": "11:30",
+        "close": "00:00"
+      },
+      "saturday": {
+        "open": "11:30",
+        "close": "00:00"
+      },
+      "sunday": {
+        "open": "11:30",
+        "close": "00:00"
+      }
+    },
+    "address": "Prado 308 entre Ánimas y Virtudes, Habana Vieja, La Habana",
+    "municipality": "Habana Vieja",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "10% service charge",
+      "description": "A standard service fee applied to the bill.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Restaurante", "Bar", "Eventos"],
+      "local_options": ["Consumo en el lugar"],
+      "services": ["Sanitario", "Tiene bar"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": ["Se aceptan reservas"],
+      "children": false,
+      "pets": null,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": ["Reservas", "Capacidad", "Sirve alcohol", "Bar completo", "Servicio de mesa"],
+    "highlights": ["Aperitivos", "Agradable", "Informal", "Recomendable para ir en grupo"]
+  },
+  "menu": {
+    "categories": [
+      {
+        "category": "Desayunos",
+        "items": [
+          {
+            "name": "Vegetariano",
+            "price": 3030,
+            "essential_ingredients": ["vegetales", "huevos", "pan"],
+            "allergy_info": ["huevos", "gluten"]
+          },
+          {
+            "name": "Tropical",
+            "price": 3252,
+            "essential_ingredients": ["frutas", "huevos", "pan"],
+            "allergy_info": ["huevos", "gluten"]
+          },
+          {
+            "name": "Serrano",
+            "price": 4165,
+            "essential_ingredients": ["jamón serrano", "huevos", "pan"],
+            "allergy_info": ["huevos", "gluten"]
+          },
+          {
+            "name": "Frutas Frescas",
+            "price": 805,
+            "essential_ingredients": ["frutas variadas"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cesta de Pan Fresco ",
+            "price": 1650,
+            "essential_ingredients": ["pan", "mantequilla", "jugo"],
+            "allergy_info": ["gluten", "lactosa"]
+          }
+        ]
+      },
+      {
+        "category": " Tapas para picar",
+        "items": [
+          {
+            "name": "Ceviche de Pescado Plan H",
+            "price": 2000,
+            "essential_ingredients": ["pescado", "limón", "cebolla", "cilantro"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Tapache Serrano",
+            "price": 1900,
+            "essential_ingredients": ["jamón serrano", "queso"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Ceviche de Atún de Verano",
+            "price": 2382,
+            "essential_ingredients": ["atún", "limón", "cebolla", "cilantro"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Ceviche de Pulpo",
+            "price": 2450,
+            "essential_ingredients": ["pulpo", "limón", "cebolla", "cilantro"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Croquetas Plan H",
+            "price": 1000,
+            "essential_ingredients": ["harina", "leche", "jamón"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Brochetas de Pollo",
+            "price": 2300,
+            "essential_ingredients": ["pollo", "especias"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": " Para picar",
+        "items": [
+          {
+            "name": "Tapa de Pulpo a la Habanera",
+            "price": 2600,
+            "essential_ingredients": ["pulpo", "especias"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Mix de Casabe Crujiente",
+            "price": 2050,
+            "essential_ingredients": ["casabe", "especias"],
+            "allergy_info": ["gluten"]
+          }
+        ]
+      },
+      {
+        "category": "Ensaladas",
+        "items": [
+          {
+            "name": "Salachic",
+            "price": 1447,
+            "essential_ingredients": ["lechuga", "pollo", "queso", "aderezo"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Vegana",
+            "price": 765,
+            "essential_ingredients": ["vegetales variados", "aderezo"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Tablas Para compartir",
+        "items": [
+          {
+            "name": "Tabla de 5 Quesos",
+            "price": 3658,
+            "essential_ingredients": ["quesos variados"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Tabla Parrillera",
+            "price": 3320,
+            "essential_ingredients": ["carnes variadas", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Tabla Mixta Plan H",
+            "price": 4138,
+            "essential_ingredients": ["carnes variadas", "quesos variados"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Aceitunas Negras",
+            "price": 350,
+            "essential_ingredients": ["aceitunas negras"],
+            "allergy_info": []
+          },
+          {
+            "name": "Aceitunas Verdes",
+            "price": 250,
+            "essential_ingredients": ["aceitunas verdes"],
+            "allergy_info": []
+          },
+          {
+            "name": "Papas Fritas",
+            "price": 773,
+            "essential_ingredients": ["papas", "aceite"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Sugerencias del Chef",
+        "items": [
+          {
+            "name": "Pasta al Pesto Provenzal",
+            "price": 1615,
+            "essential_ingredients": ["pasta", "albahaca", "piñones", "queso parmesano"],
+            "allergy_info": ["gluten", "lactosa", "frutos secos"]
+          },
+          {
+            "name": "Pasta Bolognesa",
+            "price": 2400,
+            "essential_ingredients": ["pasta", "carne molida", "salsa de tomate"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Pasta con Salmón",
+            "price": 2976,
+            "essential_ingredients": ["pasta", "salmón", "especias"],
+            "allergy_info": ["gluten", "pescado"]
+          },
+          {
+            "name": "Pasta a la Amatriciana",
+            "price": 2600,
+            "essential_ingredients": ["pasta", "tocino", "salsa de tomate"],
+            "allergy_info": ["gluten"]
+          }
+        ]
+      },
+      {
+        "category": "Platos Principales",
+        "items": [
+          {
+            "name": "Pollo California",
+            "price": 2465,
+            "essential_ingredients": ["pollo", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Lomo de Res",
+            "price": 3350,
+            "essential_ingredients": ["res", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Atún Natural",
+            "price": 3500,
+            "essential_ingredients": ["atún", "especias"],
+            "allergy_info": ["pescado"]
+          }
+        ]
+      },
+      {
+        "category": "Bebidas Alcohólicas",
+        "items": [
+          {
+              "name": "I Heart Chardonnay",
+              "price": 875,
+              "essential_ingredients": ["uvas Chardonnay"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "I Heart Pinot Grigio",
+              "price": 875,
+              "essential_ingredients": ["uvas Pinot Grigio"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "I Heart Riesling",
+              "price": 875,
+              "essential_ingredients": ["uvas Riesling"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "Etcetera Rueda Verdejo 2022",
+              "price": 875,
+              "essential_ingredients": ["uvas Verdejo"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "Mapu Sauvignon Blanc",
+              "price": 875,
+              "essential_ingredients": ["uvas Sauvignon Blanc"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "I Heart Merlot",
+              "price": 875,
+              "essential_ingredients": ["uvas Merlot"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "Trapiche Vinyard Malbec 2021",
+              "price": 875,
+              "essential_ingredients": ["uvas Malbec"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "Finca del Mar Tempranillo 2019",
+              "price": 875,
+              "essential_ingredients": ["uvas Tempranillo"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "Freixenet Chianti",
+              "price": 875,
+              "essential_ingredients": ["uvas Chianti"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "Mapu Carmenere",
+              "price": 875,
+              "essential_ingredients": ["uvas Carmenere"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "Infinitus Tempranillo/Cabernet Franc",
+              "price": 945,
+              "essential_ingredients": ["uvas Tempranillo", "uvas Cabernet Franc"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "J. Bouchon Rose 2021",
+              "price": 1050,
+              "essential_ingredients": ["uvas variadas"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "Cava Mistinguett Brut",
+              "price": 945,
+              "essential_ingredients": ["uvas variadas"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "Cava Freixenet Rose",
+              "price": 875,
+              "essential_ingredients": ["uvas variadas"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "Cava Brut Cordon Negro Freixenet",
+              "price": 4650,
+              "essential_ingredients": ["uvas variadas"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "Freye Parellada Moscat 2022",
+              "price": 5600,
+              "essential_ingredients": ["uvas Parellada", "uvas Moscat"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "Enate Chardonnay 2021",
+              "price": 11230,
+              "essential_ingredients": ["uvas Chardonnay"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "Melior de Matarromera Verdejo 2021",
+              "price": 10517,
+              "essential_ingredients": ["uvas Verdejo"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "Emilio Moro 2019",
+              "price": 18467,
+              "essential_ingredients": ["uvas variadas"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "Melior de Matarromera Tempranillo 2020",
+              "price": 10517,
+              "essential_ingredients": ["uvas Tempranillo"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "Pazo Pondal Olivia Rose",
+              "price": 15090,
+              "essential_ingredients": ["uvas variadas"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "Lafage Gallicia 2019",
+              "price": 5320,
+              "essential_ingredients": ["uvas Gallicia"],
+              "allergy_info": ["sulfitos", "alcohol"]
+            },
+            {
+              "name": "Cerveza Cristal",
+              "price": 600,
+              "essential_ingredients": ["cebada", "lúpulo", "levadura", "agua"],
+              "allergy_info": ["gluten", "alcohol"]
+            },
+            {
+              "name": "Michelada",
+              "price": 700,
+              "essential_ingredients": ["cerveza", "salsa picante", "limón"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Chelada",
+              "price": 600,
+              "essential_ingredients": ["cerveza", "limón", "sal"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Cuba Libre",
+              "price": 800,
+              "essential_ingredients": ["ron", "cola", "limón"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Piña Colada",
+              "price": 1000,
+              "essential_ingredients": ["ron", "piña", "coco"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Mojito Natural",
+              "price": 850,
+              "essential_ingredients": ["ron", "menta", "limón"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Mojito Tonic",
+              "price": 1020,
+              "essential_ingredients": ["ron", "menta", "limón", "agua tónica"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Daiquirí",
+              "price": 850,
+              "essential_ingredients": ["ron", "limón", "azúcar"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Mimosas",
+              "price": 900,
+              "essential_ingredients": ["vino espumoso", "zumo de naranja"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ice on the Rock",
+              "price": 1325,
+              "essential_ingredients": ["vino espumoso", "hielo"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Aperol Spritz",
+              "price": 1450,
+              "essential_ingredients": ["Aperol", "vino espumoso", "soda"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Sangria Tonic Blanca",
+              "price": 1100,
+              "essential_ingredients": ["vino blanco", "frutas", "tónica"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Sangria Tinta",
+              "price": 1100,
+              "essential_ingredients": ["vino tinto", "frutas"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Sangria Tonic Tinta",
+              "price": 1592,
+              "essential_ingredients": ["vino tinto", "frutas", "tónica"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ginebra Beefeater y Agua Tónica",
+              "price": 950,
+              "essential_ingredients": ["ginebra Beefeater", "agua tónica"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ginebra Tanqueray y Agua Tónica",
+              "price": 1275,
+              "essential_ingredients": ["ginebra Tanqueray", "agua tónica"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ginebra Mare y Agua Tónica",
+              "price": 1275,
+              "essential_ingredients": ["ginebra Mare", "agua tónica"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ginebra Hendricks y Agua Tónica",
+              "price": 1645,
+              "essential_ingredients": ["ginebra Hendricks", "agua tónica"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Disaronno",
+              "price": 1215,
+              "essential_ingredients": ["licor de almendra"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Limoncello",
+              "price": 700,
+              "essential_ingredients": ["licor de limón"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Licor 43",
+              "price": 980,
+              "essential_ingredients": ["licor de vainilla"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Baileys",
+              "price": 910,
+              "essential_ingredients": ["licor de crema irlandesa"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Crema Barcelo",
+              "price": 780,
+              "essential_ingredients": ["licor de crema"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Licor de Café Pazo Pondal",
+              "price": 1180,
+              "essential_ingredients": ["licor de café"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Habana Club 3 Años",
+              "price": 392,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Habana Club Añejo Especial",
+              "price": 438,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Ron Ritual",
+              "price": 490,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Habana Club Añejo Reserva",
+              "price": 590,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Habana Club 7 Años",
+              "price": 791,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Habana Club Cuban Smoky",
+              "price": 1150,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Selección de Maestro",
+              "price": 2215,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Pacto Navio",
+              "price": 1900,
+              "essential_ingredients": ["ron"],
+              "allergy_info": ["alcohol"]
+          }
+        ]
+      },
+      {
+        "category": "Bebidas No Alcohólicas",
+        "items": [
+          {
+            "name": "Refresco Ritz Cola",
+            "price": 300,
+            "essential_ingredients": ["agua carbonatada", "azúcar", "aromas"],
+            "allergy_info": []
+          },
+          {
+            "name": "Refresco Ritz Naranja",
+            "price": 300,
+            "essential_ingredients": ["agua carbonatada", "azúcar", "aromas"],
+            "allergy_info": []
+          },
+          {
+            "name": "Limonada Frappé",
+            "price": 540,
+            "essential_ingredients": ["limón", "agua", "azúcar", "hielo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Limonada Frescura",
+            "price": 550,
+            "essential_ingredients": ["limón", "agua", "azúcar", "menta"],
+            "allergy_info": []
+          },
+          {
+            "name": "Jugo Natural",
+            "price": 498,
+            "essential_ingredients": ["frutas variadas"],
+            "allergy_info": []
+          },
+          {
+            "name": "Agua Natural Don Aguiar",
+            "price": 420,
+            "essential_ingredients": ["agua"],
+            "allergy_info": []
+          },
+          {
+            "name": "Agua Tónica ME",
+            "price": 584,
+            "essential_ingredients": ["agua carbonatada", "quinina", "azúcar"],
+            "allergy_info": []
+          },
+          {
+            "name": "Agua Ginger Ale",
+            "price": 650,
+            "essential_ingredients": ["agua carbonatada", "jengibre", "azúcar"],
+            "allergy_info": []
+          },
+          {
+            "name": "Redbull",
+            "price": 450,
+            "essential_ingredients": ["agua", "azúcar", "cafeína", "taurina"],
+            "allergy_info": ["alcohol"]
+          }
+        ]
+      },
+      {
+        "category": "Infusiones",
+        "items": [
+          {
+            "name": "Expresso",
+            "price": 260,
+            "essential_ingredients": ["café"],
+            "allergy_info": []
+          },
+          {
+            "name": "Americano",
+            "price": 260,
+            "essential_ingredients": ["café"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cortado",
+            "price": 350,
+            "essential_ingredients": ["café", "leche"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Café con Leche",
+            "price": 650,
+            "essential_ingredients": ["café", "leche"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Capuchino",
+            "price": 600,
+            "essential_ingredients": ["café", "leche", "nata"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Café Bombón",
+            "price": 670,
+            "essential_ingredients": ["café", "leche condensada"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Frapuchino",
+            "price": 630,
+            "essential_ingredients": ["café", "leche", "nata", "hielo"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Mocachino",
+            "price": 555,
+            "essential_ingredients": ["café", "leche", "chocolate"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Te",
+            "price": 150,
+            "essential_ingredients": ["té"],
+            "allergy_info": []
+          }
+        ]
+      }
+    ]
+  }
+}
+                       
+                      
+              
+
+
+
+

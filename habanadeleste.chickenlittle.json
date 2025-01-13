@@ -1,0 +1,503 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante"]
+    },
+    "name": "Chicken Little",
+    "cuisine": ["Criolla"],
+    "description": "La langosta es la comida más popular.",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "09:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "09:00",
+        "close": "23:00"
+      }
+    },
+    "address": "5ta. B y 5ta. C, 5B15 e 504, La Habana",
+    "municipality": "Habana del Este",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Transferencia", "Efectivo"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Tarifa de servicio 10%",
+      "description": "Se incluye un 10% del servicio en la cuenta.",
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [],
+      "local_options": [],
+      "services": [],
+      "ambience": [],
+      "usual_customers": [],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": true
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": [],
+    "highlights": []
+  },
+    "menu": {
+        "categories": [
+          {
+            "category": "Entrantes",
+            "items": [
+              {
+                "name": "Ensalada de pollo",
+                "price": 825.00,
+                "essential_ingredients": ["Pollo", "Lechuga", "Tomate"],
+                "allergy_info": []
+              },
+              {
+                "name": "Coctel de camaron",
+                "price": 1300.00,
+                "essential_ingredients": ["Camaron", "Salsa cocktail"],
+                "allergy_info": ["Mariscos"]
+              },
+              {
+                "name": "Coctel de langosta",
+                "price": 1300.00,
+                "essential_ingredients": ["Langosta", "Salsa cocktail"],
+                "allergy_info": ["Mariscos"]
+              },
+              {
+                "name": "Tabla surtida Chicken Little",
+                "price": 1995.00,
+                "essential_ingredients": ["Variedad de embutidos y quesos"],
+                "allergy_info": ["Lactosa"]
+              },
+              {
+                "name": "Crudo de pescado",
+                "price": 995.00,
+                "essential_ingredients": ["Pescado crudo"],
+                "allergy_info": ["Pescado"]
+              },
+              {
+                "name": "Sopa de pollo con fideos",
+                "price": 595.00,
+                "essential_ingredients": ["Pollo", "Fideos", "Caldo"],
+                "allergy_info": ["Gluten"]
+              },
+              {
+                "name": "Tostones rellenos",
+                "price": 895.00,
+                "essential_ingredients": ["Platano", "Relleno"],
+                "allergy_info": []
+              },
+              {
+                "name": "Tostones rellenos mixtos",
+                "price": 925.00,
+                "essential_ingredients": ["Platano", "Relleno mixto"],
+                "allergy_info": []
+              },
+              {
+                "name": "Tapas de pescado",
+                "price": 725.00,
+                "essential_ingredients": ["Pescado"],
+                "allergy_info": ["Pescado"]
+              },
+              {
+                "name": "Tapas mixtas",
+                "price": 995.00,
+                "essential_ingredients": ["Variedad de tapas"],
+                "allergy_info": []
+              }
+            ]
+          },
+          {
+            "category": "Plato principal",
+            "items": [
+              {
+                "name": "Pollo grille",
+                "price": 1650.00,
+                "essential_ingredients": ["Pollo", "Ajo", "Aceite"],
+                "allergy_info": []
+              },
+              {
+                "name": "Pollo al ajillo",
+                "price": 1795.00,
+                "essential_ingredients": ["Pollo", "Ajo", "Aceite"],
+                "allergy_info": []
+              },
+              {
+                "name": "Pollo salteado con pina",
+                "price": 1675.00,
+                "essential_ingredients": ["Pollo", "Pina", "Vegetales"],
+                "allergy_info": []
+              },
+              {
+                "name": "Pollo a la mostaza",
+                "price": 1795.00,
+                "essential_ingredients": ["Pollo", "Mostaza"],
+                "allergy_info": []
+              },
+              {
+                "name": "Suprema especial de pollo",
+                "price": 2150.00,
+                "essential_ingredients": ["Pollo", "Queso"],
+                "allergy_info": ["Lactosa"]
+              },
+              {
+                "name": "Pollo tropical",
+                "price": 2295.00,
+                "essential_ingredients": ["Pollo", "Frutas tropicales"],
+                "allergy_info": []
+              },
+              {
+                "name": "Pollo Princesa",
+                "price": 1995.00,
+                "essential_ingredients": ["Pollo", "Queso"],
+                "allergy_info": ["Lactosa"]
+              },
+              {
+                "name": "Pollo salteado con vegetales",
+                "price": 1795.00,
+                "essential_ingredients": ["Pollo", "Vegetales"],
+                "allergy_info": []
+              },
+              {
+                "name": "Filete de pescado grille",
+                "price": 1995.00,
+                "essential_ingredients": ["Pescado", "Ajo", "Aceite"],
+                "allergy_info": ["Pescado"]
+              },
+              {
+                "name": "Pescado con vegetales",
+                "price": 2095.00,
+                "essential_ingredients": ["Pescado", "Vegetales"],
+                "allergy_info": ["Pescado"]
+              },
+              {
+                "name": "Dados de pescado al ajillo",
+                "price": 2095.00,
+                "essential_ingredients": ["Pescado", "Ajo", "Aceite"],
+                "allergy_info": ["Pescado"]
+              },
+              {
+                "name": "Filete Jon Ville",
+                "price": 2795.00,
+                "essential_ingredients": ["Pescado", "Queso"],
+                "allergy_info": ["Pescado", "Lactosa"]
+              },
+              {
+                "name": "Filete Canciller",
+                "price": 2695.00,
+                "essential_ingredients": ["Pescado", "Queso"],
+                "allergy_info": ["Pescado", "Lactosa"]
+              },
+              {
+                "name": "Filete Costa Sur",
+                "price": 2795.00,
+                "essential_ingredients": ["Pescado", "Queso"],
+                "allergy_info": ["Pescado", "Lactosa"]
+              },
+              {
+                "name": "Filete Princesa",
+                "price": 2395.00,
+                "essential_ingredients": ["Pescado", "Queso"],
+                "allergy_info": ["Pescado", "Lactosa"]
+              },
+              {
+                "name": "Camaron grille",
+                "price": 2495.00,
+                "essential_ingredients": ["Camaron", "Ajo", "Aceite"],
+                "allergy_info": ["Mariscos"]
+              },
+              {
+                "name": "Camaron al ajillo",
+                "price": 2595.00,
+                "essential_ingredients": ["Camaron", "Ajo", "Aceite"],
+                "allergy_info": ["Mariscos"]
+              },
+              {
+                "name": "Camarones enchilados",
+                "price": 2595.00,
+                "essential_ingredients": ["Camaron", "Tomate", "Especias"],
+                "allergy_info": ["Mariscos"]
+              },
+              {
+                "name": "Camarones empanados",
+                "price": 2595.00,
+                "essential_ingredients": ["Camaron", "Harina"],
+                "allergy_info": ["Mariscos", "Gluten"]
+              },
+              {
+                "name": "Langosta grille",
+                "price": 2595.00,
+                "essential_ingredients": ["Langosta", "Ajo", "Aceite"],
+                "allergy_info": ["Mariscos"]
+              },
+              {
+                "name": "Langosta enchilada",
+                "price": 2595.00,
+                "essential_ingredients": ["Langosta", "Tomate", "Especias"],
+                "allergy_info": ["Mariscos"]
+              }
+          ]
+        },
+        {
+            "category": "Plato principal",
+            "items": [
+              {
+                "name": "Langosta al ajillo",
+                "price": 2595.00,
+                "essential_ingredients": ["Langosta", "Ajo", "Aceite"],
+                "allergy_info": ["Mariscos"]
+              },
+              {
+                "name": "Tres Delicias",
+                "price": 2900.00,
+                "essential_ingredients": ["Mariscos variados", "Especias"],
+                "allergy_info": ["Mariscos"]
+              },
+              {
+                "name": "Gran Plato del Mar",
+                "price": 3300.00,
+                "essential_ingredients": ["Mariscos variados", "Pescado"],
+                "allergy_info": ["Mariscos"]
+              },
+              {
+                "name": "Cazuela Marinera",
+                "price": 2995.00,
+                "essential_ingredients": ["Mariscos", "Pescado", "Especias"],
+                "allergy_info": ["Mariscos"]
+              },
+              {
+                "name": "Bistec Uruguayo",
+                "price": 2795.00,
+                "essential_ingredients": ["Carne de res", "Especias"],
+                "allergy_info": []
+              },
+              {
+                "name": "Bistec de cerdo grille",
+                "price": 2050.00,
+                "essential_ingredients": ["Cerdo", "Aceite"],
+                "allergy_info": []
+              },
+              {
+                "name": "Masas fritas",
+                "price": 2395.00,
+                "essential_ingredients": ["Cerdo", "Aceite"],
+                "allergy_info": []
+              },
+              {
+                "name": "Masas hawaianas",
+                "price": 2550.00,
+                "essential_ingredients": ["Cerdo", "Piña", "Especias"],
+                "allergy_info": []
+              },
+              {
+                "name": "Costillas de cerdo fritas",
+                "price": 1525.00,
+                "essential_ingredients": ["Cerdo", "Aceite"],
+                "allergy_info": []
+              }
+            ]
+          },
+          {
+            "category": "Acompañamientos",
+            "items": [
+              {
+                "name": "Ensalada mixta",
+                "price": 400.00,
+                "essential_ingredients": ["Lechuga", "Tomate", "Pepino"],
+                "allergy_info": []
+              },
+              {
+                "name": "Arroz blanco",
+                "price": 195.00,
+                "essential_ingredients": ["Arroz", "Sal", "Aceite"],
+                "allergy_info": []
+              },
+              {
+                "name": "Arroz moro",
+                "price": 295.00,
+                "essential_ingredients": ["Arroz", "Frijoles negros", "Ajo", "Aceite"],
+                "allergy_info": []
+              }
+            ]
+          },
+          {
+            "category": "Postres",
+            "items": [
+              {
+                "name": "Flan de caramelo",
+                "price": 325.00,
+                "essential_ingredients": ["Leche", "Huevos", "Azúcar"],
+                "allergy_info": ["Lactosa", "Huevo"]
+              },
+              {
+                "name": "Helados",
+                "price": 450.00,
+                "essential_ingredients": ["Leche", "Azúcar"],
+                "allergy_info": ["Lactosa"]
+              },
+              {
+                "name": "Copa Lolita",
+                "price": 550.00,
+                "essential_ingredients": ["Helado", "Galleta", "Sirope"],
+                "allergy_info": ["Lactosa", "Gluten"]
+              }
+            ]
+          },
+          {
+            "category": "Bebidas alcoholicas",
+            "items": [
+              {
+                "name": "Ron Havana Club 7 Años",
+                "price": 325.00,
+                "essential_ingredients": ["Ron"],
+                "allergy_info": []
+              },
+              {
+                "name": "Ballantine Finest",
+                "price": 800.00,
+                "essential_ingredients": ["Whisky"],
+                "allergy_info": []
+              },
+              {
+                "name": "Ballantine 12",
+                "price": 600.00,
+                "essential_ingredients": ["Whisky"],
+                "allergy_info": []
+              },
+              {
+                "name": "Cerveza Nacional",
+                "price": 345.00,
+                "essential_ingredients": ["Cerveza"],
+                "allergy_info": []
+              },
+              {
+                "name": "Cerveza Corona",
+                "price": 495.00,
+                "essential_ingredients": ["Cerveza"],
+                "allergy_info": []
+              },
+              {
+                "name": "Mojito",
+                "price": 395.00,
+                "essential_ingredients": ["Ron", "Hierbabuena", "Limon", "Azúcar", "Agua mineral"],
+                "allergy_info": []
+              },
+              {
+                "name": "Daiquiri",
+                "price": 400.00,
+                "essential_ingredients": ["Ron", "Limon", "Azúcar"],
+                "allergy_info": []
+              },
+              {
+                "name": "Cuba Libre",
+                "price": 450.00,
+                "essential_ingredients": ["Ron", "Refresco de cola", "Limon"],
+                "allergy_info": []
+              },
+              {
+                "name": "Gin Tonic",
+                "price": 525.00,
+                "essential_ingredients": ["Ginebra", "Agua tonica"],
+                "allergy_info": []
+              },
+              {
+                "name": "Caipiriña",
+                "price": 375.00,
+                "essential_ingredients": ["Cachaça", "Limon", "Azúcar"],
+                "allergy_info": []
+              },
+              {
+                "name": "Caipiroska",
+                "price": 650.00,
+                "essential_ingredients": ["Vodka", "Limon", "Azúcar"],
+                "allergy_info": []
+              }
+            ]
+          },
+          {
+            "category": "Bebidas no alcoholicas",
+            "items": [
+              {
+                "name": "Limonada Frappe",
+                "price": 650.00,
+                "essential_ingredients": ["Limón", "Hielo", "Azúcar"],
+                "allergy_info": []
+              },
+              {
+                "name": "Agua Nacional",
+                "price": 250.00,
+                "essential_ingredients": ["Agua"],
+                "allergy_info": []
+              },
+              {
+                "name": "Agua Tónica",
+                "price": 250.00,
+                "essential_ingredients": ["Agua tónica"],
+                "allergy_info": []
+              },
+              {
+                "name": "Sodas Nacionales",
+                "price": 325.00,
+                "essential_ingredients": ["Refresco"],
+                "allergy_info": []
+              },
+              {
+                "name": "Sodas Importadas",
+                "price": 350.00,
+                "essential_ingredients": ["Refresco"],
+                "allergy_info": []
+              },
+              {
+                "name": "Malta",
+                "price": 400.00,
+                "essential_ingredients": ["Malta"],
+                "allergy_info": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+    

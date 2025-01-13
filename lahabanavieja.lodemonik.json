@@ -1,0 +1,353 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["bar-restaurante"]
+    },
+    "cousine": "Lo de Monik",
+    "description": "Bar-restaurante con asientos al aire libre, ubicado en Compostela, esquina Chacón, Habana Vieja.",
+    "contact_info": {
+      "phone": {
+        "number": "052811595",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "11:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Compostela, esquina Chacón, Habana Vieja",
+    "municipality": "Habana Vieja",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Efectivo", "Transferencia"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "10% service charge",
+      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": true,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": ["Restaurante", "Bar"],
+      "local_options": ["Desayunos", "Almuerzo", "Cena", "Postres"],
+      "services": ["Sanitario", "Tiene bar"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": ["Se aceptan reservas"],
+      "children": null,
+      "pets": null,
+      "parking": null
+    },
+    "dietary_options": ["Opciones vegetarianas", "Opciones veganas", "Opciones sin gluten"],
+    "meals": ["Desayuno", "Comidas", "Cenas", "Brunch"],
+    "advantages": ["Para llevar", "Reservas", "Capacidad", "Sirve alcohol", "Bar completo", "Servicio de mesa"],
+    "highlights": ["Asientos al aire libre", "Aperitivos", "Buenos cócteles", "Agradable", "Informal", "Recomendable para ir en grupo"]
+  },
+  "menu": {
+    "categories": [
+      {
+        "category": "Entrantes",
+        "items": [
+          {
+            "name": "Yucas Bravas ",
+            "price": 600.00,
+            "essential_ingredients": ["yuca", "salsa picante"],
+            "allergy_info": []
+          },
+          {
+            "name": "Croquetas ",
+            "price": 560.00,
+            "essential_ingredients": ["harina", "leche", "jamón"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Tamal en Cazuela",
+            "price": 1500.00,
+            "essential_ingredients": ["maíz", "carne", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Tostones Rellenos de Jamón y Queso",
+            "price": 1100.00,
+            "essential_ingredients": ["plátanos verdes", "jamón", "queso"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Ropa Vieja",
+            "price": 1200.00,
+            "essential_ingredients": ["carne de res", "tomate", "pimientos", "cebolla"],
+            "allergy_info": []
+          },
+          {
+            "name": "Cerdo",
+            "price": 1300.00,
+            "essential_ingredients": ["cerdo", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Frituras de Malanga",
+            "price": 600.00,
+            "essential_ingredients": ["malanga", "harina", "especias"],
+            "allergy_info": ["gluten"]
+          }
+        ]
+      },
+      {
+        "category": "Pasta",
+        "items": [
+          {
+            "name": "Pasta Napolitana",
+            "price": 1700.00,
+            "essential_ingredients": ["pasta", "salsa de tomate"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Pasta de Pollo con Salsa Alfredo",
+            "price": 2000.00,
+            "essential_ingredients": ["pasta", "pollo", "salsa Alfredo"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Pasta Frutti di Mare",
+            "price": 2300.00,
+            "essential_ingredients": ["pasta", "mariscos", "salsa"],
+            "allergy_info": ["gluten", "mariscos"]
+          }
+        ]
+      },
+      {
+        "category": "Tacos",
+        "items": [
+          {
+            "name": "Vegetales ",
+            "price": 1200.00,
+            "essential_ingredients": ["tortilla", "vegetales"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Pollo ",
+            "price": 1500.00,
+            "essential_ingredients": ["tortilla", "pollo"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Cerdo ",
+            "price": 2200.00,
+            "essential_ingredients": ["tortilla", "cerdo"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Ropa Vieja ",
+            "price": 2000.00,
+            "essential_ingredients": ["tortilla", "carne de res"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Camarón ",
+            "price": 3000.00,
+            "essential_ingredients": ["tortilla", "camarones"],
+            "allergy_info": ["gluten", "mariscos"]
+          },
+          {
+            "name": "Pescado ",
+            "price": 2300.00,
+            "essential_ingredients": ["tortilla", "pescado"],
+            "allergy_info": ["gluten", "pescado"]
+          },
+          {
+            "name": "Punta de Filete",
+            "price": 3800.00,
+            "essential_ingredients": ["tortilla", "carne de res"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Langosta ",
+            "price": 2200.00,
+            "essential_ingredients": ["tortilla", "langosta"],
+            "allergy_info": ["gluten", "mariscos"]
+          },
+          {
+            "name": "Pulpo",
+            "price": 2500.00,
+            "essential_ingredients": ["tortilla", "pulpo"],
+            "allergy_info": ["gluten", "mariscos"]
+          }
+        ]
+      },
+      {
+        "category": "Principales ",
+        "items": [
+          {
+            "name": "Pollo Grillado",
+            "price": 1500.00,
+            "essential_ingredients": ["pollo", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Camarón Grillado ",
+            "price": 3000.00,
+            "essential_ingredients": ["camarones", "especias"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Ropa Vieja",
+            "price": 2000.00,
+            "essential_ingredients": ["carne de res", "tomate", "pimientos", "cebolla"],
+            "allergy_info": []
+          },
+          {
+            "name": "Ropa Vieja con Garbanzos",
+            "price": 2400.00,
+            "essential_ingredients": ["carne de res", "garbanzos", "tomate", "pimientos", "cebolla"],
+            "allergy_info": []
+          },
+          {
+            "name": "Pescado Empanado ",
+            "price": 2500.00,
+            "essential_ingredients": ["pescado", "harina", "papas"],
+            "allergy_info": ["pescado", "gluten"]
+          },
+          {
+            "name": "Masas de Cerdo ",
+            "price": 2800.00,
+            "essential_ingredients": ["cerdo", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Pescado Grillado",
+            "price": 2300.00,
+            "essential_ingredients": ["pescado", "especias"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Pulpo Grillado",
+            "price": 3800.00,
+            "essential_ingredients": ["pulpo", "especias"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Langosta",
+            "price": 3000.00,
+            "essential_ingredients": ["langosta", "especias"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Punta de Filete a la Deutch",
+            "price": 3800.00,
+            "essential_ingredients": ["carne de res", "especias"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+       
+                "category": "Guarniciones",
+                "items": [
+                  {
+                    "name": "Side Dish",
+                    "price": 300.00,
+                    "essential_ingredients": ["ingredientes variados"],
+                    "allergy_info": []
+                  }
+                ]
+              },
+              {
+                "category": "Postres",
+                "items": [
+                  {
+                    "name": "Postre de la Casa ",
+                    "price": 600.00,
+                    "essential_ingredients": ["ingredientes variados"],
+                    "allergy_info": []
+                  }
+                ]
+              },
+              {
+                "category": "Desayuno",
+                "items": [
+                  {
+                    "name": "Huevos, Tostadas, Jamón, Vegetales, Jugo, Café",
+                    "price": 1800.00,
+                    "essential_ingredients": ["huevos", "pan", "jamón", "vegetales", "jugo", "café"],
+                    "allergy_info": ["huevos", "gluten"]
+                  }
+                ]
+              },
+              {
+                "category": "Sandwich",
+                "items": [
+                  {
+                    "name": "Sandwich de Vegetales",
+                    "price": 850.00,
+                    "essential_ingredients": ["pan", "vegetales"],
+                    "allergy_info": ["gluten"]
+                  },
+                  {
+                    "name": "Sandwich de Jamón y Queso",
+                    "price": 1000.00,
+                    "essential_ingredients": ["pan", "jamón", "queso"],
+                    "allergy_info": ["gluten", "lactosa"]
+                  },
+                  {
+                    "name": "Sandwich de Pollo",
+                    "price": 1500.00,
+                    "essential_ingredients": ["pan", "pollo"],
+                    "allergy_info": ["gluten"]
+                  },
+                  {
+                    "name": "Sandwich de Atún",
+                    "price": 1000.00,
+                    "essential_ingredients": ["pan", "atún"],
+                    "allergy_info": ["gluten", "pescado"]
+                  },
+                  {
+                    "name": "Sandwich Cubano",
+                    "price": 2000.00,
+                    "essential_ingredients": ["pan", "jamón", "cerdo", "queso"],
+                    "allergy_info": ["gluten", "lactosa"]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+        
+       

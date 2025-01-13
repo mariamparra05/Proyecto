@@ -1,0 +1,382 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Bar"]
+      },
+      "name": "Bar Tropicana",
+      "cuisine": [],
+      "description": null,
+      "contact_info": {
+        "phone": {
+          "number": "7279147",
+          "type": "landline"
+        },
+        "email": null,
+        "website": "Cabaret-Tropicana.com"
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        "tuesday": {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        "wednesday": {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        "thursday": {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        "friday": {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        "saturday": {
+          "open": "12:00",
+          "close": "22:00"
+        },
+        "sunday": {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      },
+      "address": "72A, Avenida 41",
+      "municipality": "Marianao",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Efectivo", "Transferencia"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Tarifa de servicio 10%",
+        "description": "Se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": [],
+        "ambience": [],
+        "usual_customers": [],
+        "planning": [],
+        "children": null,
+        "pets": null,
+        "parking": null
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },
+            "menu": {
+              "categories": [
+                {
+                  "category": "Bebidas No Alcohólicas",
+                  "items": [
+                    {
+                      "name": "Aguas Nacionales",
+                      "price": 100.00,
+                      "essential_ingredients": ["Agua"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Agua Saborizada",
+                      "price": 100.00,
+                      "essential_ingredients": ["Agua", "Saborizantes"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Agua Natural",
+                      "price": 100.00,
+                      "essential_ingredients": ["Agua"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Refresco",
+                      "price": 60.00,
+                      "essential_ingredients": ["Refresco"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Jugos De Frutas En Conserva",
+                      "price": 100.00,
+                      "essential_ingredients": ["Jugo de frutas"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Jugos De Frutas Naturales",
+                      "price": 100.00,
+                      "essential_ingredients": ["Jugo de frutas"],
+                      "allergy_info": []
+                    }
+                  ]
+                },
+                {
+                  "category": "Bebidas Alcohólicas",
+                  "items": [
+                    {
+                      "name": "Cervezas Nacionales O Importadas",
+                      "price": 200.00,
+                      "essential_ingredients": ["Cerveza"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Cerveza Dispensada",
+                      "price": 160.00,
+                      "essential_ingredients": ["Cerveza"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Copa De Vino De La Casa",
+                      "price": 300.00,
+                      "essential_ingredients": ["Vino"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Havana Club 3 Años",
+                      "price": 100.00,
+                      "essential_ingredients": ["Ron"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Especial Havana Club",
+                      "price": 120.00,
+                      "essential_ingredients": ["Ron"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Havana Club 7 Años",
+                      "price": 320.00,
+                      "essential_ingredients": ["Ron"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Havana Club Pacto Navio",
+                      "price": 730.00,
+                      "essential_ingredients": ["Ron"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Havana Club Seleccion De Maestros",
+                      "price": 750.00,
+                      "essential_ingredients": ["Ron"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Aguardiente Gobernador",
+                      "price": 14300.00,
+                      "essential_ingredients": ["Aguardiente"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Chiva Regal 12 Años",
+                      "price": 995.00,
+                      "essential_ingredients": ["Whisky"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Ballentinees Finest",
+                      "price": 500.00,
+                      "essential_ingredients": ["Whisky"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "J&B",
+                      "price": 650.00,
+                      "essential_ingredients": ["Whisky"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Johnnie Walker Etiqueta Roja",
+                      "price": 550.00,
+                      "essential_ingredients": ["Whisky"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Jameson",
+                      "price": 650.00,
+                      "essential_ingredients": ["Whisky"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "VAT",
+                      "price": 580.00,
+                      "essential_ingredients": ["Whisky"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Tequila 3 Sombreros",
+                      "price": 300.00,
+                      "essential_ingredients": ["Tequila"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Vodka Igor",
+                      "price": 395.00,
+                      "essential_ingredients": ["Vodka"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Brandy Napoleón",
+                      "price": 190.00,
+                      "essential_ingredients": ["Brandy"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Cremas Y Licores (Cacao)",
+                      "price": 85.00,
+                      "essential_ingredients": ["Licor de crema", "Cacao"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Cremas Y Licores (Café)",
+                      "price": 85.00,
+                      "essential_ingredients": ["Licor de crema", "Café"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Cremas Y Licores (Menta)",
+                      "price": 85.00,
+                      "essential_ingredients": ["Licor de crema", "Menta"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Cremas Y Licores (Marrasquino)",
+                      "price": 85.00,
+                      "essential_ingredients": ["Licor de crema", "Marrasquino"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Cremas Y Licores (Triple Sec)",
+                      "price": 85.00,
+                      "essential_ingredients": ["Licor de crema", "Triple sec"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Cremas Y Licores (Curacao Azul)",
+                      "price": 85.00,
+                      "essential_ingredients": ["Licor de crema", "Curacao azul"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Cremas Y Licores (Piña)",
+                      "price": 85.00,
+                      "essential_ingredients": ["Licor de crema", "Piña"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Daiquiri Natural",
+                      "price": 450.00,
+                      "essential_ingredients": ["Ron", "Limon", "Azucar"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Daiquiri Frapeado Natural",
+                      "price": 450.00,
+                      "essential_ingredients": ["Ron", "Limon", "Azucar"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Cuba Libre",
+                      "price": 730.00,
+                      "essential_ingredients": ["Ron", "Refresco de cola", "Limon"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Cubata",
+                      "price": 700.00,
+                      "essential_ingredients": ["Ron", "Refresco de cola", "Limon"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Daiquiri Mulata",
+                      "price": 620.00,
+                      "essential_ingredients": ["Ron", "Limon", "Azucar"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Daiquiri Saborizado",
+                      "price": 450.00,
+                      "essential_ingredients": ["Ron", "Limon", "Azucar", "Saborizantes"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Gin Cola",
+                      "price": 750.00,
+                      "essential_ingredients": ["Gin", "Refresco de cola"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Gin Tonic",
+                      "price": 785.00,
+                      "essential_ingredients": ["Gin", "Agua tónica"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Ron Tonic",
+                      "price": 550.00,
+                      "essential_ingredients": ["Ron", "Agua tónica"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Vodka Cola",
+                      "price": 600.00,
+                      "essential_ingredients": ["Vodka", "Refresco de cola"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Vodka Tónica",
+                      "price": 650.00,
+                      "essential_ingredients": ["Vodka", "Agua tónica"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Whisky Cola",
+                      "price": 500.00,
+                      "essential_ingredients": ["Whisky", "Refresco de cola"],
+                      "allergy_info": []
+                    },
+                    {
+                        "name": "Tropicana Special",
+                        "price": 450.00,
+                        "essential_ingredients": ["Variedad de ingredientes"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Cocteles Internacionales",
+                        "price": 500.00,
+                        "essential_ingredients": ["Variedad de ingredientes"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Canchánchara",
+                        "price": 450.00,
+                        "essential_ingredients": ["Ron", "Limon", "Miel"],
+                        "allergy_info": []
+                      },
+                      {
+                        "name": "Piña Colada",
+                        "price": 450.00,
+                        "essential_ingredients": ["Ron", "Coco", "Piña"],
+                        "allergy_info": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+            

@@ -1,0 +1,560 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Restaurant"]
+      },
+      "name": "El Ajiaco",
+      "cuisine": ["Criolla"],
+      "description": null,
+      "contact_info": {
+        "phone": {
+          "number": "77650514",
+          "type": "landline"
+        },
+        "email": null,
+        "website": null
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "tuesday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "wednesday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "thursday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "friday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "saturday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "sunday": {
+          "open": "12:00",
+          "close": "00:00"
+        }
+      },
+      "address": "esquina de calle Los Pinos y Cuba, Cojimar",
+      "municipality": "Habana del Este",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Tarjeta", "Efectivo (MN o moneda extranjera)"],
+      "delivery_available": true,
+      "delivery_areas": ["Habana del Este", "Guanabacoa"],
+      "service_fee": {
+        "name": "Tarifa de servicio 10%",
+        "description": "Se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": true,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": [],
+        "ambience": [],
+        "usual_customers": [],
+        "planning": [],
+        "children": null,
+        "pets": null,
+        "parking": true
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },
+            "menu": {
+              "categories": [
+                {
+                  "category": "Entrantes",
+                  "items": [
+                    {
+                      "name": "Ceviche de pescado",
+                      "price": 890.00,
+                      "essential_ingredients": ["Pescado", "Limon", "Cebolla", "Cilantro"],
+                      "allergy_info": ["Pescado"]
+                    },
+                    {
+                      "name": "Coctel de camarones",
+                      "price": 1200.00,
+                      "essential_ingredients": ["Camaron", "Salsa cocktail"],
+                      "allergy_info": ["Mariscos"]
+                    },
+                    {
+                      "name": "Coctel de langosta",
+                      "price": 990.00,
+                      "essential_ingredients": ["Langosta", "Salsa cocktail"],
+                      "allergy_info": ["Mariscos"]
+                    },
+                    {
+                      "name": "Escabache de pescado con aderezo de aceitunas y cebolla",
+                      "price": 990.00,
+                      "essential_ingredients": ["Pescado", "Aceitunas", "Cebolla", "Vinagre"],
+                      "allergy_info": ["Pescado"]
+                    },
+                    {
+                      "name": "Pulpo fresco en vinagreta de cilantro y pimenton",
+                      "price": 1350.00,
+                      "essential_ingredients": ["Pulpo", "Cilantro", "Pimenton", "Vinagre"],
+                      "allergy_info": ["Mariscos"]
+                    },
+                    {
+                      "name": "Ajiaco cubano con dados de tamal y corona de ropa vieja",
+                      "price": 390.00,
+                      "essential_ingredients": ["Ajiaco", "Tamal", "Ropa vieja"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Sopa crema de malanga con sofritos de ajo",
+                      "price": 650.00,
+                      "essential_ingredients": ["Malanga", "Ajo", "Leche"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Garbanzos fritos del chef",
+                      "price": 1470.00,
+                      "essential_ingredients": ["Garbanzos", "Aceite", "Especias"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Croquetas caseras del dia",
+                      "price": 490.00,
+                      "essential_ingredients": ["Harina", "Leche", "Huevo", "Pan rallado"],
+                      "allergy_info": ["Gluten", "Lactosa", "Huevo"]
+                    },
+                    {
+                      "name": "Tostones rellenos con ropa vieja",
+                      "price": 990.00,
+                      "essential_ingredients": ["Platano", "Ropa vieja"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Tostones rellenos con jamon y queso",
+                      "price": 990.00,
+                      "essential_ingredients": ["Platano", "Jamon", "Queso"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Tostones rellenos mixtos",
+                      "price": 990.00,
+                      "essential_ingredients": ["Platano", "Variedad de rellenos"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Cartucho de frituras de malanga",
+                      "price": 490.00,
+                      "essential_ingredients": ["Malanga", "Harina", "Aceite"],
+                      "allergy_info": ["Gluten"]
+                    },
+                    {
+                      "name": "Tamal en cazuela con chorizo y cerdo o camarones",
+                      "price": 1200.00,
+                      "essential_ingredients": ["Tamal", "Chorizo", "Cerdo", "Camaron"],
+                      "allergy_info": ["Mariscos"]
+                    },
+                    {
+                      "name": "Tamal en hoja en monteria de cerdo",
+                      "price": 890.00,
+                      "essential_ingredients": ["Tamal", "Cerdo"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Tamal en hoja con salsa chirnichurri",
+                      "price": 420.00,
+                      "essential_ingredients": ["Tamal", "Salsa chimichurri"],
+                      "allergy_info": []
+                    }
+                ]
+              },
+              {
+                  "category": "Plato principal",
+                  "items": [
+                    {
+                      "name": "Pasta de queso",
+                      "price": 790.00,
+                      "essential_ingredients": ["Pasta", "Queso"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    },
+                    {
+                      "name": "Pasta de jamon",
+                      "price": 1150.00,
+                      "essential_ingredients": ["Pasta", "Jamon"],
+                      "allergy_info": ["Gluten"]
+                    },
+                    {
+                      "name": "Pizza de queso",
+                      "price": 1250.00,
+                      "essential_ingredients": ["Masa de pizza", "Queso"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    },
+                    {
+                      "name": "Pizza de jamon",
+                      "price": 1550.00,
+                      "essential_ingredients": ["Masa de pizza", "Queso", "Jamon"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    },
+                    {
+                      "name": "Pizza de camarones",
+                      "price": 1990.00,
+                      "essential_ingredients": ["Masa de pizza", "Queso", "Camarones"],
+                      "allergy_info": ["Gluten", "Lactosa", "Mariscos"]
+                    },
+                    {
+                      "name": "Pizza hawaiana",
+                      "price": 1490.00,
+                      "essential_ingredients": ["Masa de pizza", "Queso", "Jamon", "Pina"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    },
+                    {
+                      "name": "Pizza de ropa vieja y platanos maduros fritos",
+                      "price": 1890.00,
+                      "essential_ingredients": ["Masa de pizza", "Ropa vieja", "Platanos maduros fritos"],
+                      "allergy_info": ["Gluten"]
+                    },
+                    {
+                      "name": "Arroz a la cubana",
+                      "price": 590.00,
+                      "essential_ingredients": ["Arroz", "Platanos maduros", "Huevo"],
+                      "allergy_info": ["Huevo"]
+                    },
+                    {
+                      "name": "Arroz a la marinera",
+                      "price": 2200.00,
+                      "essential_ingredients": ["Arroz", "Mariscos"],
+                      "allergy_info": ["Mariscos"]
+                    },
+                    {
+                      "name": "Arroz a la campesina",
+                      "price": 1690.00,
+                      "essential_ingredients": ["Arroz", "Pollo", "Vegetales"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Arroz con pollo en bano de cerveza",
+                      "price": 1650.00,
+                      "essential_ingredients": ["Arroz", "Pollo", "Cerveza"],
+                      "allergy_info": ["Gluten"]
+                    },
+                    {
+                      "name": "Pescado fresco del dia con salteado de albahaca, tomate y ajo",
+                      "price": 1890.00,
+                      "essential_ingredients": ["Pescado", "Albahaca", "Tomate", "Ajo"],
+                      "allergy_info": ["Pescado"]
+                    },
+                    {
+                      "name": "Eperlan o minutas de pescado con mayonesa",
+                      "price": 1890.00,
+                      "essential_ingredients": ["Pescado", "Mayonesa"],
+                      "allergy_info": ["Pescado", "Huevo"]
+                    },
+                    {
+                      "name": "Cazuela mixta del mar",
+                      "price": 2450.00,
+                      "essential_ingredients": ["Mariscos"],
+                      "allergy_info": ["Mariscos"]
+                    },
+                    {
+                      "name": "Filete de pescado al estilo canciller",
+                      "price": 2200.00,
+                      "essential_ingredients": ["Pescado", "Especias"],
+                      "allergy_info": ["Pescado"]
+                    },
+                    {
+                      "name": "Pulpo estofado en vino tinto y salsa criolla",
+                      "price": 2980.00,
+                      "essential_ingredients": ["Pulpo", "Vino tinto", "Salsa criolla"],
+                      "allergy_info": ["Mariscos"]
+                    },
+                    {
+                      "name": "Camaron grille",
+                      "price": 2190.00,
+                      "essential_ingredients": ["Camaron", "Ajo", "Aceite"],
+                      "allergy_info": ["Mariscos"]
+                    },
+                    {
+                      "name": "Camarones cocidos en aceite, ajo y guindillas",
+                      "price": 2400.00,
+                      "essential_ingredients": ["Camaron", "Ajo", "Guindillas"],
+                      "allergy_info": ["Mariscos"]
+                    },
+                    {
+                      "name": "Langosta cocida en aceite, ajo y guindillas",
+                      "price": 2450.00,
+                      "essential_ingredients": ["Langosta", "Ajo", "Guindillas"],
+                      "allergy_info": ["Mariscos"]
+                    },
+                    {
+                      "name": "Langosta al ron en salsa criolla",
+                      "price": 2400.00,
+                      "essential_ingredients": ["Langosta", "Ron", "Salsa criolla"],
+                      "allergy_info": ["Mariscos"]
+                    },
+                    {
+                      "name": "Suprema de pollo grille",
+                      "price": 1400.00,
+                      "essential_ingredients": ["Pollo", "Ajo", "Aceite"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Fricase de pollo al estilo campesino",
+                      "price": 1690.00,
+                      "essential_ingredients": ["Pollo", "Tomate", "Especias"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Suprema de pollo relleno con jamon y queso",
+                      "price": 1750.00,
+                      "essential_ingredients": ["Pollo", "Jamon", "Queso"],
+                      "allergy_info": ["Lactosa"]
+                    },
+                    {
+                      "name": "Bistec de cerdo",
+                      "price": 1450.00,
+                      "essential_ingredients": ["Cerdo", "Especias"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Masas de cerdo fritas con marinado de ajo y oregano",
+                      "price": 2490.00,
+                      "essential_ingredients": ["Cerdo", "Ajo", "Oregano"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Patas de cerdo cocidas en salsa criolla",
+                      "price": 1050.00,
+                      "essential_ingredients": ["Cerdo", "Salsa criolla"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Cerdo empanado y relleno con jamon y queso",
+                      "price": 1890.00,
+                      "essential_ingredients": ["Cerdo", "Jamon", "Queso"],
+                      "allergy_info": ["Gluten", "Lactosa"]
+                    },
+                    {
+                      "name": "Escalopes de cerdo empanados",
+                      "price": 1390.00,
+                      "essential_ingredients": ["Cerdo", "Harina", "Huevo", "Pan rallado"],
+                      "allergy_info": ["Gluten", "Huevo"]
+                    },
+                    {
+                      "name": "Ropa vieja de la casa",
+                      "price": 1690.00,
+                      "essential_ingredients": ["Res", "Cebolla", "Pimientos", "Tomate"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Chilindron de carnero",
+                      "price": 2150.00,
+                      "essential_ingredients": ["Carnero", "Tomate", "Especias"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Estofado de res",
+                      "price": 1790.00,
+                      "essential_ingredients": ["Res", "Especias"],
+                      "allergy_info": []
+                    }
+                ]
+              },
+              {
+              
+                "category": "Acompañamientos",
+                "items": [
+                  {
+                    "name": "Arroz blanco",
+                    "price": 290.00,
+                    "essential_ingredients": ["Arroz", "Sal", "Aceite"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Moros y cristianos",
+                    "price": 380.00,
+                    "essential_ingredients": ["Arroz", "Frijoles negros", "Ajo", "Aceite"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Vegetales frescos, marinados, salteados",
+                    "price": 290.00,
+                    "essential_ingredients": ["Vegetales", "Aceite"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Frijoles negros dormidos",
+                    "price": 350.00,
+                    "essential_ingredients": ["Frijoles negros", "Ajo", "Aceite"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Seleccion de viandas con mojo del dia",
+                    "price": 290.00,
+                    "essential_ingredients": ["Variedad de viandas", "Mojo"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Pure de viandas",
+                    "price": 250.00,
+                    "essential_ingredients": ["Variedad de viandas", "Leche"],
+                    "allergy_info": ["Lactosa"]
+                  },
+                  {
+                    "name": "Vianda frita",
+                    "price": 350.00,
+                    "essential_ingredients": ["Vianda", "Aceite"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Tamal en hoja",
+                    "price": 210.00,
+                    "essential_ingredients": ["Tamal"],
+                    "allergy_info": []
+                  }
+                ]
+              },
+              {
+                "category": "Postres",
+                "items": [
+                  {
+                    "name": "Helados",
+                    "price": 550.00,
+                    "essential_ingredients": ["Leche", "Azúcar"],
+                    "allergy_info": ["Lactosa"]
+                }
+            ]
+          },
+          {
+                "category": "Bebidas alcohólicas",
+                "items": [
+                  {
+                    "name": "Mojito Ajiaco",
+                    "price": 350.00,
+                    "essential_ingredients": ["Ron", "Hierbabuena", "Limon", "Azucar", "Agua mineral"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Mojito Clasico",
+                    "price": 350.00,
+                    "essential_ingredients": ["Ron", "Hierbabuena", "Limon", "Azucar", "Agua mineral"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Cuba Libre",
+                    "price": 350.00,
+                    "essential_ingredients": ["Ron", "Refresco de cola", "Limon"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Daiquiri",
+                    "price": 350.00,
+                    "essential_ingredients": ["Ron", "Limon", "Azucar"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Caipirina",
+                    "price": 350.00,
+                    "essential_ingredients": ["Cachaça", "Limon", "Azucar"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Sangria",
+                    "price": 380.00,
+                    "essential_ingredients": ["Vino tinto", "Frutas", "Refresco de limon"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Pina colada",
+                    "price": 650.00,
+                    "essential_ingredients": ["Ron", "Coco", "Pina"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Cerveza nacional",
+                    "price": 350.00,
+                    "essential_ingredients": ["Cerveza"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Copa de vino de la casa",
+                    "price": 390.00,
+                    "essential_ingredients": ["Vino"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Ginebra",
+                    "price": 250.00,
+                    "essential_ingredients": ["Ginebra"],
+                    "allergy_info": []
+                  }
+                ]
+              },
+              {
+                "category": "Bebidas no alcohólicas",
+                "items": [
+                  {
+                    "name": "Jugos naturales",
+                    "price": 220.00,
+                    "essential_ingredients": ["Jugo"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Limonada natural o frappe",
+                    "price": 220.00,
+                    "essential_ingredients": ["Limon", "Azucar", "Hielo"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Energizante",
+                    "price": 280.00,
+                    "essential_ingredients": ["Bebida energetica"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Malta",
+                    "price": 300.00,
+                    "essential_ingredients": ["Malta"],
+                    "allergy_info": []
+                  }
+                ]
+              },
+              {
+                "category": "Infusiones",
+                "items": [
+                  {
+                    "name": "Cafe expreso",
+                    "price": 180.00,
+                    "essential_ingredients": ["Cafe"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Te",
+                    "price": 120.00,
+                    "essential_ingredients": ["Te"],
+                    "allergy_info": []
+               
+                  }
+                ]
+              }
+            ]
+          }
+        }
+        

@@ -1,0 +1,671 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["bar-restaurant"]
+    },
+    "name": "JAMA Asian Food",
+    "cousine": ["Japonesa", "Sushi", "Asiática"],
+    "description": "Restaurante de comida asiática con un toque original de Japón, especializado en sushi y otras delicias asiáticas. Ubicado en el corazón de La Habana Vieja.",
+    "contact_info": {
+      "phone": {
+          "number": "+53 52970745",
+          "type": "mobile"
+        },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "00:00"
+      }
+    },
+    "address": "Calle Aguiar No 251 B entre OReilly y Empedrado, Habana Vieja",
+    "municipality": "Habana Vieja",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["cash", "bank_transfer"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "10% service charge",
+      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": ["Restaurante", "Bar"],
+      "local_options": ["Almuerzo", "Cena", "Postres"],
+      "services": ["Sanitario", "Tiene bar"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": ["Se aceptan reservas"],
+      "children": false,
+      "parking": null
+    },
+    "dietary_options": ["Opciones vegetarianas", "Opciones veganas", "Opciones sin gluten"],
+    "meals": ["Comidas", "Cenas"],
+    "advantages": ["Para llevar", "Reservas", "Capacidad", "Sirve alcohol", "Bar completo", "Servicio de mesa"],
+    "highlights": ["Aperitivos", "Buenos cócteles", "Agradable", "Informal", "Recomendable para ir en grupo"]
+  },
+  "menu": {
+    "categories": [
+      {
+        "category": "Entrantes",
+        "items": [
+          {
+            "name": "Huevo de Codorniz",
+            "price": 1200,
+            "essential_ingredients": ["huevo de codorniz"],
+            "allergy_info": ["huevos"]
+          },
+          {
+            "name": "Tostas de Ceviche",
+            "price": 2100,
+            "essential_ingredients": ["pescado", "limón", "cebolla", "tostada"],
+            "allergy_info": ["pescado", "gluten"]
+          },
+          {
+            "name": "Gyozas",
+            "price": 1300,
+            "essential_ingredients": ["harina", "carne", "vegetales"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Croquetas de Pescado",
+            "price": 1000,
+            "essential_ingredients": ["pescado", "harina", "leche"],
+            "allergy_info": ["pescado", "gluten", "lactosa"]
+          },
+          {
+            "name": "Rollitos de Primavera",
+            "price": 1200,
+            "essential_ingredients": ["harina", "vegetales"],
+            "allergy_info": ["gluten"]
+          }
+        ]
+      },
+      {
+        "category": "Sopas",
+        "items": [
+          {
+            "name": "Sopa Fukushima",
+            "price": 1800,
+            "essential_ingredients": ["caldo", "vegetales", "fideos"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Sopa de Pollo Bruce Lee",
+            "price": 1700,
+            "essential_ingredients": ["caldo de pollo", "fideos", "pollo"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Sopa de Mariscos",
+            "price": 2000,
+            "essential_ingredients": ["caldo", "mariscos"],
+            "allergy_info": ["mariscos"]
+          }
+        ]
+      },
+      {
+        "category": "Ramen",
+        "items": [
+          {
+            "name": "Ramen de Cerdo",
+            "price": 2300,
+            "essential_ingredients": ["fideos ramen", "cerdo", "caldo"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Ramen de Mariscos",
+            "price": 2500,
+            "essential_ingredients": ["fideos ramen", "mariscos", "caldo"],
+            "allergy_info": ["gluten", "mariscos"]
+          }
+        ]
+      },
+      {
+        "category": "Sushis",
+        "items": [
+          {
+            "name": "Dinamita Roll (10 Piezas)",
+            "price": 2300,
+            "essential_ingredients": ["arroz", "alga nori", "atún", "salsa"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Ceviche Roll (10 Piezas)",
+            "price": 2300,
+            "essential_ingredients": ["arroz", "alga nori", "ceviche"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Huevo de Codorniz (10 Piezas)",
+            "price": 2100,
+            "essential_ingredients": ["arroz", "alga nori", "huevo de codorniz"],
+            "allergy_info": ["huevos"]
+          },
+          {
+            "name": "California Roll (10 Piezas)",
+            "price": 2300,
+            "essential_ingredients": ["arroz", "alga nori", "aguacate", "cangrejo"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "New York Roll (10 Piezas)",
+            "price": 2300,
+            "essential_ingredients": ["arroz", "alga nori", "salmón", "aguacate"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Kappa Mari Roll (10 Piezas)",
+            "price": 2000,
+            "essential_ingredients": ["arroz", "alga nori", "pepino", "sésamo"],
+            "allergy_info": ["semillas"]
+          },
+          {
+            "name": "Tempura Roll Atún y Cebollino (10 Piezas)",
+            "price": 2300,
+            "essential_ingredients": ["arroz", "alga nori", "atún", "cebollino"],
+            "allergy_info": ["pescado", "gluten"]
+          },
+          {
+            "name": "Tempura Roll Pollo Caramelizado (10 Piezas)",
+            "price": 2300,
+            "essential_ingredients": ["arroz", "alga nori", "pollo", "salsa caramelizada"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Varadero Roll (10 Piezas)",
+            "price": 2300,
+            "essential_ingredients": ["arroz", "alga nori", "mariscos"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Salmón Roll (10 Piezas)",
+            "price": 2300,
+            "essential_ingredients": ["arroz", "alga nori", "salmón"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Batei Kyojin (10 Piezas)",
+            "price": 2300,
+            "essential_ingredients": ["arroz", "alga nori", "mariscos", "salsa"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Tempura Roll de Langosta (10 Piezas)",
+            "price": 2300,
+            "essential_ingredients": ["arroz", "alga nori", "langosta"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Niguiri del Día (4 Piezas)",
+            "price": 1800,
+            "essential_ingredients": ["arroz", "pescado del día"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Sashimi",
+            "price": 3000,
+            "essential_ingredients": ["pescado", "salsa de soja"],
+            "allergy_info": ["pescado", "soja"]
+          },
+          {
+            "name": "Cubanito Roll",
+            "price": 1800,
+            "essential_ingredients": ["arroz", "alga nori", "carne de cerdo", "salsa"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+                "category": "Platos Principales",
+                "items": [
+                  {
+                    "name": "Wrap Thai Spicy",
+                    "price": 3000,
+                    "essential_ingredients": ["pollo", "vegetales", "salsa picante", "tortilla"],
+                    "allergy_info": ["gluten"]
+                  },
+                  {
+                    "name": "Pollo con Curry Thai",
+                    "price": 2600,
+                    "essential_ingredients": ["pollo", "curry thai", "leche de coco", "vegetales"],
+                    "allergy_info": ["lactosa"]
+                  },
+                  {
+                    "name": "Arroz Frito de la Casa (2 PAX)",
+                    "price": 3000,
+                    "essential_ingredients": ["arroz", "huevos", "vegetales", "salsa de soja"],
+                    "allergy_info": ["huevos", "soja"]
+                  },
+                  {
+                    "name": "Tacos de Pork Belly 4U/N",
+                    "price": 2800,
+                    "essential_ingredients": ["pork belly", "tortilla", "salsa"],
+                    "allergy_info": ["gluten"]
+                  },
+                  {
+                    "name": "Filete de Pescado Grille",
+                    "price": 2800,
+                    "essential_ingredients": ["pescado", "especias", "aceite"],
+                    "allergy_info": ["pescado"]
+                  },
+                  {
+                    "name": "Garbanzos del Mar",
+                    "price": 2500,
+                    "essential_ingredients": ["garbanzos", "mariscos", "especias"],
+                    "allergy_info": ["mariscos"]
+                  },
+                  {
+                    "name": "Pasta de Pollo",
+                    "price": 2500,
+                    "essential_ingredients": ["pasta", "pollo", "salsa"],
+                    "allergy_info": ["gluten"]
+                  },
+                  {
+                    "name": "Pasta de Vegetales",
+                    "price": 2200,
+                    "essential_ingredients": ["pasta", "vegetales", "salsa"],
+                    "allergy_info": ["gluten"]
+                  },
+                  {
+                    "name": "Pasta de Mariscos",
+                    "price": 3200,
+                    "essential_ingredients": ["pasta", "mariscos", "salsa"],
+                    "allergy_info": ["gluten", "mariscos"]
+                  },
+                  {
+                    "name": "Langosta Grille",
+                    "price": 3200,
+                    "essential_ingredients": ["langosta", "especias", "aceite"],
+                    "allergy_info": ["mariscos"]
+                  },
+                  {
+                    "name": "Tacos de Langostas",
+                    "price": 3200,
+                    "essential_ingredients": ["langosta", "tortilla", "salsa"],
+                    "allergy_info": ["mariscos", "gluten"]
+                  },
+                  {
+                    "name": "Tuna Tataki",
+                    "price": 3000,
+                    "essential_ingredients": ["atún", "salsa de soja", "jengibre"],
+                    "allergy_info": ["pescado", "soja"]
+                  },
+                  {
+                    "name": "Arroz Meloso de Mariscos",
+                    "price": 3200,
+                    "essential_ingredients": ["arroz", "mariscos", "caldo"],
+                    "allergy_info": ["mariscos"]
+                  },
+                  {
+                    "name": "Arroz Meloso de Ternera",
+                    "price": 2800,
+                    "essential_ingredients": ["arroz", "ternera", "caldo"],
+                    "allergy_info": []
+                  }
+                ]
+              },
+              {
+                "category": "Desserts",
+                "items": [
+                  {
+                    "name": "Postre",
+                    "price": 800,
+                    "essential_ingredients": ["variedad de ingredientes según el postre"],
+                    "allergy_info": []
+                  }
+                ]
+              },
+              {
+                "category": "Bebidas Alcohólicas",
+                "items": [
+                  {
+                    "name": "Gin Special Industriales",
+                    "price": 1200,
+                    "essential_ingredients": ["ginebra", "tónica", "especias"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Gin Tonic Regular",
+                    "price": 900,
+                    "essential_ingredients": ["ginebra", "tónica", "limón"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Ginebra Master, Rodaja de Limón, Curacao Azul, Agua Schweppes",
+                    "price": 900,
+                    "essential_ingredients": ["ginebra", "limón", "Curacao Azul", "agua tónica"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Bloody Mary Hot Special",
+                    "price": 900,
+                    "essential_ingredients": ["vodka", "jugo de tomate", "salsa picante"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Habana Londres",
+                    "price": 1200,
+                    "essential_ingredients": ["ron", "limón", "marrasquino", "ginebra"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Bloody Mary Samurai",
+                    "price": 1000,
+                    "essential_ingredients": ["vodka", "jugo de tomate", "salsa picante"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Ron, Azúcar, Limón, Marrasquino, Ginebra Beefeater",
+                    "price": 1000,
+                    "essential_ingredients": ["ron", "azúcar", "limón", "marrasquino", "ginebra"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Bloody Mary Cesar Premium",
+                    "price": 1000,
+                    "essential_ingredients": ["vodka", "jugo de tomate", "salsa picante"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Negroni",
+                    "price": 1000,
+                    "essential_ingredients": ["gin", "vermut", "Campari"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Red Point",
+                    "price": 1200,
+                    "essential_ingredients": ["gin", "vermut", "limón"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Screwdriver",
+                    "price": 900,
+                    "essential_ingredients": ["vodka", "jugo de naranja"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Ginebra Tanqueray, Ají Cachucha, Gotas de Bitter Rojo",
+                    "price": 900,
+                    "essential_ingredients": ["ginebra", "ají cachucha", "bitter"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Sangría",
+                    "price": 900,
+                    "essential_ingredients": ["vino tinto", "frutas", "brandy"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Caipirinha",
+                    "price": 900,
+                    "essential_ingredients": ["cachaça", "limón", "azúcar"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Sweet Jabalí",
+                    "price": 1200,
+                    "essential_ingredients": ["ron", "frutas", "especias"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Caipiroska",
+                    "price": 900,
+                    "essential_ingredients": ["vodka", "limón", "azúcar"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Ginebra Gordon, Rama de Canela, Cereza, Agua Schweppes",
+                    "price": 900,
+                    "essential_ingredients": ["ginebra", "canela", "cereza", "agua tónica"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Gin Mo",
+                    "price": 1200,
+                    "essential_ingredients": ["ginebra", "agua tónica", "pepino"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Martini",
+                    "price": 900,
+                    "essential_ingredients": ["gin", "vermut"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Ginebra Gordon, Azúcar, Agua Schweppes, Jugo de Limón, Yerba Buena, Gotas de Angostura",
+                    "price": 900,
+                    "essential_ingredients": ["ginebra", "azúcar", "agua tónica", "jugo de limón", "yerba buena", "angostura"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Black Russian",
+                    "price": 900,
+                    "essential_ingredients": ["vodka", "licor de café"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "White Russian",
+                    "price": 900,
+                    "essential_ingredients": ["vodka", "licor de café", "crema"],
+                    "allergy_info": ["alcohol", "lactosa"]
+                  },
+                  {
+                    "name": "Ice Baby",
+                    "price": 1200,
+                    "essential_ingredients": ["vodka", "licor", "especias"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Manhattan",
+                    "price": 900,
+                    "essential_ingredients": ["whisky", "vermut"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Ginebra Bombay Sapphire, Agua Schweppes, Vainilla en Ramas, Enebro",
+                    "price": 900,
+                    "essential_ingredients": ["ginebra", "agua tónica", "vainilla", "enebro"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Margaret Thatcher",
+                    "price": 1200,
+                    "essential_ingredients": ["whisky", "licor", "especias"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Kentucky Mojito",
+                    "price": 900,
+                    "essential_ingredients": ["bourbon", "menta", "limón", "azúcar"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Andrey's JagerMojito",
+                    "price": 900,
+                    "essential_ingredients": ["Jägermeister", "menta", "limón", "azúcar"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Ginebra Beefeater 24, Cointreau, Zumo de Limón",
+                    "price": 900,
+                    "essential_ingredients": ["ginebra", "Cointreau", "zumo de limón"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Jimmy Hendrick's",
+                    "price": 1500,
+                    "essential_ingredients": ["ginebra Hendrick's", "pétalos de rosa", "pepino", "enebro", "agua tónica"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Piña Colada",
+                    "price": 900,
+                    "essential_ingredients": ["ron", "piña", "coco"],
+                    "allergy_info": ["alcohol", "lactosa"]
+                  },
+                  {
+                    "name": "Ginebra Hendrick's, Pétalos de Rosa, Pepino, Enebro, Agua Schweppes",
+                    "price": 1500,
+                    "essential_ingredients": ["ginebra Hendrick's", "pétalos de rosa", "pepino", "enebro", "agua tónica"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Cubata",
+                    "price": 900,
+                    "essential_ingredients": ["ron", "refresco de cola"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Copa de Vino Tinto",
+                    "price": 900,
+                    "essential_ingredients": ["uva", "levadura", "sulfitos"],
+                    "allergy_info": ["sulfitos", "alcohol"]
+                  },
+                  {
+                    "name": "Copa de Vino Blanco",
+                    "price": 900,
+                    "essential_ingredients": ["uva", "levadura", "sulfitos"],
+                    "allergy_info": ["sulfitos", "alcohol"]
+                  },
+                  {
+                    "name": "Cuba Libre",
+                    "price": 900,
+                    "essential_ingredients": ["ron", "refresco de cola", "limón"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Daiquiri",
+                    "price": 900,
+                    "essential_ingredients": ["ron", "limón", "azúcar"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Daiquiri de Frutas Naturales",
+                    "price": 950,
+                    "essential_ingredients": ["ron", "frutas", "azúcar"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Cubanito",
+                    "price": 900,
+                    "essential_ingredients": ["ron", "jugo de tomate", "limón", "salsa inglesa"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Ron Collins",
+                    "price": 900,
+                    "essential_ingredients": ["ron", "limón", "agua con gas"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Habana Special",
+                    "price": 900,
+                    "essential_ingredients": ["ron", "piña", "azúcar"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Canchánchara",
+                    "price": 900,
+                    "essential_ingredients": ["ron", "miel", "limón"],
+                    "allergy_info": ["alcohol"]
+                  },
+                  {
+                    "name": "Mojito de Frutas",
+                    "price": 950,
+                    "essential_ingredients": ["ron", "frutas", "menta", "limón"],
+                    "allergy_info": ["alcohol"]
+                  }
+                ]
+              },
+              {
+                "category": "Bebidas No Alcohólicas",
+                "items": [
+                  {
+                    "name": "Nacional",
+                    "price": 500,
+                    "essential_ingredients": ["agua carbonatada", "azúcar", "aroma"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Importado",
+                    "price": 600,
+                    "essential_ingredients": ["agua carbonatada", "azúcar", "aroma"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Nacional",
+                    "price": 400,
+                    "essential_ingredients": ["agua"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Importada",
+                    "price": 600,
+                    "essential_ingredients": ["agua"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Naturales",
+                    "price": 600,
+                    "essential_ingredients": ["frutas", "agua"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Limonada",
+                    "price": 800,
+                    "essential_ingredients": ["limón", "agua", "azúcar"],
+                    "allergy_info": []
+                  },
+                  {
+                    "name": "Limonada Hierba Buena",
+                    "price": 850,
+                    "essential_ingredients": ["limón", "agua", "azúcar", "hierba buena"],
+                    "allergy_info": []
+                  }
+                ]
+              }
+            ]
+          }
+        }
+        
+                 
+               

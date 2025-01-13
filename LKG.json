@@ -1,0 +1,227 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Restaurante"]
+      },
+      "name": "LKG",
+      "cuisine": ["Caribeña"],
+      "description": null,
+      "contact_info": {
+        "phone": {
+          "number": null,
+          "type": null
+        },
+        "email": null,
+        "website": null
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "tuesday": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "wednesday": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "thursday": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "friday": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "saturday": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "sunday": {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      },
+      "address": "La Lisa",
+      "municipality": "La Lisa",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": "23.070410939396403",
+        "longitude": "-82.45756089679794"
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": null
+      },
+      "accepted_payment_methods": ["Efectivo", "Transferencia"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Ninguno",
+        "description": "No se incluye un 10% del servicio en la cuenta.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": [],
+        "local_options": [],
+        "services": [],
+        "ambience": [],
+        "usual_customers": [],
+        "planning": [],
+        "children": null,
+        "pets": null,
+        "parking": false
+      },
+      "dietary_options": [],
+      "meals": [],
+      "advantages": [],
+      "highlights": []
+    },  
+            "menu": {
+              "categories": [
+                {
+                  "category": "Platos Principales",
+                  "items": [
+                    {
+                      "name": "Bistec",
+                      "price": 900,
+                      "essential_ingredients": ["carne"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Fricase",
+                      "price": 900,
+                      "essential_ingredients": ["carne"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Pollo",
+                      "price": 1200,
+                      "essential_ingredients": ["pollo"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Cangrejo",
+                      "price": 550,
+                      "essential_ingredients": ["cangrejo"],
+                      "allergy_info": ["mariscos"]
+                    },
+                    {
+                      "name": "Arroz Frito",
+                      "price": 600,
+                      "essential_ingredients": ["arroz"],
+                      "allergy_info": []
+                    },
+                    {
+                      "name": "Langosta",
+                      "price": 1400,
+                      "essential_ingredients": ["langosta"],
+                      "allergy_info": ["mariscos"]
+                    },
+                    {
+                      "name": "Rueda de Pescado",
+                      "price": 950,
+                      "essential_ingredients": ["pescado"],
+                      "allergy_info": ["mariscos"]
+                    },
+                    {
+                      "name": "Pescado Entero",
+                      "price": 950,
+                      "essential_ingredients": ["pescado"],
+                      "allergy_info": ["mariscos"]
+                    },
+                    {
+                      "name": "Pizza de Jamón",
+                      "price": 300,
+                      "essential_ingredients": ["jamón"],
+                      "allergy_info": ["gluten"]
+                    },
+                    {
+                      "name": "Pizza de Queso",
+                      "price": 200,
+                      "essential_ingredients": ["queso"],
+                      "allergy_info": ["gluten", "lactosa"]
+                    },
+                    {
+                      "name": "Pizza de Doble Queso",
+                      "price": 250,
+                      "essential_ingredients": ["queso"],
+                      "allergy_info": ["gluten", "lactosa"]
+                    },
+                    {
+                      "name": "Pizza de Queso Gouda",
+                      "price": 250,
+                      "essential_ingredients": ["queso gouda"],
+                      "allergy_info": ["gluten", "lactosa"]
+                    }
+                  ]
+                },
+                {
+                  "category": "Bebidas",
+                  "groups": [
+                    {
+                      "group": "Agua",
+                      "items": [
+                        {
+                          "name": "Agua Mineral",
+                          "price": 150,
+                          "essential_ingredients": ["agua"],
+                          "allergy_info": []
+                        }
+                      ]
+                    },
+                    {
+                      "group": "Refrescos",
+                      "items": [
+                        {
+                          "name": "Refresco Importado",
+                          "price": 230,
+                          "essential_ingredients": ["refresco"],
+                          "allergy_info": []
+                        }
+                      ]
+                    },
+                    {
+                      "group": "Batidos",
+                      "items": [
+                        {
+                          "name": "Batido de Frutas",
+                          "price": 235,
+                          "essential_ingredients": ["frutas"],
+                          "allergy_info": ["lactosa"]
+                        }
+                      ]
+                    },
+                    {
+                      "group": "Bebidas Alcohólicas",
+                      "items": [
+                        {
+                          "name": "Cerveza",
+                          "price": 250,
+                          "essential_ingredients": ["cerveza"],
+                          "allergy_info": ["gluten"]
+                        }
+                      ]
+                    },
+                    {
+                      "group": "Café",
+                      "items": [
+                        {
+                          "name": "Expresso",
+                          "price": 20,
+                          "essential_ingredients": ["café"],
+                          "allergy_info": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+ 

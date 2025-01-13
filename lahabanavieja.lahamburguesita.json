@@ -1,0 +1,321 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["restaurante"]
+      },
+      "name": "La Hamburguesita",
+      "cousine": ["Americana", "Comida rápida"],
+      "description": "Hamburgers... Hamburguesas",
+      "contact_info": {
+        "phone": {
+          "number": null,
+          "type": null
+        },
+        "email": null,
+        "website": null
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "tuesday": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "wednesday": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "thursday": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "friday": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "saturday": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "sunday": {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      },
+      "address": "Calle Cienfuegos entre Apodaca y Gloria, Habana Vieja",
+      "municipality": "Habana Vieja",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "social_media": {
+        "instagram": "https://www.instagram.com/hamburguesitala?igsh=MTRob3FmdGF5bGlvYg==",
+        "facebook": null
+      },
+      "accepted_payment_methods": ["efectivo", "transferencia"],
+      "delivery_available": false,
+      "service_fee": {
+        "name": null,
+        "description": null,
+        "applies": false
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": true,
+        "offers": ["Hamburguesas"],
+        "local_options": ["Cena"],
+        "services": [],
+        "ambience": ["Informal"],
+        "usual_customers": ["Grupos", "Menores"],
+        "planning": [],
+        "children": true,
+        "pets": false,
+        "parking": null
+      },
+      "dietary_options": [],
+      "meals": ["Cena"],
+      "advantages": ["Para llevar", "Consumo en el lugar"],
+      "highlights": ["Informal", "Ideal para ir con niños", "Recomendable para ir en grupo"]
+    },
+    "menu": {
+      "categories": [
+        {
+          "category": "Hamburguesas",
+          "items": [
+            {
+              "name": "Clásica",
+              "price": 550,
+              "essential_ingredients": ["hamburguesa 120 g"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Hawaiana",
+              "price": 650,
+              "essential_ingredients": ["hamburguesa 120 g", "piña", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Casa blanca",
+              "price": 700,
+              "essential_ingredients": ["hamburguesa 120 g", "salchicha", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Submarino",
+              "price": 670,
+              "essential_ingredients": ["hamburguesa 120 g", "doble queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Belleza habanera",
+              "price": 700,
+              "essential_ingredients": ["hamburguesa 120 g", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Locura cienfueguera",
+              "price": 800,
+              "essential_ingredients": ["hamburguesa 120 g", "jamón", "queso", "huevo"],
+              "allergy_info": ["gluten", "lactosa", "huevo"]
+            },
+            {
+              "name": "Biplanta",
+              "price": 850,
+              "essential_ingredients": ["hamburguesa 240 g", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Cubana",
+              "price": 950,
+              "essential_ingredients": ["hamburguesa 120 g", "lomo 120 g", "queso", "salsa picante"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Milanesa",
+              "price": 950,
+              "essential_ingredients": ["hamburguesa 120 g", "suprema de pollo empanada 120 g", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Sandwiches",
+          "items": [
+            {
+              "name": "Pollo",
+              "price": 450,
+              "essential_ingredients": ["pan de hamburguesa", "pollo", "aros de cebolla"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Jamón",
+              "price": 400,
+              "essential_ingredients": ["pan de hamburguesa", "doble jamón"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Queso",
+              "price": 400,
+              "essential_ingredients": ["pan de hamburguesa", "doble queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Jamón y queso",
+              "price": 500,
+              "essential_ingredients": ["pan de hamburguesa", "jamón", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Atún",
+              "price": 750,
+              "essential_ingredients": ["pan de hamburguesa", "atún 90 g", "aros de cebolla"],
+              "allergy_info": ["gluten", "pescado"]
+            },
+            {
+              "name": "Cubano",
+              "price": 750,
+              "essential_ingredients": ["pan de hamburguesa", "queso", "lomo de cerdo ahumado", "salsa picante"],
+              "allergy_info": ["gluten", "lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Picaderas",
+          "items": [
+            {
+              "name": "Croquetas",
+              "price": 350,
+              "essential_ingredients": ["croquetas"],
+              "allergy_info": []
+            },
+            {
+              "name": "Frituras de malanga",
+              "price": 350,
+              "essential_ingredients": ["malanga"],
+              "allergy_info": []
+            },
+            {
+              "name": "Tostones hawaianos",
+              "price": 400,
+              "essential_ingredients": ["tostones"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Jugos",
+          "items": [
+            {
+              "name": "Jugos naturales",
+              "price": 150,
+              "essential_ingredients": ["jugos naturales"],
+              "allergy_info": []
+            },
+            {
+              "name": "Batidos de frutas",
+              "price": 200,
+              "essential_ingredients": ["frutas"],
+              "allergy_info": []
+            },
+            {
+              "name": "Limonada frape",
+              "price": 200,
+              "essential_ingredients": ["limón", "hielo"],
+              "allergy_info": []
+            },
+            {
+              "name": "Malteada",
+              "price": 350,
+              "essential_ingredients": ["malteada"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Malta",
+              "price": 280,
+              "essential_ingredients": ["malta"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Refrescos",
+          "items": [
+            {
+              "name": "Refresco nacional",
+              "price": 250,
+              "essential_ingredients": ["refresco"],
+              "allergy_info": []
+            },
+            {
+              "name": "Refresco importado",
+              "price": 280,
+              "essential_ingredients": ["refresco"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Cervezas",
+          "items": [
+            {
+              "name": "Cervezas nacionales",
+              "price": 280,
+              "essential_ingredients": ["cerveza"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Cervezas importadas",
+              "price": 250,
+              "essential_ingredients": ["cerveza"],
+              "allergy_info": ["alcohol"]
+            }
+          ]
+        },
+        {
+          "category": "Energizante",
+          "items": [
+            {
+              "name": "Energizante",
+              "price": 280,
+              "essential_ingredients": ["bebida energética"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Agua",
+          "items": [
+            {
+              "name": "Agua natural",
+              "price": 150,
+              "essential_ingredients": ["agua"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Infusiones",
+          "items": [
+            {
+              "name": "Cafe expreso",
+              "price": 100,
+              "essential_ingredients": ["café"],
+              "allergy_info": []
+            },
+            {
+              "name": "Cafe bombom",
+              "price": 150,
+              "essential_ingredients": ["café"],
+              "allergy_info": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+    

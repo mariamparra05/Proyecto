@@ -1,0 +1,559 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["bar-restaurante"]
+    },
+    "name": "ChaChaChá",
+    "cousine": ["Internacional, Fusión, Cubana"],
+    "description": "Bar Restaurante en La Habana Vieja con una propuesta culinaria que fusiona la comida cubana tradicional.",
+    "contact_info": {
+      "phone": {
+        "number": "078672450",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "00:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "00:00"
+      }
+    },
+    "address": "Monserrate # 159 e/ Tejadillo y Chacón, Habana Vieja",
+    "municipality": "Habana Vieja",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": [],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "10% service charge",
+      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": ["Restaurante", "Bar"],
+      "local_options": ["Almuerzo", "Cena", "Postres"],
+      "services": ["Sanitario", "Tiene bar", "Música en directo"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": ["Se aceptan reservas"],
+      "children": null,
+      "pets": null,
+      "parking": ["Hay suficiente espacio", "Estacionamiento gratuito", "Estacionamiento pagado en la calle"]
+    },
+    "dietary_options": ["Opciones vegetarianas", "Opciones veganas"],
+    "meals": ["Comidas", "Cenas"],
+    "advantages": ["Reservas", "Capacidad", "Aparcamiento en la calle", "Sirve alcohol", "Bar completo", "Servicio de mesa", "Para llevar"],
+    "highlights": ["Aperitivos", "Buenos cócteles", "Agradable", "Informal", "Recomendable para ir en grupo"]
+  },
+  "menu": {
+    "categories": [
+      {
+        "category": "Entrantes",
+        "items": [
+          {
+            "name": "Ceviche de la Casa",
+            "price": 3050,
+            "essential_ingredients": ["pescado", "limón", "cilantro"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Carpaccio de Pulpo con Vinagreta de Cítricos",
+            "price": 3850,
+            "essential_ingredients": ["pulpo", "cítricos", "aceite de oliva"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Tiradito de Pez con Chicharrita",
+            "price": 3050,
+            "essential_ingredients": ["pez", "chicharrón", "limón"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Carpaccio de Res con Rúcula y Aceite de Trufa",
+            "price": 4450,
+            "essential_ingredients": ["res", "rúcula", "aceite de trufa"],
+            "allergy_info": []
+          },
+          {
+            "name": "Carpaccio de Atún Rojo",
+            "price": 4100,
+            "essential_ingredients": ["atún", "aceite de oliva", "limón"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Pan y Mantequilla",
+            "price": 1150,
+            "essential_ingredients": ["pan", "mantequilla"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Croquetas Braseadas de Pollo",
+            "price": 2250,
+            "essential_ingredients": ["pollo", "harina", "huevos", "pan rallado"],
+            "allergy_info": ["gluten", "huevos"]
+          },
+          {
+            "name": "Crema de Calabaza, Betabel y Parmesano",
+            "price": 1800,
+            "essential_ingredients": ["calabaza", "betabel", "queso parmesano"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Tacos ChaChaChá",
+            "price": 2700,
+            "essential_ingredients": ["tortilla", "carne", "salsa"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Empanadillas de Carne BBQ",
+            "price": 2250,
+            "essential_ingredients": ["carne", "masa", "salsa BBQ"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Tabla de Jamón Serrano, Salami y Quesos",
+            "price": 5700,
+            "essential_ingredients": ["jamón serrano", "salami", "queso"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Sashimi Ahumado",
+            "price": 4100,
+            "essential_ingredients": ["pescado ahumado", "soya"],
+            "allergy_info": ["pescado", "soya"]
+          },
+          {
+            "name": "Tartar de Res",
+            "price": 4450,
+            "essential_ingredients": ["res", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Tartar de Atún",
+            "price": 4100,
+            "essential_ingredients": ["atún", "soya"],
+            "allergy_info": ["pescado", "soya"]
+          }
+        ]
+      },
+      {
+        "category": "Ensaladas",
+        "items": [
+          {
+            "name": "Jorrin",
+            "price": 3050,
+            "essential_ingredients": ["lechuga", "tomate", "aderezo"],
+            "allergy_info": []
+          },
+          {
+            "name": "César con Pollo y Bacon",
+            "price": 3850,
+            "essential_ingredients": ["lechuga", "pollo", "bacon", "queso parmesano", "aderezo César"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "ChaChaChá",
+            "price": 3850,
+            "essential_ingredients": ["lechuga", "queso", "aderezo"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Mixta de Salmón",
+            "price": 3850,
+            "essential_ingredients": ["salmón", "lechuga", "aderezo"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Griega",
+            "price": 3400,
+            "essential_ingredients": ["queso feta", "aceitunas", "tomate", "pepino"],
+            "allergy_info": ["lactosa"]
+          }
+        ]
+      },
+      {
+        "category": "Pastas",
+        "items": [
+          {
+            "name": "Salsa Boloñesa",
+            "price": 3850,
+            "essential_ingredients": ["pasta", "carne molida", "salsa de tomate"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Camarón, Curry y Pimienta Rosa",
+            "price": 4100,
+            "essential_ingredients": ["pasta", "camarón", "curry", "pimienta rosa"],
+            "allergy_info": ["gluten", "mariscos"]
+          },
+          {
+            "name": "Salsa Alfredo",
+            "price": 3850,
+            "essential_ingredients": ["pasta", "crema", "queso parmesano"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Salsa Funghi con Pollo y Trufa",
+            "price": 4450,
+            "essential_ingredients": ["pasta", "pollo", "champiñones", "trufa"],
+            "allergy_info": ["gluten"]
+          },
+          {
+            "name": "Salsa Carbonara Trufada",
+            "price": 4150,
+            "essential_ingredients": ["pasta", "tocino", "crema", "queso parmesano", "trufa"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Salsa Bisque al Fruti D'Mare",
+            "price": 4900,
+            "essential_ingredients": ["pasta", "mariscos", "salsa bisque"],
+            "allergy_info": ["gluten", "mariscos"]
+          }
+        ]
+      },
+      {
+        "category": "Risottos",
+        "items": [
+          {
+            "name": "Nero di Sepia",
+            "price": 4900,
+            "essential_ingredients": ["arroz", "tinta de sepia"],
+            "allergy_info": []
+          },
+          {
+            "name": "Funghi - Porcini y Trufa",
+            "price": 4560,
+            "essential_ingredients": ["arroz", "hongos porcini", "trufa"],
+            "allergy_info": []
+          },
+          {
+            "name": "Del Mar",
+            "price": 4560,
+            "essential_ingredients": ["arroz", "mariscos"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Carbonara Trufado",
+            "price": 4180,
+            "essential_ingredients": ["arroz", "tocino", "queso parmesano", "trufa"],
+            "allergy_info": ["lactosa"]
+          },
+          {
+            "name": "Sémola y Trufa",
+            "price": 4180,
+            "essential_ingredients": ["sémola", "trufa"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "De Nuestra Tierra",
+        "items": [
+          {
+            "name": "Masas de Cerdo Confitadas",
+            "price": 3800,
+            "essential_ingredients": ["cerdo", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Lechón Cubano",
+            "price": 4560,
+            "essential_ingredients": ["cerdo", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Ropa Vieja de la Abuela",
+            "price": 4180,
+            "essential_ingredients": ["carne de res", "salsa de tomate", "pimientos"],
+            "allergy_info": []
+          },
+          {
+            "name": "Picadillo a la Habanera",
+            "price": 4180,
+            "essential_ingredients": ["carne molida", "salsa de tomate", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Solomillo de Cerdo Español",
+            "price": 5320,
+            "essential_ingredients": ["solomillo de cerdo", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Puntas de Filete Estilo ChaChaChá",
+            "price": 7600,
+            "essential_ingredients": ["filete de res", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Arroz Thai de Pollo, Curry de Coco y Pasas",
+            "price": 4180,
+            "essential_ingredients": ["arroz", "pollo", "curry", "coco", "pasas"],
+            "allergy_info": []
+          },
+          {
+            "name": "Solomillo Argentino (280g)",
+            "price": 11150,
+            "essential_ingredients": ["solomillo de res", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Entrecote de Ternera (350g)",
+            "price": 10640,
+            "essential_ingredients": ["entrecote de ternera", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Puntas de Cerdo BBQ",
+            "price": 5320,
+            "essential_ingredients": ["cerdo", "salsa BBQ"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "De Nuestro Mar",
+        "items": [
+          {
+            "name": "Filete de Pescado al Horno con Finas Hierbas",
+            "price": 4180,
+            "essential_ingredients": ["pescado", "hierbas"],
+            "allergy_info": ["pescado"]
+          },
+          {
+            "name": "Langosta Caribeña",
+            "price": 6460,
+            "essential_ingredients": ["langosta", "especias"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Zarzuela de Mariscos",
+            "price": 10500,
+            "essential_ingredients": ["mariscos", "especias"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Camarones al Gusto",
+            "price": 6460,
+            "essential_ingredients": ["camarones", "especias"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Pulpo Nórdico",
+            "price": 9500,
+            "essential_ingredients": ["pulpo", "especias"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Calamar Patagónico",
+            "price": 6460,
+            "essential_ingredients": ["calamar", "especias"],
+            "allergy_info": ["mariscos"]
+          }
+        ]
+      },
+      {
+        "category": "Guarniciones",
+        "items": [
+          {
+            "name": "Vianda Frita",
+            "price": 760,
+            "essential_ingredients": ["vianda", "aceite"],
+            "allergy_info": []
+          },
+          {
+            "name": "Puré de Temporada",
+            "price": 1140,
+            "essential_ingredients": ["vegetales", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Ensalada de Estación",
+            "price": 1520,
+            "essential_ingredients": ["vegetales", "aderezo"],
+            "allergy_info": []
+          },
+          {
+            "name": "Arroz Blanco",
+            "price": 760,
+            "essential_ingredients": ["arroz"],
+            "allergy_info": []
+          },
+          {
+            "name": "Frijoles Negros",
+            "price": 1140,
+            "essential_ingredients": ["frijoles", "especias"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+        "category": "Sugerencias del Chef",
+        "items": [
+          {
+            "name": "Cóctel de Langosta",
+            "price": 2660,
+            "essential_ingredients": ["langosta", "salsa cóctel"],
+            "allergy_info": ["mariscos"]
+          },
+          {
+            "name": "Patacón ChaChaChá",
+            "price": 2700,
+            "essential_ingredients": ["plátano", "especias"],
+            "allergy_info": []
+          },
+          {
+            "name": "Quesadilla Cuatro Quesos",
+            "price": 3420,
+            "essential_ingredients": ["tortilla", "queso"],
+            "allergy_info": ["gluten", "lactosa"]
+          },
+          {
+            "name": "Papa Rellena de Camarón y Queso",
+            "price": 2700,
+            "essential_ingredients": ["papa", "camarón", "queso"],
+            "allergy_info": ["mariscos", "lactosa"]
+          },
+          {
+            "name": "Frituritas de Malanga",
+            "price": 2250,
+            "essential_ingredients": ["malanga", "aceite"],
+            "allergy_info": []
+          },
+          {
+            "name": "Tamal en Cazuela",
+            "price": 1900,
+            "essential_ingredients": ["maíz", "especias"],
+            "allergy_info": []
+          }
+        ]
+      },
+      {
+      "category": "Postres",
+                      "items": [
+                        {
+                          "name": "Brownie",
+                          "price": 3000,
+                          "essential_ingredients": ["chocolate", "harina", "huevos"],
+                          "allergy_info": ["gluten", "huevos"]
+                        },
+                        {
+                          "name": "Esfera de Frutas",
+                          "price": 3000,
+                          "essential_ingredients": ["frutas variadas"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Bizcocho",
+                          "price": 2900,
+                          "essential_ingredients": ["harina", "azúcar", "huevos"],
+                          "allergy_info": ["gluten", "huevos"]
+                        },
+                        {
+                          "name": "Arroz con Leche de la Abuela",
+                          "price": 2500,
+                          "essential_ingredients": ["arroz", "leche", "azúcar"],
+                          "allergy_info": ["lactosa"]
+                        },
+                        {
+                          "name": "Flan Tía Lola",
+                          "price": 2700,
+                          "essential_ingredients": ["huevos", "leche", "azúcar"],
+                          "allergy_info": ["lactosa", "huevos"]
+                        },
+                        {
+                          "name": "Copa de Helado",
+                          "price": 2200,
+                          "essential_ingredients": ["leche", "azúcar"],
+                          "allergy_info": ["lactosa"]
+                        },
+                        {
+                          "name": "Carajillo",
+                          "price": 1050,
+                          "essential_ingredients": ["café", "licor"],
+                          "allergy_info": ["alcohol"]
+                        },
+                        {
+                          "name": "Bombón",
+                          "price": 1200,
+                          "essential_ingredients": ["chocolate", "leche"],
+                          "allergy_info": ["lactosa"]
+                        }
+                      ]
+                    },
+                    {
+                      "category": "Infusiones",
+                      "items": [
+                        {
+                          "name": "Expresso",
+                          "price": 520,
+                          "essential_ingredients": ["café"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Nespresso",
+                          "price": 960,
+                          "essential_ingredients": ["café"],
+                          "allergy_info": []
+                        },
+                        {
+                          "name": "Cortado",
+                          "price": 875,
+                          "essential_ingredients": ["café", "leche"],
+                          "allergy_info": ["lactosa"]
+                        },
+                        {
+                          "name": "Frappuccino",
+                          "price": 2200,
+                          "essential_ingredients": ["café", "leche", "hielo", "azúcar"],
+                          "allergy_info": ["lactosa"]
+                        },
+                        {
+                          "name": "Té / Infusiones",
+                          "price": 620,
+                          "essential_ingredients": ["té"],
+                          "allergy_info": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+}

@@ -1,0 +1,882 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["bar-restaurante"]
+    },
+    "name": "Habana 5 Rooftop",
+    "cousine": ["Nacional e Internacional"],
+    "description": "Restaurante de Cocina Nacional e Internacional, coctelería de autor. Ofrecemos desayunos, almuerzos y cenas. Excelente vista a La Bahía de La Habana, música en vivo y ambientación.",
+    "contact_info": {
+      "phone": {
+        "number": "055519987",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "09:00",
+        "close": "02:00"
+      },
+      "tuesday": {
+        "open": "09:00",
+        "close": "02:00"
+      },
+      "wednesday": {
+        "open": "09:00",
+        "close": "02:00"
+      },
+      "thursday": {
+        "open": "09:00",
+        "close": "02:00"
+      },
+      "friday": {
+        "open": "09:00",
+        "close": "02:00"
+      },
+      "saturday": {
+        "open": "09:00",
+        "close": "02:00"
+      },
+      "sunday": {
+        "open": "09:00",
+        "close": "02:00"
+      }
+    },
+    "address": "Calle Habana entre Peña Pobre y Av. Bélgica, Habana Vieja",
+    "municipality": "Habana Vieja",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": ["Pagos digitales"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "10% service charge",
+      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": true,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": ["Restaurante", "Bar"],
+      "local_options": ["Desayunos", "Almuerzo", "Cena", "Postres"],
+      "services": ["Sanitario", "Tiene bar"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": ["Se aceptan reservas"],
+      "children": null,
+      "pets": true,
+      "parking": ["Aparcamiento en la calle", "Estacionamiento gratuito en la calle"]
+    },
+    "dietary_options": [],
+    "meals": ["Desayuno", "Comidas", "Cenas", "Brunch", "Abierto hasta tarde", "Bebidas"],
+    "advantages": ["Reservas", "Terraza exterior", "Restaurante privado", "Capacidad", "Sirve alcohol", "Vino y cerveza", "Servicio de mesa", "Música en directo", "Frente a una costa o ribera", "Admite perros", "Estilo familiar"],
+    "highlights": ["Asientos al aire libre", "Aperitivos", "Buenos cócteles", "Agradable", "Informal", "Recomendable para ir en grupo"]
+  },
+    "menu": {
+      "categories": [
+        {
+          "category": "Para Comenzar el Día",
+          "items": [
+            {
+              "name": "Bowl de frutas con yogurt, cereales y granola",
+              "price": 800.00,
+              "essential_ingredients": ["frutas", "yogurt", "cereales", "granola"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Bowl de frutas tropicales",
+              "price": 650.00,
+              "essential_ingredients": ["frutas tropicales"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Especialidades",
+          "items": [
+            {
+              "name": "Huevos benedictinos",
+              "price": 1500.00,
+              "essential_ingredients": ["huevos", "mantequilla", "jamón", "pan", "salsa holandesa"],
+              "allergy_info": ["gluten", "lactosa", "huevos"]
+            },
+            {
+              "name": "Omelette cuatro quesos",
+              "price": 1500.00,
+              "essential_ingredients": ["huevos", "queso cheddar", "queso mozzarella", "queso parmesano", "queso azul"],
+              "allergy_info": ["lactosa", "huevos"]
+            },
+            {
+              "name": "Huevos fritos",
+              "price": 1350.00,
+              "essential_ingredients": ["huevos", "aceite"],
+              "allergy_info": ["huevos"]
+            },
+            {
+              "name": "Huevos rancheros",
+              "price": 1350.00,
+              "essential_ingredients": ["huevos", "tortilla", "salsa", "queso"],
+              "allergy_info": ["gluten", "lactosa", "huevos"]
+            }
+          ]
+        },
+        {
+          "category": "El Toque Dulce",
+          "items": [
+            {
+              "name": "Tostadas francesas",
+              "price": 800.00,
+              "essential_ingredients": ["pan", "huevos", "leche", "azúcar"],
+              "allergy_info": ["gluten", "lactosa", "huevos"]
+            },
+            {
+              "name": "Crepes suzette",
+              "price": 850.00,
+              "essential_ingredients": ["harina", "huevos", "leche", "mantequilla", "azúcar"],
+              "allergy_info": ["gluten", "lactosa", "huevos"]
+            },
+            {
+              "name": "Hot cakes",
+              "price": 650.00,
+              "essential_ingredients": ["harina", "huevos", "leche", "azúcar"],
+              "allergy_info": ["gluten", "lactosa", "huevos"]
+            }
+          ]
+        },
+        {
+          "category": "Antojos Mañaneros",
+          "items": [
+            {
+              "name": "Pan bao con lechón y mojo criollo",
+              "price": 1350.00,
+              "essential_ingredients": ["pan bao", "lechón", "mojo criollo"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Sandwich del mar",
+              "price": 1500.00,
+              "essential_ingredients": ["pan", "pescado", "salsa tártara"],
+              "allergy_info": ["gluten", "pescado"]
+            },
+            {
+              "name": "Hamburguesa de langosta",
+              "price": 1500.00,
+              "essential_ingredients": ["pan", "langosta", "mayonesa"],
+              "allergy_info": ["gluten", "mariscos"]
+            },
+            {
+              "name": "Sandwich cubano",
+              "price": 1500.00,
+              "essential_ingredients": ["pan", "jamón", "queso", "pepino"],
+              "allergy_info": ["gluten", "lactosa"]
+            },
+            {
+              "name": "Baguette de punta de filete de res",
+              "price": 1350.00,
+              "essential_ingredients": ["baguette", "filete de res", "queso"],
+              "allergy_info": ["gluten", "lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Entrantes",
+          "items": [
+            {
+              "name": "Ceviche de pescado y pulpo en leche de tigre",
+              "price": 2100.00,
+              "essential_ingredients": ["pescado", "pulpo", "limón", "cilantro"],
+              "allergy_info": ["pescado", "mariscos"]
+            },
+            {
+              "name": "Tartar de albacora curada",
+              "price": 2500.00,
+              "essential_ingredients": ["albacora", "limón", "salsa de soya"],
+              "allergy_info": ["pescado", "soya"]
+            },
+            {
+              "name": "Enchilado de cangrejo sobre casabe",
+              "price": 1500.00,
+              "essential_ingredients": ["cangrejo", "salsa de tomate", "casabe"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Tacos de cerdo asado",
+              "price": 1800.00,
+              "essential_ingredients": ["tortilla", "cerdo", "salsa"],
+              "allergy_info": ["gluten"]
+            },
+            {
+              "name": "Croquetas del día",
+              "price": 1800.00,
+              "essential_ingredients": ["harina", "huevos", "pan rallado"],
+              "allergy_info": ["gluten", "huevos"]
+            },
+            {
+              "name": "Satay de punta de filete en salsa de maní",
+              "price": 2100.00,
+              "essential_ingredients": ["filete de res", "maní", "salsa"],
+              "allergy_info": ["frutos secos"]
+            },
+            {
+              "name": "Crema de maíz con enchilado de cangrejo",
+              "price": 1500.00,
+              "essential_ingredients": ["maíz", "cangrejo", "salsa de tomate"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Tiradito de robalo ahumado en ajo blanco de coco y maní con hueva de emperador curada",
+              "price": 1800.00,
+              "essential_ingredients": ["robalo", "ajo", "coco", "maní"],
+              "allergy_info": ["pescado", "frutos secos"]
+            },
+            {
+              "name": "Minuta de pescado sobre pan focaccia",
+              "price": 1800.00,
+              "essential_ingredients": ["pescado", "pan focaccia"],
+              "allergy_info": ["gluten", "pescado"]
+            },
+            {
+              "name": "Tacos de langosta",
+              "price": 2100.00,
+              "essential_ingredients": ["tortilla", "langosta", "salsa"],
+              "allergy_info": ["gluten", "mariscos"]
+            },
+            {
+              "name": "Pimientos piquillo rellenos con frutos del mar",
+              "price": 2100.00,
+              "essential_ingredients": ["pimientos piquillo", "frutos del mar"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Pollo satay",
+              "price": 1500.00,
+              "essential_ingredients": ["pollo", "salsa de maní"],
+              "allergy_info": ["frutos secos"]
+            },
+            {
+              "name": "Tabla surtida de quesos y embutidos",
+              "price": 3500.00,
+              "essential_ingredients": ["quesos", "embutidos"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        },
+        {
+          "category": "Ensaladas",
+          "items": [
+            {
+              "name": "Ensalada verde con queso de cabra fresco y vinagreta de maracuyá",
+              "price": 1500.00,
+              "essential_ingredients": ["lechuga", "queso de cabra", "vinagreta de maracuyá"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Ensalada de burrata y remolacha",
+              "price": 2800.00,
+              "essential_ingredients": ["burrata", "remolacha"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Salmorejo con crujiente de jamón serrano",
+              "price": 1500.00,
+              "essential_ingredients": ["tomate", "jamón serrano", "pan"],
+              "allergy_info": ["gluten"]
+            }
+          ]
+        },
+        {
+          "category": "Principales",
+          "items": [
+            {
+              "name": "Langosta a baja temperatura sobre risotto de almejas",
+              "price": 4200.00,
+              "essential_ingredients": ["langosta", "almejas", "arroz"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Pescado frito del día con salsa agridulce picante y tzatziki",
+              "price": 3500.00,
+              "essential_ingredients": ["pescado", "salsa agridulce picante", "tzatziki"],
+              "allergy_info": ["pescado", "lactosa"]
+            },
+            {
+              "name": "Camarones al pil pil",
+              "price": 4200.00,
+              "essential_ingredients": ["camarones", "ajo", "aceite de oliva"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Solomillo de res",
+              "price": 8500.00,
+              "essential_ingredients": ["solomillo de res"],
+              "allergy_info": []
+            },
+            {
+              "name": "Ropa vieja",
+              "price": 3000.00,
+              "essential_ingredients": ["carne de res", "salsa de tomate", "pimientos"],
+              "allergy_info": []
+            },
+            {
+              "name": "Filete de pescado al estilo del chef",
+              "price": 3000.00,
+              "essential_ingredients": ["filete de pescado", "especias"],
+              "allergy_info": ["pescado"]
+            },
+            {
+              "name": "Pulpo a la brasa",
+              "price": 4200.00,
+              "essential_ingredients": ["pulpo", "especias"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Costillas de cerdo y zanahorias a baja temperatura sobre humus",
+              "price": 3500.00,
+              "essential_ingredients": ["costillas de cerdo", "zanahorias", "humus"],
+              "allergy_info": []
+            },
+            {
+              "name": "Rib-eye",
+              "price": 12500.00,
+              "essential_ingredients": ["rib-eye"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Arroces",
+          "items": [
+            {
+              "name": "Arroz meloso del mar",
+              "price": 3500.00,
+              "essential_ingredients": ["arroz", "mariscos", "caldo"],
+              "allergy_info": ["mariscos"]
+            },
+            {
+              "name": "Risotto de calabaza y queso gorgonzola",
+              "price": 2500.00,
+              "essential_ingredients": ["arroz", "calabaza", "queso gorgonzola"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Arroz campesino",
+              "price": 3000.00,
+              "essential_ingredients": ["arroz", "vegetales", "especias"],
+              "allergy_info": []
+            },
+            {
+              "name": "Paella del día (2 pax)",
+              "price": 4200.00,
+              "essential_ingredients": ["arroz", "mariscos", "pollo"],
+              "allergy_info": ["mariscos", "pescado"]
+            }
+          ]
+        },
+        {
+          "category": "Postres",
+          "items": [
+            {
+              "name": "Sweet potato pudin crema cardamono",
+              "price": 1000.00,
+              "essential_ingredients": ["batata", "crema", "cardamomo"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Tiramisú",
+              "price": 1000.00,
+              "essential_ingredients": ["queso mascarpone", "café", "huevos", "azúcar"],
+              "allergy_info": ["lactosa", "huevos"]
+            },
+            {
+              "name": "Tarta de queso",
+              "price": 1250.00,
+              "essential_ingredients": ["queso crema", "huevos", "azúcar"],
+              "allergy_info": ["lactosa", "huevos"]
+            }
+          ]
+        },
+        {
+          "category": "Bebidas Alcohólicas",
+          "items": [
+            {
+              "name": "Habana cinco",
+              "price": 1750.00,
+              "essential_ingredients": ["ron", "limón", "azúcar"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Smoky canchänchara",
+              "price": 1750.00,
+              "essential_ingredients": ["ron", "miel", "limón"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Piña colada",
+              "price": 2100.00,
+              "essential_ingredients": ["ron", "piña", "coco"],
+              "allergy_info": ["alcohol", "lactosa"]
+            },
+            {
+              "name": "Spicy margarita",
+              "price": 2100.00,
+              "essential_ingredients": ["tequila", "limón", "triple sec", "chile"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Whiskey sour",
+              "price": 2100.00,
+              "essential_ingredients": ["whiskey", "limón", "azúcar"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Sangría blanca",
+              "price": 2450.00,
+              "essential_ingredients": ["vino blanco", "frutas"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "French 75",
+              "price": 2100.00,
+              "essential_ingredients": ["gin", "champán", "limón"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Cerveza",
+              "price": 1000.00,
+              "essential_ingredients": ["cebada", "lúpulo", "agua"],
+              "allergy_info": ["gluten", "alcohol"]
+            },
+            {
+              "name": "Copa de vino",
+              "price": 1400.00,
+              "essential_ingredients": ["vino"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Daiquirí Habana cinco",
+              "price": 1750.00,
+              "essential_ingredients": ["ron", "limón", "azúcar"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Deep caipirinha",
+              "price": 1750.00,
+              "essential_ingredients": ["cachaça", "limón", "azúcar"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Negroni frozzen",
+              "price": 2100.00,
+              "essential_ingredients": ["gin", "vermut", "Campari"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Bramble",
+              "price": 2100.00,
+              "essential_ingredients": ["gin", "limón", "zarzamoras"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Habana fashion",
+              "price": 2100.00,
+              "essential_ingredients": ["ron", "amargo de Angostura", "azúcar"],
+              "allergy_info": ["alcohol"]
+            },
+            {
+              "name": "Aperol spritz",
+              "price": 2500.00,
+              "essential_ingredients": ["Aperol", "prosecco", "agua con gas"],
+              "allergy_info": ["alcohol"]
+            },
+              {
+                "name": "Copa de cava",
+                "price": 1500.00,
+                "essential_ingredients": ["cava"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Champagne Moet & Chandon Imperial",
+                "price": 42000.00,
+                "essential_ingredients": ["champagne"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Marrugat selección",
+                "price": 7000.00,
+                "essential_ingredients": ["vino espumoso"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Champagne Pommery",
+                "price": 17500.00,
+                "essential_ingredients": ["champagne"],
+                "allergy_info": ["alcohol"]
+              },
+              {
+                "name": "Cava Gorner Brut",
+                "price": 7500.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Lambrusco dell Emilia",
+                "price": 5400.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Marrugat Imperial Brut",
+                "price": 7500.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Lunetta Prosecco Brut",
+                "price": 9000.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Melior 2021",
+                "price": 7500.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Marquéz de Casa Concha",
+                "price": 13500.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Peique Godello 2022",
+                "price": 8400.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Señorío de Rubiós Condado do Tea",
+                "price": 8400.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Heredad Peñalosa 2021",
+                "price": 7500.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Leira Reyero 2022",
+                "price": 7500.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Pazo Pondal",
+                "price": 10500.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Albariño Leira Pondal",
+                "price": 9000.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Señorío de Rubiós Albariño",
+                "price": 8400.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Paco Mulero",
+                "price": 8400.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Giró del Corner",
+                "price": 7500.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Pirovano Collezione Beatrice Garda",
+                "price": 5400.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Pirovano Garganega",
+                "price": 5400.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Casillero del Diablo Reserva 2020",
+                "price": 6000.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Peique Rosado 2022",
+                "price": 6000.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Casillero del Diablo Reserva 2019",
+                "price": 6000.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Pirovano Montepulciano d'Abruzzo",
+                "price": 5400.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Pirovano Nero d'Avola",
+                "price": 5400.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Viña Aldaia Crianza 2020",
+                "price": 6000.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Prisma Rioja 2021",
+                "price": 6000.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Prisma Calatayud 2021",
+                "price": 6000.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Las Cuadras",
+                "price": 6000.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Petit Sios",
+                "price": 6000.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Arzuaca Crianza",
+                "price": 12000.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Coronas Crianza 2018",
+                "price": 7500.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Puntes de Calnegre 2020",
+                "price": 7500.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Peique Ramón Valle 2020",
+                "price": 8400.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Gran Coronas",
+                "price": 10500.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Pago de los Capellanes 2021",
+                "price": 12000.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Muga Roja Crianza 2019",
+                "price": 15000.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Valduero Una Cepa 2018",
+                "price": 24000.00,
+                "essential_ingredients": ["uva", "azúcar", "levadura"],
+                "allergy_info": ["sulfitos"]
+              },
+              {
+                "name": "Prisma orgánico ecológico 2021",
+              "price": 6000.00,
+              "essential_ingredients": ["uva", "azúcar", "levadura"],
+              "allergy_info": ["sulfitos"]
+            },
+            {
+              "name": "Peique mencía 2022",
+              "price": 6000.00,
+              "essential_ingredients": ["uva", "azúcar", "levadura"],
+              "allergy_info": ["sulfitos"]
+            },
+            {
+              "name": "Alto sios 2020",
+              "price": 6000.00,
+              "essential_ingredients": ["uva", "azúcar", "levadura"],
+              "allergy_info": ["sulfitos"]
+            },
+            {
+              "name": "Heredad peñalosa roble 2021",
+              "price": 7500.00,
+              "essential_ingredients": ["uva", "azúcar", "levadura"],
+              "allergy_info": ["sulfitos"]
+            },
+            {
+              "name": "Rectoral de amandi",
+              "price": 7500.00,
+              "essential_ingredients": ["uva", "azúcar", "levadura"],
+              "allergy_info": ["sulfitos"]
+            },
+            {
+              "name": "Melior 2021",
+              "price": 7500.00,
+              "essential_ingredients": ["uva", "azúcar", "levadura"],
+              "allergy_info": ["sulfitos"]
+            },
+            {
+              "name": "Sangre de toro",
+              "price": 7500.00,
+              "essential_ingredients": ["uva", "azúcar", "levadura"],
+              "allergy_info": ["sulfitos"]
+            },
+            {
+              "name": "Altos ibéricos crianza 2017",
+              "price": 9000.00,
+              "essential_ingredients": ["uva", "azúcar", "levadura"],
+              "allergy_info": ["sulfitos"]
+            },
+            {
+              "name": "Selección torres celeste crianza",
+              "price": 12000.00,
+              "essential_ingredients": ["uva", "azúcar", "levadura"],
+              "allergy_info": ["sulfitos"]
+            },
+            {
+              "name": "Marquez de murrieta reserva 2017",
+              "price": 15000.00,
+              "essential_ingredients": ["uva", "azúcar", "levadura"],
+              "allergy_info": ["sulfitos"]
+            },
+            {
+              "name": "Matarromera crianza",
+              "price": 18000.00,
+              "essential_ingredients": ["uva", "azúcar", "levadura"],
+              "allergy_info": ["sulfitos"]
+              }
+            ]
+          },
+          {
+          "category": "Bebidas No Alcohólicas",
+          "items": [
+            {
+              "name": "Agua gaseada importada",
+              "price": 750.00,
+              "essential_ingredients": ["agua carbonatada"],
+              "allergy_info": []
+            },
+            {
+              "name": "Refrescos importados",
+              "price": 900.00,
+              "essential_ingredients": ["agua carbonatada", "azúcar", "aroma"],
+              "allergy_info": []
+            },
+            {
+              "name": "Iced tea lemonade (sin alcohol)",
+              "price": 1400.00,
+              "essential_ingredients": ["té", "limón", "azúcar"],
+              "allergy_info": []
+            },
+            {
+              "name": "Agua natural",
+              "price": 700.00,
+              "essential_ingredients": ["agua"],
+              "allergy_info": []
+            },
+            {
+              "name": "Agua tónica importada",
+              "price": 900.00,
+              "essential_ingredients": ["agua carbonatada", "quinina"],
+              "allergy_info": []
+            },
+            {
+              "name": "Jugos naturales",
+              "price": 750.00,
+              "essential_ingredients": ["frutas", "agua"],
+              "allergy_info": []
+            }
+          ]
+        },
+        {
+          "category": "Infusiones",
+          "items": [
+            {
+              "name": "Café espresso",
+              "price": 250.00,
+              "essential_ingredients": ["café"],
+              "allergy_info": []
+            },
+            {
+              "name": "Café americano",
+              "price": 250.00,
+              "essential_ingredients": ["café", "agua"],
+              "allergy_info": []
+            },
+            {
+              "name": "Frapuccino",
+              "price": 500.00,
+              "essential_ingredients": ["café", "leche", "hielo", "azúcar"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Café cortado",
+              "price": 350.00,
+              "essential_ingredients": ["café", "leche"],
+              "allergy_info": ["lactosa"]
+            },
+            {
+              "name": "Café capuccino",
+              "price": 500.00,
+              "essential_ingredients": ["café", "leche", "espuma de leche"],
+              "allergy_info": ["lactosa"]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
