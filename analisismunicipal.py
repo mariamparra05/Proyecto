@@ -1,5 +1,4 @@
 import pandas as pd
-
 # Aquí filtro los datos del DataFrame por el municipio que estoy analizando. Para asegurarme de que todas las funciones trabajen solo con los datos adecuados
 def filtrar_por_municipio(df, municipio):
     if 'Municipio' not in df.columns:
@@ -31,15 +30,6 @@ def total_categorias(df, municipio):
         return 0
     return municipio_df['Categoría'].nunique()
 
-# Calculo qué porcentaje de los restaurantes ofrece servicio a domicilio. Esto es útil para entender la accesibilidad de los servicios en el municipio
-def porcentaje_delivery(df, municipio):
-    municipio_df = filtrar_por_municipio(df, municipio)
-    if 'Delivery Disponible' not in municipio_df.columns:
-        print("Error: La columna 'Delivery Disponible' no está en el DataFrame.")
-        return 0
-    total_restaurantes = municipio_df['Nombre'].nunique()
-    restaurantes_delivery = municipio_df[municipio_df['Delivery Disponible'] == 'Sí']['Nombre'].nunique()
-    return (restaurantes_delivery / total_restaurantes) * 100 if total_restaurantes > 0 else 0
 
 # Busco cuál es el plato más pedido o más común en el municipio. Esto da una idea de las preferencias de los clientes
 def plato_mas_comun(df, municipio):
@@ -67,16 +57,6 @@ def ingredientes_mas_comunes(df, municipio):
         return ingredientes.mode().iloc[0]
     except (KeyError, IndexError):
         print("No se pudieron identificar los ingredientes más comunes.")
-        return None
-
-# Busco cuáles son las alergias más comunes en los menús. Esto es importante para entender las precauciones que deben tomar los establecimientos
-def alergias_mas_frecuentes(df, municipio):
-    try:
-        municipio_df = filtrar_por_municipio(df, municipio)
-        alergias = municipio_df['Alergias'].str.split(', ', expand=True).stack()
-        return alergias.mode().iloc[0]
-    except (KeyError, IndexError):
-        print("No se pudieron identificar las alergias más frecuentes.")
         return None
 
 # Obtengo la moda de los precios de los platos en el municipio. Para tener una idea del precio más común en los menús
